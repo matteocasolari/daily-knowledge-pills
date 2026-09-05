@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f5ef">
+  <meta name="description" content="My reading notebook. Three short reminders from books I’ve read, revisited each day.">
+  <title>Daily Knowledge Pills — My reading notebook</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="shell">
+    <header class="site-header">
+      <a class="brand" href="#today" aria-label="Daily Knowledge Pills home"><svg viewBox="0 0 32 32" aria-hidden="true"><g transform="rotate(-40 16 16)"><rect x="9" y="3" width="14" height="26" rx="7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M9 16h14v6a7 7 0 0 1-14 0z" fill="currentColor"/></g></svg>daily knowledge pills<span class="brand-dot">.</span></a>
+      <nav aria-label="Main navigation">
+        <a href="#today" data-view="today" aria-current="page">Today</a>
+        <a href="#saved" data-view="saved">Saved <span id="saved-count" class="nav-count">0</span></a>
+        <a href="#library" data-view="library">My library</a>
+      </nav>
+      <span class="header-note">MY READING NOTEBOOK</span>
+    </header>
+    <main id="main" tabindex="-1">
+      <section class="hero" id="today-hero" aria-labelledby="hero-title">
+        <div>
+          <p class="eyebrow"><span class="tiny-sun">✳</span> BACK TO MY NOTES</p>
+          <h1 id="hero-title">Notes to<br>my <em>future self.</em></h1>
+          <p class="hero-copy">Three ideas from books I’ve read. <br>A few minutes to remember what stayed with me.</p>
+        </div>
+        <div class="book-art" aria-hidden="true">
+          <svg viewBox="0 0 340 235" fill="none">
+            <path d="M38 202c63-8 160-7 263 0" stroke="#d5cfc0" stroke-width="1.3"/>
+            <g transform="rotate(-7 170 176)"><path d="M67 154h202v40H67c-18 0-18-40 0-40Z" fill="#d9dfd1" stroke="#495747" stroke-width="1.4"/><path d="M73 160h191v28H73c-12 0-12-28 0-28Z" fill="#f7f5ef" stroke="#495747" stroke-width="1.2"/><path d="M82 169h174M79 175h172M84 181h171" stroke="#b6bbaa" stroke-width=".8"/><path d="M264 155v39" stroke="#495747" stroke-width="2"/></g>
+            <g transform="rotate(5 172 137)"><path d="M64 116h215c13 0 13 37 0 37H64Z" fill="#b96247" stroke="#794a39" stroke-width="1.4"/><path d="M68 121h207c9 0 9 26 0 26H68Z" fill="#f5eddd" stroke="#794a39" stroke-width="1.1"/><path d="M78 129h193M76 135h198M78 141h190" stroke="#c9bba4" stroke-width=".8"/><path d="M102 116v37" stroke="#794a39"/><path d="M231 122v49l-8-6-8 6v-49" fill="#dba756" stroke="#987441" stroke-width=".8"/></g>
+            <g transform="rotate(-9 171 91)"><path d="M95 77c30-9 52-6 78 4 25-10 50-13 79-4l-9 40c-23-5-46-3-70 5-24-8-47-10-70-5Z" fill="#e9dfcb" stroke="#796e57" stroke-width="1.4"/><path d="M91 72c29-10 57-8 82 5 25-13 53-15 83-5l-10 39c-26-6-50-3-73 7-24-10-47-13-72-7Z" fill="#fffdf7" stroke="#796e57" stroke-width="1.4"/><path d="M173 77v40M106 82c18-4 37-2 54 5M108 89c17-3 35-1 50 5M110 96c14-2 31 0 46 5M188 86c18-6 34-8 53-4M189 94c17-5 31-7 49-4M190 101c16-4 30-6 45-3" stroke="#c0b598" stroke-width="1"/></g>
+            <path d="M170 28v15m-7-7h14M281 66v12m-6-6h12M59 101v8m-4-4h8" stroke="#ad634a" stroke-width="1.4" stroke-linecap="round"/>
+            <path d="m217 38-5 9m-90-14 4 9M276 102l8-3" stroke="#a39b83" stroke-width="1.4" stroke-linecap="round"/>
+          </svg>
+          <span>From my bookshelf, with time.</span>
+        </div>
+      </section>
+      <section id="collection-hero" class="collection-hero" hidden>
+        <p class="eyebrow" id="collection-eyebrow">MY SAVED NOTES</p>
+        <h1 id="collection-title">Worth coming back to.</h1>
+        <p id="collection-description" class="hero-copy"></p>
+      </section>
+      <div id="storage-warning" class="notice" hidden>Browser storage is unavailable. Saved pills and reading progress will last for this visit only.</div>
+      <section aria-labelledby="section-title" class="reading-section">
+        <div class="section-heading">
+          <div><p class="eyebrow date-label" id="date-label"></p><h2 id="section-title">Today’s reminders</h2></div>
+          <div id="daily-meta" class="daily-meta"><span id="read-time"></span><span class="meta-divider"></span><span id="progress-label">0 of 3 read</span><span id="progress-dots" class="progress-dots" aria-hidden="true"></span></div>
+          <p id="result-count" class="result-count" role="status" hidden></p>
+        </div>
+        <div id="filters" class="filters" hidden>
+          <label class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span class="sr-only">Search concepts, books, or authors</span><input id="search" type="search" placeholder="Find a concept, book, or author…" autocomplete="off"></label>
+          <label class="topic-field"><span class="sr-only">Filter by topic</span><select id="topic"><option value="">All topics</option></select></label>
+        </div>
+        <div id="cards" class="cards"><p class="loading" role="status">Opening my notebook…</p></div>
+        <div id="completion" class="completion" hidden><span aria-hidden="true">✳</span><div><h3>That’s enough for today.</h3><p>One idea to carry into the day. Three more tomorrow.</p></div></div>
+        <div id="daily-footnote" class="daily-footnote"><span><span class="small-dot"></span> Three reminders a day. A new set at local midnight.</span><a href="#library">Open my library <span aria-hidden="true">↗</span></a></div>
+      </section>
+      <noscript><p class="notice">This notebook needs JavaScript to select the daily reminders. Enable it and reload the page.</p></noscript>
+    </main>
+    <footer class="site-footer"><span>Collected over time. Revisited daily.</span><div><span id="library-stats"></span><button id="about-button" class="text-button">About this notebook <span aria-hidden="true">↗</span></button></div></footer>
+  </div>
+  <div id="announcement" class="sr-only" role="status" aria-live="polite"></div>
+  <dialog id="about-dialog" aria-labelledby="about-title"><div class="dialog-heading"><p class="eyebrow">MY BOOKS, MY NOTES</p><button id="close-about" class="icon-button" aria-label="Close explanation">×</button></div><h2 id="about-title">A place to return to.</h2><p>I’ve kept notes from years of reading. This is a small way to revisit them: three concepts from three of my books each day, mostly nonfiction, with the occasional idea from a novel.</p><p>Each reminder pairs an excerpt from my notes with a short refresher. The daily set stays under 330 words. The extra links are there for days when I feel like following a thought further.</p><p>My notes mix copied passages and personal summaries. “From my notes” keeps the wording I saved, including typos. The short refresher is added context, separate from the excerpt; the excerpt has not been checked against a published edition.</p><p id="coverage-note"></p><p>My saved ideas and reading progress stay in this browser. They don’t sync between devices.</p><button class="primary-button" id="about-done">Back to my books</button></dialog>
+</body>
+</html>

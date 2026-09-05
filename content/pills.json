@@ -1,0 +1,3193 @@
+[
+  {
+    "id": "atomic-habits-systems-over-goals",
+    "bookId": "atomic-habits",
+    "book": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "topic": "Habits",
+    "concept": "Systems over goals",
+    "quote": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "refresher": "A goal names the destination; a system determines what happens on an ordinary Tuesday. Improve the recurring action that produces the result.",
+    "source": {
+      "file": "Clear J. - Atomic Habits.docx",
+      "paragraph": 7
+    },
+    "links": [
+      {
+        "title": "BJ Fogg · How motivation, ability, and prompts shape habits",
+        "url": "https://www.behaviormodel.org/"
+      },
+      {
+        "title": "James Clear · Goals and systems",
+        "url": "https://jamesclear.com/goals-systems"
+      }
+    ]
+  },
+  {
+    "id": "atomic-habits-identity-follows-repetition",
+    "bookId": "atomic-habits",
+    "book": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "topic": "Habits",
+    "concept": "Identity follows repetition",
+    "quote": "Your identity emerges out of your habits. Every belief is learned and conditioned through experience.",
+    "refresher": "Small actions give you evidence for the person you want to become. Let one repeatable behavior reinforce that identity today.",
+    "source": {
+      "file": "Clear J. - Atomic Habits.docx",
+      "paragraph": 12
+    },
+    "links": [
+      {
+        "title": "Lally and colleagues · How habits form (research abstract)",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674"
+      },
+      {
+        "title": "James Clear · Goals and systems",
+        "url": "https://jamesclear.com/goals-systems"
+      }
+    ]
+  },
+  {
+    "id": "atomic-habits-habit-stacking",
+    "bookId": "atomic-habits",
+    "book": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "topic": "Habits",
+    "concept": "Habit stacking",
+    "quote": "Habit stacking: identify a current habit you already do each day and then stack your new behavior on top.",
+    "refresher": "Attach a new behavior to a reliable cue you already have: after making coffee, read one page. The existing routine supplies the reminder.",
+    "source": {
+      "file": "Clear J. - Atomic Habits.docx",
+      "paragraph": 23
+    },
+    "links": [
+      {
+        "title": "BJ Fogg · How motivation, ability, and prompts shape habits",
+        "url": "https://www.behaviormodel.org/"
+      },
+      {
+        "title": "James Clear · Goals and systems",
+        "url": "https://jamesclear.com/goals-systems"
+      }
+    ]
+  },
+  {
+    "id": "atomic-habits-the-two-minute-rule",
+    "bookId": "atomic-habits",
+    "book": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "topic": "Habits",
+    "concept": "The two-minute rule",
+    "quote": "When you start a new habit, it should take less than two minutes to do. Scale it down (e.g. “Run three miles” becomes “Tie my running shoes”)",
+    "refresher": "Shrink the entrance to a habit until starting feels easy. You are practicing showing up before you increase the difficulty.",
+    "source": {
+      "file": "Clear J. - Atomic Habits.docx",
+      "paragraph": 47
+    },
+    "links": [
+      {
+        "title": "BJ Fogg · How motivation, ability, and prompts shape habits",
+        "url": "https://www.behaviormodel.org/"
+      },
+      {
+        "title": "James Clear · Goals and systems",
+        "url": "https://jamesclear.com/goals-systems"
+      }
+    ]
+  },
+  {
+    "id": "atomic-habits-never-miss-twice",
+    "bookId": "atomic-habits",
+    "book": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "topic": "Habits",
+    "concept": "Never miss twice",
+    "quote": "A simple rule: never miss twice. Missing once is an accident. Missing twice is the start of a new habit.",
+    "refresher": "One missed day need not become a new pattern. Make the next repetition small enough to restart without a dramatic comeback.",
+    "source": {
+      "file": "Clear J. - Atomic Habits.docx",
+      "paragraph": 54
+    },
+    "links": [
+      {
+        "title": "Lally and colleagues · How habits form (research abstract)",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674"
+      },
+      {
+        "title": "James Clear · Goals and systems",
+        "url": "https://jamesclear.com/goals-systems"
+      }
+    ]
+  },
+  {
+    "id": "atomic-habits-reduce-the-friction",
+    "bookId": "atomic-habits",
+    "book": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "topic": "Habits",
+    "concept": "Reduce the friction",
+    "quote": "Create an environment where doing the right thing is as easy as possible.",
+    "refresher": "Arrange your surroundings so the useful action takes fewer steps. Put the book where your hand would otherwise find your phone.",
+    "source": {
+      "file": "Clear J. - Atomic Habits.docx",
+      "paragraph": 45
+    },
+    "links": [
+      {
+        "title": "BJ Fogg · How motivation, ability, and prompts shape habits",
+        "url": "https://www.behaviormodel.org/"
+      },
+      {
+        "title": "James Clear · Goals and systems",
+        "url": "https://jamesclear.com/goals-systems"
+      }
+    ]
+  },
+  {
+    "id": "deep-work-attention-residue",
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "topic": "Focus",
+    "concept": "Attention residue",
+    "quote": "When you switch from some Task A to another Task B, your attention doesn't immediately follow - a residue of your attention remains stuck thinking about the original task.",
+    "refresher": "Switching tasks has a hidden cost: some attention remains with the previous one. Batch interruptions and give demanding work an uninterrupted stretch.",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 10
+    },
+    "links": [
+      {
+        "title": "University of Washington · A plan for returning to interrupted work",
+        "url": "https://www.washington.edu/news/2018/01/16/task-interrupted-a-plan-for-returning-helps-you-move-on/"
+      },
+      {
+        "title": "Cal Newport · On deep breaks",
+        "url": "https://calnewport.com/on-deep-breaks/"
+      }
+    ]
+  },
+  {
+    "id": "deep-work-busyness-is-a-misleading-signal",
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "topic": "Focus",
+    "concept": "Busyness is a misleading signal",
+    "quote": "Busyness as a Proxy for Productivity: In the absence of clear indicators of what it means to be productive and valuable in their jobs, many knowledge workers turn back toward an industrial indicator of productivity: doing lots of stuff in a visible manner.",
+    "refresher": "Visible activity can substitute for useful output. Before filling the day, name the concrete result that would make it worthwhile.",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 18
+    },
+    "links": [
+      {
+        "title": "Paul Graham · Maker’s schedule, manager’s schedule",
+        "url": "https://www.paulgraham.com/makersschedule.html"
+      },
+      {
+        "title": "Cal Newport · On deep breaks",
+        "url": "https://calnewport.com/on-deep-breaks/"
+      }
+    ]
+  },
+  {
+    "id": "deep-work-protect-your-depth",
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "topic": "Focus",
+    "concept": "Protect your depth",
+    "quote": "Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.",
+    "refresher": "Deep work stretches a valuable skill without distraction. Reserve a specific block for one demanding task, with a clear stopping point.",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 3
+    },
+    "links": [
+      {
+        "title": "Paul Graham · Maker’s schedule, manager’s schedule",
+        "url": "https://www.paulgraham.com/makersschedule.html"
+      },
+      {
+        "title": "Cal Newport · On deep breaks",
+        "url": "https://calnewport.com/on-deep-breaks/"
+      }
+    ]
+  },
+  {
+    "id": "deep-work-a-shutdown-ritual",
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "topic": "Focus",
+    "concept": "A shutdown ritual",
+    "quote": "Shutdown ritual to use at the end of workday: take a final look at email inbox, transfer new tasks in your mind or scribbled down into an official task list, skim every task in every list, look at the next few days on calendar and at the end make a rough plan for the next day.",
+    "refresher": "Close the working day by capturing open loops and sketching tomorrow. A trusted plan makes it easier to stop rehearsing unfinished tasks.",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 40
+    },
+    "links": [
+      {
+        "title": "University of Washington · A plan for returning to interrupted work",
+        "url": "https://www.washington.edu/news/2018/01/16/task-interrupted-a-plan-for-returning-helps-you-move-on/"
+      },
+      {
+        "title": "Cal Newport · On deep breaks",
+        "url": "https://calnewport.com/on-deep-breaks/"
+      }
+    ]
+  },
+  {
+    "id": "the-mom-test-questions-can-contaminate-evidence",
+    "bookId": "the-mom-test",
+    "book": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Questions can contaminate evidence",
+    "quote": "Every question we ask carries the very real possibility of biasing the person we're talking to and rendering the whole exercise pointless.",
+    "refresher": "A leading question can manufacture the answer you wanted. Ask about a specific past experience before introducing your proposed solution.",
+    "source": {
+      "file": "Fitzpatrick R. - The Mom Test.docx",
+      "paragraph": 2
+    },
+    "links": [
+      {
+        "title": "GOV.UK · Asking useful questions in user interviews",
+        "url": "https://www.gov.uk/service-manual/user-research/using-in-depth-interviews"
+      },
+      {
+        "title": "Rob Fitzpatrick · The Mom Test",
+        "url": "https://www.momtestbook.com/"
+      }
+    ]
+  },
+  {
+    "id": "the-mom-test-facts-beat-compliments",
+    "bookId": "the-mom-test",
+    "book": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Facts beat compliments",
+    "quote": "The measure of usefulness of an early customer conversation is whether it gives us concrete facts about our customers' lives and world views. These facts, in turn, help us improve our business.",
+    "refresher": "A useful conversation changes what you know about someone’s actual life. Enthusiasm about an idea is weaker evidence than concrete behavior.",
+    "source": {
+      "file": "Fitzpatrick R. - The Mom Test.docx",
+      "paragraph": 6
+    },
+    "links": [
+      {
+        "title": "GOV.UK · Asking useful questions in user interviews",
+        "url": "https://www.gov.uk/service-manual/user-research/using-in-depth-interviews"
+      },
+      {
+        "title": "Rob Fitzpatrick · The Mom Test",
+        "url": "https://www.momtestbook.com/"
+      }
+    ]
+  },
+  {
+    "id": "the-mom-test-understand-the-problem-first",
+    "bookId": "the-mom-test",
+    "book": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Understand the problem first",
+    "quote": "Rule of thumb: People know what their problems are, but they don't know how to solve those problems.",
+    "refresher": "Treat a requested feature as a clue. Ask what the person is trying to accomplish and what makes their current approach frustrating.",
+    "source": {
+      "file": "Fitzpatrick R. - The Mom Test.docx",
+      "paragraph": 21
+    },
+    "links": [
+      {
+        "title": "GOV.UK · Learning about people and their needs",
+        "url": "https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs"
+      },
+      {
+        "title": "Rob Fitzpatrick · The Mom Test",
+        "url": "https://www.momtestbook.com/"
+      }
+    ]
+  },
+  {
+    "id": "the-mom-test-observe-the-workflow",
+    "bookId": "the-mom-test",
+    "book": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Observe the workflow",
+    "quote": "Rule of thumb: Watching someone do a task will show you where the problems and inefficiencies really are, not where the customer thinks they are.",
+    "refresher": "Watching a task reveals workarounds people forget to mention. Ask someone to show you their process, then notice where they hesitate.",
+    "source": {
+      "file": "Fitzpatrick R. - The Mom Test.docx",
+      "paragraph": 27
+    },
+    "links": [
+      {
+        "title": "GOV.UK · Observing people in their everyday context",
+        "url": "https://www.gov.uk/service-manual/user-research/contextual-research-and-observation"
+      },
+      {
+        "title": "Rob Fitzpatrick · The Mom Test",
+        "url": "https://www.momtestbook.com/"
+      }
+    ]
+  },
+  {
+    "id": "the-e-myth-revisited-the-technician-s-trap",
+    "bookId": "the-e-myth-revisited",
+    "book": "The E-Myth Revisited",
+    "author": "Michael E. Gerber",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "The technician’s trap",
+    "quote": "That Fatal Assumption is; if you understand the technical work of a business, you understand a business that does that technical work.",
+    "refresher": "Being excellent at the craft does not automatically teach you sales, operations, or management. Treat running the business as a separate skill to learn.",
+    "source": {
+      "file": "Gerber M. - The E-myth Revisited.docx",
+      "paragraph": 14
+    },
+    "links": [
+      {
+        "title": "Center for Creative Leadership · Learning to delegate",
+        "url": "https://www.ccl.org/articles/leading-effectively-articles/delegating-beyond-getting-it-off-your-desk/"
+      },
+      {
+        "title": "EMyth · The three business personalities",
+        "url": "https://www.emyth.com/inside/the-three-business-personalities-entrepreneur-manager-technician"
+      }
+    ]
+  },
+  {
+    "id": "the-e-myth-revisited-three-roles-one-owner",
+    "bookId": "the-e-myth-revisited",
+    "book": "The E-Myth Revisited",
+    "author": "Michael E. Gerber",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Three roles, one owner",
+    "quote": "The problem is that everybody who goes into business is actually three- people-in-one: The Entrepreneur, The Manager, and The Technician.",
+    "refresher": "Making the product, organizing the work, and imagining the future are different jobs. Notice which role is taking all your time.",
+    "source": {
+      "file": "Gerber M. - The E-myth Revisited.docx",
+      "paragraph": 17
+    },
+    "links": [
+      {
+        "title": "Atlassian · Clarifying roles and responsibilities",
+        "url": "https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities"
+      },
+      {
+        "title": "EMyth · The three business personalities",
+        "url": "https://www.emyth.com/inside/the-three-business-personalities-entrepreneur-manager-technician"
+      }
+    ]
+  },
+  {
+    "id": "the-e-myth-revisited-protect-the-work-you-love",
+    "bookId": "the-e-myth-revisited",
+    "book": "The E-Myth Revisited",
+    "author": "Michael E. Gerber",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Protect the work you love",
+    "quote": "The technician suffering from an Entrepreneurial Seizure takes the work he loves to do and turs it into a job, The work that was born out of love becomes a chore, among a welter of other less familiar and less pleasant chores.",
+    "refresher": "A business can bury its original craft beneath operational chores. Build repeatable processes around those chores so the craft has room to survive.",
+    "source": {
+      "file": "Gerber M. - The E-myth Revisited.docx",
+      "paragraph": 16
+    },
+    "links": [
+      {
+        "title": "Google SRE · Eliminating repetitive operational work",
+        "url": "https://sre.google/sre-book/eliminating-toil/"
+      },
+      {
+        "title": "EMyth · The three business personalities",
+        "url": "https://www.emyth.com/inside/the-three-business-personalities-entrepreneur-manager-technician"
+      }
+    ]
+  },
+  {
+    "id": "influence-the-pull-of-reciprocity",
+    "bookId": "influence",
+    "book": "Influence",
+    "author": "Robert B. Cialdini",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "The pull of reciprocity",
+    "quote": "The rule of reciprocation says that we should try to repay, in kind, what another person has provided us. There is no human society that does not subscribe to the rule.",
+    "refresher": "Receiving something can create a felt obligation to return it. Appreciate a favor while evaluating any later request on its own merits.",
+    "source": {
+      "file": "Influence notes.html",
+      "paragraph": 9
+    },
+    "links": [
+      {
+        "title": "Robert Levine · Why persuasion works",
+        "url": "https://nobaproject.com/textbooks/mark-knapp-together-the-science-of-social-psychology/modules/persuasion-so-easily-fooled"
+      },
+      {
+        "title": "Robert Cialdini · Principles of persuasion",
+        "url": "https://www.influenceatwork.com/7-principles-of-persuasion/"
+      }
+    ]
+  },
+  {
+    "id": "influence-the-consistency-trap",
+    "bookId": "influence",
+    "book": "Influence",
+    "author": "Robert B. Cialdini",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "The consistency trap",
+    "quote": "We are nearly obsessed by the desire to be or to appear consistent with what we have already done. Once we have made a choice or taken a stand, we will encounter personal and interpersonal pressures to behave consistently with that commitment.",
+    "refresher": "A past commitment can pressure you to keep going after the evidence changes. Ask whether you would make the same choice starting fresh.",
+    "source": {
+      "file": "Influence notes.html",
+      "paragraph": 20
+    },
+    "links": [
+      {
+        "title": "Robert Levine · Why persuasion works",
+        "url": "https://nobaproject.com/textbooks/mark-knapp-together-the-science-of-social-psychology/modules/persuasion-so-easily-fooled"
+      },
+      {
+        "title": "Robert Cialdini · Principles of persuasion",
+        "url": "https://www.influenceatwork.com/7-principles-of-persuasion/"
+      }
+    ]
+  },
+  {
+    "id": "influence-the-contrast-effect",
+    "bookId": "influence",
+    "book": "Influence",
+    "author": "Robert B. Cialdini",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "The contrast effect",
+    "quote": "IF two things are presented one after another, if the second item is fairly different from the first, we will tend to see it as more different than it actually is. That works and it's virtually undetectable.",
+    "refresher": "What you encounter first can distort how the next option feels. Compare alternatives against your actual requirements, not just against each other.",
+    "source": {
+      "file": "Influence notes.html",
+      "paragraph": 5
+    },
+    "links": [
+      {
+        "title": "Harvard Program on Negotiation · Framing and the contrast effect",
+        "url": "https://www.pon.harvard.edu/daily/business-negotiations/framing-in-negotiation/"
+      },
+      {
+        "title": "Robert Cialdini · Principles of persuasion",
+        "url": "https://www.influenceatwork.com/7-principles-of-persuasion/"
+      }
+    ]
+  },
+  {
+    "id": "never-split-the-difference-listen-before-you-argue",
+    "bookId": "never-split-the-difference",
+    "book": "Never Split the Difference",
+    "author": "Chris Voss with Tahl Raz",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Listen before you argue",
+    "quote": "Instead of prioritizing your argument, make your sole focus on the other person and what they have to say.",
+    "refresher": "Preparing your rebuttal competes with understanding. Give the other person enough room to explain what matters before presenting your own case.",
+    "source": {
+      "file": "Never split the difference notes.html",
+      "paragraph": 3
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Active listening exercise",
+        "url": "https://ggia.berkeley.edu/practice/active_listening"
+      },
+      {
+        "title": "The Black Swan Group · Tactical empathy",
+        "url": "https://www.blackswanltd.com/newsletter/what-you-need-to-know-about-tactical-empathy"
+      }
+    ]
+  },
+  {
+    "id": "never-split-the-difference-name-the-feeling",
+    "bookId": "never-split-the-difference",
+    "book": "Never Split the Difference",
+    "author": "Chris Voss with Tahl Raz",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Name the feeling",
+    "quote": "After using tactical empathy to understand the emotions of the other part, you label them translating them into words and then very calmly and respectfully repeating it back to the other side.",
+    "refresher": "Offer a tentative label such as “It sounds like timing is the concern.” Leave space for correction; the point is understanding, not diagnosing.",
+    "source": {
+      "file": "Never split the difference notes.html",
+      "paragraph": 17
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Active listening exercise",
+        "url": "https://ggia.berkeley.edu/practice/active_listening"
+      },
+      {
+        "title": "The Black Swan Group · Tactical empathy",
+        "url": "https://www.blackswanltd.com/newsletter/what-you-need-to-know-about-tactical-empathy"
+      }
+    ]
+  },
+  {
+    "id": "never-split-the-difference-summarize-for-understanding",
+    "bookId": "never-split-the-difference",
+    "book": "Never Split the Difference",
+    "author": "Chris Voss with Tahl Raz",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Summarize for understanding",
+    "quote": "Trigger “That’s right” with a summary: paraphrasing + labeling. It’s a stronger version of labeling.",
+    "refresher": "Combine what happened with why it matters to the other person. Check whether they recognize their perspective in your summary before proposing a solution.",
+    "source": {
+      "file": "Never split the difference notes.html",
+      "paragraph": 32
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Active listening exercise",
+        "url": "https://ggia.berkeley.edu/practice/active_listening"
+      },
+      {
+        "title": "The Black Swan Group · Tactical empathy",
+        "url": "https://www.blackswanltd.com/newsletter/what-you-need-to-know-about-tactical-empathy"
+      }
+    ]
+  },
+  {
+    "id": "storytelling-with-data-sometimes-the-number-is-enough",
+    "bookId": "storytelling-with-data",
+    "book": "Storytelling with Data",
+    "author": "Cole Nussbaumer Knaflic",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Sometimes the number is enough",
+    "quote": "When you have just a number or two that you want to communicate: use the numbers directly.",
+    "refresher": "A chart earns its space by making a relationship easier to see. For one or two values, a clear sentence and the numbers may communicate faster.",
+    "source": {
+      "file": "Nussbaumer Knaflic C. - Storytelling with data_.docx",
+      "paragraph": 21
+    },
+    "links": [
+      {
+        "title": "Datawrapper · Choosing how to present a number",
+        "url": "https://www.datawrapper.de/academy/custom-number-formats-that-you-can-display-in-datawrapper"
+      },
+      {
+        "title": "Storytelling with Data · Two tips for better graphs",
+        "url": "https://www.storytellingwithdata.com/blog/two-tips-for-better-graphs"
+      }
+    ]
+  },
+  {
+    "id": "storytelling-with-data-use-contrast-with-intention",
+    "bookId": "storytelling-with-data",
+    "book": "Storytelling with Data",
+    "author": "Cole Nussbaumer Knaflic",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Use contrast with intention",
+    "quote": "We use color saturation to provide visual cues, helping our eyes and brains more quickly target the potential points of interest.",
+    "refresher": "Give the important signal visual emphasis and let the supporting context recede. When everything is highlighted, the reader has no starting point.",
+    "source": {
+      "file": "Nussbaumer Knaflic C. - Storytelling with data_.docx",
+      "paragraph": 29
+    },
+    "links": [
+      {
+        "title": "Datawrapper · Choosing colors with purpose",
+        "url": "https://www.datawrapper.de/blog/colors"
+      },
+      {
+        "title": "Storytelling with Data · Two tips for better graphs",
+        "url": "https://www.storytellingwithdata.com/blog/two-tips-for-better-graphs"
+      }
+    ]
+  },
+  {
+    "id": "storytelling-with-data-bar-lengths-need-an-honest-baseline",
+    "bookId": "storytelling-with-data",
+    "book": "Storytelling with Data",
+    "author": "Cole Nussbaumer Knaflic",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Bar lengths need an honest baseline",
+    "quote": "It is important that bar charts always have a zero baseline, otherwise you get a false visual comparison.",
+    "refresher": "We read a bar’s length as its magnitude. Starting above zero exaggerates differences; use a zero baseline for a fair visual comparison.",
+    "source": {
+      "file": "Nussbaumer Knaflic C. - Storytelling with data_.docx",
+      "paragraph": 34
+    },
+    "links": [
+      {
+        "title": "Datawrapper · Why bar charts need a zero baseline",
+        "url": "https://www.datawrapper.de/academy/why-our-column-and-bar-charts-start-at-zero"
+      },
+      {
+        "title": "Storytelling with Data · Two tips for better graphs",
+        "url": "https://www.storytellingwithdata.com/blog/two-tips-for-better-graphs"
+      }
+    ]
+  },
+  {
+    "id": "storytelling-with-data-define-the-message-before-the-chart",
+    "bookId": "storytelling-with-data",
+    "book": "Storytelling with Data",
+    "author": "Cole Nussbaumer Knaflic",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Define the message before the chart",
+    "quote": "While pausing before actually building the communication might feel like it's a step that slows you down, in fact it helps ensure that you have a solid understanding of what you want to do before you start creating content, which will save you time down the road.",
+    "refresher": "Decide who is reading and what they need to understand before choosing a visual. A clear purpose saves rounds of decorative revision.",
+    "source": {
+      "file": "Nussbaumer Knaflic C. - Storytelling with data_.docx",
+      "paragraph": 17
+    },
+    "links": [
+      {
+        "title": "Datawrapper · Using text to explain a visualization",
+        "url": "https://www.datawrapper.de/blog/text-in-data-visualizations"
+      },
+      {
+        "title": "Storytelling with Data · Two tips for better graphs",
+        "url": "https://www.storytellingwithdata.com/blog/two-tips-for-better-graphs"
+      }
+    ]
+  },
+  {
+    "id": "peace-is-every-step-planning-happens-in-the-present",
+    "bookId": "peace-is-every-step",
+    "book": "Peace Is Every Step",
+    "author": "Thich Nhat Hanh",
+    "genre": "nonfiction",
+    "topic": "Mindfulness",
+    "concept": "Planning happens in the present",
+    "quote": "Planning for the future is a part of life. But even planning can only take place in the present moment.",
+    "refresher": "Thinking about tomorrow is useful; disappearing into it is optional. Notice the act of planning, then return to what is happening now.",
+    "source": {
+      "file": "Peace is every step notes.html",
+      "paragraph": 11
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Mindful breathing exercise",
+        "url": "https://ggia.berkeley.edu/practice/mindful_breathing"
+      },
+      {
+        "title": "Plum Village · The art of mindful living",
+        "url": "https://plumvillage.org/mindfulness/mindfulness-practice"
+      }
+    ]
+  },
+  {
+    "id": "peace-is-every-step-the-breath-as-an-anchor",
+    "bookId": "peace-is-every-step",
+    "book": "Peace Is Every Step",
+    "author": "Thich Nhat Hanh",
+    "genre": "nonfiction",
+    "topic": "Mindfulness",
+    "concept": "The breath as an anchor",
+    "quote": "Conscious breathing: as you breathe in, you say yourself, “Breathing in, I know that I am breathing in”. And as you breathe out, say, “Breathing out, I know that I am breathing out”. You can also use only two words: “In” and “Out”.",
+    "refresher": "You do not need a special setting to notice one breath. Use the simple rhythm of breathing to reconnect with the present moment.",
+    "source": {
+      "file": "Peace is every step notes.html",
+      "paragraph": 13
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Mindful breathing exercise",
+        "url": "https://ggia.berkeley.edu/practice/mindful_breathing"
+      },
+      {
+        "title": "Plum Village · The art of mindful living",
+        "url": "https://plumvillage.org/mindfulness/mindfulness-practice"
+      }
+    ]
+  },
+  {
+    "id": "peace-is-every-step-an-everyday-mindfulness-bell",
+    "bookId": "peace-is-every-step",
+    "book": "Peace Is Every Step",
+    "author": "Thich Nhat Hanh",
+    "genre": "nonfiction",
+    "topic": "Mindfulness",
+    "concept": "An everyday mindfulness bell",
+    "quote": "You do not have to carry a bell. You can use any sound to remind you to pause, breathe in and out, and enjoy the present moment.",
+    "refresher": "Let an ordinary sound become a gentle reminder to pause. A notification or kettle can cue a conscious breath before your next action.",
+    "source": {
+      "file": "Peace is every step notes.html",
+      "paragraph": 22
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Mindful breathing exercise",
+        "url": "https://ggia.berkeley.edu/practice/mindful_breathing"
+      },
+      {
+        "title": "Plum Village · The art of mindful living",
+        "url": "https://plumvillage.org/mindfulness/mindfulness-practice"
+      }
+    ]
+  },
+  {
+    "id": "peace-is-every-step-slow-enough-to-notice",
+    "bookId": "peace-is-every-step",
+    "book": "Peace Is Every Step",
+    "author": "Thich Nhat Hanh",
+    "genre": "nonfiction",
+    "topic": "Mindfulness",
+    "concept": "Slow enough to notice",
+    "quote": "In the rush of modern life, we tend to lose touch with the peace that is available in each moment.",
+    "refresher": "Rushing can make available moments of ease invisible. Choose one ordinary activity today and give it your undivided attention.",
+    "source": {
+      "file": "Peace is every step notes.html",
+      "paragraph": 8
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · A walk for noticing and savoring",
+        "url": "https://ggia.berkeley.edu/practice/savoring_walk"
+      },
+      {
+        "title": "Plum Village · The art of mindful living",
+        "url": "https://plumvillage.org/mindfulness/mindfulness-practice"
+      }
+    ]
+  },
+  {
+    "id": "siddhartha-meaning-in-the-ordinary",
+    "bookId": "siddhartha",
+    "book": "Siddhartha",
+    "author": "Hermann Hesse",
+    "genre": "fiction",
+    "topic": "Perspective",
+    "concept": "Meaning in the ordinary",
+    "quote": "\"Meaning and reality were not hidden somewhere behind things, they were in them, in all of them.\"",
+    "refresher": "Siddhartha invites attention to life as it is encountered. Before looking for a hidden lesson, notice the texture of the experience itself.",
+    "source": {
+      "file": "Siddhartha notes.html",
+      "paragraph": 6
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · A walk for noticing and savoring",
+        "url": "https://ggia.berkeley.edu/practice/savoring_walk"
+      },
+      {
+        "title": "Project Gutenberg · Read Siddhartha",
+        "url": "https://www.gutenberg.org/ebooks/2500"
+      }
+    ]
+  },
+  {
+    "id": "siddhartha-participation-over-distraction",
+    "bookId": "siddhartha",
+    "book": "Siddhartha",
+    "author": "Hermann Hesse",
+    "genre": "fiction",
+    "topic": "Perspective",
+    "concept": "Participation over distraction",
+    "quote": "\"Then he suddenly saw clearly that he was leading a strange life, that he was doing many things that were only a game, that he was quite cheerful and sometimes experienced pleasure, but that real life was flowing past him and did not touch him.\"",
+    "refresher": "A full schedule can coexist with a sense of absence. Ask which activity today makes you feel involved in your own life.",
+    "source": {
+      "file": "Siddhartha notes.html",
+      "paragraph": 8
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · A walk for noticing and savoring",
+        "url": "https://ggia.berkeley.edu/practice/savoring_walk"
+      },
+      {
+        "title": "Project Gutenberg · Read Siddhartha",
+        "url": "https://www.gutenberg.org/ebooks/2500"
+      }
+    ]
+  },
+  {
+    "id": "siddhartha-knowledge-needs-experience",
+    "bookId": "siddhartha",
+    "book": "Siddhartha",
+    "author": "Hermann Hesse",
+    "genre": "fiction",
+    "topic": "Perspective",
+    "concept": "Knowledge needs experience",
+    "quote": "\"A true seeker could not accept any teachings, not if he sincerely wished to find something.\"",
+    "refresher": "Read this as a challenge to secondhand certainty. A teaching can guide you, but your own observation and practice must give it substance.",
+    "source": {
+      "file": "Siddhartha notes.html",
+      "paragraph": 11
+    },
+    "links": [
+      {
+        "title": "University of Edinburgh · Learning through experience and reflection",
+        "url": "https://institute-academic-development.ed.ac.uk/prog-course-design/experiential-learning"
+      },
+      {
+        "title": "Project Gutenberg · Read Siddhartha",
+        "url": "https://www.gutenberg.org/ebooks/2500"
+      }
+    ]
+  },
+  {
+    "id": "the-design-of-everyday-things-make-the-next-action-visible",
+    "bookId": "the-design-of-everyday-things",
+    "book": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Make the next action visible",
+    "quote": "A signifier is a mean of signaling the presence of an affordance. It refers to any mark or sound, any perceivable indicator that communicates appropriate behavior to a person.",
+    "refresher": "People need clues about what they can do. A useful label, shape, or placement can communicate an action without requiring instructions.",
+    "source": {
+      "file": "The design of everyday things notes.html",
+      "paragraph": 11
+    },
+    "links": [
+      {
+        "title": "GOV.UK Design System · Making button actions clear",
+        "url": "https://design-system.service.gov.uk/components/button/"
+      },
+      {
+        "title": "Don Norman · Signifiers, not affordances",
+        "url": "https://jnd.org/signifiers-not-affordances/"
+      }
+    ]
+  },
+  {
+    "id": "the-design-of-everyday-things-design-for-human-error",
+    "bookId": "the-design-of-everyday-things",
+    "book": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Design for human error",
+    "quote": "But in my experience, human error usually is a result of poor design: it should be called system error. Human err continually; it is an intrinsic part of our nature. System design should take this into account.",
+    "refresher": "Repeated mistakes are evidence about the system. Improve feedback, constraints, or recovery before concluding that people simply need to try harder.",
+    "source": {
+      "file": "The design of everyday things notes.html",
+      "paragraph": 35
+    },
+    "links": [
+      {
+        "title": "GOV.UK Design System · Helping people recover from errors",
+        "url": "https://design-system.service.gov.uk/components/error-message/"
+      },
+      {
+        "title": "Don Norman · Signifiers, not affordances",
+        "url": "https://jnd.org/signifiers-not-affordances/"
+      }
+    ]
+  },
+  {
+    "id": "the-design-of-everyday-things-start-with-the-person",
+    "bookId": "the-design-of-everyday-things",
+    "book": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Start with the person",
+    "quote": "Human-centered design is a design philosophy. It means starting with a good understanding of people and the needs that the design is intended to meet.",
+    "refresher": "A solution begins with the person’s needs and situation. Observe the task in its real context before deciding what to build.",
+    "source": {
+      "file": "The design of everyday things notes.html",
+      "paragraph": 8
+    },
+    "links": [
+      {
+        "title": "GOV.UK · Learning about people and their needs",
+        "url": "https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs"
+      },
+      {
+        "title": "Don Norman · Signifiers, not affordances",
+        "url": "https://jnd.org/signifiers-not-affordances/"
+      }
+    ]
+  },
+  {
+    "id": "the-design-of-everyday-things-put-knowledge-in-the-world",
+    "bookId": "the-design-of-everyday-things",
+    "book": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Put knowledge in the world",
+    "quote": "Because much of the knowledge is available in the environment, it is surprising how little we need to learn.",
+    "refresher": "Labels, visible status, and well-placed reminders reduce what people must remember. Make the necessary information available at the moment of action.",
+    "source": {
+      "file": "The design of everyday things notes.html",
+      "paragraph": 45
+    },
+    "links": [
+      {
+        "title": "W3C · Design that does not rely on memory",
+        "url": "https://www.w3.org/WAI/WCAG2/supplemental/objectives/o6-memory/"
+      },
+      {
+        "title": "Don Norman · Signifiers, not affordances",
+        "url": "https://jnd.org/signifiers-not-affordances/"
+      }
+    ]
+  },
+  {
+    "id": "the-lean-startup-learning-is-progress",
+    "bookId": "the-lean-startup",
+    "book": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Learning is progress",
+    "quote": "Success is not delivering a feature, success is learning how to solve a customer's problem.",
+    "refresher": "Shipping is useful when it teaches you how to solve a real problem. Name the uncertainty a feature is meant to resolve.",
+    "source": {
+      "file": "The lean startup notes.html",
+      "paragraph": 26
+    },
+    "links": [
+      {
+        "title": "Strategyzer · Turn experiments into learning",
+        "url": "https://www.strategyzer.com/library/capture-customer-insights-and-actions-with-the-learning-card"
+      },
+      {
+        "title": "Eric Ries · Lean Startup methodology",
+        "url": "https://theleanstartup.com/principles"
+      }
+    ]
+  },
+  {
+    "id": "the-lean-startup-make-a-testable-prediction",
+    "bookId": "the-lean-startup",
+    "book": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Make a testable prediction",
+    "quote": "Begin with a clear hypothesis that makes predictions about what is suppose to happen. Then test those predictions empirically.",
+    "refresher": "Turn a belief into a prediction you can compare with reality. Decide what evidence would change your mind before running the experiment.",
+    "source": {
+      "file": "The lean startup notes.html",
+      "paragraph": 22
+    },
+    "links": [
+      {
+        "title": "Alex Osterwalder · Design an experiment with the Test Card",
+        "url": "https://www.strategyzer.com/library/validate-your-ideas-with-the-test-card"
+      },
+      {
+        "title": "Eric Ries · Lean Startup methodology",
+        "url": "https://theleanstartup.com/principles"
+      }
+    ]
+  },
+  {
+    "id": "the-lean-startup-build-just-enough-to-learn",
+    "bookId": "the-lean-startup",
+    "book": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Build just enough to learn",
+    "quote": "In an MVP, when in doubt, simplify. The lesson of the MVP is that any additional work beyond what is required to start learning is waste, no matter ow important it might have seemed at the time.",
+    "refresher": "An early product is an instrument for testing an assumption. Remove work that does not help answer the current question.",
+    "source": {
+      "file": "The lean startup notes.html",
+      "paragraph": 37
+    },
+    "links": [
+      {
+        "title": "GOV.UK · Making prototypes to learn",
+        "url": "https://www.gov.uk/service-manual/design/making-prototypes"
+      },
+      {
+        "title": "Eric Ries · Lean Startup methodology",
+        "url": "https://theleanstartup.com/principles"
+      }
+    ]
+  },
+  {
+    "id": "the-lean-startup-shorten-the-feedback-loop",
+    "bookId": "the-lean-startup",
+    "book": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Shorten the feedback loop",
+    "quote": "A startup is a catalyst that transforms ideas into products. As customers interact with those products, they generate feedback and data. We need to focus our energies on minimizing the total time through this feedback loop.",
+    "refresher": "The full cycle matters: building, observing, and interpreting. Faster coding alone will not help if feedback sits unused for weeks.",
+    "source": {
+      "file": "The lean startup notes.html",
+      "paragraph": 28
+    },
+    "links": [
+      {
+        "title": "Strategyzer · Turn experiments into learning",
+        "url": "https://www.strategyzer.com/library/capture-customer-insights-and-actions-with-the-learning-card"
+      },
+      {
+        "title": "Eric Ries · Lean Startup methodology",
+        "url": "https://theleanstartup.com/principles"
+      }
+    ]
+  },
+  {
+    "id": "thinking-fast-and-slow-anchoring",
+    "bookId": "thinking-fast-and-slow",
+    "book": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "Anchoring",
+    "quote": "Anchoring effect occurs when people consider a particular value for an unknown quantity before estimating it.",
+    "refresher": "An initial number can pull later estimates toward it. Form an independent estimate from relevant evidence before treating someone else’s figure as a starting point.",
+    "source": {
+      "file": "Thinking, fast and slow notes.html",
+      "paragraph": 2
+    },
+    "links": [
+      {
+        "title": "Harvard Program on Negotiation · First offers and anchoring",
+        "url": "https://www.pon.harvard.edu/daily/dealmaking-daily/resolving-the-first-offer-dilemma-in-business-negotiations/"
+      },
+      {
+        "title": "Daniel Kahneman · Maps of bounded rationality",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/"
+      }
+    ]
+  },
+  {
+    "id": "thinking-fast-and-slow-regression-to-the-mean",
+    "bookId": "thinking-fast-and-slow",
+    "book": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "Regression to the mean",
+    "quote": "Regression to the mean is the principle according to which extreme results are followed by results nearer to the mean.",
+    "refresher": "An unusually extreme result often includes temporary influences. Do not assume the next result will be equally extreme or credit every rebound to an intervention.",
+    "source": {
+      "file": "Thinking, fast and slow notes.html",
+      "paragraph": 6
+    },
+    "links": [
+      {
+        "title": "Philip Stark, UC Berkeley · Regression and regression to the mean",
+        "url": "https://www.stat.berkeley.edu/~stark/SticiGui/Text/regression.htm"
+      },
+      {
+        "title": "Daniel Kahneman · Maps of bounded rationality",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/"
+      }
+    ]
+  },
+  {
+    "id": "thinking-fast-and-slow-take-the-outside-view",
+    "bookId": "thinking-fast-and-slow",
+    "book": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "Take the outside view",
+    "quote": "The \"inside view\" is the case in exam. The \"outside view\" are all the other similar cases, that shouldn't be ignored.",
+    "refresher": "Your project feels unique, but comparable projects contain useful evidence. Start with their actual outcomes, then adjust for differences you can justify.",
+    "source": {
+      "file": "Thinking, fast and slow notes.html",
+      "paragraph": 25
+    },
+    "links": [
+      {
+        "title": "Homes England · Reference-class forecasting in practice",
+        "url": "https://www.gov.uk/government/publications/optimism-bias-and-contingency-at-homes-england/optimism-bias-and-contingency-at-homes-england-accessible-version"
+      },
+      {
+        "title": "Daniel Kahneman · Maps of bounded rationality",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/"
+      }
+    ]
+  },
+  {
+    "id": "thinking-fast-and-slow-run-a-premortem",
+    "bookId": "thinking-fast-and-slow",
+    "book": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "Run a premortem",
+    "quote": "Ask to people that know everything about the decision: \"Imagine we are in the future and the plan we are implementing is a disaster. Take 5 to 10 minutes to write a brief history of what happened\"",
+    "refresher": "Imagine the plan has failed and work backward to possible causes. This makes it easier to surface concerns before commitment becomes expensive.",
+    "source": {
+      "file": "Thinking, fast and slow notes.html",
+      "paragraph": 34
+    },
+    "links": [
+      {
+        "title": "Atlassian · Run a project premortem",
+        "url": "https://www.atlassian.com/team-playbook/plays/pre-mortem"
+      },
+      {
+        "title": "Daniel Kahneman · Maps of bounded rationality",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/"
+      }
+    ]
+  },
+  {
+    "id": "zen-mind-beginner-s-mind-beginner-s-mind",
+    "bookId": "zen-mind-beginner-s-mind",
+    "book": "Zen Mind, Beginner’s Mind",
+    "author": "Shunryu Suzuki",
+    "genre": "nonfiction",
+    "topic": "Mindfulness",
+    "concept": "Beginner’s mind",
+    "quote": "\"In the beginner's mind there are many possibilities, but in the expert's there are few\". The goal of practice is always to keep your beginner's mind.",
+    "refresher": "Expertise is useful until it prevents you from noticing. Approach a familiar task with one sincere question you have stopped asking.",
+    "source": {
+      "file": "Zen mind, beginner_s mind notes.html",
+      "paragraph": 3
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Reflect on your curiosity (quiz)",
+        "url": "https://greatergood.berkeley.edu/quizzes/take_quiz/curiosity"
+      },
+      {
+        "title": "Shunryu Suzuki · Beginner’s mind talk",
+        "url": "https://app.sfzc.org/m/rvhdFi9e/beginners-mind"
+      }
+    ]
+  },
+  {
+    "id": "zen-mind-beginner-s-mind-let-thoughts-pass",
+    "bookId": "zen-mind-beginner-s-mind",
+    "book": "Zen Mind, Beginner’s Mind",
+    "author": "Shunryu Suzuki",
+    "genre": "nonfiction",
+    "topic": "Mindfulness",
+    "concept": "Let thoughts pass",
+    "quote": "If you want to obtain perfect calmness in your zazen, you should not be bothered by the various images you find in your mind. Let them come, and let them go. Then they will be under control.",
+    "refresher": "A thought appearing is not a failure of attention. Notice it without wrestling with it, then gently return to your practice.",
+    "source": {
+      "file": "Zen mind, beginner_s mind notes.html",
+      "paragraph": 18
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Mindful breathing exercise",
+        "url": "https://ggia.berkeley.edu/practice/mindful_breathing"
+      },
+      {
+        "title": "Shunryu Suzuki · Beginner’s mind talk",
+        "url": "https://app.sfzc.org/m/rvhdFi9e/beginners-mind"
+      }
+    ]
+  },
+  {
+    "id": "zen-mind-beginner-s-mind-listen-with-an-open-mind",
+    "bookId": "zen-mind-beginner-s-mind",
+    "book": "Zen Mind, Beginner’s Mind",
+    "author": "Shunryu Suzuki",
+    "genre": "nonfiction",
+    "topic": "Mindfulness",
+    "concept": "Listen with an open mind",
+    "quote": "When you listen to someone, you should give up all your preconceived ideas and your subjective opinions; you should just listen to him, just observe what his way is.",
+    "refresher": "Set your interpretation aside long enough to hear the other person. Understanding begins with observing what they actually say.",
+    "source": {
+      "file": "Zen mind, beginner_s mind notes.html",
+      "paragraph": 57
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Active listening exercise",
+        "url": "https://ggia.berkeley.edu/practice/active_listening"
+      },
+      {
+        "title": "Shunryu Suzuki · Beginner’s mind talk",
+        "url": "https://app.sfzc.org/m/rvhdFi9e/beginners-mind"
+      }
+    ]
+  },
+  {
+    "id": "zen-mind-beginner-s-mind-continue-imperfectly",
+    "bookId": "zen-mind-beginner-s-mind",
+    "book": "Zen Mind, Beginner’s Mind",
+    "author": "Shunryu Suzuki",
+    "genre": "nonfiction",
+    "topic": "Mindfulness",
+    "concept": "Continue imperfectly",
+    "quote": "Do not give up your practice; continue it, knowing your weakness. Your practice cannot be perfect, but without being discouraged by this, you should continue it. This is the secret of practice. Here there is no gaining idea.",
+    "refresher": "Practice does not require an ideal session. Acknowledge the rough edges and return; continuity can matter more than judging today’s performance.",
+    "source": {
+      "file": "Zen mind, beginner_s mind notes.html",
+      "paragraph": 47
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Write a self-compassionate letter",
+        "url": "https://ggia.berkeley.edu/practice/self_compassionate_letter"
+      },
+      {
+        "title": "Shunryu Suzuki · Beginner’s mind talk",
+        "url": "https://app.sfzc.org/m/rvhdFi9e/beginners-mind"
+      }
+    ]
+  },
+  {
+    "id": "surely-you-re-joking-mr-feynman-understanding-over-memorization",
+    "bookId": "surely-you-re-joking-mr-feynman",
+    "book": "Surely You’re Joking, Mr. Feynman!",
+    "author": "Richard P. Feynman",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Understanding over memorization",
+    "quote": "I don't know what's the matter with people: they don't learn by understanding; they learn by some other way - by rote, or something. Their knowledge is so fragile!",
+    "refresher": "Remembering a phrase is different from understanding an idea. Try explaining it in plain language and applying it to an unfamiliar example.",
+    "source": {
+      "file": "Surely you_re joking, Mr. Feynman notes.html",
+      "paragraph": 4
+    },
+    "links": [
+      {
+        "title": "The Learning Scientists · Elaboration: explain how and why",
+        "url": "https://www.learningscientists.org/elaboration"
+      },
+      {
+        "title": "Richard Feynman · Cargo Cult Science",
+        "url": "https://calteches.library.caltech.edu/51/2/CargoCult.htm"
+      }
+    ]
+  },
+  {
+    "id": "surely-you-re-joking-mr-feynman-do-not-fool-yourself",
+    "bookId": "surely-you-re-joking-mr-feynman",
+    "book": "Surely You’re Joking, Mr. Feynman!",
+    "author": "Richard P. Feynman",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Do not fool yourself",
+    "quote": "The first principle is that you must not fool yourself - and you are the easiest person to fool. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that.",
+    "refresher": "A preferred conclusion makes weak evidence tempting. Look for the strongest reason your explanation could be wrong, and report it honestly.",
+    "source": {
+      "file": "Surely you_re joking, Mr. Feynman notes.html",
+      "paragraph": 26
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Testing ideas against evidence",
+        "url": "https://undsci.berkeley.edu/understanding-science-101/how-science-works/testing-scientific-ideas/"
+      },
+      {
+        "title": "Richard Feynman · Cargo Cult Science",
+        "url": "https://calteches.library.caltech.edu/51/2/CargoCult.htm"
+      }
+    ]
+  },
+  {
+    "id": "surely-you-re-joking-mr-feynman-curiosity-crosses-boundaries",
+    "bookId": "surely-you-re-joking-mr-feynman",
+    "book": "Surely You’re Joking, Mr. Feynman!",
+    "author": "Richard P. Feynman",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Curiosity crosses boundaries",
+    "quote": "I sat with the physicists, but after a bit I thought: It would be nice to see what the rest of the world is doing, so I'll sit for a week or two in each of the other groups.",
+    "refresher": "Familiar conversations reveal only part of the world. Spend time with people who work on different problems and ask how they think.",
+    "source": {
+      "file": "Surely you_re joking, Mr. Feynman notes.html",
+      "paragraph": 6
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Reflect on your curiosity (quiz)",
+        "url": "https://greatergood.berkeley.edu/quizzes/take_quiz/curiosity"
+      },
+      {
+        "title": "Richard Feynman · Cargo Cult Science",
+        "url": "https://calteches.library.caltech.edu/51/2/CargoCult.htm"
+      }
+    ]
+  },
+  {
+    "id": "how-not-to-be-wrong-survivorship-bias",
+    "bookId": "how-not-to-be-wrong",
+    "book": "How Not to Be Wrong",
+    "author": "Jordan Ellenberg",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Survivorship bias",
+    "quote": "The armor, said Wald, doesn't go where the bullet holes are. It goes where the bullet holes aren't: the engines.",
+    "refresher": "The observed planes returned; the missing ones may have been hit elsewhere. Ask what your sample leaves out before learning from the cases you can see.",
+    "source": {
+      "file": "How not to be wrong notes.html",
+      "paragraph": 3
+    },
+    "links": [
+      {
+        "title": "UC Berkeley Stat 20 · What your sample leaves out",
+        "url": "https://stat20.berkeley.edu/summer-2026/3-generalization/07-from-samps-to-pops/notes.html"
+      },
+      {
+        "title": "Jordan Ellenberg · How Not to Be Wrong",
+        "url": "https://www.jordanellenberg.com/book/how-not-to-be-wrong/"
+      }
+    ]
+  },
+  {
+    "id": "how-not-to-be-wrong-local-linearity",
+    "bookId": "how-not-to-be-wrong",
+    "book": "How Not to Be Wrong",
+    "author": "Jordan Ellenberg",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Local linearity",
+    "quote": "Every tiny little piece of like can be well approximated by a perfect straight line. The slogan to keep in mind: straight locally, curved globally.",
+    "refresher": "A straight-line approximation can work over a small interval and fail over a large one. Ask how far your model is being stretched beyond its evidence.",
+    "source": {
+      "file": "How not to be wrong notes.html",
+      "paragraph": 19
+    },
+    "links": [
+      {
+        "title": "OpenStax · Linear approximations and their limits",
+        "url": "https://openstax.org/books/calculus-volume-1/pages/4-2-linear-approximations-and-differentials"
+      },
+      {
+        "title": "Jordan Ellenberg · How Not to Be Wrong",
+        "url": "https://www.jordanellenberg.com/book/how-not-to-be-wrong/"
+      }
+    ]
+  },
+  {
+    "id": "how-not-to-be-wrong-check-your-common-sense",
+    "bookId": "how-not-to-be-wrong",
+    "book": "How Not to Be Wrong",
+    "author": "Jordan Ellenberg",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Check your common sense",
+    "quote": "Mathematics is the extension of common sense by other means. Without the rigorous structure that math provides, common sense can lead you astray.",
+    "refresher": "An intuition is a starting point, not a proof. Put quantities and assumptions on paper to see whether the reasoning still holds.",
+    "source": {
+      "file": "How not to be wrong notes.html",
+      "paragraph": 7
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Testing ideas against evidence",
+        "url": "https://undsci.berkeley.edu/understanding-science-101/how-science-works/testing-scientific-ideas/"
+      },
+      {
+        "title": "Jordan Ellenberg · How Not to Be Wrong",
+        "url": "https://www.jordanellenberg.com/book/how-not-to-be-wrong/"
+      }
+    ]
+  },
+  {
+    "id": "man-s-search-for-meaning-three-routes-to-meaning",
+    "bookId": "man-s-search-for-meaning",
+    "book": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Three routes to meaning",
+    "quote": "We can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.",
+    "refresher": "Frankl points toward contribution, encounter, and the stance we take toward what cannot be changed. Which route has room in your day?",
+    "source": {
+      "file": "Man_s search for meaning notes.html",
+      "paragraph": 17
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Explore purpose with the Magic Wand exercise",
+        "url": "https://ggia.berkeley.edu/practice/magic_wand"
+      },
+      {
+        "title": "Viktor Frankl Institute · Meaning and logotherapy",
+        "url": "https://viktorfrankl.org/logotherapy.html"
+      }
+    ]
+  },
+  {
+    "id": "man-s-search-for-meaning-borrow-tomorrow-s-perspective",
+    "bookId": "man-s-search-for-meaning",
+    "book": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Borrow tomorrow’s perspective",
+    "quote": "Live as if you were living already for the second time and as if you had acted the first time as wrongly as you are about to act now.",
+    "refresher": "Imagine looking back on the choice you are making now. That small shift in viewpoint can clarify what you want to do differently.",
+    "source": {
+      "file": "Man_s search for meaning notes.html",
+      "paragraph": 15
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Imagine your future relationships",
+        "url": "https://ggia.berkeley.edu/practice/best_possible_self_for_relationships"
+      },
+      {
+        "title": "Viktor Frankl Institute · Meaning and logotherapy",
+        "url": "https://viktorfrankl.org/logotherapy.html"
+      }
+    ]
+  },
+  {
+    "id": "man-s-search-for-meaning-suffering-is-not-a-requirement",
+    "bookId": "man-s-search-for-meaning",
+    "book": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Suffering is not a requirement",
+    "quote": "In no way suffering is necessary to find meaning. If it were avoidable, the meaningful thing to do would be to remove its cause.",
+    "refresher": "Finding meaning in difficulty does not mean seeking difficulty. When a harmful situation can be changed, changing it can itself be meaningful.",
+    "source": {
+      "file": "Man_s search for meaning notes.html",
+      "paragraph": 19
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Write a self-compassionate letter",
+        "url": "https://ggia.berkeley.edu/practice/self_compassionate_letter"
+      },
+      {
+        "title": "Viktor Frankl Institute · Meaning and logotherapy",
+        "url": "https://viktorfrankl.org/logotherapy.html"
+      }
+    ]
+  },
+  {
+    "id": "being-mortal-authorship-of-a-life",
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Authorship of a life",
+    "quote": "Whatever the limits and travails we face, we want to retain the autonomy - the freedom - to be authors of our lives.",
+    "refresher": "Help is most respectful when it preserves the person’s say in what matters. Ask about their priorities before assuming you know the best outcome.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 34
+    },
+    "links": [
+      {
+        "title": "The Conversation Project · Talk about what matters (PDF)",
+        "url": "https://theconversationproject.org/wp-content/uploads/2021/02/TCP-ConversationStartGuide-English-Editable.pdf"
+      },
+      {
+        "title": "Atul Gawande · Being Mortal",
+        "url": "https://profilebooks.com/work/being-mortal/"
+      }
+    ]
+  },
+  {
+    "id": "being-mortal-the-horizon-shapes-priorities",
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "The horizon shapes priorities",
+    "quote": "How we seek to spend our time may depend on how much time we perceive ourselves to have.",
+    "refresher": "How much time we feel we have influences what we choose to do with it. Notice which relationships or activities become essential when time feels precious.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 25
+    },
+    "links": [
+      {
+        "title": "Laura Carstensen and colleagues · How time horizons shape priorities (research abstract)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10199217/"
+      },
+      {
+        "title": "Atul Gawande · Being Mortal",
+        "url": "https://profilebooks.com/work/being-mortal/"
+      }
+    ]
+  },
+  {
+    "id": "being-mortal-well-being-beyond-survival",
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Well-being beyond survival",
+    "quote": "We think our job is to ensure health and survival. But really it is larger than that. It is to enable well-being.",
+    "refresher": "Gawande asks what a good life means to the person living it. Remember to ask what matters, alongside what can be measured or fixed.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 63
+    },
+    "links": [
+      {
+        "title": "The Conversation Project · Talk about what matters (PDF)",
+        "url": "https://theconversationproject.org/wp-content/uploads/2021/02/TCP-ConversationStartGuide-English-Editable.pdf"
+      },
+      {
+        "title": "Atul Gawande · Being Mortal",
+        "url": "https://profilebooks.com/work/being-mortal/"
+      }
+    ]
+  },
+  {
+    "id": "stuff-matters-structure-gives-materials-their-properties",
+    "bookId": "stuff-matters",
+    "book": "Stuff Matters",
+    "author": "Mark Miodownik",
+    "genre": "nonfiction",
+    "topic": "Science",
+    "concept": "Structure gives materials their properties",
+    "quote": "Metals are made of crystals. A razor gets blunt because the many collisions with hairs that it encounters force bits of these crystals to rearrange themselves into a different shape.",
+    "refresher": "The behavior of an everyday object starts at a scale you cannot see. Even a dull razor tells a story about changes in its internal structure.",
+    "source": {
+      "file": "Stuff matters notes.html",
+      "paragraph": 3
+    },
+    "links": [
+      {
+        "title": "MIT · Why soft hair can damage a steel razor",
+        "url": "https://news.mit.edu/2020/why-shaving-dulls-razors-0806"
+      },
+      {
+        "title": "Mark Miodownik · Stuff Matters excerpt (PDF)",
+        "url": "https://www.hmhco.com/~/media/sites/home/educators/webinars/summer-session/stuffmatters.pdf"
+      }
+    ]
+  },
+  {
+    "id": "stuff-matters-the-chemistry-inside-a-receipt",
+    "bookId": "stuff-matters",
+    "book": "Stuff Matters",
+    "author": "Mark Miodownik",
+    "genre": "nonfiction",
+    "topic": "Science",
+    "concept": "The chemistry inside a receipt",
+    "quote": "(Receipts) Printing on thermal paper does not mean adding ink to it. Rather, the ink is already encapsulated within the paper. The act on printing requires only a spark to heat up the paper.",
+    "refresher": "Some printing changes material already present in the paper rather than adding ink. Familiar objects often hide a very different mechanism than you expect.",
+    "source": {
+      "file": "Stuff matters notes.html",
+      "paragraph": 13
+    },
+    "links": [
+      {
+        "title": "Jota Machinery · How thermal paper works",
+        "url": "https://www.jotamachinery.com/blog/how-does-thermal-paper-work/"
+      },
+      {
+        "title": "Mark Miodownik · Stuff Matters excerpt (PDF)",
+        "url": "https://www.hmhco.com/~/media/sites/home/educators/webinars/summer-session/stuffmatters.pdf"
+      }
+    ]
+  },
+  {
+    "id": "stuff-matters-concrete-needs-water",
+    "bookId": "stuff-matters",
+    "book": "Stuff Matters",
+    "author": "Mark Miodownik",
+    "genre": "nonfiction",
+    "topic": "Science",
+    "concept": "Concrete needs water",
+    "quote": "Concrete doesn't dry out. Quite the opposite, water is an ingredient of concrete.",
+    "refresher": "Setting is not simply drying. Water participates in the reactions that turn the mix into a solid material—a reminder to distinguish appearance from mechanism.",
+    "source": {
+      "file": "Stuff matters notes.html",
+      "paragraph": 19
+    },
+    "links": [
+      {
+        "title": "American Cement Association · How hydration hardens cement",
+        "url": "https://www.cement.org/cement-concrete/applications-of-cement/"
+      },
+      {
+        "title": "Mark Miodownik · Stuff Matters excerpt (PDF)",
+        "url": "https://www.hmhco.com/~/media/sites/home/educators/webinars/summer-session/stuffmatters.pdf"
+      }
+    ]
+  },
+  {
+    "id": "think-bayes-thompson-sampling",
+    "bookId": "think-bayes",
+    "book": "Think Bayes",
+    "author": "Allen B. Downey",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Thompson sampling",
+    "quote": "Thompson sampling: way of solving the Bayesian Bandit problem by choosing a machine at random so that the probability of choosing each machine is proportional that it is the best. We can draw a single random value from each posterior distribution and select the machine that yields the highest value.",
+    "refresher": "Balance exploration with exploitation by sampling from each option’s current belief distribution. Promising options get more attention while uncertain alternatives still have a chance to prove themselves.",
+    "source": {
+      "file": "Downey B. - Think Bayes.docx",
+      "paragraph": 12
+    },
+    "links": [
+      {
+        "title": "Russo and colleagues · Thompson sampling tutorial (paper)",
+        "url": "https://arxiv.org/abs/1707.02038"
+      },
+      {
+        "title": "Think Bayes · Bayesian bandits",
+        "url": "https://allendowney.github.io/ThinkBayes2/chap10.html"
+      }
+    ]
+  },
+  {
+    "id": "think-bayes-survival-analysis",
+    "bookId": "think-bayes",
+    "book": "Think Bayes",
+    "author": "Allen B. Downey",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Survival analysis",
+    "quote": "Survival functions could be used for churn, or to include any event that didn't happen yet (Weibull distribution is a good one to use for that purpose e.g. in the book is used to model light bulb lifetime).",
+    "refresher": "Model the time until an event, including cases where it has not happened yet. An active customer provides partial information about retention, rather than a missing observation.",
+    "source": {
+      "file": "Downey B. - Think Bayes.docx",
+      "paragraph": 16
+    },
+    "links": [
+      {
+        "title": "lifelines · An introduction to survival analysis",
+        "url": "https://lifelines.readthedocs.io/en/stable/Survival%20Analysis%20intro.html"
+      },
+      {
+        "title": "Think Bayes · Survival analysis",
+        "url": "https://allendowney.github.io/ThinkBayes2/chap14.html"
+      }
+    ]
+  },
+  {
+    "id": "think-bayes-sampling-without-replacement",
+    "bookId": "think-bayes",
+    "book": "Think Bayes",
+    "author": "Allen B. Downey",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Sampling without replacement",
+    "quote": "Hypergeometric distribution is cool: if you have population size N, K samples identified in the first session, n samples identified in the second session, what's the probability of having k samples in both sessions?",
+    "refresher": "When sampled items cannot be selected again, the draws are dependent. The hypergeometric distribution describes how many members of a marked group appear in such a sample.",
+    "source": {
+      "file": "Downey B. - Think Bayes.docx",
+      "paragraph": 17
+    },
+    "links": [
+      {
+        "title": "SciPy · Sampling without replacement, with examples",
+        "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.hypergeom.html"
+      },
+      {
+        "title": "Think Bayes · Mark and recapture",
+        "url": "https://allendowney.github.io/ThinkBayes2/chap15.html"
+      }
+    ]
+  },
+  {
+    "id": "think-bayes-markov-chain-monte-carlo",
+    "bookId": "think-bayes",
+    "book": "Think Bayes",
+    "author": "Allen B. Downey",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Markov chain Monte Carlo",
+    "quote": "Markov Chain Monte Carlo: Monte Carlo refers to methods that generate random samples from a distribution. Markov Chain refers to method in which the probability of going in each future state, depends only on the current state.",
+    "refresher": "Explore a distribution through a sequence of dependent samples. With a suitable transition rule and convergence checks, their long-run frequencies approximate the probabilities you want.",
+    "source": {
+      "file": "Downey B. - Think Bayes.docx",
+      "paragraph": 26
+    },
+    "links": [
+      {
+        "title": "Stan · How MCMC sampling works",
+        "url": "https://mc-stan.org/docs/reference-manual/mcmc.html"
+      },
+      {
+        "title": "Think Bayes · MCMC",
+        "url": "https://allendowney.github.io/ThinkBayes2/chap19.html"
+      }
+    ]
+  },
+  {
+    "id": "think-bayes-approximate-bayesian-computation",
+    "bookId": "think-bayes",
+    "book": "Think Bayes",
+    "author": "Allen B. Downey",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Approximate Bayesian computation",
+    "quote": "The fundamental idea of Approximate Bayesian Computation (ABC) is that we use the prior distribution to generate a sample of the parameters, and then simulate the system for each set of parameters in the sample.",
+    "refresher": "When a likelihood is hard to calculate, simulate outcomes from proposed parameters. Keep proposals whose simulated results resemble the observations, acknowledging that the match is approximate.",
+    "source": {
+      "file": "Downey B. - Think Bayes.docx",
+      "paragraph": 27
+    },
+    "links": [
+      {
+        "title": "PyMC · Approximate Bayesian computation worked example",
+        "url": "https://www.pymc.io/projects/examples/en/latest/samplers/SMC-ABC_Lotka-Volterra_example.html"
+      },
+      {
+        "title": "Think Bayes · Approximate Bayesian computation",
+        "url": "https://allendowney.github.io/ThinkBayes2/chap20.html"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-the-value-of-an-option",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "The value of an option",
+    "quote": "Options are valuable because they allow the purchaser the ability to take a specific action without requiring them to take that action.",
+    "refresher": "Keeping a choice available can be valuable even if you never exercise it. Distinguish paying for flexibility from committing to the action itself.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 181
+    },
+    "links": [
+      {
+        "title": "Chris Matts and Olav Maassen · Real options and delayed commitments",
+        "url": "https://www.infoq.com/articles/real-options-enhance-agility/"
+      },
+      {
+        "title": "Josh Kaufman · Options",
+        "url": "https://personalmba.com/option/"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-the-hassle-premium",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "The hassle premium",
+    "quote": "Hassle premium: people are almost always willing to pay for things that they believe are too much of a pain to take care of themselves. Where there's a hassle, there's a business opportunity.",
+    "refresher": "People may pay to avoid coordination, uncertainty, or tedious work. Look for the annoying steps around a product, not just improvements to the product itself.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 201
+    },
+    "links": [
+      {
+        "title": "Paul Graham · How to get startup ideas",
+        "url": "https://www.paulgraham.com/startupideas.html"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-make-the-trade-off-explicit",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Make the trade-off explicit",
+    "quote": "A Trade-off is a decision that places a higher value on one of several competing options.",
+    "refresher": "Choosing one benefit usually means giving up another. Name what you are sacrificing so an attractive feature does not hide an unacceptable cost.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 232
+    },
+    "links": [
+      {
+        "title": "OpenStax · Opportunity costs and diminishing returns",
+        "url": "https://openstax.org/books/principles-economics-2e/pages/2-2-the-production-possibilities-frontier-and-social-choices"
+      },
+      {
+        "title": "Josh Kaufman · Tradeoffs",
+        "url": "https://personalmba.com/tradeoffs/"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-feedback-loops",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Feedback loops",
+    "quote": "Feedback Loops exist whenever the output of a System becomes one of the inputs in the next cycle.",
+    "refresher": "An outcome can influence the conditions that produce the next outcome. Trace that loop to see whether a system amplifies change or brings itself back toward balance.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 858
+    },
+    "links": [
+      {
+        "title": "Nicky Case · Explore feedback loops with LOOPY (interactive)",
+        "url": "https://ncase.me/loopy/"
+      },
+      {
+        "title": "Josh Kaufman · Feedback loops",
+        "url": "https://personalmba.com/feedback-loop/"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-diminishing-returns",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Diminishing returns",
+    "quote": "All good things are subject to Diminishing Returns-after a certain point, having more of something can actually be detrimental.",
+    "refresher": "The next unit of effort may add less value than the previous one. Compare the benefit of more polishing with the benefit of putting that effort elsewhere.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 955
+    },
+    "links": [
+      {
+        "title": "OpenStax · Opportunity costs and diminishing returns",
+        "url": "https://openstax.org/books/principles-economics-2e/pages/2-2-the-production-possibilities-frontier-and-social-choices"
+      },
+      {
+        "title": "Josh Kaufman · Diminishing returns",
+        "url": "https://personalmba.com/diminishing-returns/"
+      }
+    ]
+  },
+  {
+    "id": "poor-charlie-s-almanack-invert-the-problem",
+    "bookId": "poor-charlie-s-almanack",
+    "book": "Poor Charlie’s Almanack",
+    "author": "Charles T. Munger; edited by Peter D. Kaufman",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Invert the problem",
+    "quote": "Charlie generally focuses first on what to avoid-that is, on what not to do-before he considers the affirmative steps he will take in a given situation. \"All I want to know is where I'm going to die, so I'll never go there\".",
+    "refresher": "Alongside asking how to succeed, ask what would reliably cause failure. Avoiding preventable mistakes can reveal a simpler path forward.",
+    "source": {
+      "file": "Kaufman P. - Poor Charlie_s Almanack.docx",
+      "paragraph": 12
+    },
+    "links": [
+      {
+        "title": "Farnam Street · Inversion",
+        "url": "https://fs.blog/inversion/"
+      }
+    ]
+  },
+  {
+    "id": "poor-charlie-s-almanack-the-too-hard-basket",
+    "bookId": "poor-charlie-s-almanack",
+    "book": "Poor Charlie’s Almanack",
+    "author": "Charles T. Munger; edited by Peter D. Kaufman",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "The too-hard basket",
+    "quote": "\"'We have three baskets for investing: yes, no, and too tough to understand.”",
+    "refresher": "Not every decision deserves an immediate yes or no. Recognizing that you do not understand a situation can be a useful decision in itself.",
+    "source": {
+      "file": "Kaufman P. - Poor Charlie_s Almanack.docx",
+      "paragraph": 14
+    },
+    "links": [
+      {
+        "title": "Farnam Street · Circle of competence",
+        "url": "https://fs.blog/circle-of-competence/"
+      }
+    ]
+  },
+  {
+    "id": "poor-charlie-s-almanack-a-latticework-of-models",
+    "bookId": "poor-charlie-s-almanack",
+    "book": "Poor Charlie’s Almanack",
+    "author": "Charles T. Munger; edited by Peter D. Kaufman",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "A latticework of models",
+    "quote": "What you need is a latticework of mental models in your head. And you hang your actual experience and your vicarious experience that you get from reading and so forth on this latticework of powerful models. And with that system, things gradually get to fit together in a way that enhances cognition.",
+    "refresher": "A single explanation makes every problem look alike. Connect ideas from different fields, then check which model actually fits the situation in front of you.",
+    "source": {
+      "file": "Kaufman P. - Poor Charlie_s Almanack.docx",
+      "paragraph": 74
+    },
+    "links": [
+      {
+        "title": "Farnam Street · A guide to mental models",
+        "url": "https://fs.blog/mental-models/"
+      }
+    ]
+  },
+  {
+    "id": "poor-charlie-s-almanack-follow-the-incentives",
+    "bookId": "poor-charlie-s-almanack",
+    "book": "Poor Charlie’s Almanack",
+    "author": "Charles T. Munger; edited by Peter D. Kaufman",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Follow the incentives",
+    "quote": "Almost everyone thinks he fully recognizes how important incentives and disincentives are in changing cognition and behavior. But this is not often so.",
+    "refresher": "Before explaining behavior as a personality trait, inspect what gets rewarded. A sensible person can produce an undesirable result when the reward system points that way.",
+    "source": {
+      "file": "Kaufman P. - Poor Charlie_s Almanack.docx",
+      "paragraph": 150
+    },
+    "links": [
+      {
+        "title": "Farnam Street · A guide to mental models",
+        "url": "https://fs.blog/mental-models/"
+      }
+    ]
+  },
+  {
+    "id": "poor-charlie-s-almanack-checklists-protect-attention",
+    "bookId": "poor-charlie-s-almanack",
+    "book": "Poor Charlie’s Almanack",
+    "author": "Charles T. Munger; edited by Peter D. Kaufman",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Checklists protect attention",
+    "quote": "Analytic rigor: Use of the scientific method and effective checklists minimizes errors and omissions.",
+    "refresher": "Expertise does not make memory reliable under pressure. Externalize critical checks so routine omissions do not undermine otherwise sound judgment.",
+    "source": {
+      "file": "Kaufman P. - Poor Charlie_s Almanack.docx",
+      "paragraph": 21
+    },
+    "links": [
+      {
+        "title": "Farnam Street · A guide to mental models",
+        "url": "https://fs.blog/mental-models/"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-keep-evidence-of-your-work",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Keep evidence of your work",
+    "quote": "Record key work each week, including important code changes, code reviews, design documents, discussions and planning, helping out others, postmortems, and anything else which takes time and has an impact. Former Stripe software engineer Julia Evans calls this a “brag document”.",
+    "refresher": "Record contributions while they are fresh, including reviews, mentoring, and maintenance. A concrete record helps you recognize progress that a list of shipped features misses.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 75
+    },
+    "links": [
+      {
+        "title": "Julia Evans · Write a brag document",
+        "url": "https://jvns.ca/blog/brag-documents/"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-ask-for-specific-feedback",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Ask for specific feedback",
+    "quote": "My suggestion is to avoid asking for personal feedback. Instead, ask for feedback about something specific you did, or worked on.",
+    "refresher": "“How did I do?” is difficult to answer usefully. Ask about a concrete artifact or moment, such as whether a design explanation made the trade-offs clear.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 86
+    },
+    "links": [
+      {
+        "title": "Manager Tools · A practical feedback model (PDF)",
+        "url": "https://www.manager-tools.com/docs/Manager_Tools_Feedback_Model.pdf"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-feedback-is-input-not-an-order",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Feedback is input, not an order",
+    "quote": "Take feedback seriously, but remember that it’s opinion and not a directive. Just because people give you feedback, doesn’t mean you need to act on it. Listen to what they have to say, then figure out if it’s valid.",
+    "refresher": "Listen carefully, then evaluate the observation against your goals and other evidence. You can take feedback seriously without following every suggestion.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 143
+    },
+    "links": [
+      {
+        "title": "Manager Tools · A practical feedback model (PDF)",
+        "url": "https://www.manager-tools.com/docs/Manager_Tools_Feedback_Model.pdf"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-describe-the-impact",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Describe the impact",
+    "quote": "Stand out in results, impact, and numbers. Define the impact of your work, ideally with numbers.",
+    "refresher": "Explain who benefited and what changed because of your work. Use numbers when they clarify the result; avoid replacing meaningful outcomes with impressive-looking activity counts.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 347
+    },
+    "links": [
+      {
+        "title": "Staff Engineer · Work on what matters",
+        "url": "https://staffeng.com/guides/work-on-what-matters/"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-build-a-personal-field-guide",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Build a personal field guide",
+    "quote": "Keep a “cheat sheet” document in which you record everything that’s new. This could be acronyms and their meanings, build commands, bookmarks to key resources, and much more.",
+    "refresher": "Capture unfamiliar terms, commands, and useful references while learning a system. A small searchable guide saves you from repeatedly solving the same orientation problems.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 408
+    },
+    "links": [
+      {
+        "title": "Julia Evans · Keeping “today I learned” notes",
+        "url": "https://jvns.ca/blog/2024/11/09/new-microblog/"
+      }
+    ]
+  },
+  {
+    "id": "architecture-patterns-with-python-invert-the-dependencies",
+    "bookId": "architecture-patterns-with-python",
+    "book": "Architecture Patterns with Python",
+    "author": "Harry Percival and Bob Gregory",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Invert the dependencies",
+    "quote": "So the first part of the DIP says that our business code shouldn’t depend on technical details; instead, both should use abstractions. Why? Broadly, because we want to be able to change them independently of each other.",
+    "refresher": "Keep business rules independent of replaceable infrastructure. An abstraction lets the database or transport change without forcing the core behavior to change with it.",
+    "source": {
+      "file": "Percival H. - Architecture Patterns with Python.docx",
+      "paragraph": 14
+    },
+    "links": [
+      {
+        "title": "Alistair Cockburn · Ports and adapters architecture",
+        "url": "https://alistair.cockburn.us/hexagonal-architecture"
+      },
+      {
+        "title": "Cosmic Python · Abstractions and dependency inversion",
+        "url": "https://www.cosmicpython.com/book/introduction"
+      }
+    ]
+  },
+  {
+    "id": "architecture-patterns-with-python-behavior-before-storage",
+    "bookId": "architecture-patterns-with-python",
+    "book": "Architecture Patterns with Python",
+    "author": "Harry Percival and Bob Gregory",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Behavior before storage",
+    "quote": "Behavior should come first and drive our storage requirements. After all, our customers don’t care about the data model. They care about what the system does; otherwise they’d just use a spreadsheet.",
+    "refresher": "Start with what the system must do for people. Let those use cases shape the data model, rather than treating database tables as the product specification.",
+    "source": {
+      "file": "Percival H. - Architecture Patterns with Python.docx",
+      "paragraph": 24
+    },
+    "links": [
+      {
+        "title": "Martin Fowler · Domain logic and the database",
+        "url": "https://martinfowler.com/articles/dblogic.html"
+      },
+      {
+        "title": "Cosmic Python · Domain modeling",
+        "url": "https://www.cosmicpython.com/book/chapter_01_domain_model"
+      }
+    ]
+  },
+  {
+    "id": "architecture-patterns-with-python-use-the-domain-s-language",
+    "bookId": "architecture-patterns-with-python",
+    "book": "Architecture Patterns with Python",
+    "author": "Harry Percival and Bob Gregory",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Use the domain’s language",
+    "quote": "When we hear our business stakeholders using unfamiliar words, or using terms in a specific way, we should listen to understand the deeper meaning and encode their hard-won experience into our software.",
+    "refresher": "Specialized vocabulary often encodes important business distinctions. Learn what stakeholders mean and preserve those distinctions in the names and behavior of your software.",
+    "source": {
+      "file": "Percival H. - Architecture Patterns with Python.docx",
+      "paragraph": 31
+    },
+    "links": [
+      {
+        "title": "Martin Fowler · Building a shared domain language",
+        "url": "https://martinfowler.com/bliki/UbiquitousLanguage.html"
+      },
+      {
+        "title": "Cosmic Python · Domain modeling",
+        "url": "https://www.cosmicpython.com/book/chapter_01_domain_model"
+      }
+    ]
+  },
+  {
+    "id": "architecture-patterns-with-python-value-objects",
+    "bookId": "architecture-patterns-with-python",
+    "book": "Architecture Patterns with Python",
+    "author": "Harry Percival and Bob Gregory",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Value objects",
+    "quote": "Whenever we have a business concept that has data but no identity, we often choose to represent it using the Value Object pattern. A value object is any domain object that is uniquely identified by the data it holds; we usually make them immutable.",
+    "refresher": "Some things are defined by their attributes rather than a unique identity. Two equivalent measurements or amounts can be interchangeable; immutability helps preserve that meaning.",
+    "source": {
+      "file": "Percival H. - Architecture Patterns with Python.docx",
+      "paragraph": 33
+    },
+    "links": [
+      {
+        "title": "Martin Fowler · Value objects",
+        "url": "https://martinfowler.com/bliki/ValueObject.html"
+      },
+      {
+        "title": "Cosmic Python · Domain modeling",
+        "url": "https://www.cosmicpython.com/book/chapter_01_domain_model"
+      }
+    ]
+  },
+  {
+    "id": "architecture-patterns-with-python-entities-retain-identity",
+    "bookId": "architecture-patterns-with-python",
+    "book": "Architecture Patterns with Python",
+    "author": "Harry Percival and Bob Gregory",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Entities retain identity",
+    "quote": "Entities, unlike values, have identity equality. We can change their values, and they are still recognizably the same thing. Batches, in our example, are entities. We can allocate lines to a batch, or change the date that we expect it to arrive, and it will still be the same entity.",
+    "refresher": "An entity stays the same entity even when its attributes change. Model identity explicitly when tracking something through time, such as an order whose status changes.",
+    "source": {
+      "file": "Percival H. - Architecture Patterns with Python.docx",
+      "paragraph": 35
+    },
+    "links": [
+      {
+        "title": "Martin Fowler · Entities, value objects, and services",
+        "url": "https://martinfowler.com/bliki/EvansClassification.html"
+      },
+      {
+        "title": "Cosmic Python · Domain modeling",
+        "url": "https://www.cosmicpython.com/book/chapter_01_domain_model"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-models-contain-choices",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "Models contain choices",
+    "quote": "Our own values and desire influence our choices, from the data we choose to collect to the questions we ask. Models are opinions embedded in mathematics.",
+    "refresher": "A mathematical model embeds decisions about what to measure and optimize. Inspect those choices before treating its output as a neutral description of reality.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 10
+    },
+    "links": [
+      {
+        "title": "Google · Fairness in machine learning",
+        "url": "https://developers.google.com/machine-learning/guides/intro-responsible-ai/fairness"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-a-proxy-is-not-the-target",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "A proxy is not the target",
+    "quote": "The folks building WMDs routinely lack data for the behaviors they're most interested in. So they substitute stand-in data, or proxies. These correlations are discriminatory, and some of them are illegal.",
+    "refresher": "A convenient measurement can stand in for something you cannot observe directly. Ask where that substitution breaks down and whose circumstances it misrepresents.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 7
+    },
+    "links": [
+      {
+        "title": "Google · Fairness in machine learning",
+        "url": "https://developers.google.com/machine-learning/guides/intro-responsible-ai/fairness"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-define-success-carefully",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "Define success carefully",
+    "quote": "Whether or not a model works is also matter of opinion. A key component of a model is its definition of success.",
+    "refresher": "A system can perform well against its chosen metric while failing the people affected. Ask whose outcome the metric rewards and what it leaves invisible.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 11
+    },
+    "links": [
+      {
+        "title": "Google · Fairness in machine learning",
+        "url": "https://developers.google.com/machine-learning/guides/intro-responsible-ai/fairness"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-opacity-scale-and-harm",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "Opacity, scale, and harm",
+    "quote": "These are the three elements of a WMD: Opacity, Scale, and Damage.",
+    "refresher": "O’Neil’s warning concerns systems that combine hard-to-question decisions with wide reach and damaging consequences. Consider recourse and affected people alongside predictive performance.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 19
+    },
+    "links": [
+      {
+        "title": "Google · Fairness in machine learning",
+        "url": "https://developers.google.com/machine-learning/guides/intro-responsible-ai/fairness"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-make-decisions-contestable",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "Make decisions contestable",
+    "quote": "The human victims of WMDs are held to a far higher standard of evidence than the algorithms themselves.",
+    "refresher": "If people bear the consequences of a score, they need a meaningful way to challenge errors. Accountability includes examining the model, not only demanding better evidence from those it judges.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 6
+    },
+    "links": [
+      {
+        "title": "Google · Fairness in machine learning",
+        "url": "https://developers.google.com/machine-learning/guides/intro-responsible-ai/fairness"
+      }
+    ]
+  },
+  {
+    "id": "sapiens-culture-can-change-faster-than-genes",
+    "bookId": "sapiens",
+    "book": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Culture can change faster than genes",
+    "quote": "Ever since the Cognitive Revolution, Sapiens have been able to change their behaviour quickly, transmitting new behaviours to future generations without any need of genetic environmental change.",
+    "refresher": "Learned practices can spread through teaching and imitation without waiting for biological evolution. Keep cultural explanations distinct from claims that a behavior is genetically inevitable.",
+    "source": {
+      "file": "Sapiens notes.html",
+      "paragraph": 12
+    },
+    "links": [
+      {
+        "title": "Smithsonian · Language and symbols",
+        "url": "https://humanorigins.si.edu/human-characteristics/language-symbols"
+      }
+    ]
+  },
+  {
+    "id": "sapiens-shared-stories-organize-life",
+    "bookId": "sapiens",
+    "book": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Shared stories organize life",
+    "quote": "Three main factors prevent people from realizing that the order organising their lives exists only in their imagination: the imagined order is embedded in the material world, the imagined order shapes our desires, the imagined order is inter-subjective.",
+    "refresher": "In Harari’s framing, institutions become powerful when people coordinate around shared meanings. “Imagined” does not mean inconsequential: collectively accepted rules can shape very real opportunities.",
+    "source": {
+      "file": "Sapiens notes.html",
+      "paragraph": 38
+    },
+    "links": [
+      {
+        "title": "Smithsonian · Language and symbols",
+        "url": "https://humanorigins.si.edu/human-characteristics/language-symbols"
+      }
+    ]
+  },
+  {
+    "id": "sapiens-money-as-shared-trust",
+    "bookId": "sapiens",
+    "book": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Money as shared trust",
+    "quote": "Money is anything that people are willing to use in order to represent systematically the value of other things for the purpose of exchanging goods and services. Is a new inter-subject reality that exists solely in people's shared imagination.",
+    "refresher": "Money works partly because people expect others to accept it. That shared expectation connects strangers who do not need to agree on much else.",
+    "source": {
+      "file": "Sapiens notes.html",
+      "paragraph": 54
+    },
+    "links": [
+      {
+        "title": "Bank of England · What is money?",
+        "url": "https://www.bankofengland.co.uk/explainers/what-is-money"
+      }
+    ]
+  },
+  {
+    "id": "sapiens-hindsight-hides-uncertainty",
+    "bookId": "sapiens",
+    "book": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Hindsight hides uncertainty",
+    "quote": "There is an iron rule of history that what looks inevitable in hindsight was far from obvious at the time.",
+    "refresher": "Knowing the ending makes earlier events look more inevitable than they were. Reconstruct the information available at the time before judging a past decision.",
+    "source": {
+      "file": "Sapiens notes.html",
+      "paragraph": 78
+    },
+    "links": [
+      {
+        "title": "Baruch Fischhoff · Studying the past without hindsight (PDF)",
+        "url": "https://www.cmu.edu/epp/people/faculty/research/Fischhoff-For-Those-Condemned-To-Study-The-Past.pdf"
+      }
+    ]
+  },
+  {
+    "id": "sapiens-whose-well-being-counts",
+    "bookId": "sapiens",
+    "book": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Whose well-being counts?",
+    "quote": "When evaluating global happiness, it is wrong to count the happiness only of the upper classes, of Europeans or of men. Perhaps it is also wrong to consider only the happiness of humans.",
+    "refresher": "A claim about progress depends on whose experience is included. Widen the frame beyond visible winners and consider those who bear costs without having a voice.",
+    "source": {
+      "file": "Sapiens notes.html",
+      "paragraph": 121
+    },
+    "links": [
+      {
+        "title": "Peter Singer · The why and how of effective altruism",
+        "url": "https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism"
+      }
+    ]
+  },
+  {
+    "id": "a-short-history-of-nearly-everything-patterns-make-predictions-possible",
+    "bookId": "a-short-history-of-nearly-everything",
+    "book": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "genre": "nonfiction",
+    "topic": "Science",
+    "concept": "Patterns make predictions possible",
+    "quote": "Elements were normally grouped in two ways - either by atomic weight or by common properties. Mendeleyev’s breakthrough was to see that the two could be combined in a single table.",
+    "refresher": "Organizing elements by recurring properties made gaps in the table informative. A useful classification does more than label what is known; it suggests what to look for next.",
+    "source": {
+      "file": "A short history of nearly everything notes.html",
+      "paragraph": 27
+    },
+    "links": [
+      {
+        "title": "Royal Society of Chemistry · Explore the periodic table",
+        "url": "https://periodic-table.rsc.org/"
+      }
+    ]
+  },
+  {
+    "id": "a-short-history-of-nearly-everything-light-sets-a-universal-scale",
+    "bookId": "a-short-history-of-nearly-everything",
+    "book": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "genre": "nonfiction",
+    "topic": "Science",
+    "concept": "Light sets a universal scale",
+    "quote": "He measured the velocity of light with great precision, but the speed of light turned out to be the same in all directions and at all seasons.",
+    "refresher": "The speed of light in a vacuum is invariant for inertial observers. Unlike an ordinary moving object, light does not simply acquire extra speed because its source is moving.",
+    "source": {
+      "file": "A short history of nearly everything notes.html",
+      "paragraph": 31
+    },
+    "links": [
+      {
+        "title": "NIST · The speed of light and SI units",
+        "url": "https://www.nist.gov/pml/special-publication-330/sp-330-section-2"
+      }
+    ]
+  },
+  {
+    "id": "a-short-history-of-nearly-everything-the-atomic-view-of-matter",
+    "bookId": "a-short-history-of-nearly-everything",
+    "book": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "genre": "nonfiction",
+    "topic": "Science",
+    "concept": "The atomic view of matter",
+    "quote": "If you had to reduce scientific history to one important statement it would be “all things are made of atoms”.",
+    "refresher": "Everyday materials are built from atoms arranged and bonded in different ways. Their microscopic organization helps explain the very different properties you notice at human scale.",
+    "source": {
+      "file": "A short history of nearly everything notes.html",
+      "paragraph": 45
+    },
+    "links": [
+      {
+        "title": "Royal Society of Chemistry · Elements and their properties",
+        "url": "https://periodic-table.rsc.org/"
+      }
+    ]
+  },
+  {
+    "id": "a-short-history-of-nearly-everything-radiocarbon-clocks",
+    "bookId": "a-short-history-of-nearly-everything",
+    "book": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "genre": "nonfiction",
+    "topic": "Science",
+    "concept": "Radiocarbon clocks",
+    "quote": "All living things have within them an isotope of carbon called carbon-14, which begins to decay at a measurable rate the instant they die.",
+    "refresher": "A correction to the note: carbon-14 decays during life too. After death, replenishment stops, so the changing isotope ratio can help estimate when once-living material stopped exchanging carbon.",
+    "source": {
+      "file": "A short history of nearly everything notes.html",
+      "paragraph": 58
+    },
+    "links": [
+      {
+        "title": "National Park Service · Radiometric age dating",
+        "url": "https://www.nps.gov/subjects/geology/radiometric-age-dating.htm"
+      }
+    ]
+  },
+  {
+    "id": "a-short-history-of-nearly-everything-earth-s-magnetic-environment",
+    "bookId": "a-short-history-of-nearly-everything",
+    "book": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "genre": "nonfiction",
+    "topic": "Science",
+    "concept": "Earth’s magnetic environment",
+    "quote": "The right kind of planet: the molten interior helped building the atmosphere, provided us with the magnetic field that shield us from cosmic radiation and gave us tectonics.",
+    "refresher": "Earth’s interior helps generate a magnetic field that interacts with charged particles from space. Together with the atmosphere, it shapes the protective environment in which we live.",
+    "source": {
+      "file": "A short history of nearly everything notes.html",
+      "paragraph": 90
+    },
+    "links": [
+      {
+        "title": "NASA · Earth’s magnetosphere",
+        "url": "https://science.nasa.gov/science-research/planetary-science/earths-magnetosphere/"
+      }
+    ]
+  },
+  {
+    "id": "how-to-win-friends-and-influence-people-interest-is-an-invitation",
+    "bookId": "how-to-win-friends-and-influence-people",
+    "book": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Interest is an invitation",
+    "quote": "You can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you.",
+    "refresher": "Connection often begins by being curious about another person’s world. Ask a question you actually want answered, then make room for the answer.",
+    "source": {
+      "file": "How to win friends and influence people notes.html",
+      "paragraph": 29
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Four mindful listening principles",
+        "url": "https://www.gottman.com/blog/4-mindful-listening-principles-to-better-navigate-conflict/"
+      }
+    ]
+  },
+  {
+    "id": "how-to-win-friends-and-influence-people-remember-the-person",
+    "bookId": "how-to-win-friends-and-influence-people",
+    "book": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Remember the person",
+    "quote": "Remember that a person's name is to that person the sweetest and most important sound in any language:",
+    "refresher": "Using someone’s name attentively can signal recognition. Learn how they pronounce it and what they prefer to be called, rather than repeating it mechanically.",
+    "source": {
+      "file": "How to win friends and influence people notes.html",
+      "paragraph": 38
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Small things often",
+        "url": "https://www.gottman.com/blog/small-things-often-ingredients-happy-relationship/"
+      }
+    ]
+  },
+  {
+    "id": "how-to-win-friends-and-influence-people-make-appreciation-sincere",
+    "bookId": "how-to-win-friends-and-influence-people",
+    "book": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Make appreciation sincere",
+    "quote": "You want a feeling that you are important in your little world. You don't want to listen to cheap, insincere flattery, but you do crave sincere appreciation. How? When? Where? The answer is: All the time, everywhere",
+    "refresher": "Praise is more meaningful when it names something real. Point to a specific contribution and explain why it mattered instead of reaching for generic flattery.",
+    "source": {
+      "file": "How to win friends and influence people notes.html",
+      "paragraph": 52
+    },
+    "links": [
+      {
+        "title": "Manager Tools · A practical feedback model (PDF)",
+        "url": "https://www.manager-tools.com/docs/Manager_Tools_Feedback_Model.pdf"
+      }
+    ]
+  },
+  {
+    "id": "how-to-win-friends-and-influence-people-winning-can-lose-the-relationship",
+    "bookId": "how-to-win-friends-and-influence-people",
+    "book": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Winning can lose the relationship",
+    "quote": "'If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get your opponent's good will.'",
+    "refresher": "A debate can end with your argument intact and the other person less willing to cooperate. Decide whether the goal is a point scored or a problem solved together.",
+    "source": {
+      "file": "How to win friends and influence people notes.html",
+      "paragraph": 56
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Listen without getting defensive",
+        "url": "https://www.gottman.com/blog/listen-without-getting-defensive/"
+      }
+    ]
+  },
+  {
+    "id": "how-to-win-friends-and-influence-people-own-your-part-promptly",
+    "bookId": "how-to-win-friends-and-influence-people",
+    "book": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Own your part promptly",
+    "quote": "Be honest. Look for areas where you can can admit error and say so. Apologize for your mistakes.",
+    "refresher": "A clear acknowledgment of your mistake can interrupt a defensive exchange. Name what you got wrong and what you will do next, without making the apology a counterattack.",
+    "source": {
+      "file": "How to win friends and influence people notes.html",
+      "paragraph": 64
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Listen without getting defensive",
+        "url": "https://www.gottman.com/blog/listen-without-getting-defensive/"
+      }
+    ]
+  },
+  {
+    "id": "the-art-of-loving-love-as-a-practice",
+    "bookId": "the-art-of-loving",
+    "book": "The Art of Loving",
+    "author": "Erich Fromm",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Love as a practice",
+    "quote": "Is love an art? Then it requires knowledge and effort. Or is love a pleasant sensation, which to experience is a matter of chance, something one `falls into' if one is lucky? This little book is based on the former premise, while undoubtedly the majority of people today believe in the latter.",
+    "refresher": "Fromm treats loving as a capacity to develop, not only a feeling to discover. Look at the habits through which you give someone care and attention.",
+    "source": {
+      "file": "Fromm E. - The Art of Loving_.docx",
+      "paragraph": 3
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Small things often",
+        "url": "https://www.gottman.com/blog/small-things-often-ingredients-happy-relationship/"
+      }
+    ]
+  },
+  {
+    "id": "the-art-of-loving-four-ingredients-of-care",
+    "bookId": "the-art-of-loving",
+    "book": "The Art of Loving",
+    "author": "Erich Fromm",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Four ingredients of care",
+    "quote": "Beyond the element of giving the active character of love becomes evident in the fact that it always implies certain basic elements. common to all forms of love. These are care, responsibility, respect and knowledge.",
+    "refresher": "Fromm connects love with care, responsibility, respect, and knowledge. Use the four together: wanting someone’s good is different from assuming you already know what they need.",
+    "source": {
+      "file": "Fromm E. - The Art of Loving_.docx",
+      "paragraph": 21
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Four mindful listening principles",
+        "url": "https://www.gottman.com/blog/4-mindful-listening-principles-to-better-navigate-conflict/"
+      }
+    ]
+  },
+  {
+    "id": "the-art-of-loving-respect-preserves-individuality",
+    "bookId": "the-art-of-loving",
+    "book": "The Art of Loving",
+    "author": "Erich Fromm",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Respect preserves individuality",
+    "quote": "Responsibility could easily deteriorate into domination and possessiveness, were it not for a third component of love, respect. Respect is not fear and awe; it denotes, in accordance with the root of the word (respicere, to look at), the ability to see a person as he is to be aware of his unique individuality.",
+    "refresher": "Caring for a person does not grant ownership of their choices. Make room for the person they actually are, rather than the version you want them to become.",
+    "source": {
+      "file": "Fromm E. - The Art of Loving_.docx",
+      "paragraph": 25
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Four mindful listening principles",
+        "url": "https://www.gottman.com/blog/4-mindful-listening-principles-to-better-navigate-conflict/"
+      }
+    ]
+  },
+  {
+    "id": "the-art-of-loving-include-yourself-in-your-care",
+    "bookId": "the-art-of-loving",
+    "book": "The Art of Loving",
+    "author": "Erich Fromm",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Include yourself in your care",
+    "quote": "The affirmation of one's own life, happiness, growth, freedom is rooted in one's capacity to love, i.e. in care,. respect, responsibility, and knowledge. If an individual is able to love productively, he loves himself too; if he can love only others, he cannot love at all.",
+    "refresher": "Fromm’s account of love includes regard for your own life and growth. Caring for others need not require treating your own needs as worthless.",
+    "source": {
+      "file": "Fromm E. - The Art of Loving_.docx",
+      "paragraph": 52
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Small things often",
+        "url": "https://www.gottman.com/blog/small-things-often-ingredients-happy-relationship/"
+      }
+    ]
+  },
+  {
+    "id": "the-art-of-loving-patience-with-a-living-process",
+    "bookId": "the-art-of-loving",
+    "book": "The Art of Loving",
+    "author": "Erich Fromm",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Patience with a living process",
+    "quote": "A third factor is patience. Patience is necessary if you want to achieve anything. If one is after quick results, one never learns an art.",
+    "refresher": "Deep capacities develop through repeated practice, not an instant result. Give relationships time to grow while remaining attentive to what your actions are contributing.",
+    "source": {
+      "file": "Fromm E. - The Art of Loving_.docx",
+      "paragraph": 79
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Small things often",
+        "url": "https://www.gottman.com/blog/small-things-often-ingredients-happy-relationship/"
+      }
+    ]
+  },
+  {
+    "id": "zero-to-one-reason-from-first-principles",
+    "bookId": "zero-to-one",
+    "book": "Zero to One",
+    "author": "Peter Thiel with Blake Masters",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Reason from first principles",
+    "quote": "Successful people find value in unexpected places, and they do this by thinking about business from first principles instead of formulas.",
+    "refresher": "Separate a problem’s actual constraints from familiar ways of solving it. Copying a successful formula may miss the conditions that made it work.",
+    "source": {
+      "file": "Zero to One notes.html",
+      "paragraph": 4
+    },
+    "links": [
+      {
+        "title": "Farnam Street · A guide to mental models",
+        "url": "https://fs.blog/mental-models/"
+      }
+    ]
+  },
+  {
+    "id": "zero-to-one-create-a-new-capability",
+    "bookId": "zero-to-one",
+    "book": "Zero to One",
+    "author": "Peter Thiel with Blake Masters",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Create a new capability",
+    "quote": "Going from 0 to 1, or progressing vertically, is harder to imagine because it requires doing something nobody else has ever done.",
+    "refresher": "Thiel distinguishes improving or spreading an existing approach from making something newly possible. Ask what your idea enables that people could not do before.",
+    "source": {
+      "file": "Zero to One notes.html",
+      "paragraph": 7
+    },
+    "links": [
+      {
+        "title": "Paul Graham · How to get startup ideas",
+        "url": "https://www.paulgraham.com/startupideas.html"
+      }
+    ]
+  },
+  {
+    "id": "zero-to-one-start-with-a-specific-market",
+    "bookId": "zero-to-one",
+    "book": "Zero to One",
+    "author": "Peter Thiel with Blake Masters",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Start with a specific market",
+    "quote": "Every startup should start with a very small market. The perfect target is a small group of particular people concentrated together and served by few or no competitors.",
+    "refresher": "A small, clearly defined group can have an urgent problem you can solve well. Learn to serve that group deeply before broadening your reach.",
+    "source": {
+      "file": "Zero to One notes.html",
+      "paragraph": 41
+    },
+    "links": [
+      {
+        "title": "Paul Graham · How to get startup ideas",
+        "url": "https://www.paulgraham.com/startupideas.html"
+      }
+    ]
+  },
+  {
+    "id": "zero-to-one-look-for-the-overlooked",
+    "bookId": "zero-to-one",
+    "book": "Zero to One",
+    "author": "Peter Thiel with Blake Masters",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Look for the overlooked",
+    "quote": "You can't find secrets without looking for them. If you think something hard is impossible, you'll never even start trying to achieve it.",
+    "refresher": "Unexplored questions remain invisible if you assume all the useful answers are known. Investigate a neglected problem before concluding that it cannot be solved.",
+    "source": {
+      "file": "Zero to One notes.html",
+      "paragraph": 64
+    },
+    "links": [
+      {
+        "title": "Paul Graham · How to get startup ideas",
+        "url": "https://www.paulgraham.com/startupideas.html"
+      }
+    ]
+  },
+  {
+    "id": "zero-to-one-durability-matters",
+    "bookId": "zero-to-one",
+    "book": "Zero to One",
+    "author": "Peter Thiel with Blake Masters",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Durability matters",
+    "quote": "For a company to be valuable it must grow and endure, if you focus on near-term growth above all else, you miss the most important question you should be asking: will this business still be around a decade from now?",
+    "refresher": "Early growth is only part of the story. Ask what will keep the product useful and the organization viable after the initial excitement fades.",
+    "source": {
+      "file": "Zero to One notes.html",
+      "paragraph": 35
+    },
+    "links": [
+      {
+        "title": "NFX · Network effects as a source of defensibility",
+        "url": "https://www.nfx.com/post/network-effects-manual"
+      },
+      {
+        "title": "Y Combinator · Peter Thiel on durable businesses (video)",
+        "url": "https://www.youtube.com/watch?v=3Fx5Q8xGU8k"
+      }
+    ]
+  },
+  {
+    "id": "no-rules-rules-the-hidden-cost-of-a-rule",
+    "bookId": "no-rules-rules",
+    "book": "No Rules Rules",
+    "author": "Reed Hastings and Erin Meyer",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "The hidden cost of a rule",
+    "quote": "Errors that cost company money. Each time this happened, I put a process in place to prevent that mistake from occurring again. Policies and control processes became foundational. We failed to innovate quickly, and were unable to adapt.",
+    "refresher": "A rule introduced after one mistake can burden every future decision. Periodically compare the problem a process prevents with the time and adaptability it costs.",
+    "source": {
+      "file": "No rules rules notes.html",
+      "paragraph": 8
+    },
+    "links": [
+      {
+        "title": "Google SRE · Eliminating repetitive operational work",
+        "url": "https://sre.google/sre-book/eliminating-toil/"
+      },
+      {
+        "title": "Netflix · Culture memo",
+        "url": "https://jobs.netflix.com/culture"
+      }
+    ]
+  },
+  {
+    "id": "no-rules-rules-make-candor-useful",
+    "bookId": "no-rules-rules",
+    "book": "No Rules Rules",
+    "author": "Reed Hastings and Erin Meyer",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Make candor useful",
+    "quote": "Coach your employees to give and receive feedback effectively, following the 4A guidelines (giver side: Aim to assist, Actionable, receiver side: Appreciate, Accept or discard).",
+    "refresher": "The four-part framework asks givers to assist and be actionable, and receivers to appreciate feedback while deciding whether to use it. Candor is a skill, not permission for cruelty.",
+    "source": {
+      "file": "No rules rules notes.html",
+      "paragraph": 32
+    },
+    "links": [
+      {
+        "title": "Manager Tools · A practical feedback model (PDF)",
+        "url": "https://www.manager-tools.com/docs/Manager_Tools_Feedback_Model.pdf"
+      }
+    ]
+  },
+  {
+    "id": "no-rules-rules-context-needs-the-right-conditions",
+    "bookId": "no-rules-rules",
+    "book": "No Rules Rules",
+    "author": "Reed Hastings and Erin Meyer",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Context needs the right conditions",
+    "quote": "In order to lead with context, you need to have high talent density, your goal needs to be innovation (not error prevention), and you need to be operating in a loosely coupled system.",
+    "refresher": "Hastings and Meyer make freedom conditional on capable teams, loose coupling, and a goal of innovation. Match the amount of control to the work’s actual consequences.",
+    "source": {
+      "file": "No rules rules notes.html",
+      "paragraph": 77
+    },
+    "links": [
+      {
+        "title": "Atlassian · Clarify who owns a decision with DACI",
+        "url": "https://www.atlassian.com/team-playbook/plays/daci"
+      },
+      {
+        "title": "Netflix · Culture memo",
+        "url": "https://jobs.netflix.com/culture"
+      }
+    ]
+  },
+  {
+    "id": "no-rules-rules-distribute-decision-ownership",
+    "bookId": "no-rules-rules",
+    "book": "No Rules Rules",
+    "author": "Reed Hastings and Erin Meyer",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Distribute decision ownership",
+    "quote": "In a fast and innovative company, ownership of critical, big-ticket decisions should be dispersed across the workforce at all different levels, not allocated according to hierarchical status.",
+    "refresher": "Put decisions near people with relevant information rather than automatically sending everything upward. Clarify who owns the choice and which context they need.",
+    "source": {
+      "file": "No rules rules notes.html",
+      "paragraph": 60
+    },
+    "links": [
+      {
+        "title": "Atlassian · Clarify who owns a decision with DACI",
+        "url": "https://www.atlassian.com/team-playbook/plays/daci"
+      },
+      {
+        "title": "Netflix · Culture memo",
+        "url": "https://jobs.netflix.com/culture"
+      }
+    ]
+  },
+  {
+    "id": "no-rules-rules-learn-openly-from-failed-bets",
+    "bookId": "no-rules-rules",
+    "book": "No Rules Rules",
+    "author": "Reed Hastings and Erin Meyer",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Learn openly from failed bets",
+    "quote": "Teach your employees that when a bet fails, they should sunshine it openly.",
+    "refresher": "Make an unsuccessful experiment visible enough for others to learn from it. Explain the assumption, what happened, and what you will change on the next attempt.",
+    "source": {
+      "file": "No rules rules notes.html",
+      "paragraph": 64
+    },
+    "links": [
+      {
+        "title": "Google SRE · Learning from failure with blameless postmortems",
+        "url": "https://sre.google/sre-book/postmortem-culture/"
+      },
+      {
+        "title": "Netflix · Culture memo",
+        "url": "https://jobs.netflix.com/culture"
+      }
+    ]
+  },
+  {
+    "id": "simply-said-start-with-the-audience-s-question",
+    "bookId": "simply-said",
+    "book": "Simply Said",
+    "author": "Jay Sullivan",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Start with the audience’s question",
+    "quote": "Instead of thinking, \"What am I trying to convey?\" we should ask ourselves, \"Why is he reading my email or attending this meeting? What does she hope to get out of this presentation?\"",
+    "refresher": "Before explaining your content, identify why the audience is there. Organize the message around what they need to understand or decide.",
+    "source": {
+      "file": "Simply said notes.html",
+      "paragraph": 5
+    },
+    "links": [
+      {
+        "title": "Duarte · Your audience is the hero",
+        "url": "https://www.duarte.com/blog/presentation-storytelling-audience-is-hero/"
+      }
+    ]
+  },
+  {
+    "id": "simply-said-one-sentence-to-carry-away",
+    "bookId": "simply-said",
+    "book": "Simply Said",
+    "author": "Jay Sullivan",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "One sentence to carry away",
+    "quote": "Is short: key message limited to one sentence, preferably fewer than 10 words long. Consider breaking the content into smaller sentences to help your listeners. Ask: \"Will my audience be able to repeat this message to someone else after this meeting?\"",
+    "refresher": "Reduce the central message to something a listener can repeat accurately. Supporting detail should reinforce that idea instead of competing with it.",
+    "source": {
+      "file": "Simply said notes.html",
+      "paragraph": 10
+    },
+    "links": [
+      {
+        "title": "Duarte · The Big Idea",
+        "url": "https://www.duarte.com/training/duarte-big-idea/"
+      }
+    ]
+  },
+  {
+    "id": "simply-said-plain-words-carry-complex-ideas",
+    "bookId": "simply-said",
+    "book": "Simply Said",
+    "author": "Jay Sullivan",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Plain words carry complex ideas",
+    "quote": "Use simple language: big words do not impress anyone. Big ideas do. In a professional setting, you're not graded on smarts. People assume you are smart. You're graded on having impact.",
+    "refresher": "Specialized language is useful when it adds precision for the reader. Otherwise, familiar words make the idea easier to understand and act on.",
+    "source": {
+      "file": "Simply said notes.html",
+      "paragraph": 11
+    },
+    "links": [
+      {
+        "title": "Google · Choose clear, consistent words",
+        "url": "https://developers.google.com/tech-writing/one/words"
+      }
+    ]
+  },
+  {
+    "id": "simply-said-stories-give-ideas-a-sequence",
+    "bookId": "simply-said",
+    "book": "Simply Said",
+    "author": "Jay Sullivan",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Stories give ideas a sequence",
+    "quote": "He remember the teaching point from the program because of the story, and he remembered the story because stories stick with us.",
+    "refresher": "A story connects a point to people, choices, and consequences. Use a concrete example that helps the audience reconstruct the idea later.",
+    "source": {
+      "file": "Simply said notes.html",
+      "paragraph": 16
+    },
+    "links": [
+      {
+        "title": "Duarte · Structure a story that moves people",
+        "url": "https://www.duarte.com/resources/communication-skills/business-storytelling/"
+      }
+    ]
+  },
+  {
+    "id": "simply-said-end-with-ownership",
+    "bookId": "simply-said",
+    "book": "Simply Said",
+    "author": "Jay Sullivan",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "End with ownership",
+    "quote": "Set actions steps at the end of the meeting (who does what by when).",
+    "refresher": "A useful meeting ends with more than general agreement. Record the next action, the person responsible, and the time by which it should happen.",
+    "source": {
+      "file": "Simply said notes.html",
+      "paragraph": 199
+    },
+    "links": [
+      {
+        "title": "Atlassian · Meeting notes with owners and action items",
+        "url": "https://www.atlassian.com/software/confluence/templates/meeting-notes"
+      },
+      {
+        "title": "Jay Sullivan · Simply Said resources",
+        "url": "https://www.exec-comm.com/product/simply-said/"
+      }
+    ]
+  },
+  {
+    "id": "the-subtle-art-of-not-giving-a-f-ck-choose-what-deserves-your-concern",
+    "bookId": "the-subtle-art-of-not-giving-a-f-ck",
+    "book": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Choose what deserves your concern",
+    "quote": "The key to a good life is not giving a fuck about more; it's giving a fuck about less, giving a fuck about only what is true and immediate and important.",
+    "refresher": "Attention is finite, so treating everything as equally important makes priorities disappear. Decide which commitments deserve your effort and which noise can pass.",
+    "source": {
+      "file": "The subtle art of not giving a fuck notes.html",
+      "paragraph": 3
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Reflect on the values that matter to you",
+        "url": "https://ggia.berkeley.edu/practice/affirming_important_values"
+      },
+      {
+        "title": "Mark Manson · Personal values",
+        "url": "https://markmanson.net/personal-values"
+      }
+    ]
+  },
+  {
+    "id": "the-subtle-art-of-not-giving-a-f-ck-choose-the-struggle-too",
+    "bookId": "the-subtle-art-of-not-giving-a-f-ck",
+    "book": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Choose the struggle too",
+    "quote": "\"What pain do you want in your life? What are you willing to struggle for?\"",
+    "refresher": "An appealing outcome usually comes with recurring effort or discomfort. Ask whether you want the process enough to keep doing it after the fantasy wears off.",
+    "source": {
+      "file": "The subtle art of not giving a fuck notes.html",
+      "paragraph": 15
+    },
+    "links": [
+      {
+        "title": "Gabriele Oettingen · Plan for obstacles with WOOP",
+        "url": "https://woopmylife.org/en/science"
+      },
+      {
+        "title": "Mark Manson · The most important question",
+        "url": "https://markmanson.net/question"
+      }
+    ]
+  },
+  {
+    "id": "the-subtle-art-of-not-giving-a-f-ck-choose-values-you-can-practice",
+    "bookId": "the-subtle-art-of-not-giving-a-f-ck",
+    "book": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Choose values you can practice",
+    "quote": "Good values are: reality-based, socially constructive, immediate and controllable. Bad values are the opposite.",
+    "refresher": "A value is easier to live by when it points to actions available to you. Prefer honest effort or curiosity to a standard that depends entirely on other people’s approval.",
+    "source": {
+      "file": "The subtle art of not giving a fuck notes.html",
+      "paragraph": 32
+    },
+    "links": [
+      {
+        "title": "UC Berkeley · Reflect on the values that matter to you",
+        "url": "https://ggia.berkeley.edu/practice/affirming_important_values"
+      },
+      {
+        "title": "Mark Manson · Personal values",
+        "url": "https://markmanson.net/personal-values"
+      }
+    ]
+  },
+  {
+    "id": "the-subtle-art-of-not-giving-a-f-ck-leave-room-to-be-wrong",
+    "bookId": "the-subtle-art-of-not-giving-a-f-ck",
+    "book": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "Leave room to be wrong",
+    "quote": "Certainty is the enemy of growth. Being wrong opens up to the possibility of change. Being wrong brings the opportunity of growth.",
+    "refresher": "Changing your mind requires admitting that your current explanation could fail. Treat uncertainty as room for learning rather than a defect to hide.",
+    "source": {
+      "file": "The subtle art of not giving a fuck notes.html",
+      "paragraph": 48
+    },
+    "links": [
+      {
+        "title": "Farnam Street · A guide to mental models",
+        "url": "https://fs.blog/mental-models/"
+      }
+    ]
+  },
+  {
+    "id": "the-subtle-art-of-not-giving-a-f-ck-a-meaningful-yes-includes-a-no",
+    "bookId": "the-subtle-art-of-not-giving-a-f-ck",
+    "book": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "A meaningful yes includes a no",
+    "quote": "To value something, we must reject what is not that something. To value X, we must reject non-X.",
+    "refresher": "A commitment takes time and attention away from alternatives. Make that boundary deliberate so your calendar reflects the things you say you value.",
+    "source": {
+      "file": "The subtle art of not giving a fuck notes.html",
+      "paragraph": 68
+    },
+    "links": [
+      {
+        "title": "Derek Sivers · Leave room for a meaningful yes",
+        "url": "https://sive.rs/hellyeah"
+      },
+      {
+        "title": "Mark Manson · Personal values",
+        "url": "https://markmanson.net/personal-values"
+      }
+    ]
+  }
+]

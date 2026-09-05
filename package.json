@@ -1,0 +1,14 @@
+{
+  "name": "daily-knowledge-pills",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 scripts/import_notes.py && python3 scripts/build.py",
+    "test": "python3 -m unittest discover -s tests && node --test tests/*.test.mjs",
+    "dev": "python3 -m http.server 4173 --directory site",
+    "test:browser": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
