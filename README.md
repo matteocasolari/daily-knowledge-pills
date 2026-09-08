@@ -2,7 +2,7 @@
 
 My personal reading notebook: three concepts from books I’ve read, revisited each day. A completely static app for GitHub Pages.
 
-The collection includes **135 curated pills from 32 books**. All **102 original note files** are preserved byte-for-byte in `sources/`; the importer extracted **15,337 paragraphs**. The rest of the source collection is ready for further editorial curation, not automatically mixed into the daily rotation.
+The collection includes **225 curated pills from 98 books**. All **102 original note files** are preserved byte-for-byte in `sources/`; the importer extracted **15,337 paragraphs**. All **98 identified books** are now represented. **Tools of Titans** has three pills: its original topic/page reminders are preserved as note excerpts, with editorial explanations informed by linked online sources. Two alternate takeaway files cover books already represented, and two files contain work/meeting notes rather than book notes. See the [book coverage audit](docs/book-coverage.md) for every book and the remaining source files.
 
 Each pill has a named concept, a short editorial refresher, the original note excerpt, the book and author, and an optional further-reading link. Pills are capped at **110 words including attribution**: at most 330 words for the daily set. Links are outside that reading budget.
 

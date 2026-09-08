@@ -3,8 +3,8 @@
   "stats": {
     "sourceFiles": 102,
     "sourceParagraphs": 15337,
-    "books": 32,
-    "pills": 135,
+    "books": 98,
+    "pills": 225,
     "maxWordsPerPill": 110
   },
   "pills": [
@@ -3196,6 +3196,1904 @@
         {
           "title": "Mark Manson · Personal values",
           "url": "https://markmanson.net/personal-values"
+        }
+      ]
+    },
+    {
+      "id": "2001-a-space-odyssey-survival-narrows-relevance",
+      "bookId": "2001-a-space-odyssey",
+      "book": "2001: A Space Odyssey",
+      "author": "Arthur C. Clarke",
+      "genre": "fiction",
+      "topic": "Perception",
+      "concept": "Survival narrows relevance",
+      "quote": "They could not eat it, and it could not eat them: therefore it was not important.",
+      "refresher": "For the early humans in Clarke’s story, usefulness defines what deserves notice. Their narrow filter raises a wider question: what might your current needs make you overlook?",
+      "source": {
+        "file": "2001 a space odyssey notes.html",
+        "paragraph": 5
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Attention and selection",
+          "url": "https://plato.stanford.edu/entries/attention/"
+        }
+      ]
+    },
+    {
+      "id": "a-random-walk-down-wall-street-own-the-market-basket",
+      "bookId": "a-random-walk-down-wall-street",
+      "book": "A Random Walk Down Wall Street",
+      "author": "Burton G. Malkiel",
+      "genre": "nonfiction",
+      "topic": "Investing",
+      "concept": "Own the market basket",
+      "quote": "The message of the original edition was very simple one: Investors would be far better off buying and holding an index fund than attempting to buy and sell individual securities or actively managed mutual funds.",
+      "refresher": "An index fund follows a defined basket instead of selecting individual winners. Malkiel argues for this broad approach; costs, concentration, and the chosen index still matter. An index fund can lose value.",
+      "source": {
+        "file": "A random walk down wall street notes.html",
+        "paragraph": 2
+      },
+      "links": [
+        {
+          "title": "SEC Investor.gov · How index funds work",
+          "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-4"
+        }
+      ]
+    },
+    {
+      "id": "autobiography-of-a-yogi-give-a-proposal-time",
+      "bookId": "autobiography-of-a-yogi",
+      "book": "Autobiography of a Yogi",
+      "author": "Paramahansa Yogananda",
+      "genre": "nonfiction",
+      "topic": "Judgment",
+      "concept": "Give a proposal time",
+      "quote": "Father tended first to say \"No\" to any new proposal. An aversion to instant acceptance is really only honoring the principle of \"due reflection\".",
+      "refresher": "The father’s initial refusal is presented as a pause for reflection. Separate a request’s urgency from its merits: a considered answer can require time without becoming a permanent rejection.",
+      "source": {
+        "file": "Autobiography of a yogi notes.html",
+        "paragraph": 3
+      },
+      "links": [
+        {
+          "title": "Shane Frederick · Cognitive reflection and decision making (research paper)",
+          "url": "https://www.aeaweb.org/articles?id=10.1257%2F089533005775196732"
+        }
+      ]
+    },
+    {
+      "id": "awaken-the-giant-within-teach-through-questions",
+      "bookId": "awaken-the-giant-within",
+      "book": "Awaken the Giant Within",
+      "author": "Tony Robbins",
+      "genre": "nonfiction",
+      "topic": "Learning",
+      "concept": "Teach through questions",
+      "quote": "The entire socratic method is based upon the teacher doing nothing but asking questions, directing the students' focus, and getting them to come up with their own answers.",
+      "refresher": "A question can expose a hidden assumption and invite someone to reason for themselves. When explaining an idea, ask what would follow from it before supplying your own conclusion.",
+      "source": {
+        "file": "Awaken the giant within notes.html",
+        "paragraph": 122
+      },
+      "links": [
+        {
+          "title": "University of Connecticut · Socratic questions in teaching",
+          "url": "https://cetl.uconn.edu/resources/teaching-your-course/leading-effective-discussions/socratic-questions/"
+        }
+      ]
+    },
+    {
+      "id": "bad-blood-separate-ambition-from-evidence",
+      "bookId": "bad-blood",
+      "book": "Bad Blood",
+      "author": "John Carreyrou",
+      "genre": "nonfiction",
+      "topic": "Business ethics",
+      "concept": "Separate ambition from evidence",
+      "quote": "It was OK to be optimistic and aspirational when you pitched investors, but there was a line not to cross. And this, in Mosley's view, crossed it.",
+      "refresher": "A forecast describes a possible future; a claim about what a product already does needs evidence. The Theranos story shows how dangerous it becomes when a persuasive vision blurs that distinction.",
+      "source": {
+        "file": "Bad blood notes.html",
+        "paragraph": 5
+      },
+      "links": [
+        {
+          "title": "U.S. SEC · Theranos and the boundary between claims and evidence",
+          "url": "https://www.sec.gov/newsroom/press-releases/2018-41"
+        }
+      ]
+    },
+    {
+      "id": "be-here-now-attachment-adds-a-second-loss",
+      "bookId": "be-here-now",
+      "book": "Be Here Now",
+      "author": "Ram Dass",
+      "genre": "nonfiction",
+      "topic": "Philosophy",
+      "concept": "Attachment adds a second loss",
+      "quote": "The cause of suffering is desire. If you don't try to hold you don't suffer over the loss. If you don't worship life, you don't fear death.",
+      "refresher": "This spiritual teaching distinguishes losing something from insisting that it must remain yours. Consider whether a cherished experience can matter without becoming a demand that life preserve it unchanged.",
+      "source": {
+        "file": "Be here now notes.html",
+        "paragraph": 19
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Desire and attachment",
+          "url": "https://plato.stanford.edu/entries/desire/"
+        }
+      ]
+    },
+    {
+      "id": "blindness-dignity-under-scarcity",
+      "bookId": "blindness",
+      "book": "Blindness",
+      "author": "José Saramago",
+      "genre": "fiction",
+      "topic": "Ethics",
+      "concept": "Dignity under scarcity",
+      "quote": "If we cannot live entirely as human beings, at least let us do everything in our power not to live entirely like animals.",
+      "refresher": "The novel asks what remains of humane conduct when familiar institutions collapse. Even under deprivation, sharing, tending, and refusing humiliation can preserve a community’s moral life.",
+      "source": {
+        "file": "Blindness notes.html",
+        "paragraph": 13
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Collective responsibility",
+          "url": "https://plato.stanford.edu/entries/collective-responsibility/"
+        }
+      ]
+    },
+    {
+      "id": "brief-answers-to-the-big-questions-one-planet-in-the-frame",
+      "bookId": "brief-answers-to-the-big-questions",
+      "book": "Brief Answers to the Big Questions",
+      "author": "Stephen Hawking",
+      "genre": "nonfiction",
+      "topic": "Perspective",
+      "concept": "One planet in the frame",
+      "quote": "When we see the Earth from space, we see ourselves as a whole. We see the unity, and not the divisions. It is such a simple image with a compelling message; one planet, one human race.",
+      "refresher": "Seeing Earth as a whole changes the scale of the question. Borders remain human arrangements on a shared home; a wider view can make common interests easier to notice.",
+      "source": {
+        "file": "Brief answers to the big questions notes.html",
+        "paragraph": 5
+      },
+      "links": [
+        {
+          "title": "Greater Good · The psychology of awe",
+          "url": "https://greatergood.berkeley.edu/awe/definition"
+        }
+      ]
+    },
+    {
+      "id": "chaos-deterministic-does-not-mean-predictable",
+      "bookId": "chaos",
+      "book": "Chaos",
+      "author": "James Gleick",
+      "genre": "nonfiction",
+      "topic": "Science",
+      "concept": "Deterministic does not mean predictable",
+      "quote": "Lorenz found out that using purely deterministic system of equations, small errors proved catastrophic.",
+      "refresher": "A system can follow fixed equations while nearby starting points lead to very different outcomes. Limited precision in initial measurements can therefore limit forecasts, even when the governing rules are known.",
+      "source": {
+        "file": "Chaos notes.html",
+        "paragraph": 7
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Chaos and limits of prediction",
+          "url": "https://plato.stanford.edu/entries/chaos/"
+        }
+      ]
+    },
+    {
+      "id": "clean-code-names-should-explain-intent",
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "topic": "Software",
+      "concept": "Names should explain intent",
+      "quote": "The name of a variable, function, or class, should answer all the big questions. It should tell you why it exists, what it does, and how is used. If a name requires a comment, then the name does not reveal its intent.",
+      "refresher": "A useful name reduces the amount of surrounding code a reader must inspect. Prefer words that identify purpose and meaning, especially when several variables have the same underlying type.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 44
+      },
+      "links": [
+        {
+          "title": "Google Python Style Guide · Naming conventions",
+          "url": "https://google.github.io/styleguide/pyguide.html#316-naming"
+        }
+      ]
+    },
+    {
+      "id": "cloud-native-devops-with-kubernetes-declare-the-desired-state",
+      "bookId": "cloud-native-devops-with-kubernetes",
+      "book": "Cloud Native DevOps with Kubernetes",
+      "author": "John Arundel and Justin Domingus",
+      "genre": "nonfiction",
+      "topic": "Software",
+      "concept": "Declare the desired state",
+      "quote": "Orchestration systems take care of deploying your containers, scheduling, scaling, networking, and all the things that a good system administrator would do, but in an automated, programmable way.",
+      "refresher": "An orchestrator compares what should be running with what is running and acts to close the gap. Describe the intended state so recovery can happen repeatedly, beyond the initial deployment.",
+      "source": {
+        "file": "Cloud native devops with kubernetes notes.html",
+        "paragraph": 7
+      },
+      "links": [
+        {
+          "title": "Kubernetes · Objects, desired state, and observed state",
+          "url": "https://kubernetes.io/docs/concepts/overview/working-with-objects/"
+        }
+      ]
+    },
+    {
+      "id": "come-una-notte-a-bali-the-gap-between-self-images",
+      "bookId": "come-una-notte-a-bali",
+      "book": "Come una notte a Bali",
+      "author": "Gianluca Gotto",
+      "genre": "fiction",
+      "topic": "Identity",
+      "concept": "The gap between self-images",
+      "quote": "Quanta distanza avevo messo tra la persona che credevo di essere e quella che scoprivo di essere?",
+      "refresher": "The narrator notices a distance between an assumed identity and a newly discovered one. Ask which parts of your self-description still fit your experience and which survive mainly because they are familiar.",
+      "source": {
+        "file": "Come una notte a bali note.html",
+        "paragraph": 6
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Authenticity and living by your own commitments",
+          "url": "https://plato.stanford.edu/entries/authenticity/"
+        }
+      ]
+    },
+    {
+      "id": "delivering-happiness-a-business-also-creates-a-way-of-life",
+      "bookId": "delivering-happiness",
+      "book": "Delivering Happiness",
+      "author": "Tony Hsieh",
+      "genre": "nonfiction",
+      "topic": "Work",
+      "concept": "A business also creates a way of life",
+      "quote": "It wasn’t just about money. Together, we had built a business that combined profits, passion and purpose. And we knew that it wasn’t just about building a business. It was about building a lifestyle that was about delivering happiness to everyone, including ourselves.",
+      "refresher": "A company shapes ordinary days for employees, customers, and its founders. Alongside financial results, consider what kind of relationships and daily experience its practices produce.",
+      "source": {
+        "file": "Delivering happiness notes.html",
+        "paragraph": 5
+      },
+      "links": [
+        {
+          "title": "Self-Determination Theory · Autonomy, competence, and relatedness",
+          "url": "https://selfdeterminationtheory.org/topics/application-basic-psychological-needs/"
+        }
+      ]
+    },
+    {
+      "id": "disrupt-yourself-follow-disruption-downstream",
+      "bookId": "disrupt-yourself",
+      "book": "Disrupt Yourself",
+      "author": "Jay Samit",
+      "genre": "nonfiction",
+      "topic": "Business",
+      "concept": "Follow disruption downstream",
+      "quote": "A disruption in one link in the value chain creates opportunity in other links.",
+      "refresher": "A change in one industry can create unmet needs for its suppliers, partners, or customers. Map the surrounding activities to see which new bottleneck or service becomes valuable after the change.",
+      "source": {
+        "file": "Disrupt yourself notes.html",
+        "paragraph": 7
+      },
+      "links": [
+        {
+          "title": "Jean Tirole · Two-sided platforms and market regulation (Nobel lecture slides, PDF)",
+          "url": "https://www.nobelprize.org/uploads/2018/06/tirole-lecture-slides.pdf"
+        }
+      ]
+    },
+    {
+      "id": "eating-animals-indifference-has-consequences",
+      "bookId": "eating-animals",
+      "book": "Eating Animals",
+      "author": "Jonathan Safran Foer",
+      "genre": "nonfiction",
+      "topic": "Ethics",
+      "concept": "Indifference has consequences",
+      "quote": "Cruelty is not only the willful causing of unnecessary suffering, but the indifference to it. It's much easier to be cruel than one might think. Nature isn't cruel. Cruelty depends on an understanding of cruelty, and the ability to choose against it. Or to choose to ignore it.",
+      "refresher": "Foer extends the question of cruelty beyond deliberate harm to the choice not to notice it. Consider which consequences of ordinary consumption remain hidden by distance, convenience, or habit.",
+      "source": {
+        "file": "Eating animals notes.html",
+        "paragraph": 13
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · The moral status of animals",
+          "url": "https://plato.stanford.edu/entries/moral-animal/"
+        }
+      ]
+    },
+    {
+      "id": "existential-kink-a-feeling-is-not-a-moral-verdict",
+      "bookId": "existential-kink",
+      "book": "Existential Kink",
+      "author": "Carolyn Elliott",
+      "genre": "nonfiction",
+      "topic": "Emotions",
+      "concept": "A feeling is not a moral verdict",
+      "quote": "It just means you can let the feeling arise in your body, feel it without judging it, and stay centered and present with the flow of life instead of throwing yourself into a stinky pool of reactive guilt.",
+      "refresher": "The passage invites noticing an uncomfortable feeling without turning it into guilt about your character. Acknowledging a feeling does not require endorsing it or acting on it.",
+      "source": {
+        "file": "Elliot C. - Existential Kink.docx",
+        "paragraph": 77
+      },
+      "links": [
+        {
+          "title": "Kristin Neff · Self-compassion (research review)",
+          "url": "https://doi.org/10.1146/annurev-psych-032420-031047"
+        }
+      ]
+    },
+    {
+      "id": "elon-musk-ambition-can-be-collective",
+      "bookId": "elon-musk",
+      "book": "Elon Musk",
+      "author": "Ashlee Vance",
+      "genre": "nonfiction",
+      "topic": "Imagination",
+      "concept": "Ambition can be collective",
+      "quote": "The more he thought about space, the more important its exploration seemed to him. He felt as if the public had lost some of its ambition and hope for the future.",
+      "refresher": "In this biographical passage, space exploration stands for a society’s willingness to imagine a larger future. Consider which shared projects make possibility visible to people beyond their immediate participants.",
+      "source": {
+        "file": "Elon Musk.html",
+        "paragraph": 3
+      },
+      "links": [
+        {
+          "title": "Greater Good · The psychology of awe",
+          "url": "https://greatergood.berkeley.edu/awe/definition"
+        }
+      ]
+    },
+    {
+      "id": "fear-and-loathing-in-las-vegas-a-narrator-can-lose-the-thread",
+      "bookId": "fear-and-loathing-in-las-vegas",
+      "book": "Fear and Loathing in Las Vegas",
+      "author": "Hunter S. Thompson",
+      "genre": "nonfiction",
+      "topic": "Literature",
+      "concept": "A narrator can lose the thread",
+      "quote": "Jesus! Did I say that? Or just think it? Was I talking? Did they hear me?",
+      "refresher": "The speaker cannot tell whether a thought became speech. That instability is part of the reading experience: distinguish what a narrator reports from what the scene lets you confidently infer.",
+      "source": {
+        "file": "Fear and loathing in las vegas notes.html",
+        "paragraph": 6
+      },
+      "links": [
+        {
+          "title": "Living Handbook of Narratology · Unreliable narration",
+          "url": "https://www-archiv.fdm.uni-hamburg.de/lhn/node/66.html"
+        }
+      ]
+    },
+    {
+      "id": "polysecure-a-label-cannot-guarantee-security",
+      "bookId": "polysecure",
+      "book": "Polysecure",
+      "author": "Jessica Fern",
+      "genre": "nonfiction",
+      "topic": "Relationships",
+      "concept": "A label cannot guarantee security",
+      "quote": "Relationship structure does not guarantee emotional security.",
+      "refresher": "An agreed relationship structure says how a relationship is organized. Feeling secure also depends on lived experiences of responsiveness and reliability; the label alone cannot provide those experiences.",
+      "source": {
+        "file": "Fern J. - Polysecure.docx",
+        "paragraph": 119
+      },
+      "links": [
+        {
+          "title": "R. Chris Fraley · Attachment in adulthood (research review)",
+          "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-010418-102813"
+        }
+      ]
+    },
+    {
+      "id": "fight-club-ownership-can-become-obligation",
+      "bookId": "fight-club",
+      "book": "Fight Club",
+      "author": "Chuck Palahniuk",
+      "genre": "fiction",
+      "topic": "Consumption",
+      "concept": "Ownership can become obligation",
+      "quote": "Then you're trapped in your lovely nest, and the things you used to own, now they own you.",
+      "refresher": "The narrator’s possessions begin to dictate his life. Before acquiring something, consider the storage, maintenance, attention, and lifestyle it will require after the excitement of purchase has passed.",
+      "source": {
+        "file": "Fight club notes.html",
+        "paragraph": 4
+      },
+      "links": [
+        {
+          "title": "Greater Good · Why we think money buys happiness",
+          "url": "https://greatergood.berkeley.edu/article/item/why_do_we_think_money_buys_happiness"
+        }
+      ]
+    },
+    {
+      "id": "freakonomics-a-fine-can-become-a-price",
+      "bookId": "freakonomics",
+      "book": "Freakonomics",
+      "author": "Steven D. Levitt and Stephen J. Dubner",
+      "genre": "nonfiction",
+      "topic": "Incentives",
+      "concept": "A fine can become a price",
+      "quote": "After the fine was enacted, the number of late pickups promptly went… up.",
+      "refresher": "In the daycare study discussed here, charging for lateness was followed by more late pickups. One interpretation is that payment replaced a social obligation with a purchasable service. The response to a penalty depends on how people understand it.",
+      "source": {
+        "file": "Freakonomics notes.html",
+        "paragraph": 18
+      },
+      "links": [
+        {
+          "title": "Gneezy and Rustichini · A Fine Is a Price (research paper, PDF)",
+          "url": "https://www.journals.uchicago.edu/doi/pdf/10.1086/468061"
+        }
+      ]
+    },
+    {
+      "id": "game-theory-an-introduction-reason-backward-through-a-sequence",
+      "bookId": "game-theory-an-introduction",
+      "book": "Game Theory: An Introduction",
+      "author": "Steven Tadelis",
+      "genre": "nonfiction",
+      "topic": "Decisions",
+      "concept": "Reason backward through a sequence",
+      "quote": "When decisions need to be made over time, a rational player will solve his problem “backwards” so that early decisions take into account later decisions.",
+      "refresher": "In a sequential decision, an early move changes later options. Start at the final choice, identify what would make sense there, and work backward to evaluate today’s move.",
+      "source": {
+        "file": "Game theory notes.html",
+        "paragraph": 15
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Game theory and sequential choices",
+          "url": "https://plato.stanford.edu/entries/game-theory/"
+        }
+      ]
+    },
+    {
+      "id": "le-crepe-sono-fatte-per-loro-meet-a-forest-through-the-senses",
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "topic": "Nature",
+      "concept": "Meet a forest through the senses",
+      "quote": "Shinrin-yoku è la pratica giapponese di immergersi nella natura non per fare esercizio fisico, ma per assorbire l'atmosfera del bosco attraverso tutti i sensi.",
+      "refresher": "Shinrin-yoku means taking in the forest atmosphere. The emphasis is sensory contact: notice sounds, textures, light, and scent without turning the walk into a distance or speed target.",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 13
+      },
+      "links": [
+        {
+          "title": "Greater Good · Forest bathing through the senses",
+          "url": "https://greatergood.berkeley.edu/article/item/why_forest_bathing_is_good_for_your_health"
+        }
+      ]
+    },
+    {
+      "id": "the-dip-set-exit-conditions-in-advance",
+      "bookId": "the-dip",
+      "book": "The Dip",
+      "author": "Seth Godin",
+      "genre": "nonfiction",
+      "topic": "Decisions",
+      "concept": "Set exit conditions in advance",
+      "quote": "Write down under what circumstances are you willing to quit. And when. And then stick with it. If you decide in the now you'll probably talk yourself into quitting or make bad decision (e.g. when to quit a marathon, and you're tired while doing it)",
+      "refresher": "Decide what evidence or circumstances would justify stopping before fatigue or frustration arrives. An advance stopping rule gives you a reference point when the immediate urge to quit becomes persuasive.",
+      "source": {
+        "file": "Godin S. - The Dip_ A Little Book That Teaches You When To Quit.docx",
+        "paragraph": 0
+      },
+      "links": [
+        {
+          "title": "Bryan, Karlan, and Nelson · Commitment devices (research review)",
+          "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.economics.102308.124324"
+        }
+      ]
+    },
+    {
+      "id": "focus-three-directions-of-attention",
+      "bookId": "focus",
+      "book": "Focus",
+      "author": "Daniel Goleman",
+      "genre": "nonfiction",
+      "topic": "Attention",
+      "concept": "Three directions of attention",
+      "quote": "A failure to focus inward leaves you rudderless, a failure to focus on others renders you clueless, and a failure to focus outward may leave you blindsided.",
+      "refresher": "Self-awareness, attention to other people, and attention to wider systems answer different questions. When a decision feels incomplete, check which of these three directions you have neglected.",
+      "source": {
+        "file": "Goleman D. - Focus.docx",
+        "paragraph": 2
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Attention and selection",
+          "url": "https://plato.stanford.edu/entries/attention/"
+        }
+      ]
+    },
+    {
+      "id": "the-anxious-generation-distinguish-risk-from-hazard",
+      "bookId": "the-anxious-generation",
+      "book": "The Anxious Generation",
+      "author": "Jonathan Haidt",
+      "genre": "nonfiction",
+      "topic": "Play",
+      "concept": "Distinguish risk from hazard",
+      "quote": "Risk of minor injuries should be a feature, not a bug, in playground design.",
+      "refresher": "Haidt argues that eliminating every chance of a minor mishap changes what play can teach. A useful distinction is a challenge a child can assess versus a hidden danger they cannot reasonably recognize.",
+      "source": {
+        "file": "Haidt J. - The Anxious Generation.docx",
+        "paragraph": 23
+      },
+      "links": [
+        {
+          "title": "Canadian Paediatric Society · Outdoor risky play",
+          "url": "https://cps.ca/en/documents/position/outdoor-risky-play"
+        }
+      ]
+    },
+    {
+      "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-overfitting",
+      "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+      "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+      "author": "Aurélien Géron",
+      "genre": "nonfiction",
+      "topic": "Machine learning",
+      "concept": "Overfitting",
+      "quote": "Overfitting the training data: the model performs well on the training data but it does not generalize well.",
+      "refresher": "A model may learn accidental details of its training examples and fail on new ones. Keep evaluation data separate from fitting and tuning so a strong score reflects generalization rather than familiarity.",
+      "source": {
+        "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+        "paragraph": 32
+      },
+      "links": [
+        {
+          "title": "scikit-learn · Cross-validation and unseen data",
+          "url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+        }
+      ]
+    },
+    {
+      "id": "homo-deus-performance-and-experience-are-different-questions",
+      "bookId": "homo-deus",
+      "book": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "nonfiction",
+      "topic": "Mind",
+      "concept": "Performance and experience are different questions",
+      "quote": "Science knows surprisingly little about mind and consciousness. They don’t know how a collection of electric brain signals creates subjective experiences.",
+      "refresher": "Explaining how a system processes information does not by itself explain why there is something it feels like to be that system. Separate observable capability from claims about subjective experience.",
+      "source": {
+        "file": "Homo deus notes.html",
+        "paragraph": 73
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Consciousness and subjective experience",
+          "url": "https://plato.stanford.edu/entries/consciousness/"
+        }
+      ]
+    },
+    {
+      "id": "i-robot-individually-clear-rules-can-conflict",
+      "bookId": "i-robot",
+      "book": "I, Robot",
+      "author": "Isaac Asimov",
+      "genre": "fiction",
+      "topic": "Systems",
+      "concept": "Individually clear rules can conflict",
+      "quote": "Rule Three drives him back and Rule Two drives him forward, so he follows a circle around the selenium pool, staying on the locus of all points of potential equilibrium.",
+      "refresher": "In Asimov’s fictional robot, competing directives produce a loop rather than a useful action. When specifying rules, examine their interactions and priorities in edge cases, not just each rule in isolation.",
+      "source": {
+        "file": "I, robot notes.html",
+        "paragraph": 6
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Game theory and sequential choices",
+          "url": "https://plato.stanford.edu/entries/game-theory/"
+        }
+      ]
+    },
+    {
+      "id": "journey-to-the-centre-of-the-earth-wonder-can-invite-explanation",
+      "bookId": "journey-to-the-centre-of-the-earth",
+      "book": "Journey to the Centre of the Earth",
+      "author": "Jules Verne",
+      "genre": "fiction",
+      "topic": "Science",
+      "concept": "Wonder can invite explanation",
+      "quote": "However great and mighty the marvels of nature may seem to us, they are always to be explained by physical reasons. Everything is subordinate to some great law of nature.",
+      "refresher": "The novel’s confidence in natural explanation is distinct from the accuracy of its imagined geology. A remarkable observation can start an investigation: what mechanism might produce it, and how could that account be examined?",
+      "source": {
+        "file": "Journey to the centre of the earth notes.html",
+        "paragraph": 9
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Scientific method and explanation",
+          "url": "https://plato.stanford.edu/entries/scientific-method/"
+        }
+      ]
+    },
+    {
+      "id": "kafka-on-the-shore-imperfection-can-keep-attention-awake",
+      "bookId": "kafka-on-the-shore",
+      "book": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "genre": "fiction",
+      "topic": "Art",
+      "concept": "Imperfection can keep attention awake",
+      "quote": "That’s why I listen to Schubert while I’m driving. All the performances are imperfect. A dense, artistic kind of imperfection stimulates your consciousness, keeps you alert.",
+      "refresher": "The speaker values performances whose unresolved qualities continue to engage the listener. Artistic interest need not come from flawless execution; it can arise from tension that leaves something to interpret.",
+      "source": {
+        "file": "Kafka on the shore notes.html",
+        "paragraph": 25
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Attention and selection",
+          "url": "https://plato.stanford.edu/entries/attention/"
+        }
+      ]
+    },
+    {
+      "id": "trustworthy-online-controlled-experiments-sample-ratio-mismatch",
+      "bookId": "trustworthy-online-controlled-experiments",
+      "book": "Trustworthy Online Controlled Experiments",
+      "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+      "genre": "nonfiction",
+      "topic": "Experiments",
+      "concept": "Sample ratio mismatch",
+      "quote": "Sample Ratio Mismatch (SRM): If the ratio of users (or any randomization unit) between the variants is not close to the designed ratio, the experiment suffers from a Sample Ratio Mismatch (SRM). It likely indicate a problem that requires debugging.",
+      "refresher": "Before interpreting an A/B test, check whether the observed allocation is statistically compatible with the intended split. A meaningful mismatch can signal assignment, logging, or filtering problems that undermine the comparison.",
+      "source": {
+        "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+        "paragraph": 80
+      },
+      "links": [
+        {
+          "title": "Optimizely · Detecting sample ratio mismatch",
+          "url": "https://support.optimizely.com/hc/en-us/articles/13409080412173-Optimizely-s-automatic-sample-ratio-mismatch-detection"
+        }
+      ]
+    },
+    {
+      "id": "exploring-the-world-of-lucid-dreaming-recognizing-a-dream-from-within",
+      "bookId": "exploring-the-world-of-lucid-dreaming",
+      "book": "Exploring the World of Lucid Dreaming",
+      "author": "Stephen LaBerge and Howard Rheingold",
+      "genre": "nonfiction",
+      "topic": "Mind",
+      "concept": "Recognizing a dream from within",
+      "quote": "One way to become lucid is to ask yourself whether or not you are dreaming while you are dreaming. In order to do this, you should make a habit of asking the question while awake.",
+      "refresher": "Lucidity means recognizing that you are dreaming while the dream continues. The book proposes questioning your state as a practice; awareness of dreaming and control over the dream are separate abilities.",
+      "source": {
+        "file": "LaBerge S. - Exploring the World of Lucid Dreaming.docx",
+        "paragraph": 9
+      },
+      "links": [
+        {
+          "title": "Caroline Horton · Awareness and control in dreams (research article)",
+          "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.00259/full"
+        }
+      ]
+    },
+    {
+      "id": "lost-and-founder-write-for-the-unintended-reader",
+      "bookId": "lost-and-founder",
+      "book": "Lost and Founder",
+      "author": "Rand Fishkin",
+      "genre": "nonfiction",
+      "topic": "Communication",
+      "concept": "Write for the unintended reader",
+      "quote": "Every email should be written and every conversation conducted as though it will one day be leaked.",
+      "refresher": "Private messages can travel beyond their original audience. Before sending one, consider whether its claims, tone, and treatment of others would remain defensible if the context became public.",
+      "source": {
+        "file": "Lost and founder notes.html",
+        "paragraph": 17
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Virtue ethics and moral character",
+          "url": "https://plato.stanford.edu/entries/ethics-virtue/"
+        }
+      ]
+    },
+    {
+      "id": "machine-learning-engineering-beat-a-simple-baseline",
+      "bookId": "machine-learning-engineering",
+      "book": "Machine Learning Engineering",
+      "author": "Andriy Burkov",
+      "genre": "nonfiction",
+      "topic": "Machine learning",
+      "concept": "Beat a simple baseline",
+      "quote": "A baseline is essential to make sure that the model works better than a simple heuristics.",
+      "refresher": "A complicated model needs a comparison point. Measure a basic heuristic or constant predictor on the same evaluation data; without that baseline, an impressive-looking score may represent little practical improvement.",
+      "source": {
+        "file": "Machine learning engineering notes.html",
+        "paragraph": 10
+      },
+      "links": [
+        {
+          "title": "scikit-learn · Dummy estimators as prediction baselines",
+          "url": "https://scikit-learn.org/stable/modules/model_evaluation.html#dummy-estimators"
+        }
+      ]
+    },
+    {
+      "id": "bayesian-analysis-with-python-density-is-not-point-probability",
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "topic": "Probability",
+      "concept": "Density is not point probability",
+      "quote": "For a continuous random variable, we can only assign a probability of 0 to every individual value it may take; instead, we can assign densities to them and then we can calculate probabilities for a range of values.",
+      "refresher": "For a continuous distribution, probability belongs to an interval and is the area under its density curve. The height at one value is a density, so it need not stay below one.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 13
+      },
+      "links": [
+        {
+          "title": "Seeing Theory · Continuous probability distributions (interactive)",
+          "url": "https://seeing-theory.brown.edu/probability-distributions/index.html"
+        }
+      ]
+    },
+    {
+      "id": "profit-first-revenue-growth-can-conceal-weak-economics",
+      "bookId": "profit-first",
+      "book": "Profit First",
+      "author": "Mike Michalowicz",
+      "genre": "nonfiction",
+      "topic": "Business",
+      "concept": "Revenue growth can conceal weak economics",
+      "quote": "So why are entrepreneurs programmed to pursue bigger and bigger and bigger? Because of an assumption that at a certain point all that revenue will yield a profit.",
+      "refresher": "A growing top line does not establish that a business earns a profit or has cash available. Examine the expenses and cash flows accompanying growth instead of assuming that more sales will eventually solve everything.",
+      "source": {
+        "file": "Michalowicz M. - Profit First_.docx",
+        "paragraph": 10
+      },
+      "links": [
+        {
+          "title": "SEC · A beginners’ guide to financial statements",
+          "url": "https://www.sec.gov/investor/pubs/begfinstmtguide.htm"
+        }
+      ]
+    },
+    {
+      "id": "one-hundred-years-of-solitude-memory-sustains-a-shared-world",
+      "bookId": "one-hundred-years-of-solitude",
+      "book": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "genre": "fiction",
+      "topic": "Memory",
+      "concept": "Memory sustains a shared world",
+      "quote": "The most fearsome part of the sickness of insomnia was not the impossibility of sleeping, for the body did not feel any fatigue at all, but its inexorable evolution toward a more critical manifestation: a loss of memory.",
+      "refresher": "The novel’s insomnia plague becomes frightening through the loss of memory. Remembering is more than storing private experiences: it helps people maintain names, relationships, and the continuity of a community.",
+      "source": {
+        "file": "One hundred years of solitude notes.html",
+        "paragraph": 3
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Memory and its relation to the past",
+          "url": "https://plato.stanford.edu/entries/memory/"
+        }
+      ]
+    },
+    {
+      "id": "outliers-small-eligibility-rules-can-compound",
+      "bookId": "outliers",
+      "book": "Outliers",
+      "author": "Malcolm Gladwell",
+      "genre": "nonfiction",
+      "topic": "Opportunity",
+      "concept": "Small eligibility rules can compound",
+      "quote": "Our arbitrary choice of cutoff dates is causing long-lasting effects, and no one care about them.",
+      "refresher": "An arbitrary age cutoff can give some children an early advantage in selection and coaching. Later achievement may partly reflect those accumulated opportunities, not simply the ability visible at the finish.",
+      "source": {
+        "file": "Outliers notes.html",
+        "paragraph": 4
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Distributive justice and opportunity",
+          "url": "https://plato.stanford.edu/entries/justice-distributive/"
+        }
+      ]
+    },
+    {
+      "id": "pattern-recognition-and-machine-learning-the-curse-of-dimensionality",
+      "bookId": "pattern-recognition-and-machine-learning",
+      "book": "Pattern Recognition and Machine Learning",
+      "author": "Christopher M. Bishop",
+      "genre": "nonfiction",
+      "topic": "Machine learning",
+      "concept": "The curse of dimensionality",
+      "quote": "Curse of dimensionality: the problem with an exponentially large number of cells is that we would need an exponentially large quantity of training data in order to ensure that the cells are not empty.",
+      "refresher": "Adding features expands the space that data must cover. Even a large dataset can become sparse in many dimensions, making local comparisons and reliable estimation harder.",
+      "source": {
+        "file": "Pattern recognition and machine learning notes.html",
+        "paragraph": 4
+      },
+      "links": [
+        {
+          "title": "scikit-learn · Nearest neighbors and the curse of dimensionality",
+          "url": "https://scikit-learn.org/stable/modules/neighbors.html"
+        }
+      ]
+    },
+    {
+      "id": "perfume-a-scent-unfolds-over-time",
+      "bookId": "perfume",
+      "book": "Perfume",
+      "author": "Patrick Süskind",
+      "genre": "fiction",
+      "topic": "Perception",
+      "concept": "A scent unfolds over time",
+      "quote": "Perfume lives in time; it has its youth, its maturity, and its old age. And only if it gives off a scent equally pleasant at all three different stages of its life, can it be called successful.",
+      "refresher": "The passage treats perfume as a sequence rather than a single impression. Its opening, middle, and lingering traces can differ, so evaluating it at one instant misses part of the composition.",
+      "source": {
+        "file": "Perfume notes.html",
+        "paragraph": 11
+      },
+      "links": [
+        {
+          "title": "Rob Brown · How a perfume changes from opening to dry-down",
+          "url": "https://fragrancerepublic.co.uk/blogs/guides/top-heart-base-notes-perfume"
+        }
+      ]
+    },
+    {
+      "id": "capital-in-the-twenty-first-century-inflation-redistributes-unevenly",
+      "bookId": "capital-in-the-twenty-first-century",
+      "book": "Capital in the Twenty-First Century",
+      "author": "Thomas Piketty",
+      "genre": "nonfiction",
+      "topic": "Economics",
+      "concept": "Inflation redistributes unevenly",
+      "quote": "Inflation has the effect of redistributing wealth among asset categories rather than a long-term structural effect.",
+      "refresher": "A rise in prices changes the purchasing power of nominal claims. Its effects differ across borrowers, savers, wages, and assets; an average inflation number does not describe every household’s experience.",
+      "source": {
+        "file": "Piketty T. - Capital in the Twenty-First Century_.docx",
+        "paragraph": 15
+      },
+      "links": [
+        {
+          "title": "European Central Bank · Inflation and the distribution of wealth",
+          "url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241106_1~f0309bc1d3.en.html"
+        }
+      ]
+    },
+    {
+      "id": "principles-make-decision-criteria-reusable",
+      "bookId": "principles",
+      "book": "Principles",
+      "author": "Ray Dalio",
+      "genre": "nonfiction",
+      "topic": "Decisions",
+      "concept": "Make decision criteria reusable",
+      "quote": "Reflect and write down decision-making criteria in form of algorithms whenever you make a decision.",
+      "refresher": "Record which conditions led to a choice while the reasoning is fresh. On the next similar decision, you can examine and revise the rule rather than reconstructing an explanation from memory.",
+      "source": {
+        "file": "Principles notes.html",
+        "paragraph": 9
+      },
+      "links": [
+        {
+          "title": "Michael Nygard · Recording a decision’s context and consequences",
+          "url": "https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions"
+        }
+      ]
+    },
+    {
+      "id": "nscas-essentials-of-personal-training-muscles-shorten-by-sliding-filaments",
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "topic": "Biology",
+      "concept": "Muscles shorten by sliding filaments",
+      "quote": "The sliding filament theory states that a muscle shortens or lengthens when the filaments (actin and myosin) slide past each other, without the filaments themselves changing in length.",
+      "refresher": "During contraction, actin and myosin overlap more as sarcomeres shorten. The filaments themselves do not need to shrink; their relative movement changes the length of the muscle’s working units.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 5
+      },
+      "links": [
+        {
+          "title": "OpenStax · The sliding filament model of muscle contraction",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation"
+        }
+      ]
+    },
+    {
+      "id": "no-bad-parts-ask-what-an-impulse-is-protecting",
+      "bookId": "no-bad-parts",
+      "book": "No Bad Parts",
+      "author": "Richard C. Schwartz",
+      "genre": "nonfiction",
+      "topic": "Emotions",
+      "concept": "Ask what an impulse is protecting",
+      "quote": "In IFS, when parts do take over, we don’t shame them. Instead, we get curious and use the part’s impulse as a trailhead to find what is driving it that needs to be healed.",
+      "refresher": "Internal Family Systems treats an impulse as a possible clue to a protective role. Within that framework, curiosity about its purpose replaces immediate self-condemnation; the metaphor need not be taken as a literal account of separate personalities.",
+      "source": {
+        "file": "Schwartz R. - No Bad Parts.docx",
+        "paragraph": 10
+      },
+      "links": [
+        {
+          "title": "Kristin Neff · Self-compassion (research review)",
+          "url": "https://doi.org/10.1146/annurev-psych-032420-031047"
+        }
+      ]
+    },
+    {
+      "id": "steve-jobs-care-for-the-unseen-parts",
+      "bookId": "steve-jobs",
+      "book": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "genre": "nonfiction",
+      "topic": "Craft",
+      "concept": "Care for the unseen parts",
+      "quote": "I want it to be as beautiful as possible, even if it's inside the box. A great carpenter isn't going to use lousy wood for the back of a cabinet, even though nobody's going to see it.",
+      "refresher": "The back of a cabinet matters to the craftsperson even when a customer will not inspect it. In software or other work, hidden structure affects how well the visible result can be maintained and improved.",
+      "source": {
+        "file": "Steve Jobs notes.html",
+        "paragraph": 7
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · The value of internal software quality",
+          "url": "https://martinfowler.com/articles/is-quality-worth-cost.html"
+        }
+      ]
+    },
+    {
+      "id": "structures-or-why-things-dont-fall-down-stress-spreads-load-over-area",
+      "bookId": "structures-or-why-things-dont-fall-down",
+      "book": "Structures: Or Why Things Don’t Fall Down",
+      "author": "J. E. Gordon",
+      "genre": "nonfiction",
+      "topic": "Engineering",
+      "concept": "Stress spreads load over area",
+      "quote": "Stress is a measure of how hard the atoms and molecules which make up the material are being pushed together or pulled apart as a result of the external forces. Stress = load / area",
+      "refresher": "The same force can produce very different material stress depending on the area carrying it. A broad support and a narrow contact point are mechanically different even when the total load is identical.",
+      "source": {
+        "file": "Structures notes.html",
+        "paragraph": 5
+      },
+      "links": [
+        {
+          "title": "OpenStax · Stress, strain, and elastic modulus",
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/12-3-stress-strain-and-elastic-modulus"
+        }
+      ]
+    },
+    {
+      "id": "tao-te-ching-distrust-can-reproduce-itself",
+      "bookId": "tao-te-ching",
+      "book": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "genre": "nonfiction",
+      "topic": "Leadership",
+      "concept": "Distrust can reproduce itself",
+      "quote": "Those who do not trust enough will not be trusted.",
+      "refresher": "This line suggests a reciprocal relationship between extending trust and receiving it. Consider how constant suspicion changes another person’s freedom to act and willingness to cooperate, while retaining appropriate boundaries.",
+      "source": {
+        "file": "Tao te ching notes.html",
+        "paragraph": 41
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Daoism and non-forcing",
+          "url": "https://plato.stanford.edu/entries/daoism/"
+        }
+      ]
+    },
+    {
+      "id": "the-4-hour-workweek-look-for-an-uneven-distribution-of-results",
+      "bookId": "the-4-hour-workweek",
+      "book": "The 4-Hour Workweek",
+      "author": "Timothy Ferriss",
+      "genre": "nonfiction",
+      "topic": "Priorities",
+      "concept": "Look for an uneven distribution of results",
+      "quote": "80% of the outputs result from 20% of the inputs.",
+      "refresher": "The 80/20 principle is a heuristic, not a universal ratio. Measure which activities or causes account for most of a result, then focus effort on the few that contribute disproportionately.",
+      "source": {
+        "file": "The 4-hour work week notes.html",
+        "paragraph": 9
+      },
+      "links": [
+        {
+          "title": "ASQ · Pareto analysis and the vital few",
+          "url": "https://asq.org/quality-resources/pareto"
+        }
+      ]
+    },
+    {
+      "id": "the-alchemist-wonder-and-duty-can-share-attention",
+      "bookId": "the-alchemist",
+      "book": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "fiction",
+      "topic": "Responsibility",
+      "concept": "Wonder and duty can share attention",
+      "quote": "The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon.",
+      "refresher": "The spoon image holds two tasks together: attending to the world’s beauty and caring for what has been entrusted to you. The story invites a balance between exploration and responsibility.",
+      "source": {
+        "file": "The alchemist notes.html",
+        "paragraph": 5
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Attention and selection",
+          "url": "https://plato.stanford.edu/entries/attention/"
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-war-humanity-toward-a-defeated-opponent",
+      "bookId": "the-art-of-war",
+      "book": "The Art of War",
+      "author": "Sun Tzu",
+      "genre": "nonfiction",
+      "topic": "Ethics",
+      "concept": "Humanity toward a defeated opponent",
+      "quote": "Treat prisoners of war kindly",
+      "refresher": "This brief instruction concerns the treatment of captives. A person’s defeat does not erase their humanity; conduct toward someone under your power is a separate question from whether you prevailed.",
+      "source": {
+        "file": "The art of war notes.html",
+        "paragraph": 36
+      },
+      "links": [
+        {
+          "title": "ICRC · Humane treatment and dignity in detention",
+          "url": "https://www.icrc.org/en/law-and-policy/detention"
+        }
+      ]
+    },
+    {
+      "id": "the-charisma-myth-capability-and-goodwill-send-different-signals",
+      "bookId": "the-charisma-myth",
+      "book": "The Charisma Myth",
+      "author": "Olivia Fox Cabane",
+      "genre": "nonfiction",
+      "topic": "Social perception",
+      "concept": "Capability and goodwill send different signals",
+      "quote": "Power means being perceived as able to affect the world around us. Warmth is goodwill towards others.",
+      "refresher": "Others may judge both whether you can act effectively and whether your intentions are friendly. Competence without goodwill can feel threatening; warmth without apparent capability can fail to inspire confidence.",
+      "source": {
+        "file": "The charisma myth notes.html",
+        "paragraph": 13
+      },
+      "links": [
+        {
+          "title": "Fiske, Cuddy, and Glick · Warmth and competence (research paper)",
+          "url": "https://doi.org/10.1016/j.tics.2006.11.005"
+        }
+      ]
+    },
+    {
+      "id": "the-great-gatsby-the-symbol-can-outgrow-its-object",
+      "bookId": "the-great-gatsby",
+      "book": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "fiction",
+      "topic": "Desire",
+      "concept": "The symbol can outgrow its object",
+      "quote": "It had occurred to him that the colossal significance of that light had now vanished forever. Now it was again a green light on a dock. His count of enchanted objects had diminished by one.",
+      "refresher": "Gatsby’s green light carries an imagined future far larger than a lamp across the water. When the object becomes attainable, its symbolic power changes. Notice when longing adds qualities the object itself cannot supply.",
+      "source": {
+        "file": "The great Gatsby notes.html",
+        "paragraph": 8
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Desire and attachment",
+          "url": "https://plato.stanford.edu/entries/desire/"
+        }
+      ]
+    },
+    {
+      "id": "the-hundred-page-machine-learning-book-hyperparameters-govern-the-learning-process",
+      "bookId": "the-hundred-page-machine-learning-book",
+      "book": "The Hundred-Page Machine Learning Book",
+      "author": "Andriy Burkov",
+      "genre": "nonfiction",
+      "topic": "Machine learning",
+      "concept": "Hyperparameters govern the learning process",
+      "quote": "An hyperparameter is a property of a learning algorithm that influences the way the algorithm works. Those values aren’t learned by the algorithm itself from data. They have to be set by the data analyst before running the algorithm.",
+      "refresher": "A hyperparameter configures how learning happens, rather than being a fitted model value. Choosing it using validation results is still part of model development, so final test data must remain separate.",
+      "source": {
+        "file": "The hundred-page machine learning book notes.html",
+        "paragraph": 10
+      },
+      "links": [
+        {
+          "title": "scikit-learn · Cross-validation and unseen data",
+          "url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+        }
+      ]
+    },
+    {
+      "id": "the-intelligent-investor-a-growing-industry-is-not-enough",
+      "bookId": "the-intelligent-investor",
+      "book": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "genre": "nonfiction",
+      "topic": "Investing",
+      "concept": "A growing industry is not enough",
+      "quote": "Obvious prospects for physical growth in a business do not translate into obvious profits for investors.",
+      "refresher": "An industry can expand while investors receive disappointing returns. The price paid, competition, costs, and who captures the gains all matter; a compelling growth story alone does not establish an attractive investment.",
+      "source": {
+        "file": "The intelligent investor notes.html",
+        "paragraph": 15
+      },
+      "links": [
+        {
+          "title": "SEC · Financial statements, earnings, and valuation ratios",
+          "url": "https://www.sec.gov/investor/pubs/begfinstmtguide.htm"
+        }
+      ]
+    },
+    {
+      "id": "the-madness-of-crowds-dignity-is-not-conditional-on-control",
+      "bookId": "the-madness-of-crowds",
+      "book": "The Madness of Crowds",
+      "author": "Douglas Murray",
+      "genre": "nonfiction",
+      "topic": "Ethics",
+      "concept": "Dignity is not conditional on control",
+      "quote": "One of the most significant building blocks of contemporary morality: the fundamental recognition that it is wrong to punish, demean or look down to people for characteristics over which they have no control.",
+      "refresher": "The passage identifies a reason to reject humiliation based on unchosen characteristics. Respect for people also need not depend on proving why a trait exists; evaluate actions without treating identity as a moral fault.",
+      "source": {
+        "file": "The madness of crowds notes.html",
+        "paragraph": 12
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Respect and moral standing",
+          "url": "https://plato.stanford.edu/entries/respect/"
+        }
+      ]
+    },
+    {
+      "id": "the-mind-illuminated-adjust-the-scope-of-attention",
+      "bookId": "the-mind-illuminated",
+      "book": "The Mind Illuminated",
+      "author": "Culadasa (John Yates), Matthew Immergut, and Jeremy Graves",
+      "genre": "nonfiction",
+      "topic": "Attention",
+      "concept": "Adjust the scope of attention",
+      "quote": "The scope of attention is how wide or narrow you want your focus to be.",
+      "refresher": "Attention has a width as well as a target. Noticing a single sensation and taking in the whole soundscape are different tasks; deliberately widening or narrowing the field changes what becomes prominent.",
+      "source": {
+        "file": "The mind illuminated notes.html",
+        "paragraph": 11
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Attention and selection",
+          "url": "https://plato.stanford.edu/entries/attention/"
+        }
+      ]
+    },
+    {
+      "id": "the-old-man-and-the-sea-act-with-the-materials-at-hand",
+      "bookId": "the-old-man-and-the-sea",
+      "book": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "genre": "fiction",
+      "topic": "Resourcefulness",
+      "concept": "Act with the materials at hand",
+      "quote": "You should have brought many things, he thought. But you did not bring them, old man. Now is no time to think of what you do not have. Think of what you can do with what there is.",
+      "refresher": "The fisherman interrupts regret about missing equipment to consider what remains possible. Preparation has its moment; once a situation is underway, inventorying available means can restore a useful next step.",
+      "source": {
+        "file": "The old man and the sea notes.html",
+        "paragraph": 20
+      },
+      "links": [
+        {
+          "title": "Effectuation · Begin with the means already available",
+          "url": "https://effectuation.org/the-five-principles-of-effectuation"
+        }
+      ]
+    },
+    {
+      "id": "the-power-of-myth-rituals-mark-belonging",
+      "bookId": "the-power-of-myth",
+      "book": "The Power of Myth",
+      "author": "Joseph Campbell with Bill Moyers",
+      "genre": "nonfiction",
+      "topic": "Community",
+      "concept": "Rituals mark belonging",
+      "quote": "Society has provided young people no rituals by which they become members of the tribe, of the community.",
+      "refresher": "Campbell worries about the absence of recognized transitions into community life. A shared ceremony can make a change of role visible, giving both the newcomer and the group a way to acknowledge it.",
+      "source": {
+        "file": "The power of myth notes.html",
+        "paragraph": 5
+      },
+      "links": [
+        {
+          "title": "Greater Good · How classroom rituals create community",
+          "url": "https://greatergood.berkeley.edu/article/item/how_classroom_rituals_help_create_community"
+        }
+      ]
+    },
+    {
+      "id": "the-power-of-now-notice-the-deferred-life-bargain",
+      "bookId": "the-power-of-now",
+      "book": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "genre": "nonfiction",
+      "topic": "Time",
+      "concept": "Notice the deferred-life bargain",
+      "quote": "\"Large-scale waiting\" is waiting for the next vacation, for a better job, for the children to grow up, for a truly meaningful relationship, for success, to make money, to be important, to become enlightened. Is not uncommon for people to spend their whole life waiting to start living. Waiting is a state of mind.",
+      "refresher": "Waiting for a promotion, holiday, or relationship can turn the present into a holding area. Identify one worthwhile part of living that need not remain conditional on the next milestone.",
+      "source": {
+        "file": "The power of now notes.html",
+        "paragraph": 36
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Desire and attachment",
+          "url": "https://plato.stanford.edu/entries/desire/"
+        }
+      ]
+    },
+    {
+      "id": "the-upstarts-coordinate-access-without-owning-supply",
+      "bookId": "the-upstarts",
+      "book": "The Upstarts",
+      "author": "Brad Stone",
+      "genre": "nonfiction",
+      "topic": "Business",
+      "concept": "Coordinate access without owning supply",
+      "quote": "Airbnb can be considered the biggest hotel company on the planet, yet it possesses no actual hotel rooms. Uber is among the world’s largest car serviced, yet it doesn’t employ any professional drivers or own any vehicles.",
+      "refresher": "The passage describes the platform model at the time of the book: coordinating transactions without owning the underlying rooms or vehicles. It shifts attention from producing each asset to organizing access, trust, and participation.",
+      "source": {
+        "file": "The upstarts notes.html",
+        "paragraph": 3
+      },
+      "links": [
+        {
+          "title": "Jean Tirole · Two-sided platforms and market regulation (Nobel lecture slides, PDF)",
+          "url": "https://www.nobelprize.org/uploads/2018/06/tirole-lecture-slides.pdf"
+        }
+      ]
+    },
+    {
+      "id": "this-changes-everything-thresholds-can-make-reversal-difficult",
+      "bookId": "this-changes-everything",
+      "book": "This Changes Everything",
+      "author": "Naomi Klein",
+      "genre": "nonfiction",
+      "topic": "Climate",
+      "concept": "Thresholds can make reversal difficult",
+      "quote": "Pushing global temperatures past certain thresholds could trigger abrupt, unpredictable and potentially irreversible changes that have massively disruptive and large-scale impacts. At that point, eve if we do not add any additional CO2 to the atmosphere, potentially unstoppable processes are set in motion.",
+      "refresher": "Some Earth-system changes can persist after the original pressure stops increasing. That makes the path and peak of warming important, alongside eventual stabilization; crossing a threshold may close off an easy return.",
+      "source": {
+        "file": "This changes everything notes.html",
+        "paragraph": 2
+      },
+      "links": [
+        {
+          "title": "IPCC · Irreversible changes and warming thresholds (synthesis report, PDF)",
+          "url": "https://digitallibrary.un.org/record/4008074/files/IPCC_AR6_SYR_LongerReport.pdf"
+        }
+      ]
+    },
+    {
+      "id": "to-kill-a-mockingbird-a-surname-is-not-evidence",
+      "bookId": "to-kill-a-mockingbird",
+      "book": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "fiction",
+      "topic": "Judgment",
+      "concept": "A surname is not evidence",
+      "quote": "Thus the dicta No Crawford Minds His Own Business, Every Third Merriweather Is Morbid, The Truth Is Not in the Delafields, All the Bufords Walk Like That.",
+      "refresher": "The town’s inherited sayings turn families into supposedly predictable types. Such labels can replace attention to an individual’s conduct. Ask whether a judgment rests on something observed or on a story attached to a group.",
+      "source": {
+        "file": "To kill a mockingbird notes.html",
+        "paragraph": 10
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Implicit bias and stereotypes",
+          "url": "https://plato.stanford.edu/entries/implicit-bias/"
+        }
+      ]
+    },
+    {
+      "id": "the-existential-importance-of-the-penis-support-choice-without-taking-it-over",
+      "bookId": "the-existential-importance-of-the-penis",
+      "book": "The Existential Importance of the Penis",
+      "author": "Daniel N. Watter",
+      "genre": "nonfiction",
+      "topic": "Autonomy",
+      "concept": "Support choice without taking it over",
+      "quote": "Frequently, they will look to the therapist to make the decisions for them. While often tempting, it is imperative that the therapist not fall prey to this trap.",
+      "refresher": "The passage warns against making a client’s decisions for them. More broadly, helping can mean clarifying possibilities and consequences while leaving ownership with the person who must live the choice.",
+      "source": {
+        "file": "Watter D. - The Existential Importance of the Penis.docx",
+        "paragraph": 18
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Existentialism, freedom, and responsibility",
+          "url": "https://plato.stanford.edu/entries/existentialism/"
+        }
+      ]
+    },
+    {
+      "id": "you-are-the-placebo-expectations-can-worsen-an-experience",
+      "bookId": "you-are-the-placebo",
+      "book": "You Are the Placebo",
+      "author": "Joe Dispenza",
+      "genre": "nonfiction",
+      "topic": "Mind and body",
+      "concept": "Expectations can worsen an experience",
+      "quote": "The nocebo is the opposite of the placebo (Latin for \"I shall harm\", as opposed of \"I shall please\" of placebo).",
+      "refresher": "Nocebo effects concern adverse experiences influenced by negative expectations and context. The concept does not mean that illness is imagined or that belief can replace treatment; it distinguishes one influence on experience from the condition’s other causes.",
+      "source": {
+        "file": "You are the placebo notes.html",
+        "paragraph": 6
+      },
+      "links": [
+        {
+          "title": "Research review · Nocebo effects across health outcomes",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37843534/"
+        }
+      ]
+    },
+    {
+      "id": "tools-of-titans-disagree-and-commit",
+      "bookId": "tools-of-titans",
+      "book": "Tools of Titans",
+      "author": "Timothy Ferriss",
+      "genre": "nonfiction",
+      "topic": "Teamwork",
+      "concept": "Disagree and commit",
+      "quote": "Disagree and commit in meetings (pag. 172)",
+      "refresher": "Your note flags a way to move forward without pretending everyone agrees. State the disagreement, let the responsible person decide, then support the agreed course in good faith. Commitment concerns execution, not a requirement to change your belief.",
+      "source": {
+        "file": "Tools of titans notes.html",
+        "paragraph": 2
+      },
+      "links": [
+        {
+          "title": "Jeff Bezos · Disagree and commit in practice",
+          "url": "https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders"
+        },
+        {
+          "title": "Marc Andreessen with Tim Ferriss · Disagree-and-commit culture (transcript)",
+          "url": "https://tim.blog/2018/01/01/the-tim-ferriss-show-transcripts-marc-andreessen/"
+        }
+      ]
+    },
+    {
+      "id": "tools-of-titans-combine-complementary-skills",
+      "bookId": "tools-of-titans",
+      "book": "Tools of Titans",
+      "author": "Timothy Ferriss",
+      "genre": "nonfiction",
+      "topic": "Learning",
+      "concept": "Combine complementary skills",
+      "quote": "Double or triple threat (pag. 269)",
+      "refresher": "Your reminder points to a career advantage built from a useful combination. Writing, technical knowledge, and presentation may reinforce one another even when none is exceptional alone. Ask which additional skill would make your existing strengths more useful together.",
+      "source": {
+        "file": "Tools of titans notes.html",
+        "paragraph": 4
+      },
+      "links": [
+        {
+          "title": "Josh Kaufman · Combining complementary skills",
+          "url": "https://joshkaufman.net/core-human-skills/"
+        }
+      ]
+    },
+    {
+      "id": "tools-of-titans-practice-voluntary-simplicity",
+      "bookId": "tools-of-titans",
+      "book": "Tools of Titans",
+      "author": "Timothy Ferriss",
+      "genre": "nonfiction",
+      "topic": "Perspective",
+      "concept": "Practice voluntary simplicity",
+      "quote": "Try poverty (pag. 475)",
+      "refresher": "Your note points to the Stoic exercise of briefly choosing fewer comforts to examine what you actually need. Ferriss discusses it through Seneca. A modest experiment, such as an ordinary meal instead of a luxury purchase, can test an imagined dependence; chosen simplicity is not the same as involuntary poverty.",
+      "source": {
+        "file": "Tools of titans notes.html",
+        "paragraph": 7
+      },
+      "links": [
+        {
+          "title": "Seneca · Letter 18 on practicing a simpler life",
+          "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18"
+        },
+        {
+          "title": "Tim Ferriss · Practicing simplicity through Seneca",
+          "url": "https://tim.blog/2016/02/02/how-to-practice-poverty-and-reduce-fear/"
+        }
+      ]
+    },
+    {
+      "id": "clean-code-duplication-can-reveal-a-missing-abstraction",
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "topic": "Software",
+      "concept": "Duplication can reveal a missing abstraction",
+      "quote": "Clean code contains no duplication. When the same thing is done over and over, it's a sign that there is an idea in our mind that is not well represented in the code.",
+      "refresher": "When the same rule appears in several places, changing it requires coordinated edits. Look for the shared idea behind the repetition. Similar-looking code that changes for different reasons may still belong apart.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 35
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Kent Beck’s rules of simple design",
+          "url": "https://martinfowler.com/bliki/BeckDesignRules.html"
+        }
+      ]
+    },
+    {
+      "id": "clean-code-make-state-changes-explicit",
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "topic": "Software",
+      "concept": "Make state changes explicit",
+      "quote": "Side effects are lies. Your function promises to do one thing, but it also does other hidden things.",
+      "refresher": "A function that appears to inspect something should not secretly modify it. Separating observations from state changes makes calls easier to compose and reason about; when a combined operation is useful, make its behavior clear.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 92
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Command-query separation",
+          "url": "https://martinfowler.com/bliki/CommandQuerySeparation.html"
+        }
+      ]
+    },
+    {
+      "id": "game-theory-an-introduction-nash-equilibrium",
+      "bookId": "game-theory-an-introduction",
+      "book": "Game Theory: An Introduction",
+      "author": "Steven Tadelis",
+      "genre": "nonfiction",
+      "topic": "Game theory",
+      "concept": "Nash equilibrium",
+      "quote": "Any strategy profile for which players are playing mutual best responses is a Nash equilibrium, making this equilibrium concept self-enforcing.",
+      "refresher": "At a Nash equilibrium, no player can improve their payoff by changing only their own strategy while the others hold theirs fixed. Stability in this sense does not mean the outcome is fair or best for the group.",
+      "source": {
+        "file": "Game theory notes.html",
+        "paragraph": 29
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Equilibrium and dominance in games",
+          "url": "https://plato.stanford.edu/entries/game-theory/"
+        }
+      ]
+    },
+    {
+      "id": "game-theory-an-introduction-eliminate-strictly-dominated-choices",
+      "bookId": "game-theory-an-introduction",
+      "book": "Game Theory: An Introduction",
+      "author": "Steven Tadelis",
+      "genre": "nonfiction",
+      "topic": "Game theory",
+      "concept": "Eliminate strictly dominated choices",
+      "quote": "Rational players will never play a dominated strategy and will always play a dominant strategy when it exists.",
+      "refresher": "A strictly dominated strategy does worse than another strategy for every possible choice by the other players. Eliminating it requires comparing across all those possibilities, rather than rejecting it because it loses in just one scenario.",
+      "source": {
+        "file": "Game theory notes.html",
+        "paragraph": 24
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Equilibrium and dominance in games",
+          "url": "https://plato.stanford.edu/entries/game-theory/"
+        }
+      ]
+    },
+    {
+      "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-more-data-cannot-repair-every-sampling-bias",
+      "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+      "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+      "author": "Aurélien Géron",
+      "genre": "nonfiction",
+      "topic": "Machine learning",
+      "concept": "More data cannot repair every sampling bias",
+      "quote": "Nonrepresentative training data (e.g. sample is too small -> sampling noise, sampling method is flawed -> sampling bias)",
+      "refresher": "A large sample can still systematically omit the people or situations where a model will be used. Examine how examples enter the dataset and who is missing, alongside the number of rows collected.",
+      "source": {
+        "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+        "paragraph": 28
+      },
+      "links": [
+        {
+          "title": "Google · Sampling bias and data quality",
+          "url": "https://developers.google.com/machine-learning/guides/data-traps/quality?hl=en"
+        }
+      ]
+    },
+    {
+      "id": "machine-learning-engineering-accuracy-can-hide-a-neglected-class",
+      "bookId": "machine-learning-engineering",
+      "book": "Machine Learning Engineering",
+      "author": "Andriy Burkov",
+      "genre": "nonfiction",
+      "topic": "Machine learning",
+      "concept": "Accuracy can hide a neglected class",
+      "quote": "Class imbalance can significantly affect the performance of the model. Techniques as over- and undersampling can help to overcome the problem.",
+      "refresher": "If a rare class matters, predicting the common class almost everywhere can look accurate while being useless. Inspect errors by class and choose metrics that reflect the actual cost of missed cases and false alarms.",
+      "source": {
+        "file": "Machine learning engineering notes.html",
+        "paragraph": 67
+      },
+      "links": [
+        {
+          "title": "scikit-learn · Classification metrics and their trade-offs",
+          "url": "https://scikit-learn.org/stable/modules/model_evaluation.html"
+        }
+      ]
+    },
+    {
+      "id": "bayesian-analysis-with-python-update-uncertainty-with-evidence",
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "topic": "Probability",
+      "concept": "Update uncertainty with evidence",
+      "quote": "Probabilities are used to measure the uncertainty we have about parameters, and Bayes' theorem is a mechanism to correctly update those probabilities in light of new data, hopefully reducing our uncertainty.",
+      "refresher": "Bayesian inference combines a prior with how likely the observed data would be under each candidate explanation. The result is a posterior distribution. New evidence changes degrees of uncertainty rather than automatically proving a single explanation.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 33
+      },
+      "links": [
+        {
+          "title": "Seeing Theory · Bayesian updates and conjugate priors (interactive)",
+          "url": "https://seeing-theory.brown.edu/bayesian-inference/index.html"
+        }
+      ]
+    },
+    {
+      "id": "bayesian-analysis-with-python-conjugate-priors-simplify-updating",
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "topic": "Probability",
+      "concept": "Conjugate priors simplify updating",
+      "quote": "As a third reason, the Beta distribution is the conjugate prior to the Binomial distribution. A conjugate prior of a likelihood is a prior that, when used in combination with a given likelihood, returns a posterior with the same functional form as the prior.",
+      "refresher": "A conjugate prior and likelihood produce a posterior in the prior’s distribution family. For a binomial model with a beta prior, observations update the beta parameters. This makes calculation convenient without guaranteeing that the model fits reality.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 36
+      },
+      "links": [
+        {
+          "title": "Seeing Theory · Bayesian updates and conjugate priors (interactive)",
+          "url": "https://seeing-theory.brown.edu/bayesian-inference/index.html"
+        }
+      ]
+    },
+    {
+      "id": "trustworthy-online-controlled-experiments-statistical-power",
+      "bookId": "trustworthy-online-controlled-experiments",
+      "book": "Trustworthy Online Controlled Experiments",
+      "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+      "genre": "nonfiction",
+      "topic": "Experiments",
+      "concept": "Statistical power",
+      "quote": "Statistical power is the probability of detecting a meaningful difference between the variants when there really is one (statistically, reject the null wher there is a difference).",
+      "refresher": "Power is the chance that a test detects a specified effect when that effect exists. It depends on sample size, noise, effect size, and the testing rule. A nonsignificant result from a low-power experiment is weak evidence of no effect.",
+      "source": {
+        "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+        "paragraph": 38
+      },
+      "links": [
+        {
+          "title": "NIST · Sample size, power, and detectable differences",
+          "url": "https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm"
+        }
+      ]
+    },
+    {
+      "id": "trustworthy-online-controlled-experiments-treatment-can-spill-into-the-control-group",
+      "bookId": "trustworthy-online-controlled-experiments",
+      "book": "Trustworthy Online Controlled Experiments",
+      "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+      "genre": "nonfiction",
+      "topic": "Experiments",
+      "concept": "Treatment can spill into the control group",
+      "quote": "There are experimental units (e.g., users) that can be assigned to different variants with no interference.",
+      "refresher": "If treated users interact with untreated colleagues, one person’s assignment can change another’s outcome. That interference can distort a simple user-level comparison. Consider the interaction network when choosing which groups to randomize together.",
+      "source": {
+        "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+        "paragraph": 16
+      },
+      "links": [
+        {
+          "title": "Google Research · Designing A/B tests in a collaboration network (research paper)",
+          "url": "https://research.google/pubs/designing-ab-tests-in-a-collaboration-network/"
+        }
+      ]
+    },
+    {
+      "id": "storytelling-with-data-small-multiples-separate-competing-scales",
+      "bookId": "storytelling-with-data",
+      "book": "Storytelling with Data",
+      "author": "Cole Nussbaumer Knaflic",
+      "genre": "nonfiction",
+      "topic": "Data visualization",
+      "concept": "Small multiples separate competing scales",
+      "quote": "Pull the graphs apart vertically and have a separate y-axis for each (both along the left) but leverage the same x-axis across both.",
+      "refresher": "Give each series its own panel while aligning the time axis. Readers can compare timing without guessing which of two vertical axes applies. Keep scale differences visible, since separate panels do not automatically make magnitudes comparable.",
+      "source": {
+        "file": "Nussbaumer Knaflic C. - Storytelling with data_.docx",
+        "paragraph": 66
+      },
+      "links": [
+        {
+          "title": "Datawrapper · Designing small multiple line charts",
+          "url": "https://www.datawrapper.de/blog/what-to-consider-when-creating-small-multiple-line-charts"
+        }
+      ]
+    },
+    {
+      "id": "storytelling-with-data-proximity-creates-visual-groups",
+      "bookId": "storytelling-with-data",
+      "book": "Storytelling with Data",
+      "author": "Cole Nussbaumer Knaflic",
+      "genre": "nonfiction",
+      "topic": "Data visualization",
+      "concept": "Proximity creates visual groups",
+      "quote": "Proximity: We tend to think of objects that are physically close together as belonging to part of a group.",
+      "refresher": "Spacing communicates relationships before a reader interprets labels. Place related elements closer together and leave more room between groups. An accidental gap can imply a separation that the data does not contain.",
+      "source": {
+        "file": "Nussbaumer Knaflic C. - Storytelling with data_.docx",
+        "paragraph": 74
+      },
+      "links": [
+        {
+          "title": "Nielsen Norman Group · Proximity in visual design",
+          "url": "https://www.nngroup.com/articles/gestalt-proximity/"
+        }
+      ]
+    },
+    {
+      "id": "influence-social-proof",
+      "bookId": "influence",
+      "book": "Influence",
+      "author": "Robert B. Cialdini",
+      "genre": "nonfiction",
+      "topic": "Social psychology",
+      "concept": "Social proof",
+      "quote": "The principle of social proof states that one means we use to determine what is correct is to find out what other people think is correct.",
+      "refresher": "When uncertain, people often use others’ behavior as evidence of what to do. Before following a crowd, ask whether its members have independent information or are simply copying one another.",
+      "source": {
+        "file": "Influence notes.html",
+        "paragraph": 34
+      },
+      "links": [
+        {
+          "title": "Nielsen Norman Group · Social proof in user experience",
+          "url": "https://www.nngroup.com/articles/social-proof-ux/"
+        }
+      ]
+    },
+    {
+      "id": "influence-a-drop-in-availability-can-raise-desire",
+      "bookId": "influence",
+      "book": "Influence",
+      "author": "Robert B. Cialdini",
+      "genre": "nonfiction",
+      "topic": "Social psychology",
+      "concept": "A drop in availability can raise desire",
+      "quote": "What really matter is also the differential value of availability: the drop from abundance to scarcity of something produced a decidedly more positive reaction than did constant scarcity.",
+      "refresher": "An item becoming scarce may feel more desirable than an item that was always scarce. Notice whether urgency comes from the item’s usefulness or from a recent loss of availability; those are different reasons to value it.",
+      "source": {
+        "file": "Influence notes.html",
+        "paragraph": 58
+      },
+      "links": [
+        {
+          "title": "Worchel, Lee, and Adewole · Scarcity and judgments of value (research paper)",
+          "url": "https://doi.org/10.1037/0022-3514.32.5.906"
+        }
+      ]
+    },
+    {
+      "id": "the-mom-test-a-customer-description-needs-a-meeting-place",
+      "bookId": "the-mom-test",
+      "book": "The Mom Test",
+      "author": "Rob Fitzpatrick",
+      "genre": "nonfiction",
+      "topic": "Customer discovery",
+      "concept": "A customer description needs a meeting place",
+      "quote": "Rule of thumb: Good customer segments are a who-where pair. If you don't know where to go to find your customers, keep slicing your segment into smaller pieces until you do.",
+      "refresher": "A segment becomes actionable when you can name both the people and where to reach them. A professional community, event, or specific workplace gives an interview plan a practical starting point.",
+      "source": {
+        "file": "Fitzpatrick R. - The Mom Test.docx",
+        "paragraph": 161
+      },
+      "links": [
+        {
+          "title": "Paul Graham · Finding and recruiting early users",
+          "url": "https://paulgraham.com/ds.html"
+        }
+      ]
+    },
+    {
+      "id": "the-mom-test-a-commitment-has-a-cost",
+      "bookId": "the-mom-test",
+      "book": "The Mom Test",
+      "author": "Rob Fitzpatrick",
+      "genre": "nonfiction",
+      "topic": "Customer discovery",
+      "concept": "A commitment has a cost",
+      "quote": "Commitment - They are showing they’re serious by giving up something they value such as time. reputation, or money",
+      "refresher": "Time spent on a pilot, an introduction that risks reputation, or a payment shows a different level of involvement from verbal enthusiasm. Ask what concrete next step someone is willing to take, without treating every kind of commitment as equivalent.",
+      "source": {
+        "file": "Fitzpatrick R. - The Mom Test.docx",
+        "paragraph": 97
+      },
+      "links": [
+        {
+          "title": "Effectuation · Partnerships built through commitments",
+          "url": "https://effectuation.org/the-five-principles-of-effectuation"
+        }
+      ]
+    },
+    {
+      "id": "structures-or-why-things-dont-fall-down-strain-measures-relative-deformation",
+      "bookId": "structures-or-why-things-dont-fall-down",
+      "book": "Structures: Or Why Things Don’t Fall Down",
+      "author": "J. E. Gordon",
+      "genre": "nonfiction",
+      "topic": "Engineering",
+      "concept": "Strain measures relative deformation",
+      "quote": "Strain tells us how far two points in a solid are being pulled apart. Strain = amount stretched / length.",
+      "refresher": "A millimeter of stretch means something different in a short wire and a long cable. Strain divides the change in length by the original length, allowing deformation to be compared across different sizes.",
+      "source": {
+        "file": "Structures notes.html",
+        "paragraph": 6
+      },
+      "links": [
+        {
+          "title": "OpenStax · Strain and elastic deformation",
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/12-3-stress-strain-and-elastic-modulus"
+        }
+      ]
+    },
+    {
+      "id": "never-split-the-difference-invite-the-other-side-to-solve-the-obstacle",
+      "bookId": "never-split-the-difference",
+      "book": "Never Split the Difference",
+      "author": "Chris Voss with Tahl Raz",
+      "genre": "nonfiction",
+      "topic": "Negotiation",
+      "concept": "Invite the other side to solve the obstacle",
+      "quote": "Ask for help or an advice. That gives the other part the illusion of control and make him use his mental and emotional resources to overcome your challenges.",
+      "refresher": "An open question about how an agreement could work can reveal constraints and alternatives that a demand would miss. Ask for the other person’s reasoning while stating your own limits honestly.",
+      "source": {
+        "file": "Never split the difference notes.html",
+        "paragraph": 47
+      },
+      "links": [
+        {
+          "title": "Harvard Program on Negotiation · Asking better negotiation questions",
+          "url": "https://www.pon.harvard.edu/daily/negotiation-skills-daily/ask-better-questions-in-negotiation-nb/"
+        }
+      ]
+    },
+    {
+      "id": "2001-a-space-odyssey-the-imitation-game-tests-behavior",
+      "bookId": "2001-a-space-odyssey",
+      "book": "2001: A Space Odyssey",
+      "author": "Arthur C. Clarke",
+      "genre": "fiction",
+      "topic": "Mind",
+      "concept": "The imitation game tests behavior",
+      "quote": "Turing had pointed out that, if one could carry out a prolonged conversation with a machine without being able to distinguish between its replies and those that a man might give, then the machine was thinking, by any sensible definition of the word.",
+      "refresher": "Clarke’s passage invokes Turing’s conversational test. The test shifts attention to what an evaluator can distinguish through dialogue; whether successful imitation establishes thinking or consciousness remains a separate philosophical question.",
+      "source": {
+        "file": "2001 a space odyssey notes.html",
+        "paragraph": 12
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · The Turing test and its limits",
+          "url": "https://plato.stanford.edu/entries/turing-test/"
+        }
+      ]
+    },
+    {
+      "id": "bayesian-analysis-with-python-expected-value-is-a-weighted-average",
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "topic": "Probability",
+      "concept": "Expected value is a weighted average",
+      "quote": "If X is a discrete random variable, we can compute its expected value as: E(X)= sum over x of x*P(X=x)",
+      "refresher": "Multiply each possible outcome by its probability and add the results. This describes an average across the distribution, not the outcome you must receive in one attempt. Variability and the consequences of losses still matter.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 18
+      },
+      "links": [
+        {
+          "title": "Seeing Theory · Expectation and the law of large numbers (interactive)",
+          "url": "https://seeing-theory.brown.edu/basic-probability/index.html"
+        }
+      ]
+    },
+    {
+      "id": "pattern-recognition-and-machine-learning-entropy-sets-a-compression-limit",
+      "bookId": "pattern-recognition-and-machine-learning",
+      "book": "Pattern Recognition and Machine Learning",
+      "author": "Christopher M. Bishop",
+      "genre": "nonfiction",
+      "topic": "Information theory",
+      "concept": "Entropy sets a compression limit",
+      "quote": "The entropy is the lower bound on the number of bits needed to transmit the state of a random variable.",
+      "refresher": "Shannon entropy measures average uncertainty in a source. With base-two logarithms, it gives an ideal lower bound on average bits per symbol for lossless coding under the model, not a measure of the message’s meaning.",
+      "source": {
+        "file": "Pattern recognition and machine learning notes.html",
+        "paragraph": 12
+      },
+      "links": [
+        {
+          "title": "IEEE · Shannon’s mathematical theory of communication (research paper)",
+          "url": "https://reach.ieee.org/primary-sources/a-mathematical-theory-of-communication/"
+        }
+      ]
+    },
+    {
+      "id": "the-great-gatsby-a-crowd-can-provide-anonymity",
+      "bookId": "the-great-gatsby",
+      "book": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "fiction",
+      "topic": "Literature",
+      "concept": "A crowd can provide anonymity",
+      "quote": "‘And I like large parties. They’re so intimate. At small parties there isn’t any privacy.'",
+      "refresher": "The remark reverses the usual association between small gatherings and intimacy. A large party may let someone choose whom to engage with and escape constant notice; privacy depends partly on how attention is distributed.",
+      "source": {
+        "file": "The great Gatsby notes.html",
+        "paragraph": 5
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Privacy and access to the person",
+          "url": "https://plato.stanford.edu/entries/privacy/"
         }
       ]
     }
