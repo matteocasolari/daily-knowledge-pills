@@ -1,6 +1,6 @@
 {
-  "sourceFiles": 102,
-  "sourceParagraphs": 15337,
+  "sourceFiles": 98,
+  "sourceParagraphs": 15087,
   "books": 98,
   "pills": 225,
   "maxWordsPerPill": 110,
@@ -104,10 +104,5 @@
     "Zen mind, beginner_s mind notes.html",
     "Zero to One notes.html"
   ],
-  "awaitingCuration": [
-    "Clean Code Takeaways.html",
-    "Founders note.html",
-    "Meeting notes.html",
-    "Simply Said Takeaways.html"
-  ]
+  "awaitingCuration": []
 }

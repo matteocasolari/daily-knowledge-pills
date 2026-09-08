@@ -1,17 +1,19 @@
 # Book coverage audit
 
-The collection contains **225 pills from all 98 identified books**. The first expansion added 65 pills from previously unrepresented books; the next added 25 more, including three from Tools of Titans. All 200 records that preceded the latest expansion are preserved unchanged.
+The collection contains **225 pills from all 98 identified books**. The first expansion added 65 pills from previously unrepresented books; the next added 25 more, including three from Tools of Titans. A subsequent [review of all 90 additions](pill-review.md) revised 11 records, including replacing one overlapping lesson. The original 135 pills remain unchanged.
 
-The 102 source files comprise 98 books, two alternate takeaway files, and two work/meeting note files. Book coverage is different from source-file coverage: a book can already be represented even when its alternate notes have not supplied an excerpt.
+There are now **98 source files**, containing **15,087 imported paragraphs**. Every retained source file supplies at least one pill. Their hashes match the originals; the integrity manifest and generated data reflect the four files removed by the owner.
 
-## Files without a selected excerpt
+## Removed files
+
+The original collection had 102 files. These four were removed by the owner and are no longer included in the importer, integrity manifest, or coverage totals. No pill referenced them.
 
 | Source file | Status |
 | --- | --- |
-| `Clean Code Takeaways.html` | Alternate notes for **Clean Code**, represented through `Clean code notes.html`. |
-| `Simply Said Takeaways.html` | Alternate notes for **Simply Said**, represented through `Simply said notes.html`. |
-| `Founders note.html` | Workshop, networking, and project notes, not an identifiable book. |
-| `Meeting notes.html` | Work meeting notes, not a book. |
+| `Clean Code Takeaways.html` | Removed alternate notes for **Clean Code**, still represented through `Clean code notes.html`. |
+| `Simply Said Takeaways.html` | Removed alternate notes for **Simply Said**, still represented through `Simply said notes.html`. |
+| `Founders note.html` | Removed workshop, networking, and project notes, not an identifiable book. |
+| `Meeting notes.html` | Removed work meeting notes, not a book. |
 
 ## Editorial decisions
 

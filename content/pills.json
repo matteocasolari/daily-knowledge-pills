@@ -3479,8 +3479,8 @@
     },
     "links": [
       {
-        "title": "Jean Tirole · Two-sided platforms and market regulation (Nobel lecture slides, PDF)",
-        "url": "https://www.nobelprize.org/uploads/2018/06/tirole-lecture-slides.pdf"
+        "title": "David J. Teece · Profiting from technological innovation and complementary assets (research paper)",
+        "url": "https://www.sciencedirect.com/science/article/pii/0048733386900272"
       }
     ]
   },
@@ -3794,8 +3794,8 @@
     },
     "links": [
       {
-        "title": "Stanford Encyclopedia of Philosophy · Game theory and sequential choices",
-        "url": "https://plato.stanford.edu/entries/game-theory/"
+        "title": "NASA · Checking software requirements for consistency",
+        "url": "https://swehb.nasa.gov/spaces/7150/pages/16450593/SWE-051%2B-%2BSoftware%2BRequirements%2BAnalysis"
       }
     ]
   },
@@ -3899,8 +3899,8 @@
     },
     "links": [
       {
-        "title": "Stanford Encyclopedia of Philosophy · Virtue ethics and moral character",
-        "url": "https://plato.stanford.edu/entries/ethics-virtue/"
+        "title": "Markkula Center for Applied Ethics · Test a decision before a public audience",
+        "url": "https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/"
       }
     ]
   },
@@ -3934,7 +3934,7 @@
     "topic": "Probability",
     "concept": "Density is not point probability",
     "quote": "For a continuous random variable, we can only assign a probability of 0 to every individual value it may take; instead, we can assign densities to them and then we can calculate probabilities for a range of values.",
-    "refresher": "For a continuous distribution, probability belongs to an interval and is the area under its density curve. The height at one value is a density, so it need not stay below one.",
+    "refresher": "For a continuous distribution with a density, the probability of an interval is the area under its density curve. The height at one value is a density, so it need not stay below one.",
     "source": {
       "file": "Martin O. - Bayesian Analysis with Python.docx",
       "paragraph": 13
@@ -4004,8 +4004,8 @@
     },
     "links": [
       {
-        "title": "Stanford Encyclopedia of Philosophy · Distributive justice and opportunity",
-        "url": "https://plato.stanford.edu/entries/justice-distributive/"
+        "title": "Baker and colleagues · Nurturing sport expertise, including relative age effects (review paper, PDF)",
+        "url": "https://jssm.org/volume02/iss1/cap/jssm-02-1.pdf"
       }
     ]
   },
@@ -4102,7 +4102,7 @@
     "topic": "Biology",
     "concept": "Muscles shorten by sliding filaments",
     "quote": "The sliding filament theory states that a muscle shortens or lengthens when the filaments (actin and myosin) slide past each other, without the filaments themselves changing in length.",
-    "refresher": "During contraction, actin and myosin overlap more as sarcomeres shorten. The filaments themselves do not need to shrink; their relative movement changes the length of the muscle’s working units.",
+    "refresher": "During a shortening contraction, actin and myosin overlap more as sarcomeres shorten. The filaments themselves do not need to shrink; their relative movement changes the length of the muscle’s working units.",
     "source": {
       "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
       "paragraph": 5
@@ -4193,8 +4193,8 @@
     },
     "links": [
       {
-        "title": "Stanford Encyclopedia of Philosophy · Daoism and non-forcing",
-        "url": "https://plato.stanford.edu/entries/daoism/"
+        "title": "Stanford Encyclopedia of Philosophy · Trust and distrust",
+        "url": "https://plato.stanford.edu/entries/trust/"
       }
     ]
   },
@@ -4235,8 +4235,8 @@
     },
     "links": [
       {
-        "title": "Stanford Encyclopedia of Philosophy · Attention and selection",
-        "url": "https://plato.stanford.edu/entries/attention/"
+        "title": "Ronnie McBryer · Balancing wonder and responsibility (commentary)",
+        "url": "https://paulocoelhoblog.com/2013/06/26/keeping-the-faith-the-wisdom-of-simplicity/"
       }
     ]
   },
@@ -4445,8 +4445,8 @@
     },
     "links": [
       {
-        "title": "Stanford Encyclopedia of Philosophy · Desire and attachment",
-        "url": "https://plato.stanford.edu/entries/desire/"
+        "title": "Arthur C. Brooks · How to set the right life goals and avoid the arrival fallacy",
+        "url": "https://www.theatlantic.com/ideas/archive/2023/09/mike-tyson-paradox-happiness-goals/675237/"
       }
     ]
   },
@@ -4514,23 +4514,23 @@
     ]
   },
   {
-    "id": "the-existential-importance-of-the-penis-support-choice-without-taking-it-over",
+    "id": "the-existential-importance-of-the-penis-existential-isolation-differs-from-loneliness",
     "bookId": "the-existential-importance-of-the-penis",
     "book": "The Existential Importance of the Penis",
     "author": "Daniel N. Watter",
     "genre": "nonfiction",
-    "topic": "Autonomy",
-    "concept": "Support choice without taking it over",
-    "quote": "Frequently, they will look to the therapist to make the decisions for them. While often tempting, it is imperative that the therapist not fall prey to this trap.",
-    "refresher": "The passage warns against making a client’s decisions for them. More broadly, helping can mean clarifying possibilities and consequences while leaving ownership with the person who must live the choice.",
+    "topic": "Connection",
+    "concept": "Existential isolation differs from loneliness",
+    "quote": "Existential isolation implies the most basic of all forms of isolation, the awareness that no matter how close or connected we may be to others, there is an \"\"unbridgeable gulf\" between us and any other human being.",
+    "refresher": "In Yalom’s framework, discussed by Watter, existential isolation concerns the separateness of each person’s experience, even within close relationships. It differs from lacking company; connection does not require another person to experience life exactly as you do.",
     "source": {
       "file": "Watter D. - The Existential Importance of the Penis.docx",
-      "paragraph": 18
+      "paragraph": 29
     },
     "links": [
       {
-        "title": "Stanford Encyclopedia of Philosophy · Existentialism, freedom, and responsibility",
-        "url": "https://plato.stanford.edu/entries/existentialism/"
+        "title": "Peter Helm · Measuring feelings of existential isolation (researcher interview)",
+        "url": "https://www.issep.org/spotlights/helm"
       }
     ]
   },
@@ -4824,14 +4824,14 @@
     "topic": "Experiments",
     "concept": "Treatment can spill into the control group",
     "quote": "There are experimental units (e.g., users) that can be assigned to different variants with no interference.",
-    "refresher": "If treated users interact with untreated colleagues, one person’s assignment can change another’s outcome. That interference can distort a simple user-level comparison. Consider the interaction network when choosing which groups to randomize together.",
+    "refresher": "No interference is an assumption of a simple user-level experiment. If treated users interact with untreated colleagues, one person’s assignment can change another’s outcome. Consider the interaction network when choosing which groups to randomize together.",
     "source": {
       "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
       "paragraph": 16
     },
     "links": [
       {
-        "title": "Google Research · Designing A/B tests in a collaboration network (research paper)",
+        "title": "Google Research · Designing A/B tests in a collaboration network (technical blog article)",
         "url": "https://research.google/pubs/designing-ab-tests-in-a-collaboration-network/"
       }
     ]

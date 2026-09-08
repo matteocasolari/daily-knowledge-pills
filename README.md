@@ -2,7 +2,7 @@
 
 My personal reading notebook: three concepts from books I’ve read, revisited each day. A completely static app for GitHub Pages.
 
-The collection includes **225 curated pills from 98 books**. All **102 original note files** are preserved byte-for-byte in `sources/`; the importer extracted **15,337 paragraphs**. All **98 identified books** are now represented. **Tools of Titans** has three pills: its original topic/page reminders are preserved as note excerpts, with editorial explanations informed by linked online sources. Two alternate takeaway files cover books already represented, and two files contain work/meeting notes rather than book notes. See the [book coverage audit](docs/book-coverage.md) for every book and the remaining source files.
+The collection includes **225 curated pills from 98 books**. The **98 retained note files** are preserved byte-for-byte in `sources/`; the importer extracted **15,087 paragraphs**. Every retained book and source file is represented. **Tools of Titans** has three pills: its original topic/page reminders are preserved as note excerpts, with editorial explanations informed by linked online sources. The owner removed two alternate takeaway files and two work/meeting note files from the original 102-file collection. See the [book coverage audit](docs/book-coverage.md) and the [review of all 90 additions](docs/pill-review.md).
 
 Each pill has a named concept, a short editorial refresher, the original note excerpt, the book and author, and an optional further-reading link. Pills are capped at **110 words including attribution**: at most 330 words for the daily set. Links are outside that reading budget.
 
@@ -57,7 +57,7 @@ Every pill includes at least one further-reading resource by someone other than 
 ```text
 sources/                     Original HTML and DOCX exports
 content/notes.json           All normalized paragraphs with source hashes
-content/source-manifest.json Original 102-file integrity manifest
+content/source-manifest.json Original hashes for the 98 retained source files
 content/import-report.json  Extraction counts and empty-file report
 content/pills.json           Editorially selected concepts and source references
 content/curation-report.json Curated sources and sources awaiting curation
