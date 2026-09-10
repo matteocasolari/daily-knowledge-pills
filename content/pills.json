@@ -5087,5 +5087,3680 @@
         "url": "https://plato.stanford.edu/entries/privacy/"
       }
     ]
+  },
+  {
+    "id": "2001-a-space-odyssey-diagnose-before-replacing",
+    "bookId": "2001-a-space-odyssey",
+    "book": "2001: A Space Odyssey",
+    "author": "Arthur C. Clarke",
+    "genre": "fiction",
+    "topic": "Decisions",
+    "concept": "Diagnose before replacing",
+    "quote": "One does not replace a blown fuse - until one knows just why it has blown.",
+    "refresher": "A failed component may be a symptom rather than the cause. Before replacing it, identify what overloaded or damaged it so the same failure does not immediately return.",
+    "source": {
+      "file": "2001 a space odyssey notes.html",
+      "paragraph": 15
+    },
+    "links": [
+      {
+        "title": "Google SRE · Learning from incidents through blameless postmortems",
+        "url": "https://sre.google/sre-book/postmortem-culture/"
+      }
+    ]
+  },
+  {
+    "id": "a-random-walk-down-wall-street-diversification-cannot-remove-market-wide-risk",
+    "bookId": "a-random-walk-down-wall-street",
+    "book": "A Random Walk Down Wall Street",
+    "author": "Burton G. Malkiel",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "Diversification cannot remove market-wide risk",
+    "quote": "Systematic risk arises from the basic variability of stock prices in general and the tendency for all stock to go along with the general market (market risk), unsystematic risk results from factors peculiar to that particular company.",
+    "refresher": "Company-specific risks can offset one another inside a diversified portfolio. Market-wide movements affect many holdings together, so some risk remains even after diversification.",
+    "source": {
+      "file": "A random walk down wall street notes.html",
+      "paragraph": 121
+    },
+    "links": [
+      {
+        "title": "Investor.gov · Asset allocation and diversification",
+        "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation"
+      }
+    ]
+  },
+  {
+    "id": "a-random-walk-down-wall-street-inflation-raises-the-break-even-return",
+    "bookId": "a-random-walk-down-wall-street",
+    "book": "A Random Walk Down Wall Street",
+    "author": "Burton G. Malkiel",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "Inflation raises the break-even return",
+    "quote": "Just to stay even, your investments have to produce a rate of return equal to inflation.",
+    "refresher": "A nominal gain can still reduce purchasing power. Judge an investment’s result after accounting for the change in what money can buy.",
+    "source": {
+      "file": "A random walk down wall street notes.html",
+      "paragraph": 6
+    },
+    "links": [
+      {
+        "title": "Federal Reserve Bank of St. Louis · Inflation and purchasing power (lesson, PDF)",
+        "url": "https://www.stlouisfed.org/education/-/media/project/frbstl/stlouisfed/Education/Lessons/pdf/Lifetime-Inflation-Activity.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a-short-history-of-nearly-everything-floating-ice-protects-aquatic-life",
+    "bookId": "a-short-history-of-nearly-everything",
+    "book": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "genre": "nonfiction",
+    "topic": "Science",
+    "concept": "Floating ice protects aquatic life",
+    "quote": "Because it expands, ice floats on water. It lacked this, ice would sink, and lakes and oceans would freeze from the bottom up. This are hardly the conditions to nurture life.",
+    "refresher": "Water expands as it freezes, making solid ice less dense than liquid water. A floating surface layer insulates the water below instead of letting a lake freeze upward from its bed.",
+    "source": {
+      "file": "A short history of nearly everything notes.html",
+      "paragraph": 100
+    },
+    "links": [
+      {
+        "title": "USGS · Why ice floats and why it matters (PDF)",
+        "url": "https://pubs.usgs.gov/gip/70039474/report.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a-short-history-of-nearly-everything-human-life-depends-on-microbial-partners",
+    "bookId": "a-short-history-of-nearly-everything",
+    "book": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "genre": "nonfiction",
+    "topic": "Biology",
+    "concept": "Human life depends on microbial partners",
+    "quote": "Bacteria will be here when the Sun explodes. This is their planet, and we are here only because they allow us to be. They got along for billions of years without us. We couldn’t survive a day without them.",
+    "refresher": "Bacteria are ancient, resilient, and woven into the systems that sustain us. Thinking of the body as an isolated organism misses the work performed by its microbial communities.",
+    "source": {
+      "file": "A short history of nearly everything notes.html",
+      "paragraph": 118
+    },
+    "links": [
+      {
+        "title": "NIEHS · The human microbiome",
+        "url": "https://www.niehs.nih.gov/health/topics/science/microbiome"
+      }
+    ]
+  },
+  {
+    "id": "architecture-patterns-with-python-a-difficult-fake-exposes-a-difficult-abstraction",
+    "bookId": "architecture-patterns-with-python",
+    "book": "Architecture Patterns with Python",
+    "author": "Harry Percival and Bob Gregory",
+    "genre": "nonfiction",
+    "topic": "Software",
+    "concept": "A difficult fake exposes a difficult abstraction",
+    "quote": "Building fakes for your abstractions is an excellent way to get design feedback: if it’s hard to fake, the abstraction is probably too complicated.",
+    "refresher": "A test fake must reproduce an abstraction’s useful behavior simply. If the fake becomes elaborate, the production boundary may be doing too much or exposing the wrong interface.",
+    "source": {
+      "file": "Percival H. - Architecture Patterns with Python.docx",
+      "paragraph": 53
+    },
+    "links": [
+      {
+        "title": "Martin Fowler · Test doubles and fake objects",
+        "url": "https://martinfowler.com/bliki/TestDouble.html"
+      }
+    ]
+  },
+  {
+    "id": "atomic-habits-mastery-includes-tolerating-repetition",
+    "bookId": "atomic-habits",
+    "book": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "topic": "Habits",
+    "concept": "Mastery includes tolerating repetition",
+    "quote": "The greatest threat to success is boredom. As soon as we experience the slightest dip in motivation, we begin seeking a new strategy. You have to fall in love with boredom.",
+    "refresher": "Once novelty disappears, switching methods can feel more rewarding than continuing. Progress often depends on staying engaged with ordinary repetitions long enough to refine them.",
+    "source": {
+      "file": "Clear J. - Atomic Habits.docx",
+      "paragraph": 61
+    },
+    "links": [
+      {
+        "title": "Association for Psychological Science · Deliberate practice",
+        "url": "https://www.psychologicalscience.org/journals/current-directions/0963721411421922/"
+      }
+    ]
+  },
+  {
+    "id": "bad-blood-a-culture-that-punishes-doubt-loses-warnings",
+    "bookId": "bad-blood",
+    "book": "Bad Blood",
+    "author": "John Carreyrou",
+    "genre": "nonfiction",
+    "topic": "Leadership",
+    "concept": "A culture that punishes doubt loses warnings",
+    "quote": "The biggest problem of the device was the dysfunctional corporate culture in which it was being developed. Elizabeth and Sunny regarded anyone who raised a concern or an objection as a cynic and a naysayer.",
+    "refresher": "Treating every objection as disloyalty filters out the information leaders most need. People must be able to raise concerns without being cast as enemies of the mission.",
+    "source": {
+      "file": "Bad blood notes.html",
+      "paragraph": 68
+    },
+    "links": [
+      {
+        "title": "Center for Creative Leadership · Psychological safety research (PDF)",
+        "url": "https://www.ccl.org/wp-content/uploads/2026/01/psychological-safety-senior-teams-research-paper-center-for-creative-leadership.pdf"
+      }
+    ]
+  },
+  {
+    "id": "bad-blood-give-the-subject-a-fair-chance-to-respond",
+    "bookId": "bad-blood",
+    "book": "Bad Blood",
+    "author": "John Carreyrou",
+    "genre": "nonfiction",
+    "topic": "Journalism",
+    "concept": "Give the subject a fair chance to respond",
+    "quote": "At the Journal, we had a cardinal rule called \"No surprises.\" We never went to press with a story without informing the story subject of every piece of information we had gathered in our reporting and giving them ample time and opportunity to address and rebut everything.",
+    "refresher": "Before publishing an allegation, show the subject the substance of what you intend to report and allow time for a meaningful response. The reply may correct an error or become part of the story.",
+    "source": {
+      "file": "Bad blood notes.html",
+      "paragraph": 104
+    },
+    "links": [
+      {
+        "title": "Society of Professional Journalists · Code of Ethics",
+        "url": "https://www.spj.org/ethicscode.asp"
+      }
+    ]
+  },
+  {
+    "id": "bayesian-analysis-with-python-heavy-tails-make-estimates-more-robust",
+    "bookId": "bayesian-analysis-with-python",
+    "book": "Bayesian Analysis with Python",
+    "author": "Osvaldo Martin",
+    "genre": "nonfiction",
+    "topic": "Statistics",
+    "concept": "Heavy tails make estimates more robust",
+    "quote": "The Student’s t-distribution allows us to have a more robust estimation of the mean and standard deviation because the outliers have the effect of decreasing 𝜈 instead of pulling the mean or increasing the standard deviation.",
+    "refresher": "A Student’s t model can accommodate extreme observations through its tail parameter. That keeps one outlier from dragging the estimated center and spread as strongly as it would under a normal model.",
+    "source": {
+      "file": "Martin O. - Bayesian Analysis with Python.docx",
+      "paragraph": 94
+    },
+    "links": [
+      {
+        "title": "NIST · Student’s t distribution",
+        "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda3664.htm"
+      }
+    ]
+  },
+  {
+    "id": "bayesian-analysis-with-python-polynomial-regression-is-linear-in-its-coefficients",
+    "bookId": "bayesian-analysis-with-python",
+    "book": "Bayesian Analysis with Python",
+    "author": "Osvaldo Martin",
+    "genre": "nonfiction",
+    "topic": "Statistics",
+    "concept": "Polynomial regression is linear in its coefficients",
+    "quote": "There are two important things to notice. First, polynomial regression is still linear regression; the linearity refers to the coefficients (the fs), not the variables (the xs). The second thing to note is that we are creating new variables out of thin air.",
+    "refresher": "A model can curve with respect to its input and still be a linear model. The label refers to how the unknown coefficients enter the equation, not to the shape drawn against the predictor.",
+    "source": {
+      "file": "Martin O. - Bayesian Analysis with Python.docx",
+      "paragraph": 198
+    },
+    "links": [
+      {
+        "title": "Penn State STAT 501 · Polynomial regression",
+        "url": "https://online.stat.psu.edu/stat501/Lesson09"
+      }
+    ]
+  },
+  {
+    "id": "being-mortal-memory-weights-the-peak-and-the-ending",
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "concept": "Memory weights the peak and the ending",
+    "quote": "The ratings in term of pain in an clinical operation follow the \"Peak-End rule\", instead of the sum moment-by-moment, that is an average of the pain experienced at the single worst moment of the procedure and the very end.",
+    "refresher": "People do not remember an experience as a simple sum of every moment. Its most intense point and its ending can disproportionately shape the retrospective judgment.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 60
+    },
+    "links": [
+      {
+        "title": "Kahneman and colleagues · When more pain is preferred to less (research paper)",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.90.15.6963"
+      }
+    ]
+  },
+  {
+    "id": "brief-answers-to-the-big-questions-control-matters-more-as-capability-grows",
+    "bookId": "brief-answers-to-the-big-questions",
+    "book": "Brief Answers to the Big Questions",
+    "author": "Stephen Hawking",
+    "genre": "nonfiction",
+    "topic": "Artificial intelligence",
+    "concept": "Control matters more as capability grows",
+    "quote": "Whereas the short-term impact of AI depends on who controls it, the long-term impact depends on whether it can be controlled at all. AI would be either the best or the worst thing ever happened to humanity. We should plan ahead.",
+    "refresher": "Near-term effects depend on who directs a system; longer-term effects also depend on whether its behavior remains governable. Capability work therefore needs explicit goals, oversight, and failure planning.",
+    "source": {
+      "file": "Brief answers to the big questions notes.html",
+      "paragraph": 83
+    },
+    "links": [
+      {
+        "title": "NIST · AI Risk Management Framework",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+      }
+    ]
+  },
+  {
+    "id": "capital-in-the-twenty-first-century-slow-growth-can-raise-capital-s-relative-weight",
+    "bookId": "capital-in-the-twenty-first-century",
+    "book": "Capital in the Twenty-First Century",
+    "author": "Thomas Piketty",
+    "genre": "nonfiction",
+    "topic": "Economics",
+    "concept": "Slow growth can raise capital’s relative weight",
+    "quote": "The long term capital/income ratio is the savings rate divided by the growth rate. US has higher growth rate than Europe, that's why it has lower capital/income ratio.",
+    "refresher": "In the simple long-run relationship described here, the capital-to-income ratio rises with saving and falls with economic growth. The same saving rate therefore accumulates more capital relative to income in a slower-growing economy.",
+    "source": {
+      "file": "Piketty T. - Capital in the Twenty-First Century_.docx",
+      "paragraph": 13
+    },
+    "links": [
+      {
+        "title": "Brookings · A review of Capital in the Twenty-First Century",
+        "url": "https://www.brookings.edu/articles/the-great-income-divide/"
+      }
+    ]
+  },
+  {
+    "id": "chaos-iteration-turns-a-formula-into-a-process",
+    "bookId": "chaos",
+    "book": "Chaos",
+    "author": "James Gleick",
+    "genre": "nonfiction",
+    "topic": "Mathematics",
+    "concept": "Iteration turns a formula into a process",
+    "quote": "Standard geometry takes an equation and asks for the set of numbers that satisfy it. But when a geometer iterates an equation instead of solving it, the equation becomes a process instead of a description, dynamic instead of static.",
+    "refresher": "Solving an equation asks which values satisfy it. Iterating one feeds each output back as the next input, revealing trajectories, attractors, and behavior over time.",
+    "source": {
+      "file": "Chaos notes.html",
+      "paragraph": 56
+    },
+    "links": [
+      {
+        "title": "Wolfram MathWorld · Dynamical systems",
+        "url": "https://mathworld.wolfram.com/DynamicalSystem.html"
+      }
+    ]
+  },
+  {
+    "id": "clean-code-wrap-third-party-interfaces-you-do-not-control",
+    "bookId": "clean-code",
+    "book": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "nonfiction",
+    "topic": "Software",
+    "concept": "Wrap third-party interfaces you do not control",
+    "quote": "Wrapping third-party API is a best practice so you minimize your dependencies upon it, make it easier to mock it out for tests, and aren't tied to a particular vendor's API design choices.",
+    "refresher": "A local boundary limits how much vendor-specific design leaks into the application. It also gives tests a stable seam and makes replacement less disruptive.",
+    "source": {
+      "file": "Clean code notes.html",
+      "paragraph": 164
+    },
+    "links": [
+      {
+        "title": "Microsoft Azure Architecture Center · Anti-corruption layer pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer"
+      }
+    ]
+  },
+  {
+    "id": "clean-code-test-code-also-needs-maintenance",
+    "bookId": "clean-code",
+    "book": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "nonfiction",
+    "topic": "Software",
+    "concept": "Test code also needs maintenance",
+    "quote": "Having dirty tests is equivalent to, if not worse than, having no tests. Tests must change as the production code evolves. The dirtier the tests, the harder they are to change.",
+    "refresher": "Tests change alongside production behavior. If they are hard to understand or modify, they slow safe changes and eventually stop providing trustworthy feedback.",
+    "source": {
+      "file": "Clean code notes.html",
+      "paragraph": 177
+    },
+    "links": [
+      {
+        "title": "Google Testing Blog · Test behavior, not implementation",
+        "url": "https://testing.googleblog.com/2013/08/testing-on-toilet-test-behavior-not.html"
+      }
+    ]
+  },
+  {
+    "id": "cloud-native-devops-with-kubernetes-distributed-services-degrade-by-degrees",
+    "bookId": "cloud-native-devops-with-kubernetes",
+    "book": "Cloud Native DevOps with Kubernetes",
+    "author": "John Arundel and Justin Domingus",
+    "genre": "nonfiction",
+    "topic": "Reliability",
+    "concept": "Distributed services degrade by degrees",
+    "quote": "Distributed systems expose the limitations of traditional monitoring, because they're not in either up or down states: they exist in a constant state of partially degraded service. In other words, nothing is ever completely right aboard a ship.",
+    "refresher": "A distributed system may keep serving some users while particular paths fail or slow down. Monitoring must describe partial health rather than forcing the whole service into a simple up-or-down label.",
+    "source": {
+      "file": "Cloud native devops with kubernetes notes.html",
+      "paragraph": 161
+    },
+    "links": [
+      {
+        "title": "Google SRE · Monitoring distributed systems",
+        "url": "https://sre.google/sre-book/monitoring-distributed-systems/"
+      }
+    ]
+  },
+  {
+    "id": "cloud-native-devops-with-kubernetes-grant-only-the-permissions-a-workload-needs",
+    "bookId": "cloud-native-devops-with-kubernetes",
+    "book": "Cloud Native DevOps with Kubernetes",
+    "author": "John Arundel and Justin Domingus",
+    "genre": "nonfiction",
+    "topic": "Security",
+    "concept": "Grant only the permissions a workload needs",
+    "quote": "Role-Based Access Control (RBAC) gives you fine-grained management of permissions in Kubernetes. Make sure it's enabled, and use RBAC roles to grant specific users and apps only the minimum privileges they need to do their jobs.",
+    "refresher": "Broad permissions enlarge the damage a mistake or compromise can cause. Define roles around specific duties and review exceptions rather than granting convenient blanket access.",
+    "source": {
+      "file": "Cloud native devops with kubernetes notes.html",
+      "paragraph": 125
+    },
+    "links": [
+      {
+        "title": "Kubernetes documentation · RBAC good practices",
+        "url": "https://kubernetes.io/docs/concepts/security/rbac-good-practices/"
+      }
+    ]
+  },
+  {
+    "id": "come-una-notte-a-bali-a-familiar-social-circle-can-narrow-possibility",
+    "bookId": "come-una-notte-a-bali",
+    "book": "Come una notte a Bali",
+    "author": "Gianluca Gotto",
+    "genre": "fiction",
+    "topic": "Relationships",
+    "concept": "A familiar social circle can narrow possibility",
+    "quote": "Fare conoscenza non sembra niente di troppo complesso, sulla carta. Ma solo quando ti trovi in una situazione come la mia ti rendi conto di quanto sia incredibile l'effetto di anni e anni trascorsi a frequentare sempre le stesse persone.",
+    "refresher": "Years spent with the same people can make one social world feel like the whole world. Entering a new setting can reveal different norms, identities, and ways of relating.",
+    "source": {
+      "file": "Come una notte a bali note.html",
+      "paragraph": 31
+    },
+    "links": [
+      {
+        "title": "Greater Good Science Center · How social connections shape well-being",
+        "url": "https://greatergood.berkeley.edu/topic/social_connection/definition"
+      }
+    ]
+  },
+  {
+    "id": "deep-work-choose-tools-by-their-effect-on-what-matters",
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "topic": "Technology",
+    "concept": "Choose tools by their effect on what matters",
+    "quote": "The Craftsman Approach to Tool Selection: Identify the core factors that determine success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh its negative impacts.",
+    "refresher": "A tool’s benefits are not enough on their own. Name the few factors that drive success and well-being, then weigh the tool’s positive and negative effects on those factors.",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 48
+    },
+    "links": [
+      {
+        "title": "Center for Humane Technology · How persuasive technology captures attention",
+        "url": "https://www.humanetech.com/youth/persuasive-technology"
+      }
+    ]
+  },
+  {
+    "id": "delivering-happiness-culture-becomes-part-of-the-brand",
+    "bookId": "delivering-happiness",
+    "book": "Delivering Happiness",
+    "author": "Tony Hsieh",
+    "genre": "nonfiction",
+    "topic": "Culture",
+    "concept": "Culture becomes part of the brand",
+    "quote": "What’s the best way to build a brand for the long term? In a word: culture. If you get the culture right, most of other stuff will happen naturally on its own. Your culture is your brand.",
+    "refresher": "Customers encounter a company through countless employee decisions. Shared norms shape those decisions, so the internal culture eventually appears in the external experience.",
+    "source": {
+      "file": "Delivering happiness notes.html",
+      "paragraph": 99
+    },
+    "links": [
+      {
+        "title": "MIT Sloan Management Review · What strong corporate cultures get right",
+        "url": "https://sloanreview.mit.edu/article/10-things-your-corporate-culture-needs-to-get-right/"
+      }
+    ]
+  },
+  {
+    "id": "delivering-happiness-a-promise-must-shape-the-whole-operation",
+    "bookId": "delivering-happiness",
+    "book": "Delivering Happiness",
+    "author": "Tony Hsieh",
+    "genre": "nonfiction",
+    "topic": "Customer service",
+    "concept": "A promise must shape the whole operation",
+    "quote": "Working in a call centre just wasn’t something that people in Bay Area wanted to do, but to build Zappos brand into being about the very best customer service, we needed to make sure customer service was the entire company.",
+    "refresher": "If service defines the brand, the service team cannot be treated as a peripheral cost center. Hiring, training, authority, and operations all have to support the promise made to customers.",
+    "source": {
+      "file": "Delivering happiness notes.html",
+      "paragraph": 82
+    },
+    "links": [
+      {
+        "title": "Harvard Business Review · The service-profit chain",
+        "url": "https://hbr.org/2008/07/putting-the-service-profit-chain-to-work"
+      }
+    ]
+  },
+  {
+    "id": "disrupt-yourself-try-to-kill-an-idea-before-the-market-does",
+    "bookId": "disrupt-yourself",
+    "book": "Disrupt Yourself",
+    "author": "Jay Samit",
+    "genre": "nonfiction",
+    "topic": "Decisions",
+    "concept": "Try to kill an idea before the market does",
+    "quote": "An important step is to kill your idea. Find a problem that will derail your idea, because that is what the marketplace will do, and really well.",
+    "refresher": "Before investing heavily, search deliberately for the assumption or failure mode that would make the idea collapse. Early disconfirmation is cheaper and more useful than late surprise.",
+    "source": {
+      "file": "Disrupt yourself notes.html",
+      "paragraph": 30
+    },
+    "links": [
+      {
+        "title": "Harvard Business Review · Performing a project premortem",
+        "url": "https://hbr.org/2007/09/performing-a-project-premortem"
+      }
+    ]
+  },
+  {
+    "id": "elon-musk-connected-businesses-can-reinforce-one-another",
+    "bookId": "elon-musk",
+    "book": "Elon Musk",
+    "author": "Ashlee Vance",
+    "genre": "nonfiction",
+    "topic": "Strategy",
+    "concept": "Connected businesses can reinforce one another",
+    "quote": "The unified filed theory of Elon Musk. Each one of his businesses is interconnected in the short term and the long term. Tesla makes better battery packs that SolarCity can then sell to end customers. SolarCity supplies Tesla's charging stations with solar panels, helping Tesla to provide free recharging to its drivers.",
+    "refresher": "A portfolio becomes more than a list of companies when capabilities or infrastructure from one strengthen another. Map the exchanges explicitly; a claimed synergy matters only when something useful actually flows between them.",
+    "source": {
+      "file": "Elon Musk.html",
+      "paragraph": 7
+    },
+    "links": [
+      {
+        "title": "Harvard Business Review · Strategy in the ecosystem economy",
+        "url": "https://hbr.org/2019/09/in-the-ecosystem-economy-whats-your-strategy"
+      }
+    ]
+  },
+  {
+    "id": "exploring-the-world-of-lucid-dreaming-dream-recall-depends-on-when-you-wake",
+    "bookId": "exploring-the-world-of-lucid-dreaming",
+    "book": "Exploring the World of Lucid Dreaming",
+    "author": "Stephen LaBerge and Howard Rheingold",
+    "genre": "nonfiction",
+    "topic": "Sleep",
+    "concept": "Dream recall depends on when you wake",
+    "quote": "Dreams are not recalled unless the sleeper awakens directly from them. Try setting an alarm clock to awaken you at a time when you are likely to be dreaming. Multiple of ninety minutes from your bedtime.",
+    "refresher": "Dream memories fade quickly unless waking interrupts or closely follows the dream. Timing an awakening near a likely REM period can create a better opportunity to record one.",
+    "source": {
+      "file": "LaBerge S. - Exploring the World of Lucid Dreaming.docx",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "NIH · Why dreams may be quickly forgotten",
+        "url": "https://www.nih.gov/news-events/news-releases/brain-may-actively-forget-during-dream-sleep"
+      }
+    ]
+  },
+  {
+    "id": "focus-creative-work-alternates-focus-and-release",
+    "bookId": "focus",
+    "book": "Focus",
+    "author": "Daniel Goleman",
+    "genre": "nonfiction",
+    "topic": "Creativity",
+    "concept": "Creative work alternates focus and release",
+    "quote": "First we prepare our minds by gathering a wide variety of pertinent information and then we alternate between concentrating intently on the problem and letting our minds wander freely.",
+    "refresher": "Preparation loads the mind with relevant material. Intense attention develops the problem; a looser period then allows remote associations to surface before another focused pass evaluates them.",
+    "source": {
+      "file": "Goleman D. - Focus.docx",
+      "paragraph": 15
+    },
+    "links": [
+      {
+        "title": "American Psychological Association · The benefits of mind wandering",
+        "url": "https://www.apa.org/monitor/2013/07-08/ce-corner"
+      }
+    ]
+  },
+  {
+    "id": "freakonomics-conventional-wisdom-is-a-starting-hypothesis",
+    "bookId": "freakonomics",
+    "book": "Freakonomics",
+    "author": "Steven D. Levitt and Stephen J. Dubner",
+    "genre": "nonfiction",
+    "topic": "Critical thinking",
+    "concept": "Conventional wisdom is a starting hypothesis",
+    "quote": "The conventional wisdom in Galbraith’s view must be simple, convenient, comfortable, and comforting - though not necessarily true. It would be silly to argue that the conventional wisdom is never true, but noticing where it might be false is a nice place to start asking questions.",
+    "refresher": "A familiar explanation may be true, but comfort and repetition are not evidence. Ask what observation would distinguish it from plausible alternatives.",
+    "source": {
+      "file": "Freakonomics notes.html",
+      "paragraph": 49
+    },
+    "links": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy · Scientific method",
+        "url": "https://plato.stanford.edu/entries/scientific-method/"
+      }
+    ]
+  },
+  {
+    "id": "game-theory-an-introduction-the-future-can-sustain-cooperation",
+    "bookId": "game-theory-an-introduction",
+    "book": "Game Theory: An Introduction",
+    "author": "Steven Tadelis",
+    "genre": "nonfiction",
+    "topic": "Game theory",
+    "concept": "The future can sustain cooperation",
+    "quote": "Repeated games are useful frameworks to understand how people cooperate over time, how firms manage to collude in markets, and how reputations for good behaviour are sustained over time even when short-run temptations are present.",
+    "refresher": "In a repeated relationship, today’s defection can change how others behave tomorrow. That shadow of the future can make cooperation rational even when a one-shot temptation points elsewhere.",
+    "source": {
+      "file": "Game theory notes.html",
+      "paragraph": 64
+    },
+    "links": [
+      {
+        "title": "Nobel Prize · Conflict and cooperation through game theory",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2005/popular-information/"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-soft-margins-trade-purity-for-robustness",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "concept": "Soft margins trade purity for robustness",
+    "quote": "Strictly imposing that all instances must be off the street (hard margin classification) works only if data is separable and it's sensitive to outliers. Better allowing some margin violations, while limiting them (soft margin classification).",
+    "refresher": "A hard-margin classifier requires perfect separation and can be dominated by an outlier. Allowing controlled violations produces a boundary that can generalize better to imperfect data.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 158
+    },
+    "links": [
+      {
+        "title": "scikit-learn · SVM margins example",
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_svm_margin.html"
+      }
+    ]
+  },
+  {
+    "id": "homo-deus-belief-can-coordinate-real-infrastructure",
+    "bookId": "homo-deus",
+    "book": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "genre": "nonfiction",
+    "topic": "Institutions",
+    "concept": "Belief can coordinate real infrastructure",
+    "quote": "Egyptians believed that only prayers to the living-god pharaoh could save Nile Valley from devastating floods and droughts. They were right. Pharaoh did nothing to raise or lower the Nile water level, but built dams and dug canals.",
+    "refresher": "The pharaoh did not control the river, but the institution around him organized canals and dams. A mistaken causal story can still coordinate actions that produce real effects.",
+    "source": {
+      "file": "Homo deus notes.html",
+      "paragraph": 104
+    },
+    "links": [
+      {
+        "title": "Encyclopaedia Britannica · Agriculture and irrigation in ancient Egypt",
+        "url": "https://www.britannica.com/place/ancient-Egypt/Agriculture-and-fishing"
+      }
+    ]
+  },
+  {
+    "id": "how-not-to-be-wrong-zero-correlation-does-not-mean-no-relationship",
+    "bookId": "how-not-to-be-wrong",
+    "book": "How Not to Be Wrong",
+    "author": "Jordan Ellenberg",
+    "genre": "nonfiction",
+    "topic": "Statistics",
+    "concept": "Zero correlation does not mean no relationship",
+    "quote": "When you’re told that two phenomena in nature or society were found to be uncorrelated, it doesn’t mean there’s no relationship, only that there’s no relationship of the sort that correlation is designed to detect.",
+    "refresher": "Correlation measures a particular kind of association, usually linear dependence. A strong curved or otherwise structured relationship can still produce a coefficient near zero.",
+    "source": {
+      "file": "How not to be wrong notes.html",
+      "paragraph": 137
+    },
+    "links": [
+      {
+        "title": "NIST · What a correlation coefficient does and does not show",
+        "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda35c.htm"
+      }
+    ]
+  },
+  {
+    "id": "i-robot-passing-a-one-way-test-proves-little",
+    "bookId": "i-robot",
+    "book": "I, Robot",
+    "author": "Isaac Asimov",
+    "genre": "fiction",
+    "topic": "Reasoning",
+    "concept": "Passing a one-way test proves little",
+    "quote": "‘If Mr Byerley breaks any of those three rules, he is not a robot. Unfortunately, this procedure works in only one direction. If he lives up to the rules, it proves nothing one way or the other.’",
+    "refresher": "If robots obey three rules, breaking one would disprove robothood. Obeying them cannot confirm it because a human might behave the same way. Necessary evidence is not automatically sufficient evidence.",
+    "source": {
+      "file": "I, robot notes.html",
+      "paragraph": 36
+    },
+    "links": [
+      {
+        "title": "Internet Encyclopedia of Philosophy · Affirming the consequent",
+        "url": "https://iep.utm.edu/fallacy/#AffirmingtheConsequent"
+      }
+    ]
+  },
+  {
+    "id": "le-crepe-sono-fatte-per-loro-finish-the-present-task-before-leaving-it",
+    "bookId": "le-crepe-sono-fatte-per-loro",
+    "book": "Le crepe sono fatte per l’oro",
+    "author": "Elena Giappone",
+    "genre": "nonfiction",
+    "topic": "Attention",
+    "concept": "Finish the present task before leaving it",
+    "quote": "Nella vita, zanshin è l'arte di chiudere bene le cose. Non lasciare tutto a metà. Non correre già alla prossima cosa mentre stai ancora facendo questa. Rimanere presente fino alla fine. E anche un momento dopo la fine.",
+    "refresher": "Zanshin here means carrying attention through the ending instead of mentally departing for the next task. Closure deserves the same care as initiation.",
+    "source": {
+      "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+      "paragraph": 73
+    },
+    "links": [
+      {
+        "title": "Encyclopaedia Britannica · The Zeigarnik effect and unfinished tasks",
+        "url": "https://www.britannica.com/science/Zeigarnik-effect"
+      }
+    ]
+  },
+  {
+    "id": "lost-and-founder-candor-needs-empathy",
+    "bookId": "lost-and-founder",
+    "book": "Lost and Founder",
+    "author": "Rand Fishkin",
+    "genre": "nonfiction",
+    "topic": "Leadership",
+    "concept": "Candor needs empathy",
+    "quote": "Transparency is making the choice to reveal even the most uncomfortable truths with relentless candor. It is immensely powerful, and it has an almost unbelievably positive impact on everyone around you. You need to balance it with empathy.",
+    "refresher": "Revealing uncomfortable facts can build trust, but delivery changes whether people can use the truth. Pair directness with attention to timing, dignity, and the listener’s context.",
+    "source": {
+      "file": "Lost and founder notes.html",
+      "paragraph": 14
+    },
+    "links": [
+      {
+        "title": "Microsoft Research · How leaders create a culture of candor",
+        "url": "https://www.microsoft.com/en-us/research/video/transparency-how-leaders-create-a-culture-of-candor/"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-training-data-should-resemble-production-inputs",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "concept": "Training data should resemble production inputs",
+    "quote": "It is important that the distribution of feature values in the training set is similar to the distribution of values the production model will receive. Furthermore, good features are unitary, easy to understand and maintain.",
+    "refresher": "A model learns from the distribution it sees during training. If production features differ in meaning, range, or frequency, validation results may not describe real performance.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 87
+    },
+    "links": [
+      {
+        "title": "Google Developers · Avoid training-serving skew",
+        "url": "https://developers.google.com/machine-learning/guides/rules-of-ml#training-serving_skew"
+      }
+    ]
+  },
+  {
+    "id": "man-s-search-for-meaning-a-life-also-accumulates-irreversible-value",
+    "bookId": "man-s-search-for-meaning",
+    "book": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "genre": "nonfiction",
+    "topic": "Perspective",
+    "concept": "A life also accumulates irreversible value",
+    "quote": "There is no reason to pity old people. Instead, young people should envy them. They have realities in the past and nothing and nobody can ever remove these assets from the past. But today's society is characterized by achievement orientation.",
+    "refresher": "Achievement culture measures what remains to be won. Frankl’s passage turns attention toward love, work, and experience already realized—parts of a life that later decline cannot erase.",
+    "source": {
+      "file": "Man_s search for meaning notes.html",
+      "paragraph": 27
+    },
+    "links": [
+      {
+        "title": "American Psychological Association · Wisdom and aging",
+        "url": "https://www.apa.org/monitor/2017/07-08/wisdom"
+      }
+    ]
+  },
+  {
+    "id": "never-split-the-difference-trade-differences-in-priorities",
+    "bookId": "never-split-the-difference",
+    "book": "Never Split the Difference",
+    "author": "Chris Voss with Tahl Raz",
+    "genre": "nonfiction",
+    "topic": "Negotiation",
+    "concept": "Trade differences in priorities",
+    "quote": "Think about things that are not important for you but that are important for them (or vice versa) and consider involve them in the negotiation.",
+    "refresher": "Two sides may value the same terms differently. Look for something inexpensive for you and valuable to them, then exchange it for a concession with the opposite pattern.",
+    "source": {
+      "file": "Never split the difference notes.html",
+      "paragraph": 43
+    },
+    "links": [
+      {
+        "title": "Harvard Program on Negotiation · Logrolling in negotiation",
+        "url": "https://www.pon.harvard.edu/tag/logrolling/"
+      }
+    ]
+  },
+  {
+    "id": "no-bad-parts-symptoms-make-more-sense-in-context",
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "topic": "Mental health",
+    "concept": "Symptoms make more sense in context",
+    "quote": "When you tell a person they are sick and ignore the larger context in which their symptoms make sense, not only do you miss leverage points that could lead to transformation, but you also produce a passive patient who feels defective.",
+    "refresher": "Within the IFS model, an extreme response may have served a protective role in an earlier environment. Asking what context made it useful can reveal options that a defect label hides.",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 43
+    },
+    "links": [
+      {
+        "title": "SAMHSA · Trauma and violence",
+        "url": "https://www.samhsa.gov/mental-health/trauma-violence"
+      }
+    ]
+  },
+  {
+    "id": "no-rules-rules-leaders-behavior-becomes-the-real-policy",
+    "bookId": "no-rules-rules",
+    "book": "No Rules Rules",
+    "author": "Reed Hastings and Erin Meyer",
+    "genre": "nonfiction",
+    "topic": "Leadership",
+    "concept": "Leaders’ behavior becomes the real policy",
+    "quote": "The practices modeled by the boss will be critical to guide employees as to the appropriate behavior. An office with no vacation policy but a boss who never vacations will result in as office that never vacations.",
+    "refresher": "People infer what is safe from what leaders actually do. An unlimited-vacation policy means little if the boss never takes leave and quietly rewards constant availability.",
+    "source": {
+      "file": "No rules rules notes.html",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "Center for Creative Leadership · Why leaders must model behavior",
+        "url": "https://www.ccl.org/articles/leading-effectively-articles/leadership-role-model/"
+      }
+    ]
+  },
+  {
+    "id": "nscas-essentials-of-personal-training-hydration-needs-vary-with-conditions",
+    "bookId": "nscas-essentials-of-personal-training",
+    "book": "NSCA’s Essentials of Personal Training",
+    "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+    "genre": "nonfiction",
+    "topic": "Health",
+    "concept": "Hydration needs vary with conditions",
+    "quote": "The reality is that water requirements change based on a variety of factors including environ- ment. sweating, body surface area, calorie intake, body size. and lean muscle tissue, leading to tremendous inter- and intraindividual variation.",
+    "refresher": "A single water target cannot fit every body and activity. Heat, sweating, body size, food, and exercise all change requirements, so intake should respond to conditions and individual losses.",
+    "source": {
+      "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+      "paragraph": 451
+    },
+    "links": [
+      {
+        "title": "National Athletic Trainers’ Association · Fluid replacement position statement",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5634236/"
+      }
+    ]
+  },
+  {
+    "id": "outliers-lower-rank-can-make-speaking-up-easier",
+    "bookId": "outliers",
+    "book": "Outliers",
+    "author": "Malcolm Gladwell",
+    "genre": "nonfiction",
+    "topic": "Teamwork",
+    "concept": "Lower rank can make speaking up easier",
+    "quote": "Planes are safer when the least experienced pilot is flying , because it means the second pilot isn't going to be afraid to speak up.",
+    "refresher": "When the less experienced pilot is flying, the senior pilot can monitor and challenge without questioning a superior. Good team design reduces the status cost of reporting danger.",
+    "source": {
+      "file": "Outliers notes.html",
+      "paragraph": 16
+    },
+    "links": [
+      {
+        "title": "NASA · Crew resource management and flight safety",
+        "url": "https://ntrs.nasa.gov/citations/19940013182"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-soft-clustering-preserves-uncertainty",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "concept": "Soft clustering preserves uncertainty",
+    "quote": "Whereas K-means algorithm performs a hard assignment of data points to clusters, in which each data point is associated uniquely with one cluster, the EM algorithm makes a soft assignment based on the posterior probabilities.",
+    "refresher": "K-means assigns each point to one cluster. A mixture model can instead retain graded membership probabilities, which is useful when groups overlap or evidence is ambiguous.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 118
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Gaussian mixture models",
+        "url": "https://scikit-learn.org/stable/modules/mixture.html"
+      }
+    ]
+  },
+  {
+    "id": "polysecure-repair-distinguishes-resilient-relationships",
+    "bookId": "polysecure",
+    "book": "Polysecure",
+    "author": "Jessica Fern",
+    "genre": "nonfiction",
+    "topic": "Relationships",
+    "concept": "Repair distinguishes resilient relationships",
+    "quote": "The main difference between happy couples and unhappy couples is not that happy couples don’t have arguments or make mistakes, but that they are better and faster at doing the repair work when breaches have occurred.",
+    "refresher": "Conflict and mistakes occur in every relationship. What separates resilient pairs is their ability to notice a rupture, take responsibility, and restore connection before distance hardens.",
+    "source": {
+      "file": "Fern J. - Polysecure.docx",
+      "paragraph": 199
+    },
+    "links": [
+      {
+        "title": "The Gottman Institute · Repair attempts in relationships",
+        "url": "https://www.gottman.com/blog/repair-secret-weapon-emotionally-connected-couples/"
+      }
+    ]
+  },
+  {
+    "id": "poor-charlie-s-almanack-put-the-reward-after-the-necessary-action",
+    "bookId": "poor-charlie-s-almanack",
+    "book": "Poor Charlie’s Almanack",
+    "author": "Charles T. Munger; edited by Peter D. Kaufman",
+    "genre": "nonfiction",
+    "topic": "Behavior",
+    "concept": "Put the reward after the necessary action",
+    "quote": "You can successfully manipulate your own behavior with this rule, even if you are using as rewards items that you already possess! Granny's rule, to be specific, is the requirement that children eat their carrots before they get dessert.",
+    "refresher": "The Premack principle uses a more probable or preferred activity to reinforce a less preferred one. Sequence can therefore change behavior even when the reward was already available.",
+    "source": {
+      "file": "Kaufman P. - Poor Charlie_s Almanack.docx",
+      "paragraph": 156
+    },
+    "links": [
+      {
+        "title": "University of Minnesota Libraries · The Premack principle",
+        "url": "https://open.lib.umn.edu/organizationalbehavior/chapter/4-2-work-motivation-for-performance/"
+      }
+    ]
+  },
+  {
+    "id": "principles-build-an-organization-that-can-work-without-you",
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "topic": "Leadership",
+    "concept": "Build an organization that can work without you",
+    "quote": "The greatest success you can have as the person in charge is to orchestrate others to do things well without you.",
+    "refresher": "A leader’s work compounds when other people gain the authority, context, and skill to perform without constant intervention. Judge leadership partly by how well the system functions in the leader’s absence.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 27
+    },
+    "links": [
+      {
+        "title": "Center for Creative Leadership · Delegation develops autonomy and future leaders",
+        "url": "https://www.ccl.org/articles/leading-effectively-articles/delegating-beyond-getting-it-off-your-desk/"
+      }
+    ]
+  },
+  {
+    "id": "principles-turn-failures-into-a-searchable-record",
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Turn failures into a searchable record",
+    "quote": "Issue log: tool to record mistakes and learn from them. Anything that goes wrong must be \"issue logged\" with the severity of the issue and who is responsible for it specified, so that it's easy to sort through most problems.",
+    "refresher": "Recording an issue, its severity, and its ownership prevents mistakes from dissolving into memory. A consistent log makes recurring patterns visible and gives follow-up a clear home.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 146
+    },
+    "links": [
+      {
+        "title": "Google SRE · Learning from incidents through blameless postmortems",
+        "url": "https://sre.google/sre-book/postmortem-culture/"
+      }
+    ]
+  },
+  {
+    "id": "steve-jobs-cannibalize-your-product-before-a-rival-does",
+    "bookId": "steve-jobs",
+    "book": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "genre": "nonfiction",
+    "topic": "Strategy",
+    "concept": "Cannibalize your product before a rival does",
+    "quote": "One of Job's business rules was to never be afraid of cannibalizing yourself. \"If you don't cannibalize yourself, someone else will\".",
+    "refresher": "Protecting today’s successful product can leave tomorrow’s category to someone else. A company willing to replace its own offering keeps the transition—and the learning—inside.",
+    "source": {
+      "file": "Steve Jobs notes.html",
+      "paragraph": 23
+    },
+    "links": [
+      {
+        "title": "Harvard Business Review · What disruptive innovation means",
+        "url": "https://hbr.org/2015/12/what-is-disruptive-innovation"
+      }
+    ]
+  },
+  {
+    "id": "structures-or-why-things-dont-fall-down-compression-failures-often-escape-sideways",
+    "bookId": "structures-or-why-things-dont-fall-down",
+    "book": "Structures: Or Why Things Don’t Fall Down",
+    "author": "J. E. Gordon",
+    "genre": "nonfiction",
+    "topic": "Engineering",
+    "concept": "Compression failures often escape sideways",
+    "quote": "What is really happening in failures is that the material or the structure finds some way of evading an unduly high compressive stress, usually by moving 'out from under' the load. The actual fracture nearly always takes place by shearing.",
+    "refresher": "A compressed member may fail by buckling or shearing as the structure finds a path away from the load. Analyze the movement a failure permits, not only the nominal direction of force.",
+    "source": {
+      "file": "Structures notes.html",
+      "paragraph": 54
+    },
+    "links": [
+      {
+        "title": "NIST · Disaster and failure studies",
+        "url": "https://www.nist.gov/topics/disaster-failure-studies"
+      }
+    ]
+  },
+  {
+    "id": "stuff-matters-remove-variability-before-adding-precision",
+    "bookId": "stuff-matters",
+    "book": "Stuff Matters",
+    "author": "Mark Miodownik",
+    "genre": "nonfiction",
+    "topic": "Engineering",
+    "concept": "Remove variability before adding precision",
+    "quote": "Revolution to mass-production: rather than trying to remove the carbon until just the right amount was left, about 1 percent, Mushet suggested removing all the carbon and then adding 1 percent carbon back in.",
+    "refresher": "Mushet’s steelmaking improvement replaced a difficult stopping judgment with two controlled steps: remove the carbon, then add back a measured amount. Resetting a process can make its final state easier to control.",
+    "source": {
+      "file": "Stuff matters notes.html",
+      "paragraph": 7
+    },
+    "links": [
+      {
+        "title": "Encyclopaedia Britannica · Primary steelmaking",
+        "url": "https://www.britannica.com/technology/steel/Primary-steelmaking"
+      }
+    ]
+  },
+  {
+    "id": "surely-you-re-joking-mr-feynman-averaging-guesses-cannot-create-missing-evidence",
+    "bookId": "surely-you-re-joking-mr-feynman",
+    "book": "Surely You’re Joking, Mr. Feynman!",
+    "author": "Richard P. Feynman",
+    "genre": "nonfiction",
+    "topic": "Reasoning",
+    "concept": "Averaging guesses cannot create missing evidence",
+    "quote": "This famous problem: Nobody was permitted to see the Emperor of China and the question was, What is the length of the Emperor of China's nose? To find out, you go all over the country asking people what they think the length of the Emperor of China's nose is, and you average it.",
+    "refresher": "If nobody can observe the emperor’s nose, collecting more opinions does not measure it. Aggregation reduces random error only when each input contains some information about the target.",
+    "source": {
+      "file": "Surely you_re joking, Mr. Feynman notes.html",
+      "paragraph": 19
+    },
+    "links": [
+      {
+        "title": "NIST · Measurement uncertainty",
+        "url": "https://www.nist.gov/pml/nist-technical-note-1297"
+      }
+    ]
+  },
+  {
+    "id": "tao-te-ching-desire-becomes-craving-when-it-consumes-attention",
+    "bookId": "tao-te-ching",
+    "book": "Tao Te Ching",
+    "author": "Lao Tzu",
+    "genre": "nonfiction",
+    "topic": "Mind",
+    "concept": "Desire becomes craving when it consumes attention",
+    "quote": "Addiction or craving, which is what desire becomes when we allow it to absorb the finer energies of our psyche. Craving is a desire that devours us. But desires pure and simple are not to be killed or suppressed; they are an aspect of our human nature.",
+    "refresher": "The commentary distinguishes ordinary desire from a demand that absorbs the mind. The useful question is not whether a desire exists, but whether it leaves room for choice and other values.",
+    "source": {
+      "file": "Tao te ching notes.html",
+      "paragraph": 169
+    },
+    "links": [
+      {
+        "title": "Brewer and colleagues · Mindfulness and craving mechanisms (research review)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3434285/"
+      }
+    ]
+  },
+  {
+    "id": "the-4-hour-workweek-eliminate-before-optimizing",
+    "bookId": "the-4-hour-workweek",
+    "book": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "genre": "nonfiction",
+    "topic": "Work",
+    "concept": "Eliminate before optimizing",
+    "quote": "Unless something is well-defined and important, no one should do it. Eliminate before you delegate. Never automate something that can be eliminated, and never delegate something that can be automated or streamlined.",
+    "refresher": "Efficiency work can preserve a task that should not exist. First ask whether the activity creates enough value to keep; only then automate or delegate it.",
+    "source": {
+      "file": "The 4-hour work week notes.html",
+      "paragraph": 22
+    },
+    "links": [
+      {
+        "title": "Lean Enterprise Institute · What lean thinking removes",
+        "url": "https://www.lean.org/explore-lean/what-is-lean/"
+      }
+    ]
+  },
+  {
+    "id": "the-alchemist-choose-the-story-that-preserves-agency",
+    "bookId": "the-alchemist",
+    "book": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "fiction",
+    "topic": "Perspective",
+    "concept": "Choose the story that preserves agency",
+    "quote": "He has to choose between thinking of himself as the poor victim of a thief and as an adventurer in quest of his treasure.",
+    "refresher": "The same loss can support two identities: passive victim or active seeker. Reframing does not erase what happened; it changes which next actions become imaginable.",
+    "source": {
+      "file": "The alchemist notes.html",
+      "paragraph": 7
+    },
+    "links": [
+      {
+        "title": "American Psychological Association · Building resilience",
+        "url": "https://www.apa.org/topics/resilience/building-your-resilience"
+      }
+    ]
+  },
+  {
+    "id": "the-anxious-generation-less-visible-trouble-can-mask-withdrawal",
+    "bookId": "the-anxious-generation",
+    "book": "The Anxious Generation",
+    "author": "Jonathan Haidt",
+    "genre": "nonfiction",
+    "topic": "Adolescence",
+    "concept": "Less visible trouble can mask withdrawal",
+    "quote": "What if teenagers are not doing as much of the bad stuff teenagers used to do not because Gen Z is getting wiser, but because they are withdrawing from the physical world?",
+    "refresher": "A fall in familiar risky behavior is not automatically evidence of flourishing. Ask what replaced it: healthy engagement, or retreat from physical relationships and independent experience.",
+    "source": {
+      "file": "Haidt J. - The Anxious Generation.docx",
+      "paragraph": 83
+    },
+    "links": [
+      {
+        "title": "CDC · School connectedness and adolescent well-being",
+        "url": "https://www.cdc.gov/healthy-youth/what-works-in-schools/school-connectedness/index.html"
+      }
+    ]
+  },
+  {
+    "id": "the-art-of-loving-rational-faith-is-confidence-grounded-in-activity",
+    "bookId": "the-art-of-loving",
+    "book": "The Art of Loving",
+    "author": "Erich Fromm",
+    "genre": "nonfiction",
+    "topic": "Philosophy",
+    "concept": "Rational faith is confidence grounded in activity",
+    "quote": "Rational faith is not primarily belief in something, but the quality of certainty and firmness which our convictions have. Faith is a character trait pervading the whole personality, rather than a specific belief. Rational faith is rooted in productive intellectual and emotional activity.",
+    "refresher": "Fromm distinguishes faith as a quality of conviction from assent to a particular doctrine. In his account, it grows from productive thought, feeling, and action rather than passive acceptance.",
+    "source": {
+      "file": "Fromm E. - The Art of Loving_.docx",
+      "paragraph": 88
+    },
+    "links": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy · Faith",
+        "url": "https://plato.stanford.edu/entries/faith/"
+      }
+    ]
+  },
+  {
+    "id": "the-charisma-myth-mirroring-must-respond-to-emotional-state",
+    "bookId": "the-charisma-myth",
+    "book": "The Charisma Myth",
+    "author": "Olivia Fox Cabane",
+    "genre": "nonfiction",
+    "topic": "Communication",
+    "concept": "Mirroring must respond to emotional state",
+    "quote": "Imitating someone's body language through mirroring is an easy way to establish trust and rapport. If their demeanor is angry or defensive, though, mirroring would only escalate the tension. In that case, try breaking them out of that posture.",
+    "refresher": "Matching another person’s posture can signal rapport when the interaction is calm. Mirroring anger or defensiveness may amplify it, so connection sometimes requires shifting the pattern instead.",
+    "source": {
+      "file": "The charisma myth notes.html",
+      "paragraph": 66
+    },
+    "links": [
+      {
+        "title": "Kavanagh and Winkielman · Spontaneous mimicry and affiliation (research review)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4814497/"
+      }
+    ]
+  },
+  {
+    "id": "the-design-of-everyday-things-accidents-usually-need-several-failures-to-align",
+    "bookId": "the-design-of-everyday-things",
+    "book": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "nonfiction",
+    "topic": "Safety",
+    "concept": "Accidents usually need several failures to align",
+    "quote": "In well-designed systems, there can be many equipment failures, many errors, but they will not lead to an accident unless they all line up precisely. This is why the attempt to find \"the\" cause of an accident is usually doomed to fail.",
+    "refresher": "Complex systems often contain multiple defenses. An accident emerges when weaknesses line up across them, so searching for one isolated cause can hide the conditions that made harm possible.",
+    "source": {
+      "file": "The design of everyday things notes.html",
+      "paragraph": 70
+    },
+    "links": [
+      {
+        "title": "FAA · Risk Management Handbook (PDF)",
+        "url": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+      }
+    ]
+  },
+  {
+    "id": "the-e-myth-revisited-a-business-process-must-be-repeatable",
+    "bookId": "the-e-myth-revisited",
+    "book": "The E-Myth Revisited",
+    "author": "Michael E. Gerber",
+    "genre": "nonfiction",
+    "topic": "Operations",
+    "concept": "A business process must be repeatable",
+    "quote": "The definition of a franchise is simply your unique way of doing business. And unless your unique way of doing business can be replicated every single time, you don’t own it.",
+    "refresher": "A process that lives only in one person’s improvisation cannot scale reliably. Document the critical steps and expected result so another capable person can reproduce the work and improve it.",
+    "source": {
+      "file": "Gerber M. - The E-myth Revisited.docx",
+      "paragraph": 79
+    },
+    "links": [
+      {
+        "title": "Microsoft Learn · Standardizing business processes",
+        "url": "https://learn.microsoft.com/en-us/dynamics365/guidance/business-processes/standardize-business-processes"
+      }
+    ]
+  },
+  {
+    "id": "the-existential-importance-of-the-penis-a-symptom-s-meaning-is-individual",
+    "bookId": "the-existential-importance-of-the-penis",
+    "book": "The Existential Importance of the Penis",
+    "author": "Daniel N. Watter",
+    "genre": "nonfiction",
+    "topic": "Health",
+    "concept": "A symptom’s meaning is individual",
+    "quote": "Rather than focus on universal causes for male sexual problems (i.e, performance anxiety), it is impor- tant to discover the meaning that erectile loss and erectile function have for any given man.",
+    "refresher": "Watter argues against assuming one universal psychological cause for erectile difficulty. Clinical assessment should ask what function and loss mean to this person while also considering medical factors.",
+    "source": {
+      "file": "Watter D. - The Existential Importance of the Penis.docx",
+      "paragraph": 45
+    },
+    "links": [
+      {
+        "title": "American Urological Association · Erectile dysfunction guideline",
+        "url": "https://www.auanet.org/guidelines-and-quality/guidelines/erectile-dysfunction-(ed)-guideline"
+      }
+    ]
+  },
+  {
+    "id": "the-hundred-page-machine-learning-book-reinforcement-learning-searches-for-a-policy",
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "concept": "Reinforcement learning searches for a policy",
+    "quote": "In reinforcement learning, the machine “lives” in an environment, is capable of perceiving the state, can execute actions that bring different reward. The goal of the algorithm is to learn a policy.",
+    "refresher": "An agent observes a state, takes an action, and receives a reward. Learning aims at a policy that chooses actions to improve cumulative reward, not merely a label for one input.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 8
+    },
+    "links": [
+      {
+        "title": "OpenAI Spinning Up · Key concepts in reinforcement learning",
+        "url": "https://spinningup.openai.com/en/latest/spinningup/rl_intro.html"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-manage-uncertainty-instead-of-pretending-to-remove-it",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "Manage uncertainty instead of pretending to remove it",
+    "quote": "Successful investing is about managing risk, not avoiding it. Investors have never liked uncertainty, and yet it is the most fundamental and enduring condition of the investing world. It always has been, and it will always be.",
+    "refresher": "Uncertainty is permanent in investing. Risk management sizes exposure, diversifies, and preserves room for error so an unfavorable outcome is survivable.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 282
+    },
+    "links": [
+      {
+        "title": "Investor.gov · Assessing investment risk",
+        "url": "https://www.investor.gov/introduction-investing/investing-basics/what-risk"
+      }
+    ]
+  },
+  {
+    "id": "the-lean-startup-test-the-assumptions-carrying-the-most-weight",
+    "bookId": "the-lean-startup",
+    "book": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "nonfiction",
+    "topic": "Experiments",
+    "concept": "Test the assumptions carrying the most weight",
+    "quote": "Basic assumptions are called leaps of faith, because the success of the entire venture rests on them. If they are true, tremendous opportunity awaits. If they are false, the startup risks total failure.",
+    "refresher": "A leap-of-faith assumption is one whose failure would collapse the venture. Identify these load-bearing beliefs early and design the cheapest credible test of each one.",
+    "source": {
+      "file": "The lean startup notes.html",
+      "paragraph": 32
+    },
+    "links": [
+      {
+        "title": "Strategyzer · Testing business ideas",
+        "url": "https://www.strategyzer.com/library/testing-business-ideas-book"
+      }
+    ]
+  },
+  {
+    "id": "the-mind-illuminated-catch-distraction-while-it-is-still-small",
+    "bookId": "the-mind-illuminated",
+    "book": "The Mind Illuminated",
+    "author": "Culadasa (John Yates), Matthew Immergut, and Jeremy Graves",
+    "genre": "nonfiction",
+    "topic": "Attention",
+    "concept": "Catch distraction while it is still small",
+    "quote": "Recognize when a subtle distraction has the potential to become a gross distraction before it happens. There are three kinds of subtle distractions that often becomes gross distractions: pain and physical discomfort, interesting and seemingly important insights, and emotionally charged memories or thoughts.",
+    "refresher": "A distraction is easier to redirect before it captures the whole field of attention. Learn its early signals—physical discomfort, exciting ideas, or emotional memories—and return without turning the interruption into another struggle.",
+    "source": {
+      "file": "The mind illuminated notes.html",
+      "paragraph": 59
+    },
+    "links": [
+      {
+        "title": "American Psychological Association · Mindfulness and meditation",
+        "url": "https://www.apa.org/topics/mindfulness/meditation"
+      }
+    ]
+  },
+  {
+    "id": "the-power-of-myth-situations-call-different-parts-of-character-forward",
+    "bookId": "the-power-of-myth",
+    "book": "The Power of Myth",
+    "author": "Joseph Campbell with Bill Moyers",
+    "genre": "nonfiction",
+    "topic": "Character",
+    "concept": "Situations call different parts of character forward",
+    "quote": "Our life evokes our character. You find out more about yourself as you go on. That's why it's good to be able to put yourself in situations that will evoke your higher nature rather than your lower.",
+    "refresher": "Character becomes visible through action, and environments make some actions easier than others. Choose commitments and communities that repeatedly invite the qualities you want to practice.",
+    "source": {
+      "file": "The power of myth notes.html",
+      "paragraph": 26
+    },
+    "links": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy · Empirical approaches to moral character",
+        "url": "https://plato.stanford.edu/entries/moral-character-empirical/"
+      }
+    ]
+  },
+  {
+    "id": "the-power-of-now-acceptance-can-coexist-with-action",
+    "bookId": "the-power-of-now",
+    "book": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "genre": "nonfiction",
+    "topic": "Acceptance",
+    "concept": "Acceptance can coexist with action",
+    "quote": "Surrender is the simple but profound wisdom of yielding to rather than opposing the flow of life. Surrender is to accept the present moment unconditionally and without reservation. It is perfectly compatible with taking action, initiation change or achieving goals.",
+    "refresher": "Accepting the present means recognizing what is already true before choosing a response. It does not require liking the situation or abandoning efforts to change what happens next.",
+    "source": {
+      "file": "The power of now notes.html",
+      "paragraph": 77
+    },
+    "links": [
+      {
+        "title": "Association for Contextual Behavioral Science · Acceptance and Commitment Therapy",
+        "url": "https://contextualscience.org/act"
+      }
+    ]
+  },
+  {
+    "id": "the-upstarts-a-user-base-can-become-political-leverage",
+    "bookId": "the-upstarts",
+    "book": "The Upstarts",
+    "author": "Brad Stone",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "A user base can become political leverage",
+    "quote": "Each believed that the best tactic was simply to grow, harnessing the political influence of their user base to become too big to regulate.",
+    "refresher": "Rapid growth changes a regulatory contest: users become constituents who can be mobilized against restrictions. This may buy influence, but it also turns product strategy into public governance.",
+    "source": {
+      "file": "The upstarts notes.html",
+      "paragraph": 38
+    },
+    "links": [
+      {
+        "title": "OECD · Digital platforms",
+        "url": "https://www.oecd.org/en/topics/digital-platforms.html"
+      }
+    ]
+  },
+  {
+    "id": "think-bayes-overlapping-discoveries-reveal-a-hidden-population",
+    "bookId": "think-bayes",
+    "book": "Think Bayes",
+    "author": "Allen B. Downey",
+    "genre": "nonfiction",
+    "topic": "Statistics",
+    "concept": "Overlapping discoveries reveal a hidden population",
+    "quote": "Chapter 15 (page 215): If a tester finds N bugs, and another tester finds M bugs, of which k were the same as the previous one, how many bugs are in the code? (Lincoln Index Problem) (in the exercises you also have with 3 tester)",
+    "refresher": "If two independent searches find some of the same bugs, their overlap contains information about how many remain unseen. Capture–recapture methods turn that overlap into an estimate of the total population.",
+    "source": {
+      "file": "Downey B. - Think Bayes.docx",
+      "paragraph": 40
+    },
+    "links": [
+      {
+        "title": "Encyclopaedia Britannica · Mark-and-recapture estimation",
+        "url": "https://www.britannica.com/science/mark-recapture"
+      }
+    ]
+  },
+  {
+    "id": "thinking-fast-and-slow-plans-neglect-rivals-luck-and-unknowns",
+    "bookId": "thinking-fast-and-slow",
+    "book": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "nonfiction",
+    "topic": "Decisions",
+    "concept": "Plans neglect rivals, luck, and unknowns",
+    "quote": "Why are we optimistic? We anchor to our plan, neglect the skills of the others, neglect the role of luck and neglect what we don't know.",
+    "refresher": "Optimistic forecasts often stay inside the plan: they picture successful execution while omitting competitors’ skill, random events, and missing information. Add those outside forces explicitly before trusting the estimate.",
+    "source": {
+      "file": "Thinking, fast and slow notes.html",
+      "paragraph": 31
+    },
+    "links": [
+      {
+        "title": "UK Government · Optimism bias guidance",
+        "url": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias"
+      }
+    ]
+  },
+  {
+    "id": "this-changes-everything-small-failures-make-adaptation-possible",
+    "bookId": "this-changes-everything",
+    "book": "This Changes Everything",
+    "author": "Naomi Klein",
+    "genre": "nonfiction",
+    "topic": "Resilience",
+    "concept": "Small failures make adaptation possible",
+    "quote": "The beauty of these models is that when they fail, they fail on a small and manageable scale - with backup system in place. Because if there is one thing we know, it’s that the future is going to have plenty of shocks.",
+    "refresher": "Systems learn more safely when experiments can fail locally and backups preserve essential functions. Keeping failures bounded turns shocks into information instead of catastrophe.",
+    "source": {
+      "file": "This changes everything notes.html",
+      "paragraph": 114
+    },
+    "links": [
+      {
+        "title": "NIST · Community resilience planning",
+        "url": "https://www.nist.gov/community-resilience"
+      }
+    ]
+  },
+  {
+    "id": "to-kill-a-mockingbird-courage-can-begin-without-hope-of-winning",
+    "bookId": "to-kill-a-mockingbird",
+    "book": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "fiction",
+    "topic": "Courage",
+    "concept": "Courage can begin without hope of winning",
+    "quote": "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It’s when you know you’re licked before you begin but you begin anyway and you see it through no matter what. You rarely win, but sometimes you do.",
+    "refresher": "Atticus defines courage as acting through a likely defeat because the attempt is still right. Success matters, but it is not the only measure of whether an action was worth taking.",
+    "source": {
+      "file": "To kill a mockingbird notes.html",
+      "paragraph": 6
+    },
+    "links": [
+      {
+        "title": "Facing History & Ourselves · Moral courage",
+        "url": "https://www.facinghistory.org/resource-library/what-moral-courage"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments-statistical-significance-is-not-practical-significance",
+    "bookId": "trustworthy-online-controlled-experiments",
+    "book": "Trustworthy Online Controlled Experiments",
+    "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+    "genre": "nonfiction",
+    "topic": "Experiments",
+    "concept": "Statistical significance is not practical significance",
+    "quote": "The result is statistically significant but not practically significant. In this case, you are confident about the magnitude of change, but that magnitude may not be sufficient to outweigh other factors such as cost. This change may not be worth launching.",
+    "refresher": "A precisely measured effect may still be too small to justify cost, complexity, or risk. Evaluate the estimated magnitude and decision threshold, not only whether a p-value crosses a line.",
+    "source": {
+      "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+      "paragraph": 61
+    },
+    "links": [
+      {
+        "title": "American Statistical Association · Statement on statistical significance (PDF)",
+        "url": "https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-a-rater-paid-by-the-seller-has-a-conflict",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Incentives",
+    "concept": "A rater paid by the seller has a conflict",
+    "quote": "Investors remained blind to the quality of the mortgages in the securities. Their only glimpse of what lurked inside came from analyst ratings. And these analysts collected fees from the very companies whose product were rating.",
+    "refresher": "When the product’s creator pays for its rating, the evaluator benefits from keeping that client. Treat the resulting score as an interested judgment and examine the underlying evidence.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 21
+    },
+    "links": [
+      {
+        "title": "U.S. SEC · Credit rating agency examinations (PDF)",
+        "url": "https://www.sec.gov/files/2008summaryreportcreditratingagencyexaminations.pdf"
+      }
+    ]
+  },
+  {
+    "id": "zen-mind-beginner-s-mind-rules-can-create-room-for-freedom",
+    "bookId": "zen-mind-beginner-s-mind",
+    "book": "Zen Mind, Beginner’s Mind",
+    "author": "Shunryu Suzuki",
+    "genre": "nonfiction",
+    "topic": "Practice",
+    "concept": "Rules can create room for freedom",
+    "quote": "As long as you have rules, you have a chance for freedom.",
+    "refresher": "A useful constraint reduces the number of choices competing for attention. Within a stable form, effort can move from deciding what to do toward noticing how well it is being done.",
+    "source": {
+      "file": "Zen mind, beginner_s mind notes.html",
+      "paragraph": 20
+    },
+    "links": [
+      {
+        "title": "Harvard Business Review · Why constraints can support innovation",
+        "url": "https://hbr.org/2019/11/why-constraints-are-good-for-innovation"
+      }
+    ]
+  },
+  {
+    "id": "zero-to-one-distribution-belongs-in-product-design",
+    "bookId": "zero-to-one",
+    "book": "Zero to One",
+    "author": "Peter Thiel with Blake Masters",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Distribution belongs in product design",
+    "quote": "It's better to think of distribution as something essential to the design of your product.",
+    "refresher": "A product is incomplete if its intended customers cannot discover, evaluate, and adopt it economically. Choose a viable path to users while designing the offering, not after building it.",
+    "source": {
+      "file": "Zero to One notes.html",
+      "paragraph": 86
+    },
+    "links": [
+      {
+        "title": "Andreessen Horowitz · Design distribution around the product and customer",
+        "url": "https://a16z.com/distribution/"
+      }
+    ]
+  },
+  {
+    "id": "blindness-a-familiar-voice-can-restore-identity",
+    "bookId": "blindness",
+    "book": "Blindness",
+    "author": "José Saramago",
+    "genre": "fiction",
+    "topic": "Connection",
+    "concept": "A familiar voice can restore identity",
+    "quote": "How did they recognise each other, good heavens, by their voices, of course, it is not only the voice of blood that needs no eyes, love, which people say is blind, also has a voice of its own.",
+    "refresher": "When sight and social order disappear, the characters still recognize one another through voice. The scene makes connection sensory and specific: a person can remain knowable without being visible.",
+    "source": {
+      "file": "Blindness notes.html",
+      "paragraph": 17
+    },
+    "links": [
+      {
+        "title": "Young and colleagues · Voice perception and identity recognition (research review)",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0028393218300423"
+      }
+    ]
+  },
+  {
+    "id": "journey-to-the-centre-of-the-earth-education-can-be-treated-as-public-infrastructure",
+    "bookId": "journey-to-the-centre-of-the-earth",
+    "book": "Journey to the Centre of the Earth",
+    "author": "Jules Verne",
+    "genre": "fiction",
+    "topic": "Education",
+    "concept": "Education can be treated as public infrastructure",
+    "quote": "Well, sir, foreigners have their own libraries, and our first consideration is, that our humbler classes should be highly educated. Fortunately, the love of study is innate in the Icelandic people.",
+    "refresher": "The passage puts broad education ahead of cultural prestige. A society’s libraries matter most when learning is available beyond its privileged classes.",
+    "source": {
+      "file": "Journey to the centre of the earth notes.html",
+      "paragraph": 2
+    },
+    "links": [
+      {
+        "title": "UNESCO · Libraries democratize knowledge and education",
+        "url": "https://www.unesco.org/en/articles/declaration-quebec-libraries"
+      }
+    ]
+  },
+  {
+    "id": "peace-is-every-step-compassion-begins-with-understanding-suffering",
+    "bookId": "peace-is-every-step",
+    "book": "Peace Is Every Step",
+    "author": "Thich Nhat Hanh",
+    "genre": "nonfiction",
+    "topic": "Compassion",
+    "concept": "Compassion begins with understanding suffering",
+    "quote": "The essence of love and compassion is understanding, the ability to recognise the physical, material, and psychological suffering of others, to put ourselves “inside the skin” of the other. Compassion means, literally, “to suffer with”.",
+    "refresher": "Compassion requires more than a warm intention. It starts by noticing another person’s material, physical, and psychological conditions closely enough to understand what they are carrying.",
+    "source": {
+      "file": "Peace is every step notes.html",
+      "paragraph": 70
+    },
+    "links": [
+      {
+        "title": "Greater Good Science Center · What empathy is",
+        "url": "https://greatergood.berkeley.edu/topic/empathy/definition"
+      }
+    ]
+  },
+  {
+    "id": "sapiens-discovery-begins-when-old-maps-can-be-wrong",
+    "bookId": "sapiens",
+    "book": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "nonfiction",
+    "topic": "Discovery",
+    "concept": "Discovery begins when old maps can be wrong",
+    "quote": "The first modern man was Amerigo Vespucci. He argued that the new lands discovered by Columbus were not islands off the East Asian coast, but rather an entire continent unknown to the Scriptures, classical geographers and contemporary Europeans.",
+    "refresher": "Vespucci’s important move was recognizing that new observations did not fit inherited geography. Knowledge advances when contradiction is allowed to revise an authoritative map.",
+    "source": {
+      "file": "Sapiens notes.html",
+      "paragraph": 89
+    },
+    "links": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy · Scientific method",
+        "url": "https://plato.stanford.edu/entries/scientific-method/"
+      }
+    ]
+  },
+  {
+    "id": "siddhartha-avoiding-yourself-preserves-self-alienation",
+    "bookId": "siddhartha",
+    "book": "Siddhartha",
+    "author": "Hermann Hesse",
+    "genre": "fiction",
+    "topic": "Self-knowledge",
+    "concept": "Avoiding yourself preserves self-alienation",
+    "quote": "\"The reason why I do not know anything about myself, the reason why Siddhartha has remained alien an unknown to myself is due to one thing, to one single thing-I was afraid of myself, I was fleeing from myself.\"",
+    "refresher": "Siddhartha links not knowing himself to fleeing from himself. Self-knowledge asks for contact with the experiences and motives that distraction or fear keeps outside awareness.",
+    "source": {
+      "file": "Siddhartha notes.html",
+      "paragraph": 5
+    },
+    "links": [
+      {
+        "title": "Association for Contextual Behavioral Science · Experiential avoidance and self-knowledge",
+        "url": "https://contextualscience.org/publications/hayes_wilson_gifford_follette_strosahl_1996"
+      }
+    ]
+  },
+  {
+    "id": "simply-said-defensiveness-teaches-people-to-stop-helping",
+    "bookId": "simply-said",
+    "book": "Simply Said",
+    "author": "Jay Sullivan",
+    "genre": "nonfiction",
+    "topic": "Feedback",
+    "concept": "Defensiveness teaches people to stop helping",
+    "quote": "If when you receive feedback you become defensive or argumentative, or come up with excuses, the other people will stop giving you feedback. And when you stop receiving feedback, you stop growing. You should rather ask for feedback.",
+    "refresher": "If every difficult observation meets an excuse or argument, colleagues learn that honesty is costly. Receiving feedback with curiosity keeps an information channel open even when you ultimately disagree.",
+    "source": {
+      "file": "Simply said notes.html",
+      "paragraph": 222
+    },
+    "links": [
+      {
+        "title": "Center for Creative Leadership · Feedback, trust, and defensiveness (research report, PDF)",
+        "url": "https://www.ccl.org/wp-content/uploads/2018/09/talent-reimagined-emerging-trends-report-center-for-creative-leadership.pdf"
+      }
+    ]
+  },
+  {
+    "id": "storytelling-with-data-graphs-reveal-patterns-faster-than-tables",
+    "bookId": "storytelling-with-data",
+    "book": "Storytelling with Data",
+    "author": "Cole Nussbaumer Knaflic",
+    "genre": "nonfiction",
+    "topic": "Data visualization",
+    "concept": "Graphs reveal patterns faster than tables",
+    "quote": "While tables interact with our verbal system, graphs interact with our visual system, which is faster at processing information. This means that a well-designed graph will typically get the information across more quickly than a well-designed table.",
+    "refresher": "Tables support exact lookup and verbal comparison. A well-designed graph uses the visual system to expose shape, direction, and outliers quickly; choose the format for the reader’s task.",
+    "source": {
+      "file": "Nussbaumer Knaflic C. - Storytelling with data_.docx",
+      "paragraph": 53
+    },
+    "links": [
+      {
+        "title": "Medicaid.gov · When to use a graph or a table (guide, PDF)",
+        "url": "https://www.medicaid.gov/state-resource-center/innovation-accelerator-program/iap-downloads/functional-areas/dataviz-best-practice.pdf"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-prepare-capacity-instead-of-predicting-every-threat",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Uncertainty",
+    "concept": "Prepare capacity instead of predicting every threat",
+    "quote": "Contemplating Uncertainty feels bad, because not knowing what's going to happen feels like a threat. Instead of fixating on predicting invisible and unknowable threats, it's better to channel your energy into enhancing your ability to handle the unexpected.",
+    "refresher": "Uncertainty can consume attention without improving foresight. Invest instead in reserves, adaptable skills, and response options that help across many possible surprises.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 873
+    },
+    "links": [
+      {
+        "title": "Ready.gov · Business continuity and preparedness (PDF)",
+        "url": "https://www.ready.gov/sites/default/files/documents/files/BusinessPlan_Brochure.pdf"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-a-fail-safe-looks-wasteful-until-it-is-needed",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Resilience",
+    "concept": "A fail-safe looks wasteful until it is needed",
+    "quote": "Fail-safes are not efficient in the sense that you're investing time and resources in a system you hope you'll never use. Backup Systems and Insurance, from one perspective can be seen as a waste of money.",
+    "refresher": "Backups and insurance consume resources during normal operation, which makes them easy targets for optimization. Their value appears in the rare event that would otherwise be unrecoverable.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 994
+    },
+    "links": [
+      {
+        "title": "NIST · Contingency planning guide",
+        "url": "https://csrc.nist.gov/pubs/sp/800/34/r1/upd1/final"
+      }
+    ]
+  },
+  {
+    "id": "the-mom-test-ask-questions-that-could-change-the-decision",
+    "bookId": "the-mom-test",
+    "book": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "genre": "nonfiction",
+    "topic": "Customer Research",
+    "concept": "Ask questions that could change the decision",
+    "quote": "You can tell it's an important question when its answer could completely change (or disprove) your business.",
+    "refresher": "A comfortable question may collect detail without testing the decision at stake. Prioritize questions whose answers could overturn a core belief, stop an investment, or send the plan in a different direction.",
+    "source": {
+      "file": "Fitzpatrick R. - The Mom Test.docx",
+      "paragraph": 70
+    },
+    "links": [
+      {
+        "title": "Steve Blank · Customer discovery tests the founders’ hypotheses",
+        "url": "https://steveblank.com/2009/11/30/customer-development-is-not-a-focus-group/"
+      }
+    ]
+  },
+  {
+    "id": "nscas-essentials-of-personal-training-flexibility-work-is-not-a-complete-warm-up",
+    "bookId": "nscas-essentials-of-personal-training",
+    "book": "NSCA’s Essentials of Personal Training",
+    "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+    "genre": "nonfiction",
+    "topic": "Exercise",
+    "concept": "Flexibility work is not a complete warm-up",
+    "quote": "Flexibility exercises should not be used as the sole method of warming up. Instead, they should be performed after core temperature has been elevated to a point that the client is beginning to perspire.",
+    "refresher": "Stretching alone does not prepare every system for activity. Raise body temperature first with movement appropriate to the session, then place flexibility work where it supports the task.",
+    "source": {
+      "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+      "paragraph": 1265
+    },
+    "links": [
+      {
+        "title": "Mayo Clinic · How to warm up and cool down",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20045517"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-on-device-models-trade-agility-for-privacy-and-speed",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "concept": "On-device models trade agility for privacy and speed",
+    "quote": "The static deployment has fast execution time, preserved user privacy, and the ability to call it when offline.But it's harder to upgrade without having to upgrade the entire application and monitor performances.",
+    "refresher": "Running a model on the user’s device can reduce latency, work offline, and keep data local. Updating and monitoring it becomes harder because deployment depends on the surrounding application.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 157
+    },
+    "links": [
+      {
+        "title": "Google AI Edge · LiteRT for on-device machine learning",
+        "url": "https://ai.google.dev/edge/litert"
+      }
+    ]
+  },
+  {
+    "id": "no-rules-rules-an-organization-can-invert-the-hierarchy",
+    "bookId": "no-rules-rules",
+    "book": "No Rules Rules",
+    "author": "Reed Hastings and Erin Meyer",
+    "genre": "nonfiction",
+    "topic": "Leadership",
+    "concept": "An organization can invert the hierarchy",
+    "quote": "A loosely coupled organization should resemble a tree rather than a pyramid. The boss is at the roots, holding up the trunk of senior managers who support the outer branches where decisions are made.",
+    "refresher": "In the tree metaphor, leaders at the roots support the people nearest customers and decisions. Authority still exists, but its purpose is to provide context and resources outward.",
+    "source": {
+      "file": "No rules rules notes.html",
+      "paragraph": 80
+    },
+    "links": [
+      {
+        "title": "Wang and colleagues · The trickle-down effects of servant leadership (research paper)",
+        "url": "https://journals.sagepub.com/doi/10.1177/0018726717738320"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-compression-can-preserve-everything-or-accept-loss",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Information",
+    "concept": "Compression can preserve everything or accept loss",
+    "quote": "We can also use the result of a clustering algorithm to perform data compression. It is important to distinguish between lossless data compression (reconstruct the data exactly from the compression) and lossy data compression (we accept some reconstruction errors).",
+    "refresher": "Lossless compression permits exact reconstruction. Lossy compression discards selected detail to shrink the representation further, so its usefulness depends on which errors the application can tolerate.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 114
+    },
+    "links": [
+      {
+        "title": "IBM · Lossless and lossy data compression",
+        "url": "https://www.ibm.com/think/topics/data-compression"
+      }
+    ]
+  },
+  {
+    "id": "the-design-of-everyday-things-constraints-make-the-valid-action-easier-to-find",
+    "bookId": "the-design-of-everyday-things",
+    "book": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "nonfiction",
+    "topic": "Design",
+    "concept": "Constraints make the valid action easier to find",
+    "quote": "Constraints simplify memory. Constraint are powerful clues, limiting the set of possible actions. The thoughtful use of constraints in design lets people readily determine the proper course of action, even in novel situation.",
+    "refresher": "A good constraint removes impossible or dangerous options from consideration. It guides a new user toward the right action without requiring every rule to be memorized.",
+    "source": {
+      "file": "The design of everyday things notes.html",
+      "paragraph": 49
+    },
+    "links": [
+      {
+        "title": "Interaction Design Foundation · Constraints in design",
+        "url": "https://www.interaction-design.org/literature/article/the-seven-fundamental-principles-of-design"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-being-overpriced-does-not-make-a-short-safe",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "Being overpriced does not make a short safe",
+    "quote": "Investors believe that an overvalued stock must drop in price purely because it is overvalued, but an overvalued stock can stay overvalued for surprisingly long time. That makes short-selling too risky for mere mortals.",
+    "refresher": "A valuation gap has no deadline. Short selling adds borrowing costs and potentially unbounded loss while the market can remain enthusiastic longer than the position can survive.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 135
+    },
+    "links": [
+      {
+        "title": "Investor.gov · An introduction to short sales",
+        "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-51"
+      }
+    ]
+  },
+  {
+    "id": "the-lean-startup-efficiency-cannot-rescue-work-aimed-at-the-wrong-thing",
+    "bookId": "the-lean-startup",
+    "book": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "nonfiction",
+    "topic": "Work",
+    "concept": "Efficiency cannot rescue work aimed at the wrong thing",
+    "quote": "In our times, out productive capacity exceeds our ability to know what to build. What we are wasting comes not from the inefficient organization of work but rather from working on the wrong things-and on an industrial scale.",
+    "refresher": "A flawless process can multiply waste when the output is unwanted. Validate that the work solves a real problem before optimizing how quickly the organization produces it.",
+    "source": {
+      "file": "The lean startup notes.html",
+      "paragraph": 114
+    },
+    "links": [
+      {
+        "title": "Lean Enterprise Institute · Value and waste in lean thinking",
+        "url": "https://www.lean.org/explore-lean/what-is-lean/"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-give-estimates-a-range-and-assumptions",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Planning",
+    "concept": "Give estimates a range and assumptions",
+    "quote": "You can always give an “ideal estimate,” which assumes no issues with the system. Also provide a “worst-case” estimate which assumes the system will behave strangely and that workarounds will be needed.",
+    "refresher": "A single date hides uncertainty. Pair an ideal estimate with a plausible worst case and state what each assumes, so planning can respond to risk instead of mistaking precision for confidence.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 517
+    },
+    "links": [
+      {
+        "title": "Project Management Institute · Estimates should expose assumptions and uncertainty",
+        "url": "https://www.pmi.org/learning/library/five-questions-project-manager-ask-estimate-6964"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments-test-the-experiment-system-with-identical-variants",
+    "bookId": "trustworthy-online-controlled-experiments",
+    "book": "Trustworthy Online Controlled Experiments",
+    "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+    "genre": "nonfiction",
+    "topic": "Experiments",
+    "concept": "Test the experiment system with identical variants",
+    "quote": "Running A/A tests is a critical part of establishing trust in an experimentation platform. The idea is so useful because the tests fail many times in practice, which leads to re-evaluating assumptions and identifying bugs.",
+    "refresher": "An A/A test sends users to nominally identical experiences. A significant difference or other failed invariant exposes assignment, logging, or analysis problems before they corrupt a real decision.",
+    "source": {
+      "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+      "paragraph": 347
+    },
+    "links": [
+      {
+        "title": "Microsoft Research · Patterns of trustworthy experimentation before launch",
+        "url": "https://www.microsoft.com/en-us/research/?p=680556"
+      }
+    ]
+  },
+  {
+    "id": "how-not-to-be-wrong-improbability-is-relative-to-a-model",
+    "bookId": "how-not-to-be-wrong",
+    "book": "How Not to Be Wrong",
+    "author": "Jordan Ellenberg",
+    "genre": "nonfiction",
+    "topic": "Probability",
+    "concept": "Improbability is relative to a model",
+    "quote": "Improbability, is a relative notion, not an absolute one; when we say an outcome is improbable, we are always saying that is improbable under some set of hypothesis we've made about the underlying mechanism of the world.",
+    "refresher": "An outcome is surprising only against assumptions about how it was generated. State the model before treating a small probability as evidence; under another mechanism, the same event may be ordinary.",
+    "source": {
+      "file": "How not to be wrong notes.html",
+      "paragraph": 49
+    },
+    "links": [
+      {
+        "title": "OpenStax · Probability models and distributions",
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/4-1-probability-distribution-function-pdf-for-a-discrete-random-variable"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-a-budget-makes-cost-overruns-visible",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Finance",
+    "concept": "A budget makes cost overruns visible",
+    "quote": "Budgeting is the act of estimating future costs and taking steps to ensure that these estimates aren't exceeded without good reason. Budgets are very important in con- trolling Profit Margins, the Cash Flow Cycle, and Leverage.",
+    "refresher": "Estimate costs before committing resources, then investigate meaningful deviations. A budget is useful as a feedback boundary, not as proof that every forecast will be exact.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 543
+    },
+    "links": [
+      {
+        "title": "U.S. Small Business Administration · Manage business finances",
+        "url": "https://www.sba.gov/business-guide/manage-your-business/manage-your-finances"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-delegate-the-purpose-not-only-the-task",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Leadership",
+    "concept": "Delegate the purpose, not only the task",
+    "quote": "Commander's Intent is a much better method of delegating tasks: whenever you assign a task to someone, tell them why it must be done. The more your agent understands the purpose behind your actions, the better they'll be able to respond appropriately when the situation changes.",
+    "refresher": "When people understand why an outcome matters, they can adapt the method as circumstances change. A task without intent leaves every surprise waiting for another instruction.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 790
+    },
+    "links": [
+      {
+        "title": "U.S. Army · Understanding mission command",
+        "url": "https://www.army.mil/article/242069/understanding_mission_command"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-value-capture-must-leave-value-for-both-sides",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "concept": "Value capture must leave value for both sides",
+    "quote": "Value Capture is tricky. In order to be successful, you need to capture enough value to make your investment of time and energy worthwhile, but not so much that there's no reason for your customers to do business with you.",
+    "refresher": "A business must retain enough value to sustain its work while leaving customers a compelling reason to transact. Extract too little and the business fails; extract too much and demand disappears.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 439
+    },
+    "links": [
+      {
+        "title": "Strategyzer · The Value Proposition Canvas",
+        "url": "https://www.strategyzer.com/library/the-value-proposition-canvas"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-reputation-is-an-accumulated-judgment",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Reputation",
+    "concept": "Reputation is an accumulated judgment",
+    "quote": "Your Reputation is not directly under your control - it's the sum total of what others think about everything you do. The marketplace is the final arbiter of your Reputation, and it's always watching what you do.",
+    "refresher": "You control actions, not the conclusion other people draw from them. Reputation forms across repeated experiences, so one promotional claim cannot substitute for consistent conduct.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 307
+    },
+    "links": [
+      {
+        "title": "Markkula Center · A framework for ethical decision making",
+        "url": "https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/"
+      }
+    ]
+  },
+  {
+    "id": "the-personal-mba-compare-an-intervention-with-doing-nothing",
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "topic": "Decisions",
+    "concept": "Compare an intervention with doing nothing",
+    "quote": "The best way to correct for Intervention Bias is to examine what scientists call a \"null hypothesis\": examining what would happen if vou did nothing or assumed the situation was an accident or error.",
+    "refresher": "Before crediting an action for what followed, ask what likely would have happened without it. The null alternative protects against mistaking ordinary variation or recovery for an intervention’s effect.",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 944
+    },
+    "links": [
+      {
+        "title": "OpenStax · Null and alternative hypotheses",
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/9-1-null-and-alternative-hypotheses"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-cart-builds-decisions-through-binary-splits",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "CART builds decisions through binary splits",
+    "quote": "Scikit-Learn uses the CART (Classification And Regression Tree) algorithm, which produces only binary trees: nonleaf nodes always have two children. Other algorithms such as ID3 can produce Decision Trees with nodes that have more than two children.",
+    "refresher": "A CART node divides observations into exactly two children. Repeating these local binary decisions produces a tree for classification or regression.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 173
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Decision trees",
+        "url": "https://scikit-learn.org/stable/modules/tree.html"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-convolutions-connect-neurons-to-local-receptive-fields",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Convolutions connect neurons to local receptive fields",
+    "quote": "The most important building block of a Convolutional Neural Network (CNN) is the convolutional layer: neurons in the first convolutional layer are not connected to every single pixel in the input image but only pixels in their receptive field. (keras.layer.Conv2D).",
+    "refresher": "A convolutional layer first learns from nearby pixels rather than every pixel in the image. Shared local filters let the network detect patterns across positions with far fewer parameters.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 498
+    },
+    "links": [
+      {
+        "title": "Dive into Deep Learning · Convolutional neural networks",
+        "url": "https://d2l.ai/chapter_convolutional-neural-networks/index.html"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-out-of-fold-predictions-separate-training-from-evaluation",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Out-of-fold predictions separate training from evaluation",
+    "quote": "cross_val_predict() performs K-fold cross-validation, but instead of returning the evaluation scores, it returns the predictions made on each test fold. This means that you get a \"clean\" prediction for each instance in the training set.",
+    "refresher": "Cross-validation can produce one prediction for each training example from a model that did not train on that example. These out-of-fold predictions support cleaner diagnostics and stacked models.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 97
+    },
+    "links": [
+      {
+        "title": "scikit-learn · cross_val_predict",
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_predict.html"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-transfer-learning-reuses-learned-representations",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Transfer learning reuses learned representations",
+    "quote": "Transfer Learning: instead of randomly initializing the weights and biases of the first few layers of the new neural network, you can initialize them to the values of the weights and biases of the lower layers of the first (pretrained) network.",
+    "refresher": "Instead of starting every weight at random, initialize part of a new network from a model trained on a related task. The reused layers provide features that the new data can refine.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 405
+    },
+    "links": [
+      {
+        "title": "TensorFlow · Transfer learning and fine-tuning",
+        "url": "https://www.tensorflow.org/tutorials/images/transfer_learning"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-beam-search-keeps-several-sequences-alive",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Beam search keeps several sequences alive",
+    "quote": "Instead of greedily outputting the most likely word at every step, use beam search: keep track of a short list of the k (beam width) most promising sentences, and at each decoder step try to extend them by one word, keeping only the k most likely sentences.",
+    "refresher": "Greedy decoding commits to the best next token immediately. Beam search retains several promising partial sequences, allowing a slightly weaker local choice to produce a stronger complete sequence.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 562
+    },
+    "links": [
+      {
+        "title": "Hugging Face · Text generation strategies",
+        "url": "https://huggingface.co/blog/how-to-generate"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-l1-regularization-can-drive-coefficients-to-zero",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "L1 regularization can drive coefficients to zero",
+    "quote": "Lasso Regression (or Least Absolute Shrinkage and Selection Operator Regression) adds a regularization term to the cost function, but it uses the l1 norm of the weight vector instead of half the square of the l2 norm.",
+    "refresher": "Lasso adds an absolute-value penalty to the loss. Its geometry can set some coefficients exactly to zero, combining shrinkage with a form of feature selection.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 137
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Lasso regression",
+        "url": "https://scikit-learn.org/stable/modules/linear_model.html#lasso"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-restart-k-means-to-escape-weak-initializations",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Restart K-means to escape weak initializations",
+    "quote": "To get better results, you can run K-Means multiple times with different random initialization and keep the one with lowest inertia, mean squared distance between each instance and its closest centroid.",
+    "refresher": "K-means can settle on different clusters from different starting centroids. Run several initializations and retain the solution with the lowest within-cluster squared distance.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 267
+    },
+    "links": [
+      {
+        "title": "scikit-learn · KMeans initialization and n_init",
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-gradient-boosting-learns-from-residual-errors",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Gradient boosting learns from residual errors",
+    "quote": "Gradient Boosting is similar to AdaBoost, but instead of tweaking the instance weights at every iteration like AdaBoost does, this method tries to fit the new predictor to the residual errors made by the previous predictor.",
+    "refresher": "Each new predictor is trained to correct the ensemble’s current errors. Adding these small corrections sequentially can turn weak learners into a strong model.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 210
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Gradient boosting",
+        "url": "https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting"
+      }
+    ]
+  },
+  {
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-an-autoencoder-learns-a-compressed-reconstruction",
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "An autoencoder learns a compressed reconstruction",
+    "quote": "They simply learn to copy their inputs to their outputs. It looks at the input, converts them to an efficient latent representation, and then spits out something that looks very close to the inputs.",
+    "refresher": "An autoencoder maps an input through a constrained latent representation and learns to reconstruct the original. The bottleneck can capture useful structure without requiring labels.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 579
+    },
+    "links": [
+      {
+        "title": "TensorFlow · Intro to autoencoders",
+        "url": "https://www.tensorflow.org/tutorials/generative/autoencoder"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-treat-one-promotion-cycle-as-part-of-a-long-career",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Career",
+    "concept": "Treat one promotion cycle as part of a long career",
+    "quote": "Don’t forget that missing out during a promotion cycle might feel like a big deal, but you probably won’t remember it a decade later. Play the long game and think about your strategy across that timeframe.",
+    "refresher": "A missed promotion can dominate the present while becoming minor over a decade. Keep developing scope, skill, and evidence across cycles instead of letting one decision define the strategy.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 332
+    },
+    "links": [
+      {
+        "title": "Center for Creative Leadership · Take a long-term view of career development",
+        "url": "https://www.ccl.org/articles/leading-effectively-articles/create-a-personal-leadership-development-plan/"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-clarify-expectations-across-several-time-horizons",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Career",
+    "concept": "Clarify expectations across several time horizons",
+    "quote": "Clarify 3, 6, and 12-month expectations with your manager, and also ideally with your skip-level manager (the manager of your manager). What are the team’s top priorities and the biggest problems to address?",
+    "refresher": "Ask what success means in three, six, and twelve months. Near-term priorities guide today’s work while the longer horizon reveals capabilities and problems the role is expected to grow into.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 422
+    },
+    "links": [
+      {
+        "title": "Gallup · Clear expectations and employee engagement",
+        "url": "https://www.gallup.com/workplace/236441/employee-feedback-good-bad-ugly.aspx"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-reliable-delivery-combines-planning-and-autonomy",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Execution",
+    "concept": "Reliable delivery combines planning and autonomy",
+    "quote": "I always knew which engineers on my team “got things done,” and did so reliably. These colleagues were good at breaking down work, realistic in their estimates, autonomous in unblocking themselves, and delivered quality work.",
+    "refresher": "Getting work done repeatedly depends on breaking it into tractable pieces, estimating honestly, removing blockers, and protecting quality. Reliability is a system of behaviors rather than a burst of effort.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 428
+    },
+    "links": [
+      {
+        "title": "Google SRE · Eliminating toil",
+        "url": "https://sre.google/sre-book/eliminating-toil/"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-learn-enough-to-solve-the-next-problem",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Learning",
+    "concept": "Learn enough to solve the next problem",
+    "quote": "recommended learning resources. If it’s an internal framework, find the documentation, source code, and the colleagues who created it. Start small by learning just enough to solve your problem, before diving deeper in.",
+    "refresher": "Start with the documentation, code, and people closest to the immediate task. A concrete problem gives learning a boundary; deeper study becomes useful when the work exposes the need for it.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 477
+    },
+    "links": [
+      {
+        "title": "Diátaxis · Documentation organized around user needs",
+        "url": "https://diataxis.fr/"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-make-a-blocker-visible-early",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Teamwork",
+    "concept": "Make a blocker visible early",
+    "quote": "The easiest way to start to get unblocked is to tell your team: “hey, I’m stuck on this problem. Can anyone lend a hand, perhaps pair with me on it?”",
+    "refresher": "Saying that you are stuck gives teammates a chance to supply context, pair on the problem, or redirect the approach. Silent waiting hides both the delay and the learning opportunity.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 453
+    },
+    "links": [
+      {
+        "title": "Google re:Work · Psychological safety in effective teams",
+        "url": "https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/"
+      }
+    ]
+  },
+  {
+    "id": "the-software-engineer-s-guidebook-a-good-career-path-depends-on-the-person",
+    "bookId": "the-software-engineer-s-guidebook",
+    "book": "The Software Engineer’s Guidebook",
+    "author": "Gergely Orosz",
+    "genre": "nonfiction",
+    "topic": "Career",
+    "concept": "A good career path depends on the person",
+    "quote": "Career paths are diverse, and there’s no simple way to define what a “good” career path looks like, as this varies from person to person. The best you can do is figure out which career path is interesting and achievable for you.",
+    "refresher": "Career quality is not a single ladder. Choose among management, technical depth, contracting, or other paths by matching the work to your interests, constraints, and attainable opportunities.",
+    "source": {
+      "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+      "paragraph": 2
+    },
+    "links": [
+      {
+        "title": "Center for Creative Leadership · Create a leadership development plan",
+        "url": "https://www.ccl.org/articles/leading-effectively-articles/create-a-personal-leadership-development-plan/"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments-investigate-surprising-data-before-celebrating-it",
+    "bookId": "trustworthy-online-controlled-experiments",
+    "book": "Trustworthy Online Controlled Experiments",
+    "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+    "genre": "nonfiction",
+    "topic": "Data Quality",
+    "concept": "Investigate surprising data before celebrating it",
+    "quote": "Twyman's law, perhaps the most important single law in the whole of data analysis: “The more unusual or interesting the data, the more likely they are to have been the result of an error of one kind or another”",
+    "refresher": "An extraordinary pattern may be a discovery, but it is also where logging, instrumentation, and analysis errors become most visible. Verify the data-generating path before explaining the result.",
+    "source": {
+      "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+      "paragraph": 66
+    },
+    "links": [
+      {
+        "title": "Microsoft Research · Metric-interpretation pitfalls and Twyman’s law (paper, PDF)",
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2020/08/2017-08-KDDMetricInterpretationPitfalls.pdf"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments-balance-local-improvements-with-a-few-large-bets",
+    "bookId": "trustworthy-online-controlled-experiments",
+    "book": "Trustworthy Online Controlled Experiments",
+    "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+    "genre": "nonfiction",
+    "topic": "Innovation",
+    "concept": "Balance local improvements with a few large bets",
+    "quote": "In general, we recommend always having a portfolio of ideas: most should be investments in attempting to optimize “near” the current location, but a few radical ideas should be tried to see whether those jumps lead to a bigger hill.",
+    "refresher": "A portfolio can fund many changes near the current product while reserving some capacity for ideas that move to a different opportunity. Local optimization alone may miss a much higher peak.",
+    "source": {
+      "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+      "paragraph": 26
+    },
+    "links": [
+      {
+        "title": "Harvard Business Review · Manage an innovation portfolio",
+        "url": "https://hbr.org/2012/05/managing-your-innovation-portfolio"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments-a-goal-metric-should-represent-ultimate-success",
+    "bookId": "trustworthy-online-controlled-experiments",
+    "book": "Trustworthy Online Controlled Experiments",
+    "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+    "genre": "nonfiction",
+    "topic": "Metrics",
+    "concept": "A goal metric should represent ultimate success",
+    "quote": "Goal metrics are usually a single or a very small set of metrics that best captures the ultimate success you are striving towards. These metrics may not be easy to move in the short term.",
+    "refresher": "Choose a small set of measures that express the outcome the product ultimately seeks. They may move slowly, so shorter-term diagnostic metrics can explain movement without replacing the real goal.",
+    "source": {
+      "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+      "paragraph": 111
+    },
+    "links": [
+      {
+        "title": "Google Research · HEART metrics for user experience",
+        "url": "https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments-segment-on-attributes-measured-before-treatment",
+    "bookId": "trustworthy-online-controlled-experiments",
+    "book": "Trustworthy Online Controlled Experiments",
+    "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+    "genre": "nonfiction",
+    "topic": "Experiments",
+    "concept": "Segment on attributes measured before treatment",
+    "quote": "Ideally, segmenting should be done only by values that are determined prior to the experiment, so that the Treatment could not cause users to change segments, though in practice restricting segments this way may be hard for some use cases.",
+    "refresher": "If treatment can change who enters a segment, comparing that segment after the experiment can introduce selection bias. Prefer categories fixed before assignment when interpreting heterogeneous effects.",
+    "source": {
+      "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+      "paragraph": 87
+    },
+    "links": [
+      {
+        "title": "Microsoft Research · Experimentation pitfalls and segment analysis",
+        "url": "https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments-random-assignment-balances-hidden-causes-in-expectation",
+    "bookId": "trustworthy-online-controlled-experiments",
+    "book": "Trustworthy Online Controlled Experiments",
+    "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+    "genre": "nonfiction",
+    "topic": "Causality",
+    "concept": "Random assignment balances hidden causes in expectation",
+    "quote": "Controlled experiments are the gold standard for assessing causality because, with random assignment of units to variants, the first term is the observed difference between Treatment and Control and the second term has an expected value of zero",
+    "refresher": "Randomization makes treatment assignment independent of preexisting differences on average. That is why a treatment-control difference can support a causal claim when the experiment is implemented correctly.",
+    "source": {
+      "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+      "paragraph": 206
+    },
+    "links": [
+      {
+        "title": "World Bank · Randomized evaluations and causal inference",
+        "url": "https://dimewiki.worldbank.org/Randomized_Control_Trials"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments-a-metric-denominator-should-include-affected-users",
+    "bookId": "trustworthy-online-controlled-experiments",
+    "book": "Trustworthy Online Controlled Experiments",
+    "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+    "genre": "nonfiction",
+    "topic": "Metrics",
+    "concept": "A metric denominator should include affected users",
+    "quote": "The next critical question is to determine which users to consider in the denominator of the revenue-per-user metric: Only users who start the purchase process. This is the best choice, given where the change is in the funnel. We include all potentially affected users. but no unaffected users (users who never start checking out) who dilute our results.",
+    "refresher": "Include everyone who could be changed by the treatment and exclude people who could not encounter it. A denominator that is too broad dilutes the signal; one chosen after treatment can bias it.",
+    "source": {
+      "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+      "paragraph": 35
+    },
+    "links": [
+      {
+        "title": "Microsoft Research · Overall evaluation criteria for experiments",
+        "url": "https://www.microsoft.com/en-us/research/publication/online-experimentation-at-microsoft/"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments-replicate-a-surprising-experiment-result",
+    "bookId": "trustworthy-online-controlled-experiments",
+    "book": "Trustworthy Online Controlled Experiments",
+    "author": "Ron Kohavi, Diane Tang, and Ya Xu",
+    "genre": "nonfiction",
+    "topic": "Experiments",
+    "concept": "Replicate a surprising experiment result",
+    "quote": "When experiment results are surprising, a good rule of thumb is to replicate them. Rerun the experiment with a different set of users or with an orthogonal re-randomization.",
+    "refresher": "Rerun an unexpected result with fresh users or a new randomization. Replication helps distinguish a stable effect from chance, a transient condition, or a defect in the experiment.",
+    "source": {
+      "file": "Kohavi R. - Trustworthy Online Controlled Experiments.docx",
+      "paragraph": 286
+    },
+    "links": [
+      {
+        "title": "National Academies · Reproducibility and replicability in science",
+        "url": "https://nap.nationalacademies.org/catalog/25303/reproducibility-and-replicability-in-science"
+      }
+    ]
+  },
+  {
+    "id": "clean-code-put-concurrency-policy-in-one-place",
+    "bookId": "clean-code",
+    "book": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "nonfiction",
+    "topic": "Software",
+    "concept": "Put concurrency policy in one place",
+    "quote": "Solve the problem by changing the server, which additionally changes the client: server-based locking - Better performances, reduces possibility of error, enforces a single policy because is in only one place and reduces the scope of the shared variables.",
+    "refresher": "Server-side locking can enforce one synchronization rule for every caller. Centralizing the policy reduces the chance that one client forgets to lock or unlock shared state.",
+    "source": {
+      "file": "Clean code notes.html",
+      "paragraph": 364
+    },
+    "links": [
+      {
+        "title": "SEI CERT · Concurrency coding practices",
+        "url": "https://wiki.sei.cmu.edu/confluence/display/java/Concurrency%2C+Visibility%2C+and+Memory"
+      }
+    ]
+  },
+  {
+    "id": "clean-code-clean-code-protects-delivery-speed",
+    "bookId": "clean-code",
+    "book": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "nonfiction",
+    "topic": "Software",
+    "concept": "Clean code protects delivery speed",
+    "quote": "Conundrum: all developers know messes slow them down, and yet all developers feel the pressure to make messes in order to meet deadlines. The only way to meet deadlines is to keep the code as clean as possible at all times.",
+    "refresher": "Shortcuts create code that takes longer to understand and change, so deadline pressure can compound into slower delivery. Maintaining clarity keeps future work from paying interest on today’s haste.",
+    "source": {
+      "file": "Clean code notes.html",
+      "paragraph": 26
+    },
+    "links": [
+      {
+        "title": "Martin Fowler · Is high quality software worth the cost?",
+        "url": "https://martinfowler.com/articles/is-quality-worth-cost.html"
+      }
+    ]
+  },
+  {
+    "id": "clean-code-delay-irreversible-choices-until-evidence-improves",
+    "bookId": "clean-code",
+    "book": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "nonfiction",
+    "topic": "Decisions",
+    "concept": "Delay irreversible choices until evidence improves",
+    "quote": "We all know it is best to give responsibilities to the most qualified person. We often forget that it is also best to postpone decisions until the last possible moment. It lets us make informed choices with the best possible information.",
+    "refresher": "Keeping an option open can produce a better-informed decision when more facts will arrive. The useful deadline is the last responsible moment, before delay itself removes options.",
+    "source": {
+      "file": "Clean code notes.html",
+      "paragraph": 209
+    },
+    "links": [
+      {
+        "title": "Martin Fowler · YAGNI",
+        "url": "https://martinfowler.com/bliki/Yagni.html"
+      }
+    ]
+  },
+  {
+    "id": "clean-code-working-code-still-needs-an-editing-pass",
+    "bookId": "clean-code",
+    "book": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "nonfiction",
+    "topic": "Software",
+    "concept": "Working code still needs an editing pass",
+    "quote": "The most important way to be expressive is to try. All too often we get our code working and then move on to the next problem without giving sufficient thought to making that code easy for the next person to read. Remember, the most likely person to read the code will be you.",
+    "refresher": "After behavior works, spend attention on the next reader: names, structure, and intent. The next reader is often your future self, returning after the context has faded.",
+    "source": {
+      "file": "Clean code notes.html",
+      "paragraph": 226
+    },
+    "links": [
+      {
+        "title": "Google · Code review standard",
+        "url": "https://google.github.io/eng-practices/review/reviewer/standard.html"
+      }
+    ]
+  },
+  {
+    "id": "clean-code-use-a-learning-test-to-understand-a-dependency",
+    "bookId": "clean-code",
+    "book": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "nonfiction",
+    "topic": "Testing",
+    "concept": "Use a learning test to understand a dependency",
+    "quote": "Instead of experimenting in our production code, we could write some test to explore our understanding of the third-party code: learning test.",
+    "refresher": "Write a small test around an unfamiliar library to record what you believe it does. The test turns exploration into executable knowledge and warns when an upgrade changes relied-on behavior.",
+    "source": {
+      "file": "Clean code notes.html",
+      "paragraph": 170
+    },
+    "links": [
+      {
+        "title": "Martin Fowler · Testing dependencies and their contracts",
+        "url": "https://martinfowler.com/articles/practical-test-pyramid.html"
+      }
+    ]
+  },
+  {
+    "id": "clean-code-executable-detail-cannot-be-abstracted-away-entirely",
+    "bookId": "clean-code",
+    "book": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "nonfiction",
+    "topic": "Software",
+    "concept": "Executable detail cannot be abstracted away entirely",
+    "quote": "We will never get rid of code, because code represents the details of the requirements. At some level those details cannot be ignored or abstracted; they have to be specified. And specifying requirements in such detail that a machine can execute them is programming. Such a specification is code.",
+    "refresher": "Requirements eventually need enough precision for a machine to execute them. Higher-level descriptions help people reason, but implementation must still resolve every behavior the system needs.",
+    "source": {
+      "file": "Clean code notes.html",
+      "paragraph": 19
+    },
+    "links": [
+      {
+        "title": "MIT Press · Structure and Interpretation of Computer Programs",
+        "url": "https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html"
+      }
+    ]
+  },
+  {
+    "id": "clean-code-a-domain-language-makes-intent-visible",
+    "bookId": "clean-code",
+    "book": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "nonfiction",
+    "topic": "Software",
+    "concept": "A domain language makes intent visible",
+    "quote": "Domain-Specific Languages (DSLs) are separate, small scripting languages or APIs in standard languages that permit code to be written so that it reads like a structured form of prose that a domain expert might write.",
+    "refresher": "A small language or carefully shaped API can express rules in terms a domain expert recognizes. The design is successful when business meaning is visible without exposing incidental machinery.",
+    "source": {
+      "file": "Clean code notes.html",
+      "paragraph": 211
+    },
+    "links": [
+      {
+        "title": "Martin Fowler · Domain-specific languages",
+        "url": "https://martinfowler.com/bliki/DomainSpecificLanguage.html"
+      }
+    ]
+  },
+  {
+    "id": "bayesian-analysis-with-python-a-model-should-omit-irrelevant-detail",
+    "bookId": "bayesian-analysis-with-python",
+    "book": "Bayesian Analysis with Python",
+    "author": "Osvaldo Martin",
+    "genre": "nonfiction",
+    "topic": "Models",
+    "concept": "A model should omit irrelevant detail",
+    "quote": "Models are simplified descriptions of a given system or process that, for some reason, we are interested in. Those descriptions are deliberately designed to capture only the most relevant aspects of the system and not to explain every minor detail. This is one reason a more complex model is not always a better one.",
+    "refresher": "Models are purposeful simplifications. Adding complexity helps only when the extra structure captures something relevant to the question; otherwise it can obscure reasoning and fit noise.",
+    "source": {
+      "file": "Martin O. - Bayesian Analysis with Python.docx",
+      "paragraph": 2
+    },
+    "links": [
+      {
+        "title": "George Box · Science and statistics (paper)",
+        "url": "https://www.jstor.org/stable/2286841"
+      }
+    ]
+  },
+  {
+    "id": "bayesian-analysis-with-python-hierarchical-structure-needs-a-reason",
+    "bookId": "bayesian-analysis-with-python",
+    "book": "Bayesian Analysis with Python",
+    "author": "Osvaldo Martin",
+    "genre": "nonfiction",
+    "topic": "Bayesian Statistics",
+    "concept": "Hierarchical structure needs a reason",
+    "quote": "It is possible to create hierarchical models with as many levels as we want. But unless the problem necessitates additional structure, adding more levels than required does not enhance the quality of our model or inferences.",
+    "refresher": "A probabilistic model can contain many nested levels, but each level adds assumptions and parameters. Include hierarchy when the data-generating process calls for partial pooling or grouped variation.",
+    "source": {
+      "file": "Martin O. - Bayesian Analysis with Python.docx",
+      "paragraph": 118
+    },
+    "links": [
+      {
+        "title": "Stan · Hierarchical logistic regression example",
+        "url": "https://mc-stan.org/docs/stan-users-guide/regression.html#hierarchical-logistic-regression"
+      }
+    ]
+  },
+  {
+    "id": "bayesian-analysis-with-python-log-space-turns-fragile-products-into-stable-sums",
+    "bookId": "bayesian-analysis-with-python",
+    "book": "Bayesian Analysis with Python",
+    "author": "Osvaldo Martin",
+    "genre": "nonfiction",
+    "topic": "Computing",
+    "concept": "Log space turns fragile products into stable sums",
+    "quote": "In computational statistics, we usually perform computations in log space. This helps provide numerical stability and computational efficiency, among other things. See, for example, the preceding code block; you can see that we calculated a difference (instead of a division) and then we took the exponential before returning the result.",
+    "refresher": "Very small probabilities can underflow when multiplied. Taking logarithms converts products and ratios into sums and differences, allowing the computation to preserve values that ordinary floating point would lose.",
+    "source": {
+      "file": "Martin O. - Bayesian Analysis with Python.docx",
+      "paragraph": 175
+    },
+    "links": [
+      {
+        "title": "SciPy · logsumexp",
+        "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.special.logsumexp.html"
+      }
+    ]
+  },
+  {
+    "id": "bayesian-analysis-with-python-partial-pooling-shrinks-noisy-group-estimates",
+    "bookId": "bayesian-analysis-with-python",
+    "book": "Bayesian Analysis with Python",
+    "author": "Osvaldo Martin",
+    "genre": "nonfiction",
+    "topic": "Bayesian Statistics",
+    "concept": "Partial pooling shrinks noisy group estimates",
+    "quote": "The most relevant part of this plot is that the estimates from the hierarchical model are pulled toward the partially pooled mean, or equivalently they are shrunken in comparison to the unpooled estimates.",
+    "refresher": "A hierarchical model pulls group estimates toward a shared mean, with weaker groups moving more. This trades some independence for lower variance while retaining real differences supported by data.",
+    "source": {
+      "file": "Martin O. - Bayesian Analysis with Python.docx",
+      "paragraph": 112
+    },
+    "links": [
+      {
+        "title": "Stan · Partial pooling",
+        "url": "https://mc-stan.org/docs/stan-users-guide/multilevel-regression-and-poststratification.html"
+      }
+    ]
+  },
+  {
+    "id": "bayesian-analysis-with-python-mixture-models-represent-hidden-subpopulations",
+    "bookId": "bayesian-analysis-with-python",
+    "book": "Bayesian Analysis with Python",
+    "author": "Osvaldo Martin",
+    "genre": "nonfiction",
+    "topic": "Models",
+    "concept": "Mixture models represent hidden subpopulations",
+    "quote": "Mixture models naturally arise when the overall population is a combination of distinct sub-populations. A familiar example is the distribution of heights in a given adult human population, which can be described as a mixture of female and male sub-populations.",
+    "refresher": "One aggregate distribution may combine groups with different centers or shapes. A mixture model represents those latent components and the probability that each observation belongs to them.",
+    "source": {
+      "file": "Martin O. - Bayesian Analysis with Python.docx",
+      "paragraph": 224
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Gaussian mixture models",
+        "url": "https://scikit-learn.org/stable/modules/mixture.html"
+      }
+    ]
+  },
+  {
+    "id": "bayesian-analysis-with-python-individual-effect-curves-can-reveal-hidden-variation",
+    "bookId": "bayesian-analysis-with-python",
+    "book": "Bayesian Analysis with Python",
+    "author": "Osvaldo Martin",
+    "genre": "nonfiction",
+    "topic": "Model Interpretation",
+    "concept": "Individual effect curves can reveal hidden variation",
+    "quote": "Individual Conditional Expectation (ICE) plots are closely related to PDPs. The differ- ence is that instead of plotting the target covariates' average partial effect on the predicted response, we plot n conditional expectation curves at given fixed values.",
+    "refresher": "A partial-dependence plot averages a feature’s modeled effect across observations. Individual conditional-expectation curves show each observation separately, revealing patterns that the average can conceal.",
+    "source": {
+      "file": "Martin O. - Bayesian Analysis with Python.docx",
+      "paragraph": 267
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Partial dependence and ICE plots",
+        "url": "https://scikit-learn.org/stable/modules/partial_dependence.html"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-investor-intelligence-is-emotional-discipline",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "Investor intelligence is emotional discipline",
+    "quote": "Being intelligent investor means being patient, disciplined, and eager to learn; you must also be able to harness your emotions and think for yourself. It’s a trait more of the character than of the brain.",
+    "refresher": "Successful investing depends less on raw intellect than on patience, independent judgment, and control over reactions. A clever analysis is fragile if fear or excitement determines the action.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 23
+    },
+    "links": [
+      {
+        "title": "Investor.gov · Assessing risk tolerance",
+        "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-a-falling-price-is-not-itself-a-reason-to-sell",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "A falling price is not itself a reason to sell",
+    "quote": "The intelligent investor never dumps a stock purely because its share price has fallen; she always asks first whether the value of the company’s underlying business has changed.",
+    "refresher": "Ask whether the underlying business and original investment case changed. Selling solely because the quoted price fell lets market movement replace analysis.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 149
+    },
+    "links": [
+      {
+        "title": "FINRA · Avoid emotional investing",
+        "url": "https://www.finra.org/investors/insights/tips-turbulent-market"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-price-volatility-differs-from-permanent-loss",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "Price volatility differs from permanent loss",
+    "quote": "Investors does not lose money merely because the market price of his holdings declines; hence the fact that a decline may occur does not mean that he is running a true risk of loss.",
+    "refresher": "A lower market quote changes what a holding could be sold for today. Permanent loss depends on impaired value or a forced sale, so volatility and risk overlap without being identical.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 46
+    },
+    "links": [
+      {
+        "title": "Investor.gov · Understanding risk",
+        "url": "https://www.investor.gov/introduction-investing/investing-basics/what-risk"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-a-simple-allocation-can-be-good-without-being-optimal",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "A simple allocation can be good without being optimal",
+    "quote": "50-50 bond-stocks makes good sense for the defensive investor. It is extremely simple; it aims in the right direction. It may not turn out to be the best in terms of results achieved.",
+    "refresher": "A balanced stock-and-bond policy may never be the best performer in hindsight. Its value comes from being understandable, diversified, and easier to follow through changing markets.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "Investor.gov · Asset allocation and rebalancing",
+        "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-rebalance-by-policy-instead-of-market-mood",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "Rebalance by policy instead of market mood",
+    "quote": "Once you set these target percentages, change them only as your life circumstances change. Do not buy more stocks because the stock market has gone up; do not sell them because it has gone down. Replace guesswork with discipline.",
+    "refresher": "Set an asset allocation that fits your circumstances, then restore it deliberately when holdings drift. Changing the target because prices rose or fell turns a policy into performance chasing.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 170
+    },
+    "links": [
+      {
+        "title": "FINRA · Rebalancing your portfolio",
+        "url": "https://www.finra.org/investors/investing/investing-basics/asset-allocation-diversification"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-an-investment-edge-must-be-sound-and-unpopular",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "An investment edge must be sound and unpopular",
+    "quote": "To enjoy a reasonable chance for continued better than average results, the investor must follow policies which are inherently sound and promising and not popular on Wall Street.",
+    "refresher": "A policy cannot deliver above-average results merely because it is fashionable; popularity is usually reflected in price. Any durable edge needs a valid basis that other market participants have not already adopted.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 34
+    },
+    "links": [
+      {
+        "title": "FINRA · Active and passive investing",
+        "url": "https://www.finra.org/investors/insights/active-passive-investing"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-a-good-company-can-still-have-a-bad-price",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "A good company can still have a bad price",
+    "quote": "At some point in its life, almost every stock is a bargain. Although there are good and bad companies, there is no such thing as a good stock; there are only good stock prices, which come and go.",
+    "refresher": "Investment quality depends on what the buyer receives relative to what they pay. Admiring a business does not establish that its current shares offer an adequate return or margin of safety.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 260
+    },
+    "links": [
+      {
+        "title": "FINRA · Evaluating stocks",
+        "url": "https://www.finra.org/investors/investing/investment-products/stocks/evaluating-stocks"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-frequent-trading-creates-a-reliable-cost",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "Frequent trading creates a reliable cost",
+    "quote": "Holding stocks for a few hours at a time is financial suicide. Some of your trades might make money, most of your trades will lose money, but your broker will always make money.",
+    "refresher": "Individual trades may win or lose, but spreads, fees, taxes, and attention recur with turnover. A strategy must overcome those certain frictions before activity adds value.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 182
+    },
+    "links": [
+      {
+        "title": "SEC · Investor bulletin on trading costs",
+        "url": "https://www.sec.gov/investor/alerts/ib_fees_expenses.pdf"
+      }
+    ]
+  },
+  {
+    "id": "the-intelligent-investor-consensus-can-erase-an-investment-advantage",
+    "bookId": "the-intelligent-investor",
+    "book": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "nonfiction",
+    "topic": "Investing",
+    "concept": "Consensus can erase an investment advantage",
+    "quote": "If all analysts were agreed that one particular stock was better than all the rest, that issue would quickly advance to a price which would offset all of its previous advantages (“efficient market hypothesis\").",
+    "refresher": "When nearly every analyst agrees that an asset is superior, buyers can bid that belief into the price. A correct popular story may offer little advantage after the market has already paid for it.",
+    "source": {
+      "file": "The intelligent investor notes.html",
+      "paragraph": 121
+    },
+    "links": [
+      {
+        "title": "FINRA · Active and passive investing",
+        "url": "https://www.finra.org/investors/insights/active-passive-investing"
+      }
+    ]
+  },
+  {
+    "id": "the-hundred-page-machine-learning-book-content-similarity-can-create-a-filter-bubble",
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Recommenders",
+    "concept": "Content similarity can create a filter bubble",
+    "quote": "Content-based filtering: learning what user like based on the properties of the content they consume. Problem is filter bubble, suggesting only content that looks similar to what user already consumed.",
+    "refresher": "Recommending only items like those already consumed narrows what the system can reveal. A useful recommender balances relevance with diversity, novelty, and opportunities to discover new interests.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 196
+    },
+    "links": [
+      {
+        "title": "ACM · Recommender systems and filter bubbles (research article)",
+        "url": "https://dl.acm.org/doi/10.1145/2566486.2568012"
+      }
+    ]
+  },
+  {
+    "id": "the-hundred-page-machine-learning-book-active-learning-spends-labels-where-they-help-most",
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Active learning spends labels where they help most",
+    "quote": "Active learning consists of start learning with relatively few labeled examples, and a large number of unlabelled ones, and then label only those examples that contribute the most to the model quality.",
+    "refresher": "Begin with a small labeled set, train a model, and request labels for examples expected to improve it most. This can reduce annotation work when labels are expensive.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 142
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Active learning example",
+        "url": "https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_self_training_varying_threshold.html"
+      }
+    ]
+  },
+  {
+    "id": "the-hundred-page-machine-learning-book-one-versus-rest-turns-multiclass-into-binary-tasks",
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "One-versus-rest turns multiclass into binary tasks",
+    "quote": "If you have multiclass problem but a binary classification algorithm you should use one versus rest: transform a multiclass problem into C binary classification problems and build C binary classifiers, then pick the prediction that is the most certain.",
+    "refresher": "Train one binary classifier for each class against all others, then choose the strongest response. This lets a binary learning method address a problem with many labels.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 117
+    },
+    "links": [
+      {
+        "title": "scikit-learn · One-vs-rest strategy",
+        "url": "https://scikit-learn.org/stable/modules/multiclass.html#onevsrestclassifier"
+      }
+    ]
+  },
+  {
+    "id": "the-hundred-page-machine-learning-book-unsupervised-learning-finds-structure-without-labels",
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Unsupervised learning finds structure without labels",
+    "quote": "In unsupervised learning, the data is a collection of unlabelled examples. The goal is to create a model that solve practical problems like clustering, dimensionality reduction or outlier detection.",
+    "refresher": "With no target label, a model can still group similar examples, compress dimensions, or flag unusual observations. The useful objective must come from the problem rather than a supplied answer column.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 6
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Unsupervised learning",
+        "url": "https://scikit-learn.org/stable/unsupervised_learning.html"
+      }
+    ]
+  },
+  {
+    "id": "the-hundred-page-machine-learning-book-feature-scaling-changes-the-geometry-of-learning",
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Feature scaling changes the geometry of learning",
+    "quote": "Normalization is the process of converting an actual range of values which a numerical feature can take into a standard range of values (typically [-1, 1] or [0, 1]). This can increase the speed of learning.",
+    "refresher": "Mapping numerical features to comparable ranges prevents one unit scale from dominating distances or gradients. Scaling often improves optimization without adding information to the data.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Importance of feature scaling",
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html"
+      }
+    ]
+  },
+  {
+    "id": "the-hundred-page-machine-learning-book-embedding-plots-preserve-local-similarity-imperfectly",
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Data Visualization",
+    "concept": "Embedding plots preserve local similarity imperfectly",
+    "quote": "t-SNE and UMAP are designed specifically for visualisation purposes. They uses a similarity metric between two examples to create fuzzy sets and then, with gradient descent try to minimise the change in fuzzy sets in lower space (p.119).",
+    "refresher": "Methods such as t-SNE and UMAP place similar high-dimensional observations near one another in a low-dimensional view. The picture helps exploration, but its global distances and cluster shapes need cautious interpretation.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 189
+    },
+    "links": [
+      {
+        "title": "Distill · How to use t-SNE effectively (interactive)",
+        "url": "https://distill.pub/2016/misread-tsne/"
+      }
+    ]
+  },
+  {
+    "id": "the-hundred-page-machine-learning-book-feature-engineering-translates-a-domain-into-data",
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Feature engineering translates a domain into data",
+    "quote": "The problem of transforming raw data into a dataset is called feature engineering. Everything measurable can be used as a feature, demands from the data analyst a lot of creativity and domain knowledge.",
+    "refresher": "A learning algorithm only sees the variables supplied to it. Turning raw events into useful features requires domain knowledge about what can be measured and which representation exposes the signal.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 33
+    },
+    "links": [
+      {
+        "title": "Google for Developers · Machine learning data preparation",
+        "url": "https://developers.google.com/machine-learning/data-prep/transform/introduction"
+      }
+    ]
+  },
+  {
+    "id": "the-hundred-page-machine-learning-book-genetic-algorithms-search-without-gradients",
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Optimization",
+    "concept": "Genetic algorithms search without gradients",
+    "quote": "Genetic Algorithms (GA) are a numerical optimisation technique used to optimise undifferentiable optimisation function. They use concepts from evolutionary biology to search for a global optimum of an optimisation problem by mimicking evolutionary biological processes (using concepts as “selection”, “crossover”, and “mutation”).",
+    "refresher": "Selection, crossover, and mutation explore candidate solutions when an objective is discontinuous or not differentiable. They trade exact guarantees for a broad, population-based search.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 209
+    },
+    "links": [
+      {
+        "title": "MIT Press · Introduction to genetic algorithms",
+        "url": "https://direct.mit.edu/books/book/2574/An-Introduction-to-Genetic-Algorithms"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-machine-learning-progress-slows-as-errors-get-harder",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Projects",
+    "concept": "Machine-learning progress slows as errors get harder",
+    "quote": "The progress of a machine learning project is nonlinear. The error usually decreases fast in the beginning, but then the progress slows down. Because of this, it's better to make sure that the client understands the constraints and the risks. Carefully log every activity and track the time it took. This will help not only in reporting but also in estimating complexity for similar projects in the future.",
+    "refresher": "Early improvements often arrive quickly, followed by diminishing gains. Track experiments and time so stakeholders can see the curve and future projects can use evidence instead of optimistic memory.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "Google for Developers · Rules of machine learning",
+        "url": "https://developers.google.com/machine-learning/guides/rules-of-ml"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-spot-check-several-algorithms-before-tuning-deeply",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Spot-check several algorithms before tuning deeply",
+    "quote": "If you don't want to guess the best algorithm for your problem, a recommended approach is to spot-check several algorithms, and then test them on the validation set as hyperparameter.",
+    "refresher": "A quick comparison across plausible model families gives evidence about which assumptions fit the data. Select promising candidates with validation results before spending heavily on one algorithm.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 109
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Choosing the right estimator",
+        "url": "https://scikit-learn.org/stable/machine_learning_map.html"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-test-feature-extraction-as-production-code",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Testing",
+    "concept": "Test feature extraction as production code",
+    "quote": "Feature extraction code in one of the most important parts of a machine learning system. It must be extensively and systematically tested.",
+    "refresher": "Features define what the model actually receives. Unit and integration checks should catch changed units, missing values, leakage, and training-serving differences before they become silent model errors.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 93
+    },
+    "links": [
+      {
+        "title": "Google · ML test score for production systems (paper)",
+        "url": "https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-a-bandit-can-shift-traffic-while-learning",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "A bandit can shift traffic while learning",
+    "quote": "Multi-armed bandit is another popular technique of online model evaluation. We start by randomly exposing all models to the users. Then we gradually reduce the exposure of the least-performing models until only one, the best performing model, gets served most of the time.",
+    "refresher": "Start by exposing users to several models, then allocate more traffic to better-performing options while retaining enough exploration to learn. Evaluation and deployment happen together.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 150
+    },
+    "links": [
+      {
+        "title": "Microsoft Research · Multi-armed bandits",
+        "url": "https://www.microsoft.com/en-us/research/project/multi-armed-bandits/"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-use-machine-learning-when-rules-cannot-stay-explicit",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Use machine learning when rules cannot stay explicit",
+    "quote": "You should consider using machine learning to solve a business problem when the problem is too complex for coding, the problem is constantly changing, it is a perceptive problem, it is an unstudied phenomenon, the problem has simple objective, and it is cost-effective.",
+    "refresher": "Machine learning earns its complexity when the task is perceptual, changing, or too intricate for maintained rules and when success has a measurable objective. A solvable rule-based task may not need it.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 14
+    },
+    "links": [
+      {
+        "title": "Google for Developers · Problem framing for machine learning",
+        "url": "https://developers.google.com/machine-learning/problem-framing/ml-framing"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-a-representative-sample-can-replace-the-full-dataset",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Data",
+    "concept": "A representative sample can replace the full dataset",
+    "quote": "When you work with big data, it's not always practical and necessary to work with the entire data asset. Instead, draw a smaller sample of data that contains enough information for learning. Different data sampling strategies can be used for that, in particular simple random sampling, systematic sampling, stratified sampling, and cluster sampling.",
+    "refresher": "Working with every record may be unnecessary or impractical. Choose a sampling design that preserves the variation relevant to learning, especially for rare or structured subgroups.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 68
+    },
+    "links": [
+      {
+        "title": "NIST · Random sampling",
+        "url": "https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc33.htm"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-version-data-together-with-models",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Data",
+    "concept": "Version data together with models",
+    "quote": "Data can be stored in different data formats and on several data storage levels. Data versioning is a critical element in supervised learning when the labeling is done by multiple labelers.",
+    "refresher": "A trained model cannot be reproduced from code alone. Record the exact dataset, labels, transformations, and schema used for each run so changes can be traced and compared.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 69
+    },
+    "links": [
+      {
+        "title": "Google Cloud · Data and model lineage for machine learning",
+        "url": "https://cloud.google.com/vertex-ai/docs/ml-metadata/introduction"
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineering-model-failure-can-originate-anywhere-in-the-pipeline",
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Debugging",
+    "concept": "Model failure can originate anywhere in the pipeline",
+    "quote": "Poor performance can be caused by a bug in your code, training data errors, learning algorithm issues, or pipeline design. In addition, learning can be sensitive to small changes in hyperparameters and dataset makeup.",
+    "refresher": "Poor metrics may come from code, labels, data composition, algorithm choice, or deployment plumbing. Diagnose the pipeline layer by layer before assuming the model family is at fault.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 131
+    },
+    "links": [
+      {
+        "title": "Google for Developers · Debugging machine learning models",
+        "url": "https://developers.google.com/machine-learning/testing-debugging"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-opacity-can-hide-risk-behind-mathematical-authority",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Algorithms",
+    "concept": "Opacity can hide risk behind mathematical authority",
+    "quote": "The risk ratings on the securities were designed to be opaque and mathematically intimidating, in part so that buyers wouldn't perceive the true level of risk associated with the contracts they owned.",
+    "refresher": "A complicated score can discourage buyers or citizens from asking what it measures. Mathematical presentation does not replace disclosure of inputs, assumptions, uncertainty, and incentives.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 24
+    },
+    "links": [
+      {
+        "title": "NIST · Four principles of explainable artificial intelligence",
+        "url": "https://www.nist.gov/publications/four-principles-explainable-artificial-intelligence"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-a-screening-model-may-optimize-rejection-rather-than-fit",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Hiring",
+    "concept": "A screening model may optimize rejection rather than fit",
+    "quote": "\"The primary purpose of the [personality] test, is not to find the best employee. It's to exclude as many people as possible as cheaply as possible.\"",
+    "refresher": "High-volume hiring tools can be designed to remove candidates cheaply instead of finding the best one. Evaluate the objective the system actually optimizes and the qualified people it excludes.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 68
+    },
+    "links": [
+      {
+        "title": "U.S. EEOC · Assessing adverse impact in software and algorithms",
+        "url": "https://www.eeoc.gov/newsroom/us-eeoc-and-us-department-justice-warn-against-disability-discrimination"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-high-impact-models-need-transparency-and-audits",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Accountability",
+    "concept": "High-impact models need transparency and audits",
+    "quote": "Many of these models will arrive with the best intentions. But they must also deliver transparency, disclosing the input data they're using as well as the results of their targeting. And they must be open to audits.",
+    "refresher": "Good intentions do not reveal whether a model harms people. Document its input data and outcomes, permit independent scrutiny, and test performance across the groups affected by it.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 149
+    },
+    "links": [
+      {
+        "title": "NIST · AI Risk Management Framework",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-a-proxy-can-create-the-outcome-it-predicts",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Feedback Loops",
+    "concept": "A proxy can create the outcome it predicts",
+    "quote": "The practice of using credit scores in hirings and promotions creates a dangerous poverty cycle. After all, if you can't get a job because of your credit record, that record will likely to get worse, making it even harder to land work.",
+    "refresher": "Using credit history to deny employment can make income and repayment harder, worsening the score used for the next decision. A model becomes destructive when its decisions feed its own proxy.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 100
+    },
+    "links": [
+      {
+        "title": "Federal Trade Commission · Employment background checks and credit reports",
+        "url": "https://consumer.ftc.gov/articles/employer-background-checks-your-rights"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-a-measured-outcome-can-be-gamed-at-the-deadline",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Metrics",
+    "concept": "A measured outcome can be gamed at the deadline",
+    "quote": "The number of \"graduates employed nine months after graduation\" can be gamed too. Students could also be barista. Hiring their own graduate for hourly temp jobs just as the crucial nine-month period approached.",
+    "refresher": "When rank or funding depends on one reported number, organizations can optimize the reporting window instead of the underlying goal. Inspect how the metric could improve while reality does not.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 40
+    },
+    "links": [
+      {
+        "title": "Manheim and Garrabrant · Goodhart’s law (paper)",
+        "url": "https://arxiv.org/abs/2410.09638"
+      }
+    ]
+  },
+  {
+    "id": "weapons-of-math-destruction-what-a-ranking-omits-can-dominate-its-result",
+    "bookId": "weapons-of-math-destruction",
+    "book": "Weapons of Math Destruction",
+    "author": "Cathy O’Neil",
+    "genre": "nonfiction",
+    "topic": "Metrics",
+    "concept": "What a ranking omits can dominate its result",
+    "quote": "The proxies the journalists chose for educational excellence make sense, after all. Their spectacular failure comes, instead, from what they chose not to count: tuition and fees.",
+    "refresher": "Reasonable proxies still produce a distorted ranking when a major cost or outcome is absent. Audit a score by listing what matters to the decision and checking which parts never enter the model.",
+    "source": {
+      "file": "Weapons of math destruction notes.html",
+      "paragraph": 34
+    },
+    "links": [
+      {
+        "title": "OECD · Handbook on constructing composite indicators",
+        "url": "https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide_9789264043466-en.html"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-one-class-models-learn-the-boundary-of-normal-data",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "One-class models learn the boundary of normal data",
+    "quote": "There are also single-class support vector machines, which solve an unsupervised learning problem related to probability density estimation. Instead of modelling the density of data, however, these methods aim to find a smooth boundary enclosing a region of high density.",
+    "refresher": "A one-class support vector machine encloses a high-density region without needing examples of every abnormal class. Observations outside the learned boundary can be flagged as novel.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 94
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Novelty detection with One-Class SVM",
+        "url": "https://scikit-learn.org/stable/modules/outlier_detection.html#novelty-detection"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-k-means-assumes-a-particular-geometry",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "K-means assumes a particular geometry",
+    "quote": "The K-means algorithm is based on the use of squared Euclidean distance. Not only this limit the type of data variables that can be considered (e.g. categorical), but it can also make the determination of the cluster means non robust to outliers.",
+    "refresher": "Squared Euclidean distance favors numeric, roughly spherical clusters and makes centroids sensitive to outliers. A clustering result inherits those assumptions even when the software returns labels cleanly.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 111
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Demonstration of K-means assumptions",
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_assumptions.html"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-let-humans-handle-low-confidence-cases",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Decision Systems",
+    "concept": "Let humans handle low-confidence cases",
+    "quote": "Reject option: use an automatic system to classify images for which there is little doubt as to the correct class, while leaving a human expert to classify the most ambiguous cases, introducing a threshold.",
+    "refresher": "Automate classifications above a confidence threshold and route ambiguous cases to an expert. A reject option can improve safety when a forced prediction is costlier than review.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 6
+    },
+    "links": [
+      {
+        "title": "NIST · AI Risk Management Framework",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-em-alternates-two-simpler-estimation-steps",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "EM alternates two simpler estimation steps",
+    "quote": "EM algorithms breaks down the potentially difficult problem of maximising the likelihood function in two stages the E step and the M step, each of which will often prove simpler to implement.",
+    "refresher": "Expectation-maximization handles latent variables by estimating their expected assignments and then updating parameters. Alternating the two stages can simplify a likelihood problem that is hard to optimize directly.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 117
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Gaussian mixtures and expectation-maximization",
+        "url": "https://scikit-learn.org/stable/modules/mixture.html#gaussian-mixture"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-convergence-does-not-guarantee-the-best-minimum",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Optimization",
+    "concept": "Convergence does not guarantee the best minimum",
+    "quote": "Because each step minimizes the loss, convergence is assured. However, it could converge to a local minimum rather than global minimum.",
+    "refresher": "An iterative method can reduce its loss at every step and still stop at a local minimum. Check sensitivity to initialization and compare multiple runs when the objective is nonconvex.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 109
+    },
+    "links": [
+      {
+        "title": "Stanford · Convex optimization overview",
+        "url": "https://web.stanford.edu/~boyd/cvxbook/"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-a-probabilistic-graph-makes-dependencies-visible",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Probability",
+    "concept": "A probabilistic graph makes dependencies visible",
+    "quote": "A graph comprises nodes (also called vertices) connected by links (also known as edges or arcs). Each node represents a random variable (or group of random variables), and the link express probabilistic relationship between these variables.",
+    "refresher": "Nodes represent random variables and edges encode their conditional relationships. The graph exposes factorization assumptions that would be difficult to see in a single joint formula.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 98
+    },
+    "links": [
+      {
+        "title": "Stanford CS228 · Probabilistic graphical models",
+        "url": "https://cs.stanford.edu/~ermon/cs228/index.html"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-logistic-regression-is-a-classifier-despite-its-name",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Machine Learning",
+    "concept": "Logistic regression is a classifier despite its name",
+    "quote": "Logistic regression is a model for classification rather than regression. Maximum likelihood can exhibit severe over-fitting for datasets that are linearly separable, that could be solved by adding regularisation term.",
+    "refresher": "Logistic regression models class probability through a linear score. On separable data, unregularized maximum likelihood can push coefficients without bound, so a penalty stabilizes the solution.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 57
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Logistic regression",
+        "url": "https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+      }
+    ]
+  },
+  {
+    "id": "pattern-recognition-and-machine-learning-segmentation-divides-an-image-into-meaningful-regions",
+    "bookId": "pattern-recognition-and-machine-learning",
+    "book": "Pattern Recognition and Machine Learning",
+    "author": "Christopher M. Bishop",
+    "genre": "nonfiction",
+    "topic": "Computer Vision",
+    "concept": "Segmentation divides an image into meaningful regions",
+    "quote": "The goal of segmentation is to partition an image into regions each of which has a reasonably homogeneous visual appearance or which corresponds to objects or part of objects.",
+    "refresher": "Image segmentation assigns pixels to visually coherent regions or objects. It changes the task from labeling a whole image to identifying where distinct structures appear inside it.",
+    "source": {
+      "file": "Pattern recognition and machine learning notes.html",
+      "paragraph": 113
+    },
+    "links": [
+      {
+        "title": "scikit-image · Image segmentation",
+        "url": "https://scikit-image.org/docs/stable/user_guide/tutorial_segmentation.html"
+      }
+    ]
+  },
+  {
+    "id": "storytelling-with-data-do-not-hide-data-that-weakens-your-case",
+    "bookId": "storytelling-with-data",
+    "book": "Storytelling with Data",
+    "author": "Cole Nussbaumer Knaflic",
+    "genre": "nonfiction",
+    "topic": "Data Communication",
+    "concept": "Do not hide data that weakens your case",
+    "quote": "You might assume that showing only the data that backs up your point and ignoring the rest will make for a stron- ger case. I do not recommend this.",
+    "refresher": "Selecting only supportive evidence may make a chart look persuasive while making the analysis unreliable. Show material counterevidence and explain why the conclusion still follows or needs qualification.",
+    "source": {
+      "file": "Nussbaumer Knaflic C. - Storytelling with data_.docx",
+      "paragraph": 15
+    },
+    "links": [
+      {
+        "title": "American Statistical Association · Ethical guidelines for statistical practice",
+        "url": "https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice"
+      }
+    ]
   }
 ]

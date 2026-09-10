@@ -1,6 +1,6 @@
 # Review of the 90 added pills
 
-Reviewed all 90 additions (records 136–225) for source context, attribution, clarity, further-reading relevance, and conceptual overlap with the full collection. The review revised 11 records and retained 79 unchanged. The original 135 pills remain unchanged. The collection still contains 225 pills from 98 books, including three from Tools of Titans.
+Reviewed all 90 additions (records 136–225) for source context, attribution, clarity, further-reading relevance, and conceptual overlap with the full collection. The review revised 11 records and retained 79 unchanged. The original 135 pills remained unchanged. This document records the 225-pill state before the later [source-by-source expansion evaluation](book-expansion-evaluation.md), which brought the collection to 400 pills.
 
 ## Corrections
 

@@ -100,11 +100,15 @@ test('skip link keeps the current library route and search',async({page})=>{
 test('the app loads from a project subdirectory',async({page})=>{
  const failures=[];page.on('requestfailed',r=>failures.push(r.url()));
  await page.goto('http://127.0.0.1:4174/site/');
+ const expectedAtomicHabitPills=await page.evaluate(async()=>{
+  const library=await fetch('data/library.json').then(response=>response.json());
+  return library.pills.filter(pill=>pill.book==='Atomic Habits').length;
+ });
  await expect(page.locator('.pill-card')).toHaveCount(3);
  await expect(page.locator('.brand')).toHaveCSS('font-family',/Georgia/);
  await page.getByRole('link',{name:'My library',exact:true}).click();
  await expect(page.locator('#collection-title')).toHaveText('My reading notes.');
  await page.getByRole('searchbox').fill('Atomic Habits');
- await expect(page.locator('.pill-card')).toHaveCount(6);
+ await expect(page.locator('.pill-card')).toHaveCount(expectedAtomicHabitPills);
  expect(failures).toEqual([]);
 });
