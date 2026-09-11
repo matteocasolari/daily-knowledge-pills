@@ -14,7 +14,7 @@ function updateProgress(){
   const done=daily.filter(p=>(state.read[today]||[]).includes(p.id)).length;
   $('progress-label').textContent=`${done} of ${daily.length} read`;
   $('progress-dots').innerHTML=daily.map(p=>`<i class="${(state.read[today]||[]).includes(p.id)?'done':''}"></i>`).join('');
-  $('completion').hidden=view!=='today'||done!==3;
+  $('completion').hidden=view!=='today'||done!==daily.length;
 }
 function card(p,index){
  const saved=state.saved.includes(p.id),read=(state.read[today]||[]).includes(p.id);
@@ -75,7 +75,7 @@ $('cards').addEventListener('click',event=>{
   button.setAttribute('aria-label',`${wasRead?'Mark as read':'Mark unread'}: ${pill.concept}`);
   button.querySelector('span').textContent=wasRead?'Mark as read':'Read · a little remembered';
   button.querySelector('.read-icon').textContent=wasRead?'':'✓';updateProgress();
-  announce($('completion').hidden?`${pill.concept} marked ${wasRead?'unread':'read'}.`:'All three read. Done for today.');
+  announce($('completion').hidden?`${pill.concept} marked ${wasRead?'unread':'read'}.`:'All five read. Done for today.');
  }
 });
 document.querySelector('.skip-link').addEventListener('click',event=>{event.preventDefault();$('main').focus();$('main').scrollIntoView();});
@@ -84,7 +84,7 @@ window.addEventListener('hashchange',()=>{renderView();$('main').focus();window.
 $('about-button').addEventListener('click',()=>$('about-dialog').showModal());
 $('close-about').addEventListener('click',()=>$('about-dialog').close());
 $('about-done').addEventListener('click',()=>$('about-dialog').close());
-function checkDay(){const next=dateKey();if(next!==today){today=next;if(library){renderView();announce('Three more notes for today.');}}}
+function checkDay(){const next=dateKey();if(next!==today){today=next;if(library){renderView();announce('Five more notes for today.');}}}
 setInterval(checkDay,30000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)checkDay();});window.addEventListener('focus',checkDay);
 window.addEventListener('storage',()=>{state=readState(storage);if(library)renderCards();});
 async function load(){

@@ -17,10 +17,10 @@ export function dailyKnowledgePills(pills, key) {
   const ranked = [...groups.entries()].sort((a,b)=>hash(`${key}:${a[0]}`)-hash(`${key}:${b[0]}`) || a[0].localeCompare(b[0]));
   const nonfiction = ranked.filter(([,ps])=>ps[0].genre !== 'fiction');
   const fiction = ranked.filter(([,ps])=>ps[0].genre === 'fiction');
-  const selected = nonfiction.slice(0,3);
-  if (day % 4 === 0 && fiction.length) selected.splice(2,1,fiction[0]);
+  const selected = nonfiction.slice(0,5);
+  if (day % 4 === 0 && fiction.length) selected.splice(4,1,fiction[0]);
   for (const group of ranked) {
-    if (selected.length >= 3) break;
+    if (selected.length >= 5) break;
     if (!selected.includes(group)) selected.push(group);
   }
   return selected.map(([id,ps])=> {

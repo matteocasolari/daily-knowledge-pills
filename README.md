@@ -1,6 +1,6 @@
 # Daily Knowledge Pills
 
-My personal reading notebook: three concepts from books I’ve read, revisited each day. A completely static app for GitHub Pages.
+My personal reading notebook: five concepts from books I’ve read, revisited each day. A completely static app for GitHub Pages.
 
 The collection includes **400 curated pills from 98 books**. The **98 retained note files** are preserved byte-for-byte in `sources/`; the importer extracted **15,087 paragraphs**. Every retained book and source file is represented. A full source-by-source evaluation added 175 distinct pills from 77 books while allowing richer books to receive more material; no book exceeds the editorial cap of 12 pills. **Tools of Titans** has three pills: its original topic/page reminders are preserved as note excerpts, with editorial explanations informed by linked online sources. The owner removed two alternate takeaway files and two work/meeting note files from the original 102-file collection. See the [book coverage audit](docs/book-coverage.md), the [expansion evaluation](docs/book-expansion-evaluation.md), and the [review of the earlier 90 additions](docs/pill-review.md).
 
@@ -40,7 +40,7 @@ No repository or live deployment was created as part of the local build.
 
 ## Behavior
 
-- Three distinct books per local calendar day. Reloading does not shuffle them.
+- Five distinct books per local calendar day. Reloading does not shuffle them.
 - Nonfiction every day, with one fiction slot every fourth day.
 - Book selection uses a date-seeded ranking. Each selected book rotates through its pills; with multiple pills per book, consecutive days cannot repeat a pill.
 - The collection refreshes after midnight within 30 seconds, or immediately when you return to the tab.

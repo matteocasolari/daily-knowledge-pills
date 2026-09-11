@@ -6,14 +6,14 @@ test('daily ritual, bookmarks, progress, search and details work together',async
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  await page.clock.install({time:new Date('2026-09-05T10:00:00+02:00')});
  await page.goto('/');
- await expect(page.locator('.pill-card')).toHaveCount(3);
+ await expect(page.locator('.pill-card')).toHaveCount(5);
  const concepts=await page.locator('.pill-card h3').allTextContents();
  await page.locator('[data-action=save]').first().click();
  await expect(page.locator('#saved-count')).toHaveText('1');
  for(const button of await page.locator('[data-action=read]').all())await button.click();
  await expect(page.locator('#completion')).toBeVisible();
  await page.reload();
- await expect(page.locator('#progress-label')).toHaveText('3 of 3 read');
+ await expect(page.locator('#progress-label')).toHaveText('5 of 5 read');
  expect(await page.locator('.pill-card h3').allTextContents()).toEqual(concepts);
  await page.getByRole('link',{name:'Saved 1'}).click();
  await expect(page.locator('.pill-card')).toHaveCount(1);
@@ -48,7 +48,7 @@ test('mobile layout fits and a new local day refreshes the cards',async({page})=
  await page.setViewportSize({width:375,height:812});
  await page.clock.install({time:new Date('2026-09-05T23:59:50+02:00')});
  await page.goto('/');
- await expect(page.locator('.pill-card')).toHaveCount(3);
+ await expect(page.locator('.pill-card')).toHaveCount(5);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
  const before=await page.locator('.pill-card h3').allTextContents();
  await page.screenshot({path:'test-results/mobile.png',fullPage:true});
@@ -56,7 +56,7 @@ test('mobile layout fits and a new local day refreshes the cards',async({page})=
  await expect(page.locator('#date-label')).toContainText('SEPTEMBER 6');
  const after=await page.locator('.pill-card h3').allTextContents();
  expect(after.every(title=>!before.includes(title))).toBe(true);
- await expect(page.locator('#progress-label')).toHaveText('0 of 3 read');
+ await expect(page.locator('#progress-label')).toHaveText('0 of 5 read');
 });
 
 test('failed content request can be retried',async({page})=>{
@@ -65,13 +65,13 @@ test('failed content request can be retried',async({page})=>{
  await expect(page.getByText('The books didn’t open.')).toBeVisible();
  await page.unroute('**/data/library.json');
  await page.getByRole('button',{name:'Try again'}).click();
- await expect(page.locator('.pill-card')).toHaveCount(3);
+ await expect(page.locator('.pill-card')).toHaveCount(5);
 });
 
 test('blocked browser storage still supports in-memory bookmarks',async({page})=>{
  await page.addInitScript(()=>Object.defineProperty(window,'localStorage',{get(){throw new DOMException('Blocked','SecurityError');}}));
  await page.goto('/');
- await expect(page.locator('.pill-card')).toHaveCount(3);
+ await expect(page.locator('.pill-card')).toHaveCount(5);
  await page.locator('[data-action=save]').first().click();
  await expect(page.locator('#storage-warning')).toBeVisible();
  await page.getByRole('link',{name:'Saved 1'}).click();
@@ -82,7 +82,7 @@ test('desktop screenshot',async({page})=>{
  await page.setViewportSize({width:1440,height:1100});
  await page.clock.install({time:new Date('2026-09-05T10:00:00+02:00')});
  await page.goto('/');
- await expect(page.locator('.pill-card')).toHaveCount(3);
+ await expect(page.locator('.pill-card')).toHaveCount(5);
  await page.screenshot({path:'test-results/desktop.png',fullPage:true});
 });
 
@@ -104,7 +104,7 @@ test('the app loads from a project subdirectory',async({page})=>{
   const library=await fetch('data/library.json').then(response=>response.json());
   return library.pills.filter(pill=>pill.book==='Atomic Habits').length;
  });
- await expect(page.locator('.pill-card')).toHaveCount(3);
+ await expect(page.locator('.pill-card')).toHaveCount(5);
  await expect(page.locator('.brand')).toHaveCSS('font-family',/Georgia/);
  await page.getByRole('link',{name:'My library',exact:true}).click();
  await expect(page.locator('#collection-title')).toHaveText('My reading notes.');

@@ -2,18 +2,18 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { dailyKnowledgePills, dateKey, filterPills, readState, writeState, readingMinutes } from '../site/core.js';
 const pills = Array.from({length: 36}, (_, i) => ({id: `p${i}`, bookId: `b${Math.floor(i/3)}`, genre: i >= 30 ? 'fiction' : 'nonfiction', concept: `Concept ${i}`, quote: 'A short original quote.', refresher: 'A useful reminder.', book: `Book ${Math.floor(i/3)}`, author: 'An Author', topic: i % 2 ? 'Mind' : 'Work'}));
-test('a date always gives three distinct books regardless of input order', () => {
+test('a date always gives five distinct books regardless of input order', () => {
  const a = dailyKnowledgePills(pills, '2026-09-05');
- assert.equal(a.length, 3); assert.equal(new Set(a.map(p=>p.bookId)).size, 3);
+ assert.equal(a.length, 5); assert.equal(new Set(a.map(p=>p.bookId)).size, 5);
  assert.deepEqual(dailyKnowledgePills([...pills].reverse(), '2026-09-05'), a);
 });
 test('adjacent days do not repeat pills and nonfiction dominates', () => {
  let previous = []; let fiction=0;
  for(let day=1;day<=28;day++) {
   const result=dailyKnowledgePills(pills, `2026-02-${String(day).padStart(2,'0')}`);
-  assert.equal(result.length,3);
+  assert.equal(result.length,5);
   assert.ok(result.every(p=>!previous.includes(p.id)));
-  assert.ok(result.filter(p=>p.genre==='nonfiction').length>=2);
+  assert.ok(result.filter(p=>p.genre==='nonfiction').length>=4);
   fiction += result.filter(p=>p.genre==='fiction').length;
   previous=result.map(p=>p.id);
  }
