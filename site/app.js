@@ -1,9 +1,9 @@
-import {dailyKnowledgePills,dateKey,filterPills,readState,writeState,readingMinutes} from './core.js';
+import {dailyKnowledgePills,dateKey,filterPills,readState,writeState,readingMinutes,dailyQuote} from './core.js';
 
 const $ = id => document.getElementById(id);
 const escape = text => String(text).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 let storage;try{storage=window.localStorage;}catch{storage=null;}
-let state=readState(storage), library, today=dateKey(), view='today';
+let state=readState(storage), library, quotes, today=dateKey(), view='today';
 const bookmark='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v17l-6-4-6 4V4Z" stroke-linejoin="round"/></svg>';
 const announce = message => { $('announcement').textContent=message; };
 function persist(){if(!writeState(storage,state))$('storage-warning').hidden=false;}
@@ -44,6 +44,8 @@ function renderView(){
  document.querySelectorAll('[data-view]').forEach(a=>{if(a.dataset.view===view)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
  document.title=`${view==='today'?'Today':view==='saved'?'Saved':'My library'} · Daily Knowledge Pills`;
  const isToday=view==='today';
+ $('daily-quote-section').hidden=!isToday;
+ $('daily-quote').textContent=dailyQuote(quotes,today);
  $('today-hero').hidden=!isToday;$('collection-hero').hidden=isToday;
  $('daily-meta').hidden=!isToday;$('date-label').hidden=!isToday;
  $('filters').hidden=isToday;$('result-count').hidden=isToday;$('daily-footnote').hidden=!isToday;
@@ -89,9 +91,13 @@ setInterval(checkDay,30000);document.addEventListener('visibilitychange',()=>{if
 window.addEventListener('storage',()=>{state=readState(storage);if(library)renderCards();});
 async function load(){
  try{
-  const response=await fetch(new URL('./data/library.json',import.meta.url));
-  if(!response.ok)throw Error('Unable to load library');
-  library=await response.json();
+  const [libraryData,quoteData]=await Promise.all(['library','quotes'].map(async name=>{
+   const response=await fetch(new URL(`./data/${name}.json`,import.meta.url));
+   if(!response.ok)throw Error(`Unable to load ${name}`);
+   return response.json();
+  }));
+  if(!Array.isArray(quoteData)||!quoteData.length||quoteData.some(quote=>typeof quote!=='string'||!quote.trim()))throw Error('Invalid quotes');
+  library=libraryData;quotes=quoteData;
   if(!Array.isArray(library.pills)||library.pills.length<3||!library.stats)throw Error('Invalid library');
   const validIds=new Set(library.pills.map(p=>p.id));state.saved=state.saved.filter(id=>validIds.has(id));
   $('topic').innerHTML='<option value="">All topics</option>'+[...new Set(library.pills.map(p=>p.topic))].sort().map(topic=>`<option>${escape(topic)}</option>`).join('');

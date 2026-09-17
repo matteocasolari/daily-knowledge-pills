@@ -112,3 +112,27 @@ test('the app loads from a project subdirectory',async({page})=>{
  await expect(page.locator('.pill-card')).toHaveCount(expectedAtomicHabitPills);
  expect(failures).toEqual([]);
 });
+
+test('daily quote stays stable, appears only on Today, and rotates at local midnight',async({page})=>{
+ await page.clock.install({time:new Date('2026-09-17T23:59:50+02:00')});
+ await page.goto('/');
+ const quote=page.locator('#daily-quote');
+ await expect(quote).toBeVisible();
+ const before=await quote.textContent();
+ expect(before.trim().length).toBeGreaterThan(0);
+ await expect(quote.locator('button')).toHaveCount(0);
+ const quoteBox=await quote.boundingBox();
+ const headingBox=await page.locator('#section-title').boundingBox();
+ expect(quoteBox.y+quoteBox.height).toBeLessThan(headingBox.y);
+ await page.reload();
+ await expect(quote).toHaveText(before);
+ for(const route of ['saved','library']){
+  await page.goto(`/#${route}`);
+  await expect(quote).toBeHidden();
+ }
+ await page.goto('/#today');
+ await expect(quote).toHaveText(before);
+ await page.clock.fastForward(31000);
+ await expect(quote).not.toHaveText(before);
+ await expect(page.locator('.pill-card')).toHaveCount(5);
+});

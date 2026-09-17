@@ -48,3 +48,9 @@ export function readingMinutes(pills) {
   const words = pills.map(p=>[p.concept,p.quote,p.refresher,p.book,p.author].filter(Boolean).join(' ')).join(' ').trim().split(/\s+/).length;
   return Math.max(1,Math.ceil(words/180));
 }
+
+// The key is a local calendar date; UTC arithmetic avoids daylight-saving shifts.
+export function dailyQuote(quotes, key) {
+  const day = Math.floor(Date.parse(`${key}T00:00:00Z`) / 86400000);
+  return quotes[((day % quotes.length) + quotes.length) % quotes.length];
+}

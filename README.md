@@ -40,6 +40,8 @@ No repository or live deployment was created as part of the local build.
 
 ## Behavior
 
+- One standalone quote above Today’s reminders, drawn from the 57 entries in the supplied quote PDF. Quotes cycle daily in document order, stay stable during the local calendar day, and repeat after 57 days. They have no saving, reading progress, explanation, categories, or Library entry. The text lives separately in `site/data/quotes.json`, with original wording preserved and whitespace normalized.
+
 - Five distinct books per local calendar day. Reloading does not shuffle them.
 - Nonfiction every day, with one fiction slot every fourth day.
 - Book selection uses a date-seeded ranking. Each selected book rotates through its pills; with multiple pills per book, consecutive days cannot repeat a pill.
