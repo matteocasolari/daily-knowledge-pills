@@ -40,7 +40,7 @@ No repository or live deployment was created as part of the local build.
 
 ## Behavior
 
-- One standalone quote above Today’s reminders, drawn from the 57 entries in the supplied quote PDF. Quotes cycle daily in document order, stay stable during the local calendar day, and repeat after 57 days. They have no saving, reading progress, explanation, categories, or Library entry. The text lives separately in `site/data/quotes.json`, with original wording preserved and whitespace normalized.
+- One standalone quote above Today’s reminders, drawn from `sources/quotes/Paper note's good quotes.docx` (currently 66 quotes). Quotes cycle daily in document order, stay stable during the local calendar day, and repeat after the full collection. They have no saving, reading progress, explanation, categories, or Library entry. Each build generates `site/data/quotes.json` from the DOCX, preserving original wording and normalizing whitespace.
 
 - Five distinct books per local calendar day. Reloading does not shuffle them.
 - Nonfiction every day, with one fiction slot every fourth day.
@@ -57,7 +57,8 @@ The supplied notes mix copied passages, summaries, and personal observations. **
 Every pill includes at least one further-reading resource by someone other than its book’s author. These links are selected for the specific concept: articles, practical exercises, research papers, and interactive explanations. Outside resources appear first, followed by an author or book link where available. Links are optional, may change over time, and do not serve as proof that an imported quote is verbatim. `content/pills.json` is the editable content source.
 
 ```text
-sources/                     Original HTML and DOCX exports
+sources/                     Original book-note HTML and DOCX exports
+sources/quotes/              Separate original DOCX source for daily quotes
 content/notes.json           All normalized paragraphs with source hashes
 content/source-manifest.json Original hashes for the 98 retained source files
 content/import-report.json  Extraction counts and empty-file report
@@ -67,6 +68,7 @@ scripts/import_notes.py     Standard-library HTML / DOCX importer
 scripts/build.py            Provenance, attribution, link and length validation
 site/                       Entire deployable website
   data/library.json         Generated curated collection
+  data/quotes.json          Generated daily quotes from the quote DOCX
   core.js                   Selection, search, persistence, reading time
   app.js                    Rendering and interactions
   style.css                 Responsive visual design
@@ -74,6 +76,12 @@ site/                       Entire deployable website
 tests/                      Python, Node and browser checks
 .github/workflows/pages.yml GitHub Pages deployment
 ```
+
+## Update daily quotes
+
+Edit or replace `sources/quotes/Paper note's good quotes.docx`, then run `npm run build` and `npm test`. Keep the first nonempty paragraph as `Paper note's good quotes`, followed by one quote per paragraph. Blank paragraphs are ignored; line breaks within a quote become spaces. The build rejects a missing title or an empty collection. Do not edit the generated `site/data/quotes.json` directly.
+
+The quote source is kept separately from book notes and is excluded from the book library and its source counts. Author names already in the text are preserved; the document is the import source, not verification of original authorship. Only the extracted quote text is published with the site.
 
 ## Add a book or pill
 
