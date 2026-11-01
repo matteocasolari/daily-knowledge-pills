@@ -376,5 +376,488 @@
         "url": "https://ggia.berkeley.edu/practice/walking_meditation"
       }
     ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-diagnose-the-cause-before-fixing-the-symptom",
+    "concept": "Diagnose the cause before fixing the symptom",
+    "topic": "Decisions",
+    "refresher": "A recurring small failure may reveal a larger weakness in the process. Investigate what produces it before choosing a remedy, then check whether the intervention prevents recurrence.",
+    "quote": "Make sure you spend enough time with the small problems to make sure they're not symptoms of larger ones.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 67
+    },
+    "links": [
+      {
+        "title": "ASQ · Root cause analysis",
+        "url": "https://asq.org/quality-resources/root-cause-analysis"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-invite-evidence-that-could-change-your-mind",
+    "concept": "Invite evidence that could change your mind",
+    "topic": "Judgment",
+    "refresher": "Being open-minded is an active practice: ask where your reasoning could fail and make disagreement welcome. Change your view when the evidence warrants it, rather than treating correction as a loss.",
+    "quote": "To be radically open-minded, you need to be so open to the possibility that you could be wrong that you encourage others to tell you so.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 73
+    },
+    "links": [
+      {
+        "title": "John Stuart Mill · Why contrary opinions deserve a hearing",
+        "url": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-restate-the-other-view-before-disputing-it",
+    "concept": "Restate the other view before disputing it",
+    "topic": "Communication",
+    "refresher": "Check whether you can explain the other person’s reasoning in terms they recognize. Correcting your understanding first makes it easier to locate the real disagreement.",
+    "quote": "A good exercise to make sure that you are doing thoughtful disagreement well is to describe back to the person you are disagreeing with their own perspective.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 76
+    },
+    "links": [
+      {
+        "title": "Greater Good in Action · Active listening",
+        "url": "https://ggia.berkeley.edu/practice/active_listening"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-choose-goals-by-accepting-their-trade-offs",
+    "concept": "Choose goals by accepting their trade-offs",
+    "topic": "Priorities",
+    "refresher": "Pursuing one attractive path uses time and resources that cannot serve another. Name what you are giving up so a new opportunity does not quietly displace your actual priority.",
+    "quote": "I learned that if you work hard and creatively, you can have just about anything you want, but not everything you want. Maturity is the ability to reject good alternatives in order to pursue even better ones.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 20
+    },
+    "links": [
+      {
+        "title": "Federal Reserve Education · Opportunity cost",
+        "url": "https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-judge-a-decision-using-information-available-then",
+    "concept": "Judge a decision using information available then",
+    "topic": "Judgment",
+    "refresher": "A bad result does not automatically mean the original reasoning was poor. Reconstruct the options, probabilities and evidence available at the time before deciding what the process should change.",
+    "quote": "Evaluate the merits of a past decision based not on what you know now but only on what you could have reasonably known at the time the decision was made (said by me: be aware of hindsight fallacy).",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 128
+    },
+    "links": [
+      {
+        "title": "Baron and Hershey · Outcome bias (research paper, PDF)",
+        "url": "https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-make-expectations-explicit-before-judging-performance",
+    "concept": "Make expectations explicit before judging performance",
+    "topic": "Accountability",
+    "refresher": "Agree on the outcome, responsibilities and standard of success before evaluating delivery. An unstated expectation is a communication gap, not evidence that someone knowingly failed their role.",
+    "quote": "If you didn't make the expectation clear, you can't hold people accountable for it not being fulfilled.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 119
+    },
+    "links": [
+      {
+        "title": "Atlassian · Clarifying roles and responsibilities",
+        "url": "https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities"
+      }
+    ]
+  },
+  {
+    "bookId": "the-madness-of-crowds",
+    "book": "The Madness of Crowds",
+    "author": "Douglas Murray",
+    "genre": "nonfiction",
+    "id": "the-madness-of-crowds-a-message-can-lose-its-original-audience",
+    "concept": "A message can lose its original audience",
+    "topic": "Communication",
+    "refresher": "A post intended for one group can reach people who lack its shared history or assumptions. Recover the surrounding conversation before interpreting a fragment as a complete account of someone’s position.",
+    "quote": "‘Context collapse’: a conversation meant for an in-group becomes known to an out-group with no knowledge of the original context of the discussion.",
+    "source": {
+      "file": "The madness of crowds notes.html",
+      "paragraph": 87
+    },
+    "links": [
+      {
+        "title": "Marwick and boyd · Context collapse (research paper, PDF)",
+        "url": "https://www.dhi.ac.uk/san/waysofbeing/data/data-crone-marwick-2011.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "the-madness-of-crowds",
+    "book": "The Madness of Crowds",
+    "author": "Douglas Murray",
+    "genre": "nonfiction",
+    "id": "the-madness-of-crowds-attention-can-reward-outrage",
+    "concept": "Attention can reward outrage",
+    "topic": "Social psychology",
+    "refresher": "Murray highlights an incentive in online debate: strong outrage attracts attention. Research on social feedback provides a related mechanism; distinguish what becomes visible from what is representative or well supported.",
+    "quote": "This is an important cog in the crowd-maddening mechanism: the person who professes themselves most aggrieved gets the most attention. Anyone who is unbothered is ignored. In an age of shouting for attention on social media the mechanism rewards outrage over sanguinity.",
+    "source": {
+      "file": "The madness of crowds notes.html",
+      "paragraph": 74
+    },
+    "links": [
+      {
+        "title": "Brady and colleagues · Social learning and online outrage",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/"
+      }
+    ]
+  },
+  {
+    "bookId": "the-madness-of-crowds",
+    "book": "The Madness of Crowds",
+    "author": "Douglas Murray",
+    "genre": "nonfiction",
+    "id": "the-madness-of-crowds-hearing-disagreement-can-clarify-a-belief",
+    "concept": "Hearing disagreement can clarify a belief",
+    "topic": "Critical thinking",
+    "refresher": "Mill’s argument values objections that expose errors, reveal partial truths, or keep sound beliefs from becoming unexamined slogans.",
+    "quote": "Four reasons for why free speech was a necessity for a free society: the first and second being that a contrary opinion may be true, or true in part, and therefore may require to be heard in order to correct your own erroneous views; the third and fourth being that even if the contrary opinion is in error, the airing of it may help remind people of a truth and prevent its slippage into an ignorant dogma.",
+    "source": {
+      "file": "The madness of crowds notes.html",
+      "paragraph": 7
+    },
+    "links": [
+      {
+        "title": "John Stuart Mill · On Liberty, freedom of discussion",
+        "url": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm"
+      }
+    ]
+  },
+  {
+    "bookId": "2001-a-space-odyssey",
+    "book": "2001: A Space Odyssey",
+    "author": "Arthur C. Clarke",
+    "genre": "fiction",
+    "id": "2001-a-space-odyssey-a-claim-of-infallibility-is-not-a-reliability-test",
+    "concept": "A claim of infallibility is not a reliability test",
+    "topic": "Artificial intelligence",
+    "refresher": "HAL’s assurance is part of the novel’s tension between machine authority and human judgment. Treat a system’s confidence as something to evaluate against evidence, monitoring and independent checks.",
+    "quote": "“I don’t want to insist on it, Dave, but I am incapable of making an error.\"",
+    "source": {
+      "file": "2001 a space odyssey notes.html",
+      "paragraph": 14
+    },
+    "links": [
+      {
+        "title": "NIST · Evaluating and managing AI risks",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+      }
+    ]
+  },
+  {
+    "bookId": "one-hundred-years-of-solitude",
+    "book": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": "fiction",
+    "id": "one-hundred-years-of-solitude-repeated-patterns-make-time-feel-circular",
+    "concept": "Repeated patterns make time feel circular",
+    "topic": "Literature",
+    "refresher": "The novel returns to names, desires and conflicts across generations. Its circular sense of time invites attention to what a family repeats, even while individual lives move toward irreversible endings.",
+    "quote": "“What di you expect? Time passes”. She shuddered with the evidence that time was not passing, as she had just admitted, but that it was turning in a circle.",
+    "source": {
+      "file": "One hundred years of solitude notes.html",
+      "paragraph": 15
+    },
+    "links": [
+      {
+        "title": "SEMO Faulkner Studies · Historical and mythical time in the novel",
+        "url": "https://semo.edu/faulkner-studies/teaching-faulkner/teaching-hundred-years"
+      }
+    ]
+  },
+  {
+    "bookId": "the-great-gatsby",
+    "book": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "fiction",
+    "id": "the-great-gatsby-privilege-can-insulate-people-from-consequences",
+    "concept": "Privilege can insulate people from consequences",
+    "topic": "Literature",
+    "refresher": "Nick’s judgment of Tom and Daisy links carelessness to the ability to retreat from damage. The passage asks who bears the consequences when those with protection leave others to repair the harm.",
+    "quote": "They were careless people, Tom and Daisy - they smashed up things and creatures and then retreated back into their memory or their vast carelessness, or whatever it was that kept them together, and let other people clean up the mess they had made...",
+    "source": {
+      "file": "The great Gatsby notes.html",
+      "paragraph": 10
+    },
+    "links": [
+      {
+        "title": "National Endowment for the Arts · Reading The Great Gatsby",
+        "url": "https://www.arts.gov/initiatives/nea-big-read/great-gatsby"
+      }
+    ]
+  },
+  {
+    "bookId": "the-alchemist",
+    "book": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "fiction",
+    "id": "the-alchemist-action-gives-a-dream-practical-feedback",
+    "concept": "Action gives a dream practical feedback",
+    "topic": "Learning",
+    "refresher": "In the story, the journey teaches what wishing alone cannot. Treat a manageable action as a way to discover obstacles and revise your approach, rather than waiting for complete certainty.",
+    "quote": "\"There is only one way to learn,\" the alchemist answered. \"It's through action\".",
+    "source": {
+      "file": "The alchemist notes.html",
+      "paragraph": 19
+    },
+    "links": [
+      {
+        "title": "ASQ · Learning through small tests and reflection",
+        "url": "https://asq.org/quality-resources/pdca-cycle"
+      }
+    ]
+  },
+  {
+    "bookId": "the-alchemist",
+    "book": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "fiction",
+    "id": "the-alchemist-a-fallback-can-make-exploration-possible",
+    "concept": "A fallback can make exploration possible",
+    "topic": "Opportunity",
+    "refresher": "Santiago recognizes skills he can return to if the journey fails. A credible fallback can make an uncertain choice more manageable without guaranteeing that taking the risk will succeed.",
+    "quote": "He suddenly felt tremendously happy. He could always go back to being a shepherd. He could always become a crystal salesman again.",
+    "source": {
+      "file": "The alchemist notes.html",
+      "paragraph": 10
+    },
+    "links": [
+      {
+        "title": "Harvard Program on Negotiation · Evaluating your alternative",
+        "url": "https://www.pon.harvard.edu/daily/batna/translate-your-batna-to-the-current-deal/"
+      }
+    ]
+  },
+  {
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "id": "being-mortal-comfort-focused-care-is-still-active-care",
+    "concept": "Comfort-focused care is still active care",
+    "topic": "Health",
+    "refresher": "Hospice changes the priority toward comfort and quality of life; it is not abandonment. Palliative care can also accompany disease-directed treatment, so discuss which services fit the person’s needs and goals.",
+    "quote": "The difference between standard medical care and hospice is not the difference between treating and doing nothing. The difference is in priorities. In ordinal medicine, the goal is to extend life. Hospice help people with a fatal illness have the fullest possible lives right now.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 41
+    },
+    "links": [
+      {
+        "title": "WHO · Palliative care",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/palliative-care"
+      }
+    ]
+  },
+  {
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "id": "being-mortal-discuss-care-preferences-before-a-crisis",
+    "concept": "Discuss care preferences before a crisis",
+    "topic": "Health",
+    "refresher": "Talk about what matters, which trade-offs feel acceptable, and who should speak for you if you cannot. Revisit the conversation as circumstances change, rather than leaving loved ones to guess during a crisis.",
+    "quote": "People who had substantive discussion with their doctor about their end-of-life preferences are far more likely to die at peace and in control of their situation and to spare their family anguish.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 44
+    },
+    "links": [
+      {
+        "title": "The Conversation Project · Guides for discussing care wishes",
+        "url": "https://theconversationproject.org/get-started"
+      }
+    ]
+  },
+  {
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "id": "being-mortal-medical-decisions-need-values-as-well-as-facts",
+    "concept": "Medical decisions need values as well as facts",
+    "topic": "Health",
+    "refresher": "A clinician can explain options and help a person weigh them against their own priorities. Shared decisions combine clinical evidence with what the person is willing to endure or give up.",
+    "quote": "Interpretative (what people desire): give information, control but also guidance. Help patients determine what they want.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 56
+    },
+    "links": [
+      {
+        "title": "AHRQ · The SHARE approach to shared decision-making",
+        "url": "https://www.ahrq.gov/sdm/share-approach/index.html"
+      }
+    ]
+  },
+  {
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "id": "being-mortal-care-must-address-more-than-physical-safety",
+    "concept": "Care must address more than physical safety",
+    "topic": "Health",
+    "refresher": "A residence can meet physical needs while leaving daily life empty. Look for opportunities for connection, meaningful activity, and choices residents can still make for themselves.",
+    "quote": "The Three Plagues of nursing home existence: boredom, loneliness, and helplessness.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 30
+    },
+    "links": [
+      {
+        "title": "The Eden Alternative · Addressing loneliness, helplessness and boredom",
+        "url": "https://www.edenalt.org/"
+      }
+    ]
+  },
+  {
+    "bookId": "eating-animals",
+    "book": "Eating Animals",
+    "author": "Jonathan Safran Foer",
+    "genre": "nonfiction",
+    "id": "eating-animals-food-purchases-support-production-choices",
+    "concept": "Food purchases support production choices",
+    "topic": "Ethics",
+    "refresher": "Foer frames a purchase as participation in a food system. Examine how food was produced and what demand the purchase supports, rather than treating the plate as disconnected from farms and supply chains.",
+    "quote": "Every time you make a decision about food, Paul pleaded, quoting Berry, \"you are farming by proxy\".",
+    "source": {
+      "file": "Eating animals notes.html",
+      "paragraph": 34
+    },
+    "links": [
+      {
+        "title": "Poore and Nemecek · Food production impacts (research paper)",
+        "url": "https://ora.ox.ac.uk/objects/uuid%3Ab0b53649-5e93-4415-bf07-6b0b1227172f"
+      }
+    ]
+  },
+  {
+    "bookId": "eating-animals",
+    "book": "Eating Animals",
+    "author": "Jonathan Safran Foer",
+    "genre": "nonfiction",
+    "id": "eating-animals-fishing-methods-have-effects-beyond-the-target-catch",
+    "concept": "Fishing methods have effects beyond the target catch",
+    "topic": "Nature",
+    "refresher": "A catch can include animals the fishery did not intend to keep. Bycatch depends on the gear, place and practice; evaluating seafood involves more than the species listed on the menu.",
+    "quote": "Trawling: the trawl is pulled along the ocean bottom at 4.5 to 6.5 km/h for several hours, sweeping shrimps (and everything else) into the far end of a funnel-shaped net.",
+    "source": {
+      "file": "Eating animals notes.html",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "NOAA Fisheries · Understanding bycatch",
+        "url": "https://www.fisheries.noaa.gov/insight/understanding-bycatch"
+      }
+    ]
+  },
+  {
+    "bookId": "the-existential-importance-of-the-penis",
+    "book": "The Existential Importance of the Penis",
+    "author": "Daniel N. Watter",
+    "genre": "nonfiction",
+    "id": "the-existential-importance-of-the-penis-insight-needs-a-corresponding-action",
+    "concept": "Insight needs a corresponding action",
+    "topic": "Self-knowledge",
+    "refresher": "Watter invokes Yalom to distinguish understanding a pattern from changing it. Identify a small action consistent with the insight, then observe what happens rather than treating explanation as the endpoint.",
+    "quote": "I am often reminded of one of Yalom's (1980, 2002a) most important axioms: \"Insight without action is merely interesting\".",
+    "source": {
+      "file": "Watter D. - The Existential Importance of the Penis.docx",
+      "paragraph": 50
+    },
+    "links": [
+      {
+        "title": "WHO · Acting on values in daily life",
+        "url": "https://www.who.int/publications/i/item/9789240003927"
+      }
+    ]
+  },
+  {
+    "bookId": "the-existential-importance-of-the-penis",
+    "book": "The Existential Importance of the Penis",
+    "author": "Daniel N. Watter",
+    "genre": "nonfiction",
+    "id": "the-existential-importance-of-the-penis-understanding-a-cause-does-not-remove-responsibility",
+    "concept": "Understanding a cause does not remove responsibility",
+    "topic": "Responsibility",
+    "refresher": "The book distinguishes explaining harmful behavior from excusing it. Exploring what contributed to an action can support change while leaving accountability for its effects intact.",
+    "quote": "What follows in this chapter is an attempt to explain and better understand the egregious sexual behavior of men. It is NOT an attempt to postulate an excuse for such behavior. Those who behave badly must be willing to accept the consequences of their actions.",
+    "source": {
+      "file": "Watter D. - The Existential Importance of the Penis.docx",
+      "paragraph": 57
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · Self-compassion and responsibility",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
+  },
+  {
+    "bookId": "existential-kink",
+    "book": "Existential Kink",
+    "author": "Carolyn Elliott",
+    "genre": "nonfiction",
+    "id": "existential-kink-explore-a-pattern-without-treating-it-as-destiny",
+    "concept": "Explore a pattern without treating it as destiny",
+    "topic": "Self-knowledge",
+    "refresher": "Elliott’s practice asks whether an unwanted pattern also carries a hidden payoff. Treat that as a question for reflection, not proof that you caused, wanted, or deserved harmful circumstances. Understanding a response does not require endorsing it.",
+    "quote": "The idea that on some level we could want or enjoy \"awful\" things in our lives is scary and troubling to most people.",
+    "source": {
+      "file": "Elliot C. - Existential Kink.docx",
+      "paragraph": 3
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · Approaching difficulty without self-blame",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
   }
 ]

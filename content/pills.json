@@ -10064,5 +10064,1265 @@
         "url": "https://gwern.net/doc/sociology/technology/1983-bainbridge.pdf"
       }
     ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-keep-final-evaluation-separate-from-tuning",
+    "concept": "Keep final evaluation separate from tuning",
+    "quote": "Parameters of the model are optimized by the learning algorithm based on training data. The values of hyperparameters are tuned by using the validation dataset. The test set is only used to assess the model's performance and report it to the client or product owner.",
+    "refresher": "Repeatedly choosing models against the test set turns it into training feedback. Tune with validation data or cross-validation, then use the untouched test set to estimate generalization.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 12
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Cross-validation and held-out evaluation",
+        "url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-split-raw-data-before-learning-preprocessing",
+    "concept": "Split raw data before learning preprocessing",
+    "quote": "Split was applied to raw data",
+    "refresher": "Imputation, scaling and feature selection can leak information even before model training. Fit these transformations only on each training partition, then apply the fitted transformation to held-out examples.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 62
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Preventing preprocessing leakage",
+        "url": "https://scikit-learn.org/stable/common_pitfalls.html"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-improve-recurring-error-patterns",
+    "concept": "Improve recurring error patterns",
+    "quote": "Errors made by a machine learning model can be uniform and appear in all use cases with the same rate, or focused and appear in just certain types of use cases. Focused errors are those merit special attention, because fixing an error pattern, you fix it once for many examples.",
+    "refresher": "Inspect concrete failures and group them by cause. A missing feature or systematic labeling mistake can affect many examples; addressing that shared cause is often more valuable than another broad tuning sweep.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 132
+    },
+    "links": [
+      {
+        "title": "Martin Zinkevich · Rules of machine learning and feature iteration",
+        "url": "https://developers.google.com/machine-learning/guides/rules-of-ml"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-limit-exposure-while-testing-a-deployment",
+    "concept": "Limit exposure while testing a deployment",
+    "quote": "Canary deployment: pushing the new version to a small fraction of the users, while keeping the old version running for most users. Allows model performance validation and won't affect too many users in case of possible bugs.",
+    "refresher": "Release to a small representative slice, monitor predefined quality and reliability signals, and retain a rollback path. A canary reduces the blast radius; it does not prove safety for every user group.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 165
+    },
+    "links": [
+      {
+        "title": "Google SRE · Canarying releases",
+        "url": "https://sre.google/workbook/canarying-releases/"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-monitor-the-model-after-deployment",
+    "concept": "Monitor the model after deployment",
+    "quote": "The models deployed in production must be constantly monitored. The goals are to make sure that the model is served correctly, and that the performance of the model remains within acceptable limits.",
+    "refresher": "A model can keep answering while its usefulness deteriorates. Track prediction quality, input distributions and operational health, with alerts tied to meaningful thresholds and someone responsible for responding.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 181
+    },
+    "links": [
+      {
+        "title": "Martin Zinkevich · Monitoring training-serving skew",
+        "url": "https://developers.google.com/machine-learning/guides/rules-of-ml"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-predictions-can-change-the-next-training-dataset",
+    "concept": "Predictions can change the next training dataset",
+    "quote": "An effective runtime is secure and correct, ensures ease of deployment and recovery, provides guarantees of model validity, and avoids training/serving skew and hidden feedback loops.",
+    "refresher": "Recommendations influence what people see and click. Treat those observations as consequences of a policy, not an unbiased picture of preference; otherwise retraining can amplify the model’s own earlier choices.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 176
+    },
+    "links": [
+      {
+        "title": "Martin Zinkevich · Avoiding feedback loops with positional features",
+        "url": "https://developers.google.com/machine-learning/guides/rules-of-ml"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-training-success-can-hide-overfitting",
+    "concept": "Training success can hide overfitting",
+    "quote": "If the model predicts well training data but predicts poorly the validation/test set, we say that the model has high variance or that the model overfits",
+    "refresher": "When training errors are small but held-out errors are large, the model may be fitting noise or dataset-specific details. Compare both curves before deciding whether to simplify, regularize or collect more representative data.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 64
+    },
+    "links": [
+      {
+        "title": "Google · Overfitting and regularization",
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/regularization"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-regularization-limits-fitting-noise",
+    "concept": "Regularization limits fitting noise",
+    "quote": "Regularization force the algorithm to build a less complex model (slight increase of bias, big decrease of variance).",
+    "refresher": "Regularization trades some training fit for a model that may generalize better. Tune its strength against held-out performance: too much can erase real signal, while too little can preserve accidental patterns.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 66
+    },
+    "links": [
+      {
+        "title": "Google · L2 regularization and model complexity",
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/regularization"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-precision-and-recall-answer-different-questions",
+    "concept": "Precision and recall answer different questions",
+    "quote": "Precision is the ratio of correct positive predictions to the overall number of positive predictions.",
+    "refresher": "Precision asks how many positive predictions were correct; recall asks how many actual positives were found. Choose a threshold according to the consequences of false alarms and missed cases, not accuracy alone.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 75
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Precision-recall curves",
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-cross-validation-rotates-the-held-out-examples",
+    "concept": "Cross-validation rotates the held-out examples",
+    "quote": "Cross-validation: you split your training set into several (typically, five) subsets of the same size (folds). You use the examples in all but one set as training set and the leftover as validation set. You repeat this for all the sets and use the average result as final value.",
+    "refresher": "Each fold gets a turn as unseen evaluation data. Average the scores to compare candidate settings, while preserving a final test set and using grouped or time-aware splits when observations are dependent.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 90
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Choosing an appropriate cross-validation strategy",
+        "url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-gradient-descent-improves-parameters-step-by-step",
+    "concept": "Gradient descent improves parameters step by step",
+    "quote": "Gradient descent is an iterative optimisation algorithm for finding the minimum of a function. Starts at some random point and takes steps proportional to the negative of the gradient of the function at the current point.",
+    "refresher": "The gradient points toward increasing loss, so an update moves the opposite way. The learning rate controls the step size; useful progress depends on both the objective and a suitable update scale.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 29
+    },
+    "links": [
+      {
+        "title": "Google · Gradient descent",
+        "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-random-forests-reduce-shared-errors",
+    "concept": "Random forests reduce shared errors",
+    "quote": "Random Forest is bagging algorithm where a certain number of “copies” are sampled with replacement from the training set and then train decision trees with those (reducing the variance of the final model). At each split of the decision tree, a random subset of the features are inspected.",
+    "refresher": "Averaging many trees helps most when their errors are not identical. Bootstrap samples and random feature subsets diversify the trees, reducing variance relative to one highly flexible tree.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 128
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Random forests and bagging",
+        "url": "https://scikit-learn.org/stable/modules/ensemble.html"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-boosting-adds-models-to-correct-remaining-errors",
+    "concept": "Boosting adds models to correct remaining errors",
+    "quote": "Boosting consists of using the original training data and iteratively creating multiple models by using a weak learner that try to “fix” the errors which previous model made (example: Gradient Boosting).",
+    "refresher": "Boosting builds an ensemble sequentially, directing new learners toward what the current ensemble misses. Learning rate, depth and number of rounds control how aggressively it fits the training data.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 126
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Gradient boosting",
+        "url": "https://scikit-learn.org/stable/modules/ensemble.html"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-transfer-learned-representations-to-a-new-task",
+    "concept": "Transfer learned representations to a new task",
+    "quote": "In transfer learning, you pick an existing model train on some dataset, and you adapt this model to predict examples from another dataset.",
+    "refresher": "Reuse features learned on a related dataset, then train a new output head or carefully fine-tune the network. Check domain fit and held-out performance rather than assuming pretrained knowledge always transfers.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 167
+    },
+    "links": [
+      {
+        "title": "TensorFlow · Transfer learning and fine-tuning",
+        "url": "https://www.tensorflow.org/tutorials/images/transfer_learning"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-notice-a-part-without-becoming-it",
+    "concept": "Notice a part without becoming it",
+    "quote": "The simple act of noticing parts and representing them on a page often creates enough separation from them (enough unblending) that you can have a different perspective on them.",
+    "refresher": "Schwartz calls this unblending: describe an anxious or critical response as one aspect of your experience, rather than your entire identity. Writing it down can offer perspective. This is an IFS practice, not proof of literal inner beings.",
+    "topic": "Self-knowledge",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 22
+    },
+    "links": [
+      {
+        "title": "Steven Hayes · Acceptance and cognitive defusion",
+        "url": "https://www.apa.org/pubs/videos/4310860"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-listening-does-not-require-agreement",
+    "concept": "Listening does not require agreement",
+    "quote": "As you listen to it, you don't have to agree or disagree - just let the part know that you respect it, you care about it, you're there with it, and you hear it. See how it reacts.",
+    "refresher": "Within IFS, acknowledge an inner response with care without accepting its conclusions or acting on its demands. Understanding a protective impulse can coexist with boundaries on harmful behavior.",
+    "topic": "Compassion",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · What self-compassion means",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-a-protective-role-is-not-an-identity",
+    "concept": "A protective role is not an identity",
+    "quote": "The categories I describe in this map don't capture the essence of your parts themselves Instead, they are just the roles your parts were thrust into.",
+    "refresher": "IFS distinguishes vulnerable exiles, preventive managers, and reactive firefighters. These names describe roles within the model, not fixed diagnoses or a person’s essence. Ask what a response is trying to accomplish before treating its current strategy as permanent.",
+    "topic": "Psychology",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 56
+    },
+    "links": [
+      {
+        "title": "Steven Hayes · Acceptance and cognitive defusion",
+        "url": "https://www.apa.org/pubs/videos/4310860"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-trust-develops-without-forcing-progress",
+    "concept": "Trust develops without forcing progress",
+    "quote": "So if they're not stepping back, for example, it doesn't mean you're failing. It simply means that it wil take more time to build up their trust in you and to help them get to know you better.",
+    "refresher": "Schwartz treats resistance as a reason to slow down and build trust, rather than evidence of failure. Approach difficult feelings gently; curiosity and self-compassion need not become another performance demand.",
+    "topic": "Compassion",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 40
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · What self-compassion means",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
+  },
+  {
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "id": "deep-work-give-deep-work-a-repeatable-starting-ritual",
+    "concept": "Give deep work a repeatable starting ritual",
+    "quote": "Questions your deep work ritual need to answer: Where you'll work and for how long? How you'll work once you start to work? How you'll support your work?",
+    "refresher": "Decide the place, duration, task, and support before a session starts. A specific cue and working rule make beginning easier than renegotiating the arrangement whenever you feel ready.",
+    "topic": "Focus",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 31
+    },
+    "links": [
+      {
+        "title": "Gollwitzer and Sheeran · Implementation intentions",
+        "url": "https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "id": "deep-work-track-the-behavior-that-produces-the-result",
+    "concept": "Track the behavior that produces the result",
+    "quote": "Act on Lead Measures. Lag measures describe the thing you're ultimately trying to improve, lead measures measure the new behaviors that will drive success on the lag measures.",
+    "refresher": "Pages published are an outcome; protected writing sessions are an action you can influence today. Choose a plausible lead measure, then check whether improving it actually moves the result.",
+    "topic": "Metrics",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 36
+    },
+    "links": [
+      {
+        "title": "FranklinCovey · Lead and lag measures",
+        "url": "https://www.franklincovey.com/courses/the-4-disciplines/"
+      }
+    ]
+  },
+  {
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "id": "deep-work-schedule-access-to-distractions",
+    "concept": "Schedule access to distractions",
+    "quote": "Don't take breaks from distraction, take breaks from focus. When you're working set the next time you're allowed to use the Internet. Until you arrive at that time, no connectivity is allowed.",
+    "refresher": "Choose a bounded period for focused work and decide when to check messages. Notice the urge to switch before acting on it; adjust the arrangement to the genuine communication needs of your role.",
+    "topic": "Attention",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 42
+    },
+    "links": [
+      {
+        "title": "Gloria Mark · Managing attention and self-interruption",
+        "url": "https://www.universityofcalifornia.edu/news/how-sharpen-your-attention-and-meet-your-goals-2024"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-keep-the-test-set-outside-model-selection",
+    "concept": "Keep the test set outside model selection",
+    "quote": "Before you look at the data any further, you need to create a test set, put it aside, and never look at it.",
+    "refresher": "Repeatedly using test results to choose features or models leaks information into development. Fit preprocessing on training data, tune on validation data, and reserve the test set for the final assessment.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 52
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Avoiding data leakage",
+        "url": "https://scikit-learn.org/stable/common_pitfalls.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-accuracy-can-hide-failure-on-a-rare-class",
+    "concept": "Accuracy can hide failure on a rare class",
+    "quote": "Accuracy is generally not the preferred performance measure for classifiers, especially when you are dealing with skewed datasets.",
+    "refresher": "A classifier predicting only the common class can appear accurate. Inspect the confusion matrix and choose metrics that reflect the cost of missed positives and false alarms.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 96
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Classification metrics",
+        "url": "https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-choose-a-threshold-with-precision-and-recall-together",
+    "concept": "Choose a threshold with precision and recall together",
+    "quote": "Increasing precision reduces recall, and vice versa. This is called the precision/recall trade-off.",
+    "refresher": "Precision asks how many positive predictions were correct; recall asks how many actual positives were found. Moving the decision threshold changes that balance, so specify the operating point rather than celebrating one number.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 102
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Precision and recall",
+        "url": "https://scikit-learn.org/stable/modules/model_evaluation.html#precision-recall-f-measure-metrics"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-gradient-descent-follows-the-local-slope",
+    "concept": "Gradient descent follows the local slope",
+    "quote": "The general idea of Gradient Descent is to tweak parameters iteratively in order to minimize a cost function.",
+    "refresher": "Compute how the loss changes with each parameter, then step in the opposite direction. The learning rate controls step size: too small wastes iterations; too large can overshoot or diverge.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 116
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Stochastic gradient descent",
+        "url": "https://scikit-learn.org/stable/modules/sgd.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-learning-curves-diagnose-what-more-data-might-fix",
+    "concept": "Learning curves diagnose what more data might fix",
+    "quote": "It's useful to take a look at the learning curves: plots of the model's performance on the training set and the validation set as a function of the training set size (or the training iteration).",
+    "refresher": "Compare training and validation performance as data grows. Poor performance on both suggests underfitting; a persistent gap suggests variance. Use the pattern to decide between more data and a different model.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 127
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Learning and validation curves",
+        "url": "https://scikit-learn.org/stable/modules/learning_curve.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-stop-training-when-validation-performance-deteriorates",
+    "concept": "Stop training when validation performance deteriorates",
+    "quote": "You want to stop when the validation error stops decreasing and starts to go back up (meaning that the model is starting to overfitting).",
+    "refresher": "Training loss can keep improving while generalization gets worse. Monitor validation performance and retain the best checkpoint, allowing for noisy fluctuations instead of reacting to every single increase.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 142
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Early stopping",
+        "url": "https://www.deeplearningbook.org/contents/regularization.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-random-forests-diversify-trees-before-averaging",
+    "concept": "Random forests diversify trees before averaging",
+    "quote": "Random Forest is an ensemble of Decision Trees, generally trained via the bagging method, typically with max_samples set tot the size of the training set.",
+    "refresher": "Bootstrap samples vary the training cases, and feature subsampling varies the available splits. Combining these less-correlated trees can reduce the instability of a single tree.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 200
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Random forests",
+        "url": "https://scikit-learn.org/stable/modules/ensemble.html#random-forests-and-other-randomized-tree-ensembles"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-pca-preserves-variance-in-fewer-dimensions",
+    "concept": "PCA preserves variance in fewer dimensions",
+    "quote": "It project the dataset into a lower dimension hyperplane, selecting the axes that preserves the maximum amount of variance",
+    "refresher": "PCA rotates centered data toward directions with high variance and retains a subset. High explained variance does not guarantee that the retained directions are best for predicting a target.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 230
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Principal component analysis",
+        "url": "https://scikit-learn.org/stable/modules/decomposition.html#pca"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-backpropagation-computes-gradients-through-the-network",
+    "concept": "Backpropagation computes gradients through the network",
+    "quote": "In just two passes the algorithm compute the gradient of the network's error with regard to every single model parameter.",
+    "refresher": "A forward pass computes predictions and loss. A reverse pass applies the chain rule to obtain parameter gradients; an optimizer then uses those gradients to update the weights.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 324
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Backpropagation",
+        "url": "https://www.deeplearningbook.org/contents/mlp.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-nonlinear-activations-make-depth-expressive",
+    "concept": "Nonlinear activations make depth expressive",
+    "quote": "We need activation functions because otherwise if you chain several linear transformation you get a linear transformation.",
+    "refresher": "Stacking linear layers alone collapses to one linear transformation. Nonlinear activations let successive layers represent increasingly complex functions; depth without nonlinearity does not create that expressive power.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 333
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Hidden units",
+        "url": "https://www.deeplearningbook.org/contents/mlp.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-dropout-discourages-dependence-on-particular-neurons",
+    "concept": "Dropout discourages dependence on particular neurons",
+    "quote": "Dropout: at every training step, every neuron (including input, but ont outputs) has a probability p of being temporarily \"dropped out\", meaning entirely ignored during this training step.",
+    "refresher": "Randomly omit activations during training so the network cannot rely on one fixed set of collaborators. Use the appropriate training and inference behavior; dropout is a regularizer, not a guaranteed accuracy improvement.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 432
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Dropout",
+        "url": "https://www.deeplearningbook.org/contents/regularization.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-data-augmentation-encodes-valid-invariances",
+    "concept": "Data augmentation encodes valid invariances",
+    "quote": "Data augmentation artificially increases the size of the training set by generating many realistic variants of each training instance.",
+    "refresher": "Transform training examples in ways that preserve their labels. A useful augmentation reflects real variation the model should tolerate; an invalid transformation teaches the wrong relationship.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 506
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Dataset augmentation",
+        "url": "https://www.deeplearningbook.org/contents/regularization.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-residual-connections-let-layers-learn-corrections",
+    "concept": "Residual connections let layers learn corrections",
+    "quote": "Residual Networks: use skip connections (also called shortcut connections): the signal feeding into a layer is also added to the output of a layer located a bit higher in the stack (residual learning).",
+    "refresher": "A skip connection carries the input forward while a learned branch adds a residual. This makes identity mappings easy to represent and can make very deep networks easier to optimize.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 507
+    },
+    "links": [
+      {
+        "title": "He and colleagues · Deep residual learning",
+        "url": "https://arxiv.org/abs/1512.03385"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-attention-heads-learn-different-relationships",
+    "concept": "Attention heads learn different relationships",
+    "quote": "A Multi-Head Attention layer architecture is just a bunch of Scaled Dot-Product Attention layers, each preceded by a linear transformation of the values, keys and queries.",
+    "refresher": "Queries compare with keys to weight values. Multiple heads perform this operation in different learned projections, letting a token combine several kinds of context. Positional information is needed to represent order.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 571
+    },
+    "links": [
+      {
+        "title": "Vaswani and colleagues · Attention Is All You Need",
+        "url": "https://arxiv.org/abs/1706.03762"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-gans-learn-through-a-generator-discriminator-contest",
+    "concept": "GANs learn through a generator-discriminator contest",
+    "quote": "GANs are composed by two neural networks: a generator that tries to generate data that looks familiar to the training data, and a discriminator that tries to tell real data from fake data.",
+    "refresher": "The discriminator learns to distinguish data from generated samples; the generator learns to fool it. Better-looking samples do not ensure diverse coverage, and the competing optimization can be unstable.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 582
+    },
+    "links": [
+      {
+        "title": "Goodfellow and colleagues · Generative Adversarial Networks",
+        "url": "https://arxiv.org/abs/1406.2661"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-delayed-rewards-create-a-credit-assignment-problem",
+    "concept": "Delayed rewards create a credit assignment problem",
+    "quote": "This is called the credit assignment problem: when the agent gets a reward, it is hard for it to know which actions should get credited (or blamed) for it.",
+    "refresher": "Reinforcement learning lacks a correct action label at every step. It must connect actions to later returns, balancing immediate reward against consequences that emerge after many decisions.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 625
+    },
+    "links": [
+      {
+        "title": "OpenAI Spinning Up · Rewards, returns, and value functions",
+        "url": "https://spinningup.openai.com/en/latest/spinningup/rl_intro.html"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-diagnose-the-cause-before-fixing-the-symptom",
+    "concept": "Diagnose the cause before fixing the symptom",
+    "topic": "Decisions",
+    "refresher": "A recurring small failure may reveal a larger weakness in the process. Investigate what produces it before choosing a remedy, then check whether the intervention prevents recurrence.",
+    "quote": "Make sure you spend enough time with the small problems to make sure they're not symptoms of larger ones.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 67
+    },
+    "links": [
+      {
+        "title": "ASQ · Root cause analysis",
+        "url": "https://asq.org/quality-resources/root-cause-analysis"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-invite-evidence-that-could-change-your-mind",
+    "concept": "Invite evidence that could change your mind",
+    "topic": "Judgment",
+    "refresher": "Being open-minded is an active practice: ask where your reasoning could fail and make disagreement welcome. Change your view when the evidence warrants it, rather than treating correction as a loss.",
+    "quote": "To be radically open-minded, you need to be so open to the possibility that you could be wrong that you encourage others to tell you so.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 73
+    },
+    "links": [
+      {
+        "title": "John Stuart Mill · Why contrary opinions deserve a hearing",
+        "url": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-restate-the-other-view-before-disputing-it",
+    "concept": "Restate the other view before disputing it",
+    "topic": "Communication",
+    "refresher": "Check whether you can explain the other person’s reasoning in terms they recognize. Correcting your understanding first makes it easier to locate the real disagreement.",
+    "quote": "A good exercise to make sure that you are doing thoughtful disagreement well is to describe back to the person you are disagreeing with their own perspective.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 76
+    },
+    "links": [
+      {
+        "title": "Greater Good in Action · Active listening",
+        "url": "https://ggia.berkeley.edu/practice/active_listening"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-choose-goals-by-accepting-their-trade-offs",
+    "concept": "Choose goals by accepting their trade-offs",
+    "topic": "Priorities",
+    "refresher": "Pursuing one attractive path uses time and resources that cannot serve another. Name what you are giving up so a new opportunity does not quietly displace your actual priority.",
+    "quote": "I learned that if you work hard and creatively, you can have just about anything you want, but not everything you want. Maturity is the ability to reject good alternatives in order to pursue even better ones.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 20
+    },
+    "links": [
+      {
+        "title": "Federal Reserve Education · Opportunity cost",
+        "url": "https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-judge-a-decision-using-information-available-then",
+    "concept": "Judge a decision using information available then",
+    "topic": "Judgment",
+    "refresher": "A bad result does not automatically mean the original reasoning was poor. Reconstruct the options, probabilities and evidence available at the time before deciding what the process should change.",
+    "quote": "Evaluate the merits of a past decision based not on what you know now but only on what you could have reasonably known at the time the decision was made (said by me: be aware of hindsight fallacy).",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 128
+    },
+    "links": [
+      {
+        "title": "Baron and Hershey · Outcome bias (research paper, PDF)",
+        "url": "https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "principles",
+    "book": "Principles",
+    "author": "Ray Dalio",
+    "genre": "nonfiction",
+    "id": "principles-make-expectations-explicit-before-judging-performance",
+    "concept": "Make expectations explicit before judging performance",
+    "topic": "Accountability",
+    "refresher": "Agree on the outcome, responsibilities and standard of success before evaluating delivery. An unstated expectation is a communication gap, not evidence that someone knowingly failed their role.",
+    "quote": "If you didn't make the expectation clear, you can't hold people accountable for it not being fulfilled.",
+    "source": {
+      "file": "Principles notes.html",
+      "paragraph": 119
+    },
+    "links": [
+      {
+        "title": "Atlassian · Clarifying roles and responsibilities",
+        "url": "https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities"
+      }
+    ]
+  },
+  {
+    "bookId": "the-madness-of-crowds",
+    "book": "The Madness of Crowds",
+    "author": "Douglas Murray",
+    "genre": "nonfiction",
+    "id": "the-madness-of-crowds-a-message-can-lose-its-original-audience",
+    "concept": "A message can lose its original audience",
+    "topic": "Communication",
+    "refresher": "A post intended for one group can reach people who lack its shared history or assumptions. Recover the surrounding conversation before interpreting a fragment as a complete account of someone’s position.",
+    "quote": "‘Context collapse’: a conversation meant for an in-group becomes known to an out-group with no knowledge of the original context of the discussion.",
+    "source": {
+      "file": "The madness of crowds notes.html",
+      "paragraph": 87
+    },
+    "links": [
+      {
+        "title": "Marwick and boyd · Context collapse (research paper, PDF)",
+        "url": "https://www.dhi.ac.uk/san/waysofbeing/data/data-crone-marwick-2011.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "the-madness-of-crowds",
+    "book": "The Madness of Crowds",
+    "author": "Douglas Murray",
+    "genre": "nonfiction",
+    "id": "the-madness-of-crowds-attention-can-reward-outrage",
+    "concept": "Attention can reward outrage",
+    "topic": "Social psychology",
+    "refresher": "Murray highlights an incentive in online debate: strong outrage attracts attention. Research on social feedback provides a related mechanism; distinguish what becomes visible from what is representative or well supported.",
+    "quote": "This is an important cog in the crowd-maddening mechanism: the person who professes themselves most aggrieved gets the most attention. Anyone who is unbothered is ignored. In an age of shouting for attention on social media the mechanism rewards outrage over sanguinity.",
+    "source": {
+      "file": "The madness of crowds notes.html",
+      "paragraph": 74
+    },
+    "links": [
+      {
+        "title": "Brady and colleagues · Social learning and online outrage",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/"
+      }
+    ]
+  },
+  {
+    "bookId": "the-madness-of-crowds",
+    "book": "The Madness of Crowds",
+    "author": "Douglas Murray",
+    "genre": "nonfiction",
+    "id": "the-madness-of-crowds-hearing-disagreement-can-clarify-a-belief",
+    "concept": "Hearing disagreement can clarify a belief",
+    "topic": "Critical thinking",
+    "refresher": "Mill’s argument values objections that expose errors, reveal partial truths, or keep sound beliefs from becoming unexamined slogans.",
+    "quote": "Four reasons for why free speech was a necessity for a free society: the first and second being that a contrary opinion may be true, or true in part, and therefore may require to be heard in order to correct your own erroneous views; the third and fourth being that even if the contrary opinion is in error, the airing of it may help remind people of a truth and prevent its slippage into an ignorant dogma.",
+    "source": {
+      "file": "The madness of crowds notes.html",
+      "paragraph": 7
+    },
+    "links": [
+      {
+        "title": "John Stuart Mill · On Liberty, freedom of discussion",
+        "url": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm"
+      }
+    ]
+  },
+  {
+    "bookId": "2001-a-space-odyssey",
+    "book": "2001: A Space Odyssey",
+    "author": "Arthur C. Clarke",
+    "genre": "fiction",
+    "id": "2001-a-space-odyssey-a-claim-of-infallibility-is-not-a-reliability-test",
+    "concept": "A claim of infallibility is not a reliability test",
+    "topic": "Artificial intelligence",
+    "refresher": "HAL’s assurance is part of the novel’s tension between machine authority and human judgment. Treat a system’s confidence as something to evaluate against evidence, monitoring and independent checks.",
+    "quote": "“I don’t want to insist on it, Dave, but I am incapable of making an error.\"",
+    "source": {
+      "file": "2001 a space odyssey notes.html",
+      "paragraph": 14
+    },
+    "links": [
+      {
+        "title": "NIST · Evaluating and managing AI risks",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+      }
+    ]
+  },
+  {
+    "bookId": "one-hundred-years-of-solitude",
+    "book": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": "fiction",
+    "id": "one-hundred-years-of-solitude-repeated-patterns-make-time-feel-circular",
+    "concept": "Repeated patterns make time feel circular",
+    "topic": "Literature",
+    "refresher": "The novel returns to names, desires and conflicts across generations. Its circular sense of time invites attention to what a family repeats, even while individual lives move toward irreversible endings.",
+    "quote": "“What di you expect? Time passes”. She shuddered with the evidence that time was not passing, as she had just admitted, but that it was turning in a circle.",
+    "source": {
+      "file": "One hundred years of solitude notes.html",
+      "paragraph": 15
+    },
+    "links": [
+      {
+        "title": "SEMO Faulkner Studies · Historical and mythical time in the novel",
+        "url": "https://semo.edu/faulkner-studies/teaching-faulkner/teaching-hundred-years"
+      }
+    ]
+  },
+  {
+    "bookId": "the-great-gatsby",
+    "book": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "fiction",
+    "id": "the-great-gatsby-privilege-can-insulate-people-from-consequences",
+    "concept": "Privilege can insulate people from consequences",
+    "topic": "Literature",
+    "refresher": "Nick’s judgment of Tom and Daisy links carelessness to the ability to retreat from damage. The passage asks who bears the consequences when those with protection leave others to repair the harm.",
+    "quote": "They were careless people, Tom and Daisy - they smashed up things and creatures and then retreated back into their memory or their vast carelessness, or whatever it was that kept them together, and let other people clean up the mess they had made...",
+    "source": {
+      "file": "The great Gatsby notes.html",
+      "paragraph": 10
+    },
+    "links": [
+      {
+        "title": "National Endowment for the Arts · Reading The Great Gatsby",
+        "url": "https://www.arts.gov/initiatives/nea-big-read/great-gatsby"
+      }
+    ]
+  },
+  {
+    "bookId": "the-alchemist",
+    "book": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "fiction",
+    "id": "the-alchemist-action-gives-a-dream-practical-feedback",
+    "concept": "Action gives a dream practical feedback",
+    "topic": "Learning",
+    "refresher": "In the story, the journey teaches what wishing alone cannot. Treat a manageable action as a way to discover obstacles and revise your approach, rather than waiting for complete certainty.",
+    "quote": "\"There is only one way to learn,\" the alchemist answered. \"It's through action\".",
+    "source": {
+      "file": "The alchemist notes.html",
+      "paragraph": 19
+    },
+    "links": [
+      {
+        "title": "ASQ · Learning through small tests and reflection",
+        "url": "https://asq.org/quality-resources/pdca-cycle"
+      }
+    ]
+  },
+  {
+    "bookId": "the-alchemist",
+    "book": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "fiction",
+    "id": "the-alchemist-a-fallback-can-make-exploration-possible",
+    "concept": "A fallback can make exploration possible",
+    "topic": "Opportunity",
+    "refresher": "Santiago recognizes skills he can return to if the journey fails. A credible fallback can make an uncertain choice more manageable without guaranteeing that taking the risk will succeed.",
+    "quote": "He suddenly felt tremendously happy. He could always go back to being a shepherd. He could always become a crystal salesman again.",
+    "source": {
+      "file": "The alchemist notes.html",
+      "paragraph": 10
+    },
+    "links": [
+      {
+        "title": "Harvard Program on Negotiation · Evaluating your alternative",
+        "url": "https://www.pon.harvard.edu/daily/batna/translate-your-batna-to-the-current-deal/"
+      }
+    ]
+  },
+  {
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "id": "being-mortal-comfort-focused-care-is-still-active-care",
+    "concept": "Comfort-focused care is still active care",
+    "topic": "Health",
+    "refresher": "Hospice changes the priority toward comfort and quality of life; it is not abandonment. Palliative care can also accompany disease-directed treatment, so discuss which services fit the person’s needs and goals.",
+    "quote": "The difference between standard medical care and hospice is not the difference between treating and doing nothing. The difference is in priorities. In ordinal medicine, the goal is to extend life. Hospice help people with a fatal illness have the fullest possible lives right now.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 41
+    },
+    "links": [
+      {
+        "title": "WHO · Palliative care",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/palliative-care"
+      }
+    ]
+  },
+  {
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "id": "being-mortal-discuss-care-preferences-before-a-crisis",
+    "concept": "Discuss care preferences before a crisis",
+    "topic": "Health",
+    "refresher": "Talk about what matters, which trade-offs feel acceptable, and who should speak for you if you cannot. Revisit the conversation as circumstances change, rather than leaving loved ones to guess during a crisis.",
+    "quote": "People who had substantive discussion with their doctor about their end-of-life preferences are far more likely to die at peace and in control of their situation and to spare their family anguish.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 44
+    },
+    "links": [
+      {
+        "title": "The Conversation Project · Guides for discussing care wishes",
+        "url": "https://theconversationproject.org/get-started"
+      }
+    ]
+  },
+  {
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "id": "being-mortal-medical-decisions-need-values-as-well-as-facts",
+    "concept": "Medical decisions need values as well as facts",
+    "topic": "Health",
+    "refresher": "A clinician can explain options and help a person weigh them against their own priorities. Shared decisions combine clinical evidence with what the person is willing to endure or give up.",
+    "quote": "Interpretative (what people desire): give information, control but also guidance. Help patients determine what they want.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 56
+    },
+    "links": [
+      {
+        "title": "AHRQ · The SHARE approach to shared decision-making",
+        "url": "https://www.ahrq.gov/sdm/share-approach/index.html"
+      }
+    ]
+  },
+  {
+    "bookId": "being-mortal",
+    "book": "Being Mortal",
+    "author": "Atul Gawande",
+    "genre": "nonfiction",
+    "id": "being-mortal-care-must-address-more-than-physical-safety",
+    "concept": "Care must address more than physical safety",
+    "topic": "Health",
+    "refresher": "A residence can meet physical needs while leaving daily life empty. Look for opportunities for connection, meaningful activity, and choices residents can still make for themselves.",
+    "quote": "The Three Plagues of nursing home existence: boredom, loneliness, and helplessness.",
+    "source": {
+      "file": "Being mortal notes.html",
+      "paragraph": 30
+    },
+    "links": [
+      {
+        "title": "The Eden Alternative · Addressing loneliness, helplessness and boredom",
+        "url": "https://www.edenalt.org/"
+      }
+    ]
+  },
+  {
+    "bookId": "eating-animals",
+    "book": "Eating Animals",
+    "author": "Jonathan Safran Foer",
+    "genre": "nonfiction",
+    "id": "eating-animals-food-purchases-support-production-choices",
+    "concept": "Food purchases support production choices",
+    "topic": "Ethics",
+    "refresher": "Foer frames a purchase as participation in a food system. Examine how food was produced and what demand the purchase supports, rather than treating the plate as disconnected from farms and supply chains.",
+    "quote": "Every time you make a decision about food, Paul pleaded, quoting Berry, \"you are farming by proxy\".",
+    "source": {
+      "file": "Eating animals notes.html",
+      "paragraph": 34
+    },
+    "links": [
+      {
+        "title": "Poore and Nemecek · Food production impacts (research paper)",
+        "url": "https://ora.ox.ac.uk/objects/uuid%3Ab0b53649-5e93-4415-bf07-6b0b1227172f"
+      }
+    ]
+  },
+  {
+    "bookId": "eating-animals",
+    "book": "Eating Animals",
+    "author": "Jonathan Safran Foer",
+    "genre": "nonfiction",
+    "id": "eating-animals-fishing-methods-have-effects-beyond-the-target-catch",
+    "concept": "Fishing methods have effects beyond the target catch",
+    "topic": "Nature",
+    "refresher": "A catch can include animals the fishery did not intend to keep. Bycatch depends on the gear, place and practice; evaluating seafood involves more than the species listed on the menu.",
+    "quote": "Trawling: the trawl is pulled along the ocean bottom at 4.5 to 6.5 km/h for several hours, sweeping shrimps (and everything else) into the far end of a funnel-shaped net.",
+    "source": {
+      "file": "Eating animals notes.html",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "NOAA Fisheries · Understanding bycatch",
+        "url": "https://www.fisheries.noaa.gov/insight/understanding-bycatch"
+      }
+    ]
+  },
+  {
+    "bookId": "the-existential-importance-of-the-penis",
+    "book": "The Existential Importance of the Penis",
+    "author": "Daniel N. Watter",
+    "genre": "nonfiction",
+    "id": "the-existential-importance-of-the-penis-insight-needs-a-corresponding-action",
+    "concept": "Insight needs a corresponding action",
+    "topic": "Self-knowledge",
+    "refresher": "Watter invokes Yalom to distinguish understanding a pattern from changing it. Identify a small action consistent with the insight, then observe what happens rather than treating explanation as the endpoint.",
+    "quote": "I am often reminded of one of Yalom's (1980, 2002a) most important axioms: \"Insight without action is merely interesting\".",
+    "source": {
+      "file": "Watter D. - The Existential Importance of the Penis.docx",
+      "paragraph": 50
+    },
+    "links": [
+      {
+        "title": "WHO · Acting on values in daily life",
+        "url": "https://www.who.int/publications/i/item/9789240003927"
+      }
+    ]
+  },
+  {
+    "bookId": "the-existential-importance-of-the-penis",
+    "book": "The Existential Importance of the Penis",
+    "author": "Daniel N. Watter",
+    "genre": "nonfiction",
+    "id": "the-existential-importance-of-the-penis-understanding-a-cause-does-not-remove-responsibility",
+    "concept": "Understanding a cause does not remove responsibility",
+    "topic": "Responsibility",
+    "refresher": "The book distinguishes explaining harmful behavior from excusing it. Exploring what contributed to an action can support change while leaving accountability for its effects intact.",
+    "quote": "What follows in this chapter is an attempt to explain and better understand the egregious sexual behavior of men. It is NOT an attempt to postulate an excuse for such behavior. Those who behave badly must be willing to accept the consequences of their actions.",
+    "source": {
+      "file": "Watter D. - The Existential Importance of the Penis.docx",
+      "paragraph": 57
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · Self-compassion and responsibility",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
+  },
+  {
+    "bookId": "existential-kink",
+    "book": "Existential Kink",
+    "author": "Carolyn Elliott",
+    "genre": "nonfiction",
+    "id": "existential-kink-explore-a-pattern-without-treating-it-as-destiny",
+    "concept": "Explore a pattern without treating it as destiny",
+    "topic": "Self-knowledge",
+    "refresher": "Elliott’s practice asks whether an unwanted pattern also carries a hidden payoff. Treat that as a question for reflection, not proof that you caused, wanted, or deserved harmful circumstances. Understanding a response does not require endorsing it.",
+    "quote": "The idea that on some level we could want or enjoy \"awful\" things in our lives is scary and troubling to most people.",
+    "source": {
+      "file": "Elliot C. - Existential Kink.docx",
+      "paragraph": 3
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · Approaching difficulty without self-blame",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
   }
 ]

@@ -25,5 +25,98 @@
     "deferred": [
       "Advanced stage descriptions and metaphysical mind models are not treated as established neuroscience."
     ]
+  },
+  {
+    "file": "Principles notes.html",
+    "existingCount": 3,
+    "addedCount": 6,
+    "assessment": "Added root-cause diagnosis, radical open-mindedness, thoughtful disagreement, goal trade-offs, decision quality and explicit expectations.",
+    "deferred": [
+      "Believability weighting is a useful author framework but depends on how relevant expertise is established; avoid presenting rank as truth."
+    ]
+  },
+  {
+    "file": "The madness of crowds notes.html",
+    "existingCount": 1,
+    "addedCount": 3,
+    "assessment": "Added context collapse, outrage incentives and the argument for hearing contrary opinions. These capture central mechanisms beyond the existing dignity reminder.",
+    "deferred": [
+      "Demographic generalizations and dated clinical assertions are not suitable as unqualified knowledge pills; the book’s polemics remain attributed viewpoints."
+    ]
+  },
+  {
+    "file": "2001 a space odyssey notes.html",
+    "existingCount": 3,
+    "addedCount": 1,
+    "assessment": "Added machine fallibility and trust, central to HAL’s role, alongside existing behavioral intelligence and diagnosis concepts.",
+    "deferred": [
+      "Speculative astrophysics and future technology remain fictional rather than scientific claims."
+    ]
+  },
+  {
+    "file": "One hundred years of solitude notes.html",
+    "existingCount": 1,
+    "addedCount": 1,
+    "assessment": "Added cyclical time and generational repetition, a central formal theme missing from the existing memory pill. Other fragments are plot-specific or lack standalone context.",
+    "deferred": []
+  },
+  {
+    "file": "The great Gatsby notes.html",
+    "existingCount": 2,
+    "addedCount": 1,
+    "assessment": "Added the central moral critique of insulated wealth and displaced responsibility. Existing pills cover aspiration’s symbols and social anonymity.",
+    "deferred": []
+  },
+  {
+    "file": "Journey to the centre of the earth notes.html",
+    "existingCount": 2,
+    "addedCount": 0,
+    "assessment": "No addition: both standalone interpretive ideas are represented. Remaining notes are brief scene descriptions, a claim about Icelandic horses, or obsolete fictional geology; adding these would require reconstructing unsupported lessons.",
+    "deferred": []
+  },
+  {
+    "file": "The alchemist notes.html",
+    "existingCount": 2,
+    "addedCount": 2,
+    "assessment": "Added learning through action and the role of a credible fallback, alongside existing agency and attention themes.",
+    "deferred": [
+      "Cosmic guarantees that desire causes success are treated as the novel’s spiritual language, not factual advice."
+    ]
+  },
+  {
+    "file": "Being mortal notes.html",
+    "existingCount": 4,
+    "addedCount": 4,
+    "assessment": "Added comfort-focused care, advance conversations, shared decision-making and the three plagues of institutional life. Existing autonomy and well-being concepts retained.",
+    "deferred": [
+      "Avoided interpreting the reported survival study as a promise that stopping treatment extends life."
+    ]
+  },
+  {
+    "file": "Eating animals notes.html",
+    "existingCount": 1,
+    "addedCount": 2,
+    "assessment": "Added production-side consequences of purchases and bycatch as a concrete hidden impact. The existing indifference pill covers the broad ethical challenge.",
+    "deferred": [
+      "Excluded dated numerical estimates, livestock-versus-transport comparisons and blanket medical claims."
+    ]
+  },
+  {
+    "file": "Watter D. - The Existential Importance of the Penis.docx",
+    "existingCount": 2,
+    "addedCount": 2,
+    "assessment": "Added insight-to-action and explanation-versus-excuse distinctions. Existing pills cover individual meaning and existential isolation.",
+    "deferred": [
+      "Clinical claims that sexual dysfunction is predominantly trauma-driven are not generalized; physical and psychological causes need individual assessment."
+    ]
+  },
+  {
+    "file": "Elliot C. - Existential Kink.docx",
+    "existingCount": 1,
+    "addedCount": 1,
+    "assessment": "Added the book’s central inquiry into a possible hidden payoff, explicitly framed as a question rather than proof that suffering is chosen. The existing nonjudgmental-feeling pill remains.",
+    "deferred": [
+      "Claims that all circumstances reveal unconscious wishes or that imagination controls external events are unsupported; private personal notes are not curated."
+    ]
   }
 ]

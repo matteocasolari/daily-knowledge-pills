@@ -322,7 +322,7 @@
     "topic": "Machine learning",
     "id": "the-hundred-page-machine-learning-book-regularization-limits-fitting-noise",
     "concept": "Regularization limits fitting noise",
-    "quote": "Regularization force the algorithm to build a less complex model (slight increase of bias, big decrease of variance). Examples:",
+    "quote": "Regularization force the algorithm to build a less complex model (slight increase of bias, big decrease of variance).",
     "refresher": "Regularization trades some training fit for a model that may generalize better. Tune its strength against held-out performance: too much can erase real signal, while too little can preserve accidental patterns.",
     "source": {
       "file": "The hundred-page machine learning book notes.html",

@@ -292,5 +292,152 @@
         "url": "https://gwern.net/doc/sociology/technology/1983-bainbridge.pdf"
       }
     ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-notice-a-part-without-becoming-it",
+    "concept": "Notice a part without becoming it",
+    "quote": "The simple act of noticing parts and representing them on a page often creates enough separation from them (enough unblending) that you can have a different perspective on them.",
+    "refresher": "Schwartz calls this unblending: describe an anxious or critical response as one aspect of your experience, rather than your entire identity. Writing it down can offer perspective. This is an IFS practice, not proof of literal inner beings.",
+    "topic": "Self-knowledge",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 22
+    },
+    "links": [
+      {
+        "title": "Steven Hayes · Acceptance and cognitive defusion",
+        "url": "https://www.apa.org/pubs/videos/4310860"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-listening-does-not-require-agreement",
+    "concept": "Listening does not require agreement",
+    "quote": "As you listen to it, you don't have to agree or disagree - just let the part know that you respect it, you care about it, you're there with it, and you hear it. See how it reacts.",
+    "refresher": "Within IFS, acknowledge an inner response with care without accepting its conclusions or acting on its demands. Understanding a protective impulse can coexist with boundaries on harmful behavior.",
+    "topic": "Compassion",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · What self-compassion means",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-a-protective-role-is-not-an-identity",
+    "concept": "A protective role is not an identity",
+    "quote": "The categories I describe in this map don't capture the essence of your parts themselves Instead, they are just the roles your parts were thrust into.",
+    "refresher": "IFS distinguishes vulnerable exiles, preventive managers, and reactive firefighters. These names describe roles within the model, not fixed diagnoses or a person’s essence. Ask what a response is trying to accomplish before treating its current strategy as permanent.",
+    "topic": "Psychology",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 56
+    },
+    "links": [
+      {
+        "title": "Steven Hayes · Acceptance and cognitive defusion",
+        "url": "https://www.apa.org/pubs/videos/4310860"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-trust-develops-without-forcing-progress",
+    "concept": "Trust develops without forcing progress",
+    "quote": "So if they're not stepping back, for example, it doesn't mean you're failing. It simply means that it wil take more time to build up their trust in you and to help them get to know you better.",
+    "refresher": "Schwartz treats resistance as a reason to slow down and build trust, rather than evidence of failure. Approach difficult feelings gently; curiosity and self-compassion need not become another performance demand.",
+    "topic": "Compassion",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 40
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · What self-compassion means",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
+  },
+  {
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "id": "deep-work-give-deep-work-a-repeatable-starting-ritual",
+    "concept": "Give deep work a repeatable starting ritual",
+    "quote": "Questions your deep work ritual need to answer: Where you'll work and for how long? How you'll work once you start to work? How you'll support your work?",
+    "refresher": "Decide the place, duration, task, and support before a session starts. A specific cue and working rule make beginning easier than renegotiating the arrangement whenever you feel ready.",
+    "topic": "Focus",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 31
+    },
+    "links": [
+      {
+        "title": "Gollwitzer and Sheeran · Implementation intentions",
+        "url": "https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "id": "deep-work-track-the-behavior-that-produces-the-result",
+    "concept": "Track the behavior that produces the result",
+    "quote": "Act on Lead Measures. Lag measures describe the thing you're ultimately trying to improve, lead measures measure the new behaviors that will drive success on the lag measures.",
+    "refresher": "Pages published are an outcome; protected writing sessions are an action you can influence today. Choose a plausible lead measure, then check whether improving it actually moves the result.",
+    "topic": "Metrics",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 36
+    },
+    "links": [
+      {
+        "title": "FranklinCovey · Lead and lag measures",
+        "url": "https://www.franklincovey.com/courses/the-4-disciplines/"
+      }
+    ]
+  },
+  {
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "id": "deep-work-schedule-access-to-distractions",
+    "concept": "Schedule access to distractions",
+    "quote": "Don't take breaks from distraction, take breaks from focus. When you're working set the next time you're allowed to use the Internet. Until you arrive at that time, no connectivity is allowed.",
+    "refresher": "Choose a bounded period for focused work and decide when to check messages. Notice the urge to switch before acting on it; adjust the arrangement to the genuine communication needs of your role.",
+    "topic": "Attention",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 42
+    },
+    "links": [
+      {
+        "title": "Gloria Mark · Managing attention and self-interruption",
+        "url": "https://www.universityofcalifornia.edu/news/how-sharpen-your-attention-and-meet-your-goals-2024"
+      }
+    ]
   }
 ]

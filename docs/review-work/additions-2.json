@@ -322,7 +322,7 @@
     "topic": "Machine learning",
     "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-random-forests-diversify-trees-before-averaging",
     "concept": "Random forests diversify trees before averaging",
-    "quote": "Instead of searching for the best feature when splitting a node, it searches for the best feature among a random subset of features.",
+    "quote": "Random Forest is an ensemble of Decision Trees, generally trained via the bagging method, typically with max_samples set tot the size of the training set.",
     "refresher": "Bootstrap samples vary the training cases, and feature subsampling varies the available splits. Combining these less-correlated trees can reduce the instability of a single tree.",
     "source": {
       "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
@@ -469,7 +469,7 @@
     "topic": "Machine learning",
     "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-attention-heads-learn-different-relationships",
     "concept": "Attention heads learn different relationships",
-    "quote": "It allows the model to apply many different projections of the word representation into different subspaces, each focusing on a subset of the word's characteristics.",
+    "quote": "A Multi-Head Attention layer architecture is just a bunch of Scaled Dot-Product Attention layers, each preceded by a linear transformation of the values, keys and queries.",
     "refresher": "Queries compare with keys to weight values. Multiple heads perform this operation in different learned projections, letting a token combine several kinds of context. Positional information is needed to represent order.",
     "source": {
       "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
