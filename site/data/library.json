@@ -1,10 +1,10 @@
 {
   "version": 1,
   "stats": {
-    "sourceFiles": 98,
-    "sourceParagraphs": 15087,
-    "books": 98,
-    "pills": 400,
+    "sourceFiles": 99,
+    "sourceParagraphs": 15688,
+    "books": 99,
+    "pills": 413,
     "maxWordsPerPill": 110
   },
   "pills": [
@@ -8769,6 +8769,279 @@
         {
           "title": "American Statistical Association · Ethical guidelines for statistical practice",
           "url": "https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice"
+        }
+      ]
+    },
+    {
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "id": "le-crepe-sono-fatte-per-loro-improve-a-routine-before-adding-another",
+      "topic": "Habits",
+      "concept": "Improve a routine before adding another",
+      "quote": "Kaizen significa \"miglioramento continuo\" in giapponese. Ma c'è un segreto che nessuno racconta: non significa aggiungere cose nuove alla vita. Significa fare gesti che già si fanno, ma dell'1% meglio.",
+      "refresher": "Kaizen here means making a familiar action a little better. Choose one recurring task, make a small adjustment, and notice whether it helps before adding more obligations.",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 133
+      },
+      "links": [
+        {
+          "title": "Lean Enterprise Institute · Kaizen and continuous improvement",
+          "url": "https://www.lean.org/lexicon-terms/kaizen/"
+        }
+      ]
+    },
+    {
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "id": "le-crepe-sono-fatte-per-loro-pause-before-treating-someone-as-an-obstacle",
+      "topic": "Compassion",
+      "concept": "Pause before treating someone as an obstacle",
+      "quote": "Prima di sbuffare perché qualcuno è lento, prima di parlare male di qualcuno appena esce, prima di trattare aualcunc come funzione, fermati e chiediti: come vorrei essere trattata io se fossi al suo posto?",
+      "refresher": "A delay can make another person seem like an obstacle. Pause to consider their position, then choose a response that preserves their dignity while addressing the problem.",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 144
+      },
+      "links": [
+        {
+          "title": "WHO · Practising kindness and acting on values",
+          "url": "https://www.who.int/publications/i/item/9789240003927"
+        }
+      ]
+    },
+    {
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "id": "le-crepe-sono-fatte-per-loro-put-effort-where-you-can-act",
+      "topic": "Acceptance",
+      "concept": "Put effort where you can act",
+      "quote": "Accetto quello che non posso fisicamente cambiare. E uso mia energia mentale per gestire cosa posso cambiare.",
+      "refresher": "Acceptance distinguishes a circumstance you cannot change from the next action you can take. Acknowledging a disruption can free attention for practical choices without requiring you to like what happened.",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 150
+      },
+      "links": [
+        {
+          "title": "WHO · Practical skills for coping with stress",
+          "url": "https://www.who.int/publications/i/item/9789240003927"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-let-another-reader-test-readability",
+      "topic": "Software",
+      "concept": "Let another reader test readability",
+      "quote": "The test of readable code is simple: can others understand it?",
+      "refresher": "Familiarity can hide confusing code from its author. Ask a reviewer to follow the logic; unclear names, unnecessary complexity, and missing context become easier to see through another reader.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 580
+      },
+      "links": [
+        {
+          "title": "Google Engineering Practices · Reviewing complexity, names, and comments",
+          "url": "https://google.github.io/eng-practices/review/reviewer/looking-for.html"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-practise-refactoring-in-small-steps",
+      "topic": "Software",
+      "concept": "Practise refactoring in small steps",
+      "quote": "Practice refactoring as often as possible. Getting good at refactoring is similar to learning to code. You can read all you like about a topic, but without doing it you’ll never truly master it.",
+      "refresher": "Build refactoring skill through small changes that preserve behavior. Keep tests close and inspect the result after each step, so improving structure becomes a regular part of development.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 631
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Refactoring as behavior-preserving change",
+          "url": "https://refactoring.com/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-give-each-pull-request-one-purpose",
+      "topic": "Engineering",
+      "concept": "Give each pull request one purpose",
+      "quote": "Break your changes into one small PR each, with each PR changing one thing only.",
+      "refresher": "A focused change gives reviewers a clear question to answer. Separate unrelated work so the intent, tests, and possible rollback remain understandable without reconstructing several changes at once.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 700
+      },
+      "links": [
+        {
+          "title": "Google Engineering Practices · Why small changes are easier to review",
+          "url": "https://google.github.io/eng-practices/review/developer/small-cls.html"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-make-code-review-helpful-and-humane",
+      "topic": "Teamwork",
+      "concept": "Make code review helpful and humane",
+      "quote": "Better code reviews are also empathetic. They recognize that the person who wrote the code spent a lot of time and effort on the change. These code reviews applaud nice solutions and are generally positive in tone.",
+      "refresher": "Critique the change with specific reasons and recognize what works well. Respectful review can improve the code while making it easier for its author to learn and ask questions.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 791
+      },
+      "links": [
+        {
+          "title": "Google Engineering Practices · Writing courteous, useful review comments",
+          "url": "https://google.github.io/eng-practices/review/reviewer/comments.html"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-choose-equipment-for-the-person",
+      "topic": "Exercise",
+      "concept": "Choose equipment for the person",
+      "quote": "Proper equipment selection is essential for creating an optimal resistance training program. Variables such as a client's training status, personal preference, familiarity, balance, coordination, strength, and knowledge of proper exercise technique should be taken into consideration.",
+      "refresher": "Equipment choice depends on the person and the movement. Match the tool to their experience, coordination, and goals instead of assuming one type of equipment suits everyone.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 1464
+      },
+      "links": [
+        {
+          "title": "ACE · Free weights versus strength-training equipment (PDF)",
+          "url": "https://contentcdn.eacefitness.com/assets/education-resources/lifestyle/fitfacts/pdfs/fitfacts/itemid_2655.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-free-weights-add-movement-freedom",
+      "topic": "Exercise",
+      "concept": "Free weights add movement freedom",
+      "quote": "Free-weight equipment allow unrestricted movement in all planes of motion, rather than a largely fixed movement path",
+      "refresher": "Free weights allow a less constrained path than many machines. That freedom also asks the lifter to control and stabilize the movement; it is a trade-off to consider alongside the training goal.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 1424
+      },
+      "links": [
+        {
+          "title": "HPRC · Comparing strength-training options",
+          "url": "https://www.hprc-online.org/physical-fitness/training-performance/what-are-some-options-strength-training-workout"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-teach-the-setup-before-the-repetition",
+      "topic": "Exercise",
+      "concept": "Teach the setup before the repetition",
+      "quote": "Demonstration of a new exercise given to a client should begin with how to establish a starting position.",
+      "refresher": "Instruction starts before the weight moves. Establish the starting position and equipment adjustments first, then demonstrate the movement; a chest-press seat adjustment is one concrete example.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 1469
+      },
+      "links": [
+        {
+          "title": "NASM · Chest-press machine setup and technique",
+          "url": "https://www.nasm.org/resource-center/exercise-library/chest-press-machine"
+        }
+      ]
+    },
+    {
+      "bookId": "die-with-zero",
+      "book": "Die with Zero",
+      "author": "Bill Perkins",
+      "genre": "nonfiction",
+      "id": "die-with-zero-experiences-can-pay-a-memory-dividend",
+      "topic": "Memory",
+      "concept": "Experiences can pay a memory dividend",
+      "quote": "Unlike material possessions, which seem exciting at the beginning but then often depreciate quickly, experiences actually gain in value over time: They pay what I call a memory dividend.",
+      "refresher": "Perkins calls the later enjoyment of an experience a memory dividend. Recalling or sharing a meaningful event can extend its value beyond the moment it happened.",
+      "source": {
+        "file": "Perkins B. - Die with Zero.docx",
+        "paragraph": 13
+      },
+      "links": [
+        {
+          "title": "Cornell · How sharing experiences contributes to happiness",
+          "url": "https://news.cornell.edu/stories/2013/01/feel-happier-talk-about-experiences-not-things"
+        }
+      ]
+    },
+    {
+      "bookId": "die-with-zero",
+      "book": "Die with Zero",
+      "author": "Bill Perkins",
+      "genre": "nonfiction",
+      "id": "die-with-zero-count-the-time-behind-earned-money",
+      "topic": "Time",
+      "concept": "Count the time behind earned money",
+      "quote": "So any amount of money you've earned through your work represents the amount of life energy you spent earning that money.",
+      "refresher": "Perkins frames earned money as time and effort already spent. Consider that cost when deciding what to buy or how much extra work to take on; time itself can be part of the payoff.",
+      "source": {
+        "file": "Perkins B. - Die with Zero.docx",
+        "paragraph": 9
+      },
+      "links": [
+        {
+          "title": "Whillans and colleagues · Buying time promotes happiness (research paper)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5559044/"
+        }
+      ]
+    },
+    {
+      "bookId": "die-with-zero",
+      "book": "Die with Zero",
+      "author": "Bill Perkins",
+      "genre": "nonfiction",
+      "id": "die-with-zero-balance-future-security-with-present-enjoyment",
+      "topic": "Finance",
+      "concept": "Balance future security with present enjoyment",
+      "quote": "So, yes, the grasshopper would be better off to save a little and, yes, the ant would be better off to live a little!",
+      "refresher": "The ant and grasshopper illustrate competing priorities: preparing for later and living now. Perkins argues for deliberate balance. Enjoyment belongs in a plan alongside obligations, resilience to shocks, and future needs.",
+      "source": {
+        "file": "Perkins B. - Die with Zero.docx",
+        "paragraph": 24
+      },
+      "links": [
+        {
+          "title": "CFPB · Financial well-being includes security and freedom of choice",
+          "url": "https://www.consumerfinance.gov/archive/blog/4-elements-define-personal-financial-well-being/"
         }
       ]
     }

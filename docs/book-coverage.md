@@ -1,8 +1,8 @@
 # Book coverage audit
 
-The collection contains **400 pills from all 98 identified books**. The first expansion added 65 pills from previously unrepresented books; the next added 25 more, including three from Tools of Titans. A subsequent [review of those 90 additions](pill-review.md) revised 11 records, including replacing one overlapping lesson. The latest [source-by-source expansion evaluation](book-expansion-evaluation.md) added 175 pills from 77 books. The 225 records that preceded that evaluation remain unchanged.
+The collection contains **413 pills from all 99 identified books**. The first expansion added 65 pills from previously unrepresented books; the next added 25 more, including three from Tools of Titans. A subsequent [review of those 90 additions](pill-review.md) revised 11 records, including replacing one overlapping lesson. The earlier [source-by-source expansion evaluation](book-expansion-evaluation.md) added 175 pills from 77 books. The 225 records that preceded that evaluation remain unchanged.
 
-There are now **98 source files**, containing **15,087 imported paragraphs**. Every retained source file supplies at least one pill. Their hashes match the originals; the integrity manifest and generated data reflect the four files removed by the owner.
+There are now **99 book-note source files**, containing **15,688 imported paragraphs**. Every retained source file supplies at least one pill. The integrity manifest records the current supplied files, including three updated documents and the new Die with Zero notes. The separate daily-quote DOCX is excluded from these book totals.
 
 ## Removed files
 
@@ -19,8 +19,8 @@ The original collection had 102 files. These four were removed by the owner and 
 
 - At the user’s request, Tools of Titans now uses three original topic/page reminders as its note excerpts. These are reminders, not reconstructed book quotations. The refreshers are editorial explanations supported by the linked readings: Marc Andreessen’s interview and Jeff Bezos’s shareholder letter for disagree and commit; Josh Kaufman on complementary skills; Seneca’s Letter 18 and Ferriss’s discussion for voluntary simplicity. The original source file is unchanged.
 - New concepts were compared against the existing collection and one another. The additions use distinct lessons rather than alternate wording for the same lesson.
-- The latest evaluation uses a high cap of 12 pills per book without a per-book quota. Books received additions only when their unused notes supported a distinct, useful, standalone lesson. Ten books currently reach the 12-pill cap.
-- Original excerpts retain the imported spelling and wording. The two Italian excerpts remain in Italian, with English editorial refreshers.
+- The earlier full-library evaluation used a cap of 12 pills per book. The [November refresh](note-refresh-2026-11-01.md) preserves all existing pills and adds 13 distinct lessons; the expanded engineering notes justify extending that book to 16 pills. Nine other books remain at 12.
+- Original excerpts retain the imported spelling and wording. Italian excerpts remain in Italian, with English editorial refreshers.
 - The Dip has just one paragraph, but it supplies a complete stopping-rule note. The Art of War is split into short lines; its pill uses one intact instruction from a single paragraph without joining separate passages.
 - Spiritual teachings and literary interpretations are framed as such. Refreshers do not turn the books’ claims into medical advice or treat fictional science as established fact.
 - Further-reading resources are external to each book’s author and selected for the concept. Research papers and PDFs are labeled. Links were checked during curation; some publishers restrict automated full-text access.
@@ -50,6 +50,7 @@ The original collection had 102 files. These four were removed by the owner and 
 | Come una notte a Bali | Gianluca Gotto | 2 |
 | Deep Work | Cal Newport | 5 |
 | Delivering Happiness | Tony Hsieh | 3 |
+| Die with Zero | Bill Perkins | 3 |
 | Disrupt Yourself | Jay Samit | 2 |
 | Eating Animals | Jonathan Safran Foer | 1 |
 | Elon Musk | Ashlee Vance | 2 |
@@ -68,14 +69,14 @@ The original collection had 102 files. These four were removed by the owner and 
 | Influence | Robert B. Cialdini | 5 |
 | Journey to the Centre of the Earth | Jules Verne | 2 |
 | Kafka on the Shore | Haruki Murakami | 1 |
-| Le crepe sono fatte per l’oro | Elena Giappone | 2 |
+| Le crepe sono fatte per l’oro | Elena Giappone | 5 |
 | Lost and Founder | Rand Fishkin | 2 |
 | Machine Learning Engineering | Andriy Burkov | 12 |
 | Man’s Search for Meaning | Viktor E. Frankl | 4 |
 | Never Split the Difference | Chris Voss with Tahl Raz | 5 |
 | No Bad Parts | Richard C. Schwartz | 2 |
 | No Rules Rules | Reed Hastings and Erin Meyer | 7 |
-| NSCA’s Essentials of Personal Training | Brad J. Schoenfeld and Ronald L. Snarr | 3 |
+| NSCA’s Essentials of Personal Training | Brad J. Schoenfeld and Ronald L. Snarr | 6 |
 | One Hundred Years of Solitude | Gabriel García Márquez | 1 |
 | Outliers | Malcolm Gladwell | 2 |
 | Pattern Recognition and Machine Learning | Christopher M. Bishop | 12 |
@@ -115,7 +116,7 @@ The original collection had 102 files. These four were removed by the owner and 
 | The Personal MBA | Josh Kaufman | 12 |
 | The Power of Myth | Joseph Campbell with Bill Moyers | 2 |
 | The Power of Now | Eckhart Tolle | 2 |
-| The Software Engineer’s Guidebook | Gergely Orosz | 12 |
+| The Software Engineer’s Guidebook | Gergely Orosz | 16 |
 | The Subtle Art of Not Giving a F*ck | Mark Manson | 5 |
 | The Upstarts | Brad Stone | 2 |
 | Think Bayes | Allen B. Downey | 6 |

@@ -1,5 +1,7 @@
 # Book-by-book expansion evaluation
 
+This is the historical 400-pill evaluation. For the current 413-pill collection, see the [November note refresh](note-refresh-2026-11-01.md) and [coverage audit](book-coverage.md).
+
 All 98 retained books were reviewed against their imported notes and the 225 pills that existed before this evaluation. Candidate passages were checked for a distinct lesson, enough context to stand alone, exact source fidelity, and a useful external reading. There was no per-book quota. The editorial cap was 12 pills per book, but ten books now reach that cap.
 
 The evaluation added **175 pills from 77 books**, bringing the collection to **400 pills**. Fifty-four books received one addition, 12 received two, and 11 richer books received between seven and 11 additions. The 21 books without an addition were still reviewed; their reasons are recorded below. The original 225 records were not changed during this evaluation.

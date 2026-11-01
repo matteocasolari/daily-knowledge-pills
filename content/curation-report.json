@@ -1,8 +1,8 @@
 {
-  "sourceFiles": 98,
-  "sourceParagraphs": 15087,
-  "books": 98,
-  "pills": 400,
+  "sourceFiles": 99,
+  "sourceParagraphs": 15688,
+  "books": 99,
+  "pills": 413,
   "maxWordsPerPill": 110,
   "curatedSources": [
     "2001 a space odyssey notes.html",
@@ -66,6 +66,7 @@
     "Peace is every step notes.html",
     "Percival H. - Architecture Patterns with Python.docx",
     "Perfume notes.html",
+    "Perkins B. - Die with Zero.docx",
     "Piketty T. - Capital in the Twenty-First Century_.docx",
     "Principles notes.html",
     "Sapiens notes.html",

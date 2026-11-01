@@ -2,7 +2,7 @@
 
 My personal reading notebook: five concepts from books I’ve read, revisited each day. A completely static app for GitHub Pages.
 
-The collection includes **400 curated pills from 98 books**. The **98 retained note files** are preserved byte-for-byte in `sources/`; the importer extracted **15,087 paragraphs**. Every retained book and source file is represented. A full source-by-source evaluation added 175 distinct pills from 77 books while allowing richer books to receive more material; no book exceeds the editorial cap of 12 pills. **Tools of Titans** has three pills: its original topic/page reminders are preserved as note excerpts, with editorial explanations informed by linked online sources. The owner removed two alternate takeaway files and two work/meeting note files from the original 102-file collection. See the [book coverage audit](docs/book-coverage.md), the [expansion evaluation](docs/book-expansion-evaluation.md), and the [review of the earlier 90 additions](docs/pill-review.md).
+The collection includes **413 curated pills from 99 books**. The **99 book-note files** are retained in `sources/`; the importer extracted **15,688 paragraphs**. Every book and source file is represented. The [November note refresh](docs/note-refresh-2026-11-01.md) adds 13 pills from three expanded books and the newly supplied **Die with Zero**, preserving all 400 earlier pills. The Software Engineer’s Guidebook now has 16 pills to cover its expanded notes; the earlier full-library evaluation used a cap of 12. **Tools of Titans** retains three pills drawn from its original topic/page reminders. See the [book coverage audit](docs/book-coverage.md), the [earlier expansion evaluation](docs/book-expansion-evaluation.md), and the [review of the earlier 90 additions](docs/pill-review.md).
 
 Each pill has a named concept, a short editorial refresher, the original note excerpt, the book and author, and an optional further-reading link. Pills are capped at **110 words including attribution**: at most 330 words for the daily set. Links are outside that reading budget.
 
@@ -60,7 +60,7 @@ Every pill includes at least one further-reading resource by someone other than 
 sources/                     Original book-note HTML and DOCX exports
 sources/quotes/              Separate original DOCX source for daily quotes
 content/notes.json           All normalized paragraphs with source hashes
-content/source-manifest.json Original hashes for the 98 retained source files
+content/source-manifest.json Current hashes for the 99 retained book-note files
 content/import-report.json  Extraction counts and empty-file report
 content/pills.json           Editorially selected concepts and source references
 content/curation-report.json Curated sources and sources awaiting curation
