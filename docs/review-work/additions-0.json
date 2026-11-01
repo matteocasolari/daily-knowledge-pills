@@ -1,0 +1,464 @@
+[
+  {
+    "bookId": "thinking-fast-and-slow",
+    "book": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "id": "thinking-fast-and-slow-structure-assessments-before-forming-impressions",
+    "concept": "Structure assessments before forming impressions",
+    "quote": "Make a list of factual questions to assess the reliability of the trait and think how to score the answers.",
+    "refresher": "Choose job-relevant criteria and score comparable evidence for each candidate. Consistent questions and rating standards reduce the room for a memorable impression to dominate the hiring decision.",
+    "source": {
+      "file": "Thinking, fast and slow notes.html",
+      "paragraph": 15
+    },
+    "links": [
+      {
+        "title": "U.S. OPM · Structured interviews",
+        "url": "https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/structured-interviews/"
+      }
+    ]
+  },
+  {
+    "bookId": "thinking-fast-and-slow",
+    "book": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "nonfiction",
+    "topic": "Psychology",
+    "id": "thinking-fast-and-slow-expert-intuition-needs-a-learnable-environment",
+    "concept": "Expert intuition needs a learnable environment",
+    "quote": "Intuition in experts is nothing more than recognition.",
+    "refresher": "A confident hunch is more trustworthy when the setting contains stable patterns and repeated practice brings useful feedback. Experience in an unpredictable setting can build confidence without building reliable expertise.",
+    "source": {
+      "file": "Thinking, fast and slow notes.html",
+      "paragraph": 19
+    },
+    "links": [
+      {
+        "title": "Gary Klein · When to consult your intuition",
+        "url": "https://thereader.mitpress.mit.edu/when-to-consult-your-intuition/"
+      }
+    ]
+  },
+  {
+    "bookId": "delivering-happiness",
+    "book": "Delivering Happiness",
+    "author": "Tony Hsieh",
+    "genre": "nonfiction",
+    "topic": "Work",
+    "id": "delivering-happiness-validate-demand-with-a-manual-service",
+    "concept": "Validate demand with a manual service",
+    "quote": "I headed down to the local shoe store, took pictures of their stock, and put them on the Website. Every time someone bought something on the site, I’d buy it from the store and ship it to them. For a big believer in technology, I couldn’t have found a more primitive way to do it.",
+    "refresher": "The first version can test whether customers will actually buy before expensive infrastructure exists. Manual fulfillment is useful evidence gathering; it still needs honest promises and workable unit economics.",
+    "source": {
+      "file": "Delivering happiness notes.html",
+      "paragraph": 40
+    },
+    "links": [
+      {
+        "title": "Paul Graham · Do things that do not scale",
+        "url": "https://paulgraham.com/ds.html"
+      }
+    ]
+  },
+  {
+    "bookId": "delivering-happiness",
+    "book": "Delivering Happiness",
+    "author": "Tony Hsieh",
+    "genre": "nonfiction",
+    "topic": "Work",
+    "id": "delivering-happiness-separate-a-good-decision-from-a-lucky-result",
+    "concept": "Separate a good decision from a lucky result",
+    "quote": "One of the most interesting things about playing poker was learning the discipline of not confusing the right decision with the individual outcome of any single hand.",
+    "refresher": "Evaluate the information, alternatives and risks available when the choice was made. One lucky win can hide a poor process, while one unlucky loss need not invalidate a sound decision.",
+    "source": {
+      "file": "Delivering happiness notes.html",
+      "paragraph": 44
+    },
+    "links": [
+      {
+        "title": "Baron and Hershey · Outcome bias in decision evaluation",
+        "url": "https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "delivering-happiness",
+    "book": "Delivering Happiness",
+    "author": "Tony Hsieh",
+    "genre": "nonfiction",
+    "topic": "Work",
+    "id": "delivering-happiness-optimize-the-customer-relationship-beyond-one-sale",
+    "concept": "Optimize the customer relationship beyond one sale",
+    "quote": "[Call centric suggesting competitor’s website cause they are out of stock] We’re not trying to maximise each and every transaction. Instead, we’re trying to build a lifelong relationship with each customer, one phone call at a time.",
+    "refresher": "Helping a customer find a suitable alternative can sacrifice today’s transaction while earning future trust. Judge service by lasting usefulness and repeat relationships, not only immediate revenue or call speed.",
+    "source": {
+      "file": "Delivering happiness notes.html",
+      "paragraph": 95
+    },
+    "links": [
+      {
+        "title": "Jeff Bezos · Long-term customer focus in the 1997 shareholder letter",
+        "url": "https://www.aboutamazon.com/news/company-news/amazons-original-1997-letter-to-shareholders"
+      }
+    ]
+  },
+  {
+    "bookId": "delivering-happiness",
+    "book": "Delivering Happiness",
+    "author": "Tony Hsieh",
+    "genre": "nonfiction",
+    "topic": "Work",
+    "id": "delivering-happiness-design-work-around-progress-and-connection",
+    "concept": "Design work around progress and connection",
+    "quote": "Happiness is really just about four things: perceived control, perceived progress, connectedness (number and depth of your relationships), and vision/meaning (being part of something bigger than yourself).",
+    "refresher": "Hsieh offers a practical happiness framework, not an exhaustive formula. Give people meaningful choices, visible progress, supportive relationships and a purpose they can understand; related motivation research emphasizes autonomy, competence and relatedness.",
+    "source": {
+      "file": "Delivering happiness notes.html",
+      "paragraph": 155
+    },
+    "links": [
+      {
+        "title": "Center for Self-Determination Theory · Autonomy, competence and relatedness",
+        "url": "https://selfdeterminationtheory.org/the-theory/"
+      }
+    ]
+  },
+  {
+    "bookId": "the-upstarts",
+    "book": "The Upstarts",
+    "author": "Brad Stone",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "the-upstarts-early-growth-may-require-work-that-cannot-scale",
+    "concept": "Early growth may require work that cannot scale",
+    "quote": "“Paul was the first person to give us permission to say, It’s okay to think about things that may not scale, to break away from the mythology of Silicon Valley. We could actually think creatively around how to grow the business.\"",
+    "refresher": "Airbnb’s founders improved individual listings and met hosts themselves. Such work can reveal the obstacles automation would otherwise reproduce; scale the solution after learning what customers actually need.",
+    "source": {
+      "file": "The upstarts notes.html",
+      "paragraph": 13
+    },
+    "links": [
+      {
+        "title": "Paul Graham · Recruiting and helping early users manually",
+        "url": "https://paulgraham.com/ds.html"
+      }
+    ]
+  },
+  {
+    "bookId": "the-upstarts",
+    "book": "The Upstarts",
+    "author": "Brad Stone",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "the-upstarts-a-marketplace-must-build-both-sides-together",
+    "concept": "A marketplace must build both sides together",
+    "quote": "The relatively few listings on the site drew few guests looking for travel accommodations, and the paucity of guests didn’t inspire potential new hosts to embrace the unorthodox concept of making their homes available to total strangers over the internet.",
+    "refresher": "Guests need useful listings, while hosts need evidence of demand. Concentrating early effort in a narrow market can create enough successful matches for each side to make joining worthwhile.",
+    "source": {
+      "file": "The upstarts notes.html",
+      "paragraph": 14
+    },
+    "links": [
+      {
+        "title": "Paul Graham · Airbnb and the difficulty of starting marketplaces",
+        "url": "https://paulgraham.com/ds.html"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-keep-final-evaluation-separate-from-tuning",
+    "concept": "Keep final evaluation separate from tuning",
+    "quote": "Parameters of the model are optimized by the learning algorithm based on training data. The values of hyperparameters are tuned by using the validation dataset. The test set is only used to assess the model's performance and report it to the client or product owner.",
+    "refresher": "Repeatedly choosing models against the test set turns it into training feedback. Tune with validation data or cross-validation, then use the untouched test set to estimate generalization.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 12
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Cross-validation and held-out evaluation",
+        "url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-split-raw-data-before-learning-preprocessing",
+    "concept": "Split raw data before learning preprocessing",
+    "quote": "Split was applied to raw data",
+    "refresher": "Imputation, scaling and feature selection can leak information even before model training. Fit these transformations only on each training partition, then apply the fitted transformation to held-out examples.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 62
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Preventing preprocessing leakage",
+        "url": "https://scikit-learn.org/stable/common_pitfalls.html"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-improve-recurring-error-patterns",
+    "concept": "Improve recurring error patterns",
+    "quote": "Errors made by a machine learning model can be uniform and appear in all use cases with the same rate, or focused and appear in just certain types of use cases. Focused errors are those merit special attention, because fixing an error pattern, you fix it once for many examples.",
+    "refresher": "Inspect concrete failures and group them by cause. A missing feature or systematic labeling mistake can affect many examples; addressing that shared cause is often more valuable than another broad tuning sweep.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 132
+    },
+    "links": [
+      {
+        "title": "Martin Zinkevich · Rules of machine learning and feature iteration",
+        "url": "https://developers.google.com/machine-learning/guides/rules-of-ml"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-limit-exposure-while-testing-a-deployment",
+    "concept": "Limit exposure while testing a deployment",
+    "quote": "Canary deployment: pushing the new version to a small fraction of the users, while keeping the old version running for most users. Allows model performance validation and won't affect too many users in case of possible bugs.",
+    "refresher": "Release to a small representative slice, monitor predefined quality and reliability signals, and retain a rollback path. A canary reduces the blast radius; it does not prove safety for every user group.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 165
+    },
+    "links": [
+      {
+        "title": "Google SRE · Canarying releases",
+        "url": "https://sre.google/workbook/canarying-releases/"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-monitor-the-model-after-deployment",
+    "concept": "Monitor the model after deployment",
+    "quote": "The models deployed in production must be constantly monitored. The goals are to make sure that the model is served correctly, and that the performance of the model remains within acceptable limits.",
+    "refresher": "A model can keep answering while its usefulness deteriorates. Track prediction quality, input distributions and operational health, with alerts tied to meaningful thresholds and someone responsible for responding.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 181
+    },
+    "links": [
+      {
+        "title": "Martin Zinkevich · Monitoring training-serving skew",
+        "url": "https://developers.google.com/machine-learning/guides/rules-of-ml"
+      }
+    ]
+  },
+  {
+    "bookId": "machine-learning-engineering",
+    "book": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "machine-learning-engineering-predictions-can-change-the-next-training-dataset",
+    "concept": "Predictions can change the next training dataset",
+    "quote": "An effective runtime is secure and correct, ensures ease of deployment and recovery, provides guarantees of model validity, and avoids training/serving skew and hidden feedback loops.",
+    "refresher": "Recommendations influence what people see and click. Treat those observations as consequences of a policy, not an unbiased picture of preference; otherwise retraining can amplify the model’s own earlier choices.",
+    "source": {
+      "file": "Machine learning engineering notes.html",
+      "paragraph": 176
+    },
+    "links": [
+      {
+        "title": "Martin Zinkevich · Avoiding feedback loops with positional features",
+        "url": "https://developers.google.com/machine-learning/guides/rules-of-ml"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-training-success-can-hide-overfitting",
+    "concept": "Training success can hide overfitting",
+    "quote": "If the model predicts well training data but predicts poorly the validation/test set, we say that the model has high variance or that the model overfits",
+    "refresher": "When training errors are small but held-out errors are large, the model may be fitting noise or dataset-specific details. Compare both curves before deciding whether to simplify, regularize or collect more representative data.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 64
+    },
+    "links": [
+      {
+        "title": "Google · Overfitting and regularization",
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/regularization"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-regularization-limits-fitting-noise",
+    "concept": "Regularization limits fitting noise",
+    "quote": "Regularization force the algorithm to build a less complex model (slight increase of bias, big decrease of variance). Examples:",
+    "refresher": "Regularization trades some training fit for a model that may generalize better. Tune its strength against held-out performance: too much can erase real signal, while too little can preserve accidental patterns.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 66
+    },
+    "links": [
+      {
+        "title": "Google · L2 regularization and model complexity",
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/regularization"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-precision-and-recall-answer-different-questions",
+    "concept": "Precision and recall answer different questions",
+    "quote": "Precision is the ratio of correct positive predictions to the overall number of positive predictions.",
+    "refresher": "Precision asks how many positive predictions were correct; recall asks how many actual positives were found. Choose a threshold according to the consequences of false alarms and missed cases, not accuracy alone.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 75
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Precision-recall curves",
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-cross-validation-rotates-the-held-out-examples",
+    "concept": "Cross-validation rotates the held-out examples",
+    "quote": "Cross-validation: you split your training set into several (typically, five) subsets of the same size (folds). You use the examples in all but one set as training set and the leftover as validation set. You repeat this for all the sets and use the average result as final value.",
+    "refresher": "Each fold gets a turn as unseen evaluation data. Average the scores to compare candidate settings, while preserving a final test set and using grouped or time-aware splits when observations are dependent.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 90
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Choosing an appropriate cross-validation strategy",
+        "url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-gradient-descent-improves-parameters-step-by-step",
+    "concept": "Gradient descent improves parameters step by step",
+    "quote": "Gradient descent is an iterative optimisation algorithm for finding the minimum of a function. Starts at some random point and takes steps proportional to the negative of the gradient of the function at the current point.",
+    "refresher": "The gradient points toward increasing loss, so an update moves the opposite way. The learning rate controls the step size; useful progress depends on both the objective and a suitable update scale.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 29
+    },
+    "links": [
+      {
+        "title": "Google · Gradient descent",
+        "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-random-forests-reduce-shared-errors",
+    "concept": "Random forests reduce shared errors",
+    "quote": "Random Forest is bagging algorithm where a certain number of “copies” are sampled with replacement from the training set and then train decision trees with those (reducing the variance of the final model). At each split of the decision tree, a random subset of the features are inspected.",
+    "refresher": "Averaging many trees helps most when their errors are not identical. Bootstrap samples and random feature subsets diversify the trees, reducing variance relative to one highly flexible tree.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 128
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Random forests and bagging",
+        "url": "https://scikit-learn.org/stable/modules/ensemble.html"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-boosting-adds-models-to-correct-remaining-errors",
+    "concept": "Boosting adds models to correct remaining errors",
+    "quote": "Boosting consists of using the original training data and iteratively creating multiple models by using a weak learner that try to “fix” the errors which previous model made (example: Gradient Boosting).",
+    "refresher": "Boosting builds an ensemble sequentially, directing new learners toward what the current ensemble misses. Learning rate, depth and number of rounds control how aggressively it fits the training data.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 126
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Gradient boosting",
+        "url": "https://scikit-learn.org/stable/modules/ensemble.html"
+      }
+    ]
+  },
+  {
+    "bookId": "the-hundred-page-machine-learning-book",
+    "book": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "the-hundred-page-machine-learning-book-transfer-learned-representations-to-a-new-task",
+    "concept": "Transfer learned representations to a new task",
+    "quote": "In transfer learning, you pick an existing model train on some dataset, and you adapt this model to predict examples from another dataset.",
+    "refresher": "Reuse features learned on a related dataset, then train a new output head or carefully fine-tune the network. Check domain fit and held-out performance rather than assuming pretrained knowledge always transfers.",
+    "source": {
+      "file": "The hundred-page machine learning book notes.html",
+      "paragraph": 167
+    },
+    "links": [
+      {
+        "title": "TensorFlow · Transfer learning and fine-tuning",
+        "url": "https://www.tensorflow.org/tutorials/images/transfer_learning"
+      }
+    ]
+  }
+]

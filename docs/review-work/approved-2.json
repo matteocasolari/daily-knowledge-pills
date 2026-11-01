@@ -1,0 +1,191 @@
+[
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-allocate-profit-before-choosing-expenses",
+    "concept": "Allocate profit before choosing expenses",
+    "quote": "Sales - Profit = Expenses",
+    "refresher": "The formula changes the budgeting order, not accounting arithmetic. Reserve a deliberate profit amount, then design operations around the remaining cash while meeting existing obligations.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 33
+    },
+    "links": [
+      {
+        "title": "FDIC · Managing cash flow",
+        "url": "https://www.fdic.gov/consumer-resource-center/mssb-m10-ig.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-give-each-dollar-a-separate-purpose",
+    "concept": "Give each dollar a separate purpose",
+    "quote": "Each of these accounts has a differ ent objective: one is for profit, one for owner compensation, another for taxes and another for operating expenses.",
+    "refresher": "The small-plates system separates cash for profit, owner pay, taxes, and operating costs. The operating balance becomes a spending boundary; the total bank balance is not all available to spend.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 35
+    },
+    "links": [
+      {
+        "title": "FDIC · Cash planning and allocation",
+        "url": "https://www.fdic.gov/consumer-resource-center/mssb-m10-ig.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-put-temptation-behind-a-barrier",
+    "concept": "Put temptation behind a barrier",
+    "quote": "Move your PROFIT account and other \"tempting\" accounts out of arm's reach.",
+    "refresher": "Separate reserves from everyday spending so an impulsive decision requires an extra step. Keep necessary access for genuine obligations; friction is a behavioral aid, not a substitute for cash planning.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "CFPB · Where to keep dedicated savings",
+        "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-give-cash-allocation-a-recurring-rhythm",
+    "concept": "Give cash allocation a recurring rhythm",
+    "quote": "Enforce a Rhythm: Do your allocations and payables twice a month (specifically, on the tenth and twenty-fifth). Don't pay only when there is money piled up in the account.",
+    "refresher": "A fixed review schedule makes allocation a routine instead of a response to a large balance. The book chooses twice monthly; coordinate the actual schedule with payroll, bills, and tax deadlines.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 40
+    },
+    "links": [
+      {
+        "title": "BDC · Budget and monitor cash flow",
+        "url": "https://www.bdc.ca/en/articles-tools/money-finance/manage-finances/5-tips-manage-cash-flow"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-move-from-current-allocations-toward-targets",
+    "concept": "Move from current allocations toward targets",
+    "quote": "TAPs are not your starting point; TAPs are the targets you are moving toward. (Take them from the following table)",
+    "refresher": "First measure where cash actually goes. Adjust allocations gradually and review affordability instead of immediately imposing the book’s target percentages on a business with different obligations.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 65
+    },
+    "links": [
+      {
+        "title": "FDIC · Planning realistic cash flows",
+        "url": "https://www.fdic.gov/consumer-resource-center/mssb-m10-ig.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-separate-owner-labor-from-ownership-returns",
+    "concept": "Separate owner labor from ownership returns",
+    "quote": "Don't confuse the profit distribution with Owner's Comp, which is pay for working in the business. Profit is a reward for owning the business.",
+    "refresher": "Owner compensation recognizes work performed; profit distributions recognize ownership. Keeping them distinct exposes a business that appears profitable only because its owner works unpaid. Actual payment and tax treatment depend on the business structure.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 123
+    },
+    "links": [
+      {
+        "title": "IRS · Compensation and distributions",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/paying-yourself"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-reserve-tax-money-before-it-becomes-a-surprise",
+    "concept": "Reserve tax money before it becomes a surprise",
+    "quote": "So don't steal from your TAX account, thinking you won't need that money for taxes.",
+    "refresher": "Tax reserves are earmarked obligations, not spare operating cash. Estimate them from the business’s actual tax position and payment dates; a generic percentage in a book cannot determine the amount owed.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 239
+    },
+    "links": [
+      {
+        "title": "IRS · Estimating and paying taxes",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-retain-a-buffer-instead-of-distributing-everything",
+    "concept": "Retain a buffer instead of distributing everything",
+    "quote": "As your profits accumulate in your PROFIT account, and you only take 50 percent as a profit distribution, the remainder will act as a rainy-day fund.",
+    "refresher": "The book’s half-distribution rule deliberately leaves a reserve. The transferable principle is to keep liquidity for interruptions; the appropriate buffer depends on costs, volatility, and access to funding.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 144
+    },
+    "links": [
+      {
+        "title": "BDC · Reserves for seasonal cash flow",
+        "url": "https://www.bdc.ca/en/articles-tools/money-finance/manage-finances/seasonal-business-cash-flow"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-do-not-budget-from-your-best-month",
+    "concept": "Do not budget from your best month",
+    "quote": "The trap we fall into is believing our most recent best month is our new normal. Then we start running the business according to that \"normal.”",
+    "refresher": "Separate a temporary sales spike from sustainable earning capacity. Compare similar seasons and use rolling history plus a forward cash forecast before taking on recurring costs.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 150
+    },
+    "links": [
+      {
+        "title": "BDC · Build and update a cash forecast",
+        "url": "https://www.bdc.ca/en/articles-tools/money-finance/manage-finances/making-projection-coming-year"
+      }
+    ]
+  }
+]

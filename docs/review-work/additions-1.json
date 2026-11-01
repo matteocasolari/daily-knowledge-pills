@@ -1,0 +1,443 @@
+[
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-the-five-connected-parts-of-a-business",
+    "concept": "The five connected parts of a business",
+    "quote": "Every successful business (1) creates or provides something of value that (2) other people want or need (3) at a price they're willing to pay, in a way that (4) satisfies the purchaser's needs and expectations and 5) provides the business sufficient revenue to make it worthwhile for the owners to continue operation.",
+    "refresher": "Trace value creation, marketing, sales, delivery, and finance. A brilliant product still needs reachable buyers, completed purchases, reliable delivery, and sustainable economics. Diagnose the missing connection before optimizing one department.",
+    "topic": "Business",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 17
+    },
+    "links": [
+      {
+        "title": "Strategyzer · Map a complete business model",
+        "url": "https://www.strategyzer.com/library/the-business-model-canvas"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-test-the-assumptions-that-could-kill-the-business",
+    "concept": "Test the assumptions that could kill the business",
+    "quote": "Critical Assumptions are facts or characteristics that must be true in the real world for your business or offering to be successful.",
+    "refresher": "List what must be true about demand, delivery, and willingness to pay. Test the assumption whose failure would invalidate the offer before committing heavily to building it.",
+    "topic": "Experiments",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 252
+    },
+    "links": [
+      {
+        "title": "Eric Ries · Validated learning and minimum viable products",
+        "url": "https://theleanstartup.com/principles"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-a-minimum-viable-offer-tests-a-purchase",
+    "concept": "A minimum viable offer tests a purchase",
+    "quote": "A Minimum Viable Offer is an offer that promises and/or provides the smallest number of benefits necessary to produce an actual sale. A Minimum Viable Offer is essentially a Prototype that's been developed to the point that someone will actually pull out their wallet and commit to making a purchase.",
+    "refresher": "Reduce an offer to the smallest useful promise a customer will actually buy. Compliments and signups are weaker evidence than a genuine purchasing decision; be explicit about what is available and when.",
+    "topic": "Customer discovery",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 256
+    },
+    "links": [
+      {
+        "title": "Eric Ries · Validated learning and minimum viable products",
+        "url": "https://theleanstartup.com/principles"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-target-the-probable-purchaser",
+    "concept": "Target the probable purchaser",
+    "quote": "Attempting to appeal to everyone is a waste of time and money: focus your marketing efforts on your Probable Purchaser.",
+    "refresher": "Name the customer whose problem your offer solves particularly well, where they look for help, and what they value. Relevance to that group matters more than attention from everyone.",
+    "topic": "Business",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 275
+    },
+    "links": [
+      {
+        "title": "SBA · Market research and business planning",
+        "url": "https://www.sba.gov/counseling/plan-your-business/"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-translate-features-into-customer-benefits",
+    "concept": "Translate features into customer benefits",
+    "quote": "It's often far more comfortable to focus on the features: you know what your offer does. Even so, it's far more effective to focus on the benefits: what vour offer will provide to customers.",
+    "refresher": "A feature describes the product; a benefit explains its effect on the buyer. Connect each important capability to a concrete customer problem and the result it helps achieve.",
+    "topic": "Communication",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 278
+    },
+    "links": [
+      {
+        "title": "SBA · Market research and business planning",
+        "url": "https://www.sba.gov/counseling/plan-your-business/"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-know-your-alternative-before-negotiating",
+    "concept": "Know your alternative before negotiating",
+    "quote": "Your Next Best Alternative is what you'll do in the event you can't find Common Ground with the party you're negotiating with.",
+    "refresher": "Compare a proposed agreement with what you can realistically do without it. Improve that alternative and compare terms on the same basis, including time, risk, and switching costs.",
+    "topic": "Negotiation",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 334
+    },
+    "links": [
+      {
+        "title": "Harvard Program on Negotiation · Evaluate your BATNA",
+        "url": "https://www.pon.harvard.edu/daily/batna/translate-your-batna-to-the-current-deal/"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-map-the-whole-value-stream",
+    "concept": "Map the whole value stream",
+    "quote": "A Value Stream is the set of all steps and all processes from the start of your Value Creation process all the way through the delivery of the end result to your customer.",
+    "refresher": "Follow an order from the first input to the customer receiving value. Make waiting, handoffs, and rework visible; speeding up one local step may leave total delivery time unchanged.",
+    "topic": "Operations",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 382
+    },
+    "links": [
+      {
+        "title": "Lean Enterprise Institute · Value-stream mapping",
+        "url": "https://www.lean.org/lexicon-terms/value-stream-mapping/"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-a-balance-sheet-is-a-snapshot",
+    "concept": "A balance sheet is a snapshot",
+    "quote": "A Balance Sheet is a snapshot of what a business owns and what it owes at a particular moment in time.",
+    "refresher": "Assets show what the business controls; liabilities show its obligations; equity is the residual. Read successive snapshots alongside income and cash-flow statements to see how the financial position changes.",
+    "topic": "Finance",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 453
+    },
+    "links": [
+      {
+        "title": "SEC · Reading financial statements",
+        "url": "https://www.sec.gov/investor/pubs/begfinstmtguide.htm"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-recognized-revenue-is-not-collected-cash",
+    "concept": "Recognized revenue is not collected cash",
+    "quote": "In accrual accounting, revenue is recog nized immediately when a sale is made (i.e. a product is purchased, a service is rendered etc.), and the expenses associated with that sale are incurred in the same time period.",
+    "refresher": "Revenue recognition follows the applicable earning or delivery rules, not simply cash receipt or signing a sale. A sale can appear in income before payment arrives, so monitor collections and payment timing alongside profitability.",
+    "topic": "Finance",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 447
+    },
+    "links": [
+      {
+        "title": "SEC · Reading financial statements",
+        "url": "https://www.sec.gov/investor/pubs/begfinstmtguide.htm"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-customer-value-limits-acquisition-spending",
+    "concept": "Customer value limits acquisition spending",
+    "quote": "Lifetime Value is the total value of a customer's business over the lifetime of their relationship with your company. The more a customer purchases from you and the longer they stay with you, the more valuable that customer is to your business.",
+    "refresher": "Estimate repeat purchases and retention, then account for delivery costs and the time needed to recover acquisition spending. An optimistic lifetime-revenue forecast does not justify unlimited marketing expense.",
+    "topic": "Business",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 481
+    },
+    "links": [
+      {
+        "title": "Shopify · Acquisition models and lifetime value",
+        "url": "https://www.shopify.com/enterprise/blog/overhauling-customer-acquisition-model"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-every-choice-has-an-opportunity-cost",
+    "concept": "Every choice has an opportunity cost",
+    "quote": "Opportunity Cost is the value you're giving up by making a Decision.",
+    "refresher": "Compare your decision with the best realistic alternative you must give up. Time and attention count even when no money changes hands; an affordable project can still crowd out a better one.",
+    "topic": "Decisions",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 505
+    },
+    "links": [
+      {
+        "title": "Federal Reserve Education · Opportunity cost",
+        "url": "https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-improve-the-constraint-before-the-rest",
+    "concept": "Improve the constraint before the rest",
+    "quote": "The performance of a System is always limited by the availability of a critical input. Alleviate the Constraint, and the system's performance will improve.",
+    "refresher": "Find the bottleneck that limits the whole process. Protect its capacity from avoidable interruptions, improve it, then look again: the limiting step may move elsewhere.",
+    "topic": "Systems",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 851
+    },
+    "links": [
+      {
+        "title": "Lean Enterprise Institute · Theory of constraints",
+        "url": "https://www.lean.org/lexicon-terms/theory-of-constraints/"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-measure-what-changes-decisions",
+    "concept": "Measure what changes decisions",
+    "quote": "Measurements that don't help you make improvements to your System are worse than worthless: they're a waste of your limited Attention and energy.",
+    "refresher": "Choose measures tied to customer outcomes and the system’s purpose. For each dashboard number, name the decision it could change; easy-to-count activity can conceal disappointing results.",
+    "topic": "Metrics",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 899
+    },
+    "links": [
+      {
+        "title": "Rob Ewaschuk · Monitoring useful signals",
+        "url": "https://sre.google/sre-book/monitoring-distributed-systems/"
+      }
+    ]
+  },
+  {
+    "bookId": "the-personal-mba",
+    "book": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "genre": "nonfiction",
+    "id": "the-personal-mba-automation-still-needs-prepared-operators",
+    "concept": "Automation still needs prepared operators",
+    "quote": "Here's the Paradox of Automation: the more efficient the Automated system, the more crucial the contribution of the human operators of that system. When an error happens, operators need to identify and fix the situation quickly or shut the system down - otherwise, the Automated system will continue to Multiply the error.",
+    "refresher": "As routine work disappears, people may lose the practice needed during exceptions. Keep failures visible and rehearse recovery so the human fallback remains capable when automation stops behaving as expected.",
+    "topic": "Systems",
+    "source": {
+      "file": "Kaufman J. - The Personal MBA.docx",
+      "paragraph": 963
+    },
+    "links": [
+      {
+        "title": "Lisanne Bainbridge · Ironies of automation",
+        "url": "https://gwern.net/doc/sociology/technology/1983-bainbridge.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-notice-a-part-without-becoming-it",
+    "concept": "Notice a part without becoming it",
+    "quote": "The simple act of noticing parts and representing them on a page often creates enough separation from them (enough unblending) that you can have a different perspective on them.",
+    "refresher": "Schwartz calls this unblending: describe an anxious or critical response as one aspect of your experience, rather than your entire identity. Writing it down can offer perspective. This is an IFS practice, not proof of literal inner beings.",
+    "topic": "Self-knowledge",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 22
+    },
+    "links": [
+      {
+        "title": "Steven Hayes · Acceptance and cognitive defusion",
+        "url": "https://www.apa.org/pubs/videos/4310860"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-listening-does-not-require-agreement",
+    "concept": "Listening does not require agreement",
+    "quote": "As you listen to it, you don't have to agree or disagree - just let the part know that you respect it, you care about it, you're there with it, and you hear it. See how it reacts.",
+    "refresher": "Within IFS, acknowledge an inner response with care without accepting its conclusions or acting on its demands. Understanding a protective impulse can coexist with boundaries on harmful behavior.",
+    "topic": "Compassion",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · What self-compassion means",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-a-protective-role-is-not-an-identity",
+    "concept": "A protective role is not an identity",
+    "quote": "The categories I describe in this map don't capture the essence of your parts themselves Instead, they are just the roles your parts were thrust into.",
+    "refresher": "IFS distinguishes vulnerable exiles, preventive managers, and reactive firefighters. These names describe roles within the model, not fixed diagnoses or a person’s essence. Ask what a response is trying to accomplish before treating its current strategy as permanent.",
+    "topic": "Psychology",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 56
+    },
+    "links": [
+      {
+        "title": "Steven Hayes · Acceptance and cognitive defusion",
+        "url": "https://www.apa.org/pubs/videos/4310860"
+      }
+    ]
+  },
+  {
+    "bookId": "no-bad-parts",
+    "book": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "genre": "nonfiction",
+    "id": "no-bad-parts-trust-develops-without-forcing-progress",
+    "concept": "Trust develops without forcing progress",
+    "quote": "So if they're not stepping back, for example, it doesn't mean you're failing. It simply means that it wil take more time to build up their trust in you and to help them get to know you better.",
+    "refresher": "Schwartz treats resistance as a reason to slow down and build trust, rather than evidence of failure. Approach difficult feelings gently; curiosity and self-compassion need not become another performance demand.",
+    "topic": "Compassion",
+    "source": {
+      "file": "Schwartz R. - No Bad Parts.docx",
+      "paragraph": 40
+    },
+    "links": [
+      {
+        "title": "Kristin Neff · What self-compassion means",
+        "url": "https://self-compassion.org/what-is-self-compassion/"
+      }
+    ]
+  },
+  {
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "id": "deep-work-give-deep-work-a-repeatable-starting-ritual",
+    "concept": "Give deep work a repeatable starting ritual",
+    "quote": "Questions your deep work ritual need to answer: Where you'll work and for how long? How you'll work once you start to work? How you'll support your work?",
+    "refresher": "Decide the place, duration, task, and support before a session starts. A specific cue and working rule make beginning easier than renegotiating the arrangement whenever you feel ready.",
+    "topic": "Focus",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 31
+    },
+    "links": [
+      {
+        "title": "Gollwitzer and Sheeran · Implementation intentions",
+        "url": "https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "id": "deep-work-track-the-behavior-that-produces-the-result",
+    "concept": "Track the behavior that produces the result",
+    "quote": "Act on Lead Measures. Lag measures describe the thing you're ultimately trying to improve, lead measures measure the new behaviors that will drive success on the lag measures.",
+    "refresher": "Pages published are an outcome; protected writing sessions are an action you can influence today. Choose a plausible lead measure, then check whether improving it actually moves the result.",
+    "topic": "Metrics",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 36
+    },
+    "links": [
+      {
+        "title": "FranklinCovey · Lead and lag measures",
+        "url": "https://www.franklincovey.com/courses/the-4-disciplines/"
+      }
+    ]
+  },
+  {
+    "bookId": "deep-work",
+    "book": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "nonfiction",
+    "id": "deep-work-schedule-access-to-distractions",
+    "concept": "Schedule access to distractions",
+    "quote": "Don't take breaks from distraction, take breaks from focus. When you're working set the next time you're allowed to use the Internet. Until you arrive at that time, no connectivity is allowed.",
+    "refresher": "Choose a bounded period for focused work and decide when to check messages. Notice the urge to switch before acting on it; adjust the arrangement to the genuine communication needs of your role.",
+    "topic": "Attention",
+    "source": {
+      "file": "Deep Work.html",
+      "paragraph": 42
+    },
+    "links": [
+      {
+        "title": "Gloria Mark · Managing attention and self-interruption",
+        "url": "https://www.universityofcalifornia.edu/news/how-sharpen-your-attention-and-meet-your-goals-2024"
+      }
+    ]
+  }
+]

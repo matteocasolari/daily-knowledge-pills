@@ -1,6 +1,6 @@
 # Book coverage audit
 
-The collection contains **413 pills from all 99 identified books**. The first expansion added 65 pills from previously unrepresented books; the next added 25 more, including three from Tools of Titans. A subsequent [review of those 90 additions](pill-review.md) revised 11 records, including replacing one overlapping lesson. The earlier [source-by-source expansion evaluation](book-expansion-evaluation.md) added 175 pills from 77 books. The 225 records that preceded that evaluation remain unchanged.
+The collection contains **462 pills from all 99 identified books**. The first expansion added 65 pills from previously unrepresented books; the next added 25 more, including three from Tools of Titans. A subsequent [review of those 90 additions](pill-review.md) revised 11 records, including replacing one overlapping lesson. The earlier [source-by-source expansion evaluation](book-expansion-evaluation.md) added 175 pills from 77 books. The 225 records that preceded that evaluation remain unchanged.
 
 There are now **99 book-note source files**, containing **15,688 imported paragraphs**. Every retained source file supplies at least one pill. The integrity manifest records the current supplied files, including three updated documents and the new Die with Zero notes. The separate daily-quote DOCX is excluded from these book totals.
 
@@ -19,7 +19,7 @@ The original collection had 102 files. These four were removed by the owner and 
 
 - At the user’s request, Tools of Titans now uses three original topic/page reminders as its note excerpts. These are reminders, not reconstructed book quotations. The refreshers are editorial explanations supported by the linked readings: Marc Andreessen’s interview and Jeff Bezos’s shareholder letter for disagree and commit; Josh Kaufman on complementary skills; Seneca’s Letter 18 and Ferriss’s discussion for voluntary simplicity. The original source file is unchanged.
 - New concepts were compared against the existing collection and one another. The additions use distinct lessons rather than alternate wording for the same lesson.
-- The earlier full-library evaluation used a cap of 12 pills per book. The [November refresh](note-refresh-2026-11-01.md) preserves all existing pills and adds 13 distinct lessons; the expanded engineering notes justify extending that book to 16 pills. Nine other books remain at 12.
+- The earlier full-library evaluation used a cap of 12 pills per book. The [November refresh](note-refresh-2026-11-01.md) preserves all existing pills and adds 13 distinct lessons; the expanded engineering notes justify extending that book to 16 pills. The ongoing full-library review now adds important missing concepts without a numerical cap.
 - Original excerpts retain the imported spelling and wording. Italian excerpts remain in Italian, with English editorial refreshers.
 - The Dip has just one paragraph, but it supplies a complete stopping-rule note. The Art of War is split into short lines; its pill uses one intact instruction from a single paragraph without joining separate passages.
 - Spiritual teachings and literary interpretations are framed as such. Refreshers do not turn the books’ claims into medical advice or treat fictional science as established fact.
@@ -49,7 +49,7 @@ The original collection had 102 files. These four were removed by the owner and 
 | Cloud Native DevOps with Kubernetes | John Arundel and Justin Domingus | 3 |
 | Come una notte a Bali | Gianluca Gotto | 2 |
 | Deep Work | Cal Newport | 5 |
-| Delivering Happiness | Tony Hsieh | 3 |
+| Delivering Happiness | Tony Hsieh | 7 |
 | Die with Zero | Bill Perkins | 3 |
 | Disrupt Yourself | Jay Samit | 2 |
 | Eating Animals | Jonathan Safran Foer | 1 |
@@ -82,10 +82,10 @@ The original collection had 102 files. These four were removed by the owner and 
 | Pattern Recognition and Machine Learning | Christopher M. Bishop | 12 |
 | Peace Is Every Step | Thich Nhat Hanh | 5 |
 | Perfume | Patrick Süskind | 1 |
-| Polysecure | Jessica Fern | 2 |
+| Polysecure | Jessica Fern | 11 |
 | Poor Charlie’s Almanack | Charles T. Munger; edited by Peter D. Kaufman | 6 |
 | Principles | Ray Dalio | 3 |
-| Profit First | Mike Michalowicz | 1 |
+| Profit First | Mike Michalowicz | 10 |
 | Sapiens | Yuval Noah Harari | 6 |
 | Siddhartha | Hermann Hesse | 4 |
 | Simply Said | Jay Sullivan | 6 |
@@ -103,24 +103,24 @@ The original collection had 102 files. These four were removed by the owner and 
 | The Charisma Myth | Olivia Fox Cabane | 2 |
 | The Design of Everyday Things | Don Norman | 6 |
 | The Dip | Seth Godin | 1 |
-| The E-Myth Revisited | Michael E. Gerber | 4 |
+| The E-Myth Revisited | Michael E. Gerber | 8 |
 | The Existential Importance of the Penis | Daniel N. Watter | 2 |
 | The Great Gatsby | F. Scott Fitzgerald | 2 |
 | The Hundred-Page Machine Learning Book | Andriy Burkov | 10 |
 | The Intelligent Investor | Benjamin Graham | 12 |
 | The Lean Startup | Eric Ries | 6 |
 | The Madness of Crowds | Douglas Murray | 1 |
-| The Mind Illuminated | Culadasa (John Yates), Matthew Immergut, and Jeremy Graves | 2 |
+| The Mind Illuminated | Culadasa (John Yates), Matthew Immergut, and Jeremy Graves | 7 |
 | The Mom Test | Rob Fitzpatrick | 7 |
 | The Old Man and the Sea | Ernest Hemingway | 1 |
-| The Personal MBA | Josh Kaufman | 12 |
+| The Personal MBA | Josh Kaufman | 26 |
 | The Power of Myth | Joseph Campbell with Bill Moyers | 2 |
 | The Power of Now | Eckhart Tolle | 2 |
 | The Software Engineer’s Guidebook | Gergely Orosz | 16 |
 | The Subtle Art of Not Giving a F*ck | Mark Manson | 5 |
-| The Upstarts | Brad Stone | 2 |
+| The Upstarts | Brad Stone | 4 |
 | Think Bayes | Allen B. Downey | 6 |
-| Thinking, Fast and Slow | Daniel Kahneman | 5 |
+| Thinking, Fast and Slow | Daniel Kahneman | 7 |
 | This Changes Everything | Naomi Klein | 2 |
 | To Kill a Mockingbird | Harper Lee | 2 |
 | Tools of Titans | Timothy Ferriss | 3 |

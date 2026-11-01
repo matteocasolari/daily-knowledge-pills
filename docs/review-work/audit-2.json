@@ -1,0 +1,34 @@
+[
+  {
+    "file": "Michalowicz M. - Profit First_.docx",
+    "existingCount": 1,
+    "addedCount": 9,
+    "assessment": "Read all 254 paragraphs. The lone existing pill missed the operating system. Added profit-first budgeting, purpose-specific accounts, access friction, recurring allocation, gradual targets, owner-pay distinction, tax reserves, retained liquidity, and revenue normalization. Preserved accounting distinctions and avoided presenting example percentages as universal rules.",
+    "deferred": [
+      {
+        "concept": "Real Revenue and materials/subcontractor exclusions",
+        "reason": "Useful but source formula relies on missing assessment-table context; avoid implying it is a formal accounting metric."
+      },
+      {
+        "concept": "Debt snowball and fixed distribution percentages",
+        "reason": "Personal debt prescriptions and rigid percentages are not universally appropriate; retained the distinct reserve principle without prescriptive ratios."
+      }
+    ]
+  },
+  {
+    "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+    "existingCount": 12,
+    "addedCount": 16,
+    "assessment": "Read all 723 paragraphs. Existing coverage sampled algorithms but omitted essential evaluation and training foundations. Added leakage prevention, imbalanced metrics, threshold tradeoffs, gradient descent, learning curves, early stopping, random forests, PCA, backpropagation, nonlinear activations, dropout, augmentation, residual connections, attention, GANs, and delayed reward credit assignment. Omitted implementation trivia and version-specific API defaults.",
+    "deferred": [
+      {
+        "concept": "Detailed deployment and distributed-training APIs",
+        "reason": "Mostly version-specific operational details, not missing durable concepts prioritized in this editorial pass."
+      },
+      {
+        "concept": "Bias-variance decomposition",
+        "reason": "Covered explicitly in the companion Pattern Recognition review to avoid repeating the same lesson across both ML books."
+      }
+    ]
+  }
+]

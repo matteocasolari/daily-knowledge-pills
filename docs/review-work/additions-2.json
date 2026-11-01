@@ -1,0 +1,527 @@
+[
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-allocate-profit-before-choosing-expenses",
+    "concept": "Allocate profit before choosing expenses",
+    "quote": "Sales - Profit = Expenses",
+    "refresher": "The formula changes the budgeting order, not accounting arithmetic. Reserve a deliberate profit amount, then design operations around the remaining cash while meeting existing obligations.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 33
+    },
+    "links": [
+      {
+        "title": "FDIC · Managing cash flow",
+        "url": "https://www.fdic.gov/consumer-resource-center/mssb-m10-ig.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-give-each-dollar-a-separate-purpose",
+    "concept": "Give each dollar a separate purpose",
+    "quote": "Each of these accounts has a differ ent objective: one is for profit, one for owner compensation, another for taxes and another for operating expenses.",
+    "refresher": "The small-plates system separates cash for profit, owner pay, taxes, and operating costs. The operating balance becomes a spending boundary; the total bank balance is not all available to spend.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 35
+    },
+    "links": [
+      {
+        "title": "FDIC · Cash planning and allocation",
+        "url": "https://www.fdic.gov/consumer-resource-center/mssb-m10-ig.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-put-temptation-behind-a-barrier",
+    "concept": "Put temptation behind a barrier",
+    "quote": "Move your PROFIT account and other \"tempting\" accounts out of arm's reach.",
+    "refresher": "Separate reserves from everyday spending so an impulsive decision requires an extra step. Keep necessary access for genuine obligations; friction is a behavioral aid, not a substitute for cash planning.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 39
+    },
+    "links": [
+      {
+        "title": "CFPB · Where to keep dedicated savings",
+        "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-give-cash-allocation-a-recurring-rhythm",
+    "concept": "Give cash allocation a recurring rhythm",
+    "quote": "Enforce a Rhythm: Do your allocations and payables twice a month (specifically, on the tenth and twenty-fifth). Don't pay only when there is money piled up in the account.",
+    "refresher": "A fixed review schedule makes allocation a routine instead of a response to a large balance. The book chooses twice monthly; coordinate the actual schedule with payroll, bills, and tax deadlines.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 40
+    },
+    "links": [
+      {
+        "title": "BDC · Budget and monitor cash flow",
+        "url": "https://www.bdc.ca/en/articles-tools/money-finance/manage-finances/5-tips-manage-cash-flow"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-move-from-current-allocations-toward-targets",
+    "concept": "Move from current allocations toward targets",
+    "quote": "TAPs are not your starting point; TAPs are the targets you are moving toward. (Take them from the following table)",
+    "refresher": "First measure where cash actually goes. Adjust allocations gradually and review affordability instead of immediately imposing the book’s target percentages on a business with different obligations.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 65
+    },
+    "links": [
+      {
+        "title": "FDIC · Planning realistic cash flows",
+        "url": "https://www.fdic.gov/consumer-resource-center/mssb-m10-ig.pdf"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-separate-owner-labor-from-ownership-returns",
+    "concept": "Separate owner labor from ownership returns",
+    "quote": "Don't confuse the profit distribution with Owner's Comp, which is pay for working in the business. Profit is a reward for owning the business.",
+    "refresher": "Owner compensation recognizes work performed; profit distributions recognize ownership. Keeping them distinct exposes a business that appears profitable only because its owner works unpaid. Actual payment and tax treatment depend on the business structure.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 123
+    },
+    "links": [
+      {
+        "title": "IRS · Compensation and distributions",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/paying-yourself"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-reserve-tax-money-before-it-becomes-a-surprise",
+    "concept": "Reserve tax money before it becomes a surprise",
+    "quote": "So don't steal from your TAX account, thinking you won't need that money for taxes.",
+    "refresher": "Tax reserves are earmarked obligations, not spare operating cash. Estimate them from the business’s actual tax position and payment dates; a generic percentage in a book cannot determine the amount owed.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 239
+    },
+    "links": [
+      {
+        "title": "IRS · Estimating and paying taxes",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-retain-a-buffer-instead-of-distributing-everything",
+    "concept": "Retain a buffer instead of distributing everything",
+    "quote": "As your profits accumulate in your PROFIT account, and you only take 50 percent as a profit distribution, the remainder will act as a rainy-day fund.",
+    "refresher": "The book’s half-distribution rule deliberately leaves a reserve. The transferable principle is to keep liquidity for interruptions; the appropriate buffer depends on costs, volatility, and access to funding.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 144
+    },
+    "links": [
+      {
+        "title": "BDC · Reserves for seasonal cash flow",
+        "url": "https://www.bdc.ca/en/articles-tools/money-finance/manage-finances/seasonal-business-cash-flow"
+      }
+    ]
+  },
+  {
+    "bookId": "profit-first",
+    "book": "Profit First",
+    "author": "Mike Michalowicz",
+    "genre": "nonfiction",
+    "topic": "Business",
+    "id": "profit-first-do-not-budget-from-your-best-month",
+    "concept": "Do not budget from your best month",
+    "quote": "The trap we fall into is believing our most recent best month is our new normal. Then we start running the business according to that \"normal.”",
+    "refresher": "Separate a temporary sales spike from sustainable earning capacity. Compare similar seasons and use rolling history plus a forward cash forecast before taking on recurring costs.",
+    "source": {
+      "file": "Michalowicz M. - Profit First_.docx",
+      "paragraph": 150
+    },
+    "links": [
+      {
+        "title": "BDC · Build and update a cash forecast",
+        "url": "https://www.bdc.ca/en/articles-tools/money-finance/manage-finances/making-projection-coming-year"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-keep-the-test-set-outside-model-selection",
+    "concept": "Keep the test set outside model selection",
+    "quote": "Before you look at the data any further, you need to create a test set, put it aside, and never look at it.",
+    "refresher": "Repeatedly using test results to choose features or models leaks information into development. Fit preprocessing on training data, tune on validation data, and reserve the test set for the final assessment.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 52
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Avoiding data leakage",
+        "url": "https://scikit-learn.org/stable/common_pitfalls.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-accuracy-can-hide-failure-on-a-rare-class",
+    "concept": "Accuracy can hide failure on a rare class",
+    "quote": "Accuracy is generally not the preferred performance measure for classifiers, especially when you are dealing with skewed datasets.",
+    "refresher": "A classifier predicting only the common class can appear accurate. Inspect the confusion matrix and choose metrics that reflect the cost of missed positives and false alarms.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 96
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Classification metrics",
+        "url": "https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-choose-a-threshold-with-precision-and-recall-together",
+    "concept": "Choose a threshold with precision and recall together",
+    "quote": "Increasing precision reduces recall, and vice versa. This is called the precision/recall trade-off.",
+    "refresher": "Precision asks how many positive predictions were correct; recall asks how many actual positives were found. Moving the decision threshold changes that balance, so specify the operating point rather than celebrating one number.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 102
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Precision and recall",
+        "url": "https://scikit-learn.org/stable/modules/model_evaluation.html#precision-recall-f-measure-metrics"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-gradient-descent-follows-the-local-slope",
+    "concept": "Gradient descent follows the local slope",
+    "quote": "The general idea of Gradient Descent is to tweak parameters iteratively in order to minimize a cost function.",
+    "refresher": "Compute how the loss changes with each parameter, then step in the opposite direction. The learning rate controls step size: too small wastes iterations; too large can overshoot or diverge.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 116
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Stochastic gradient descent",
+        "url": "https://scikit-learn.org/stable/modules/sgd.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-learning-curves-diagnose-what-more-data-might-fix",
+    "concept": "Learning curves diagnose what more data might fix",
+    "quote": "It's useful to take a look at the learning curves: plots of the model's performance on the training set and the validation set as a function of the training set size (or the training iteration).",
+    "refresher": "Compare training and validation performance as data grows. Poor performance on both suggests underfitting; a persistent gap suggests variance. Use the pattern to decide between more data and a different model.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 127
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Learning and validation curves",
+        "url": "https://scikit-learn.org/stable/modules/learning_curve.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-stop-training-when-validation-performance-deteriorates",
+    "concept": "Stop training when validation performance deteriorates",
+    "quote": "You want to stop when the validation error stops decreasing and starts to go back up (meaning that the model is starting to overfitting).",
+    "refresher": "Training loss can keep improving while generalization gets worse. Monitor validation performance and retain the best checkpoint, allowing for noisy fluctuations instead of reacting to every single increase.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 142
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Early stopping",
+        "url": "https://www.deeplearningbook.org/contents/regularization.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-random-forests-diversify-trees-before-averaging",
+    "concept": "Random forests diversify trees before averaging",
+    "quote": "Instead of searching for the best feature when splitting a node, it searches for the best feature among a random subset of features.",
+    "refresher": "Bootstrap samples vary the training cases, and feature subsampling varies the available splits. Combining these less-correlated trees can reduce the instability of a single tree.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 200
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Random forests",
+        "url": "https://scikit-learn.org/stable/modules/ensemble.html#random-forests-and-other-randomized-tree-ensembles"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-pca-preserves-variance-in-fewer-dimensions",
+    "concept": "PCA preserves variance in fewer dimensions",
+    "quote": "It project the dataset into a lower dimension hyperplane, selecting the axes that preserves the maximum amount of variance",
+    "refresher": "PCA rotates centered data toward directions with high variance and retains a subset. High explained variance does not guarantee that the retained directions are best for predicting a target.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 230
+    },
+    "links": [
+      {
+        "title": "scikit-learn · Principal component analysis",
+        "url": "https://scikit-learn.org/stable/modules/decomposition.html#pca"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-backpropagation-computes-gradients-through-the-network",
+    "concept": "Backpropagation computes gradients through the network",
+    "quote": "In just two passes the algorithm compute the gradient of the network's error with regard to every single model parameter.",
+    "refresher": "A forward pass computes predictions and loss. A reverse pass applies the chain rule to obtain parameter gradients; an optimizer then uses those gradients to update the weights.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 324
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Backpropagation",
+        "url": "https://www.deeplearningbook.org/contents/mlp.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-nonlinear-activations-make-depth-expressive",
+    "concept": "Nonlinear activations make depth expressive",
+    "quote": "We need activation functions because otherwise if you chain several linear transformation you get a linear transformation.",
+    "refresher": "Stacking linear layers alone collapses to one linear transformation. Nonlinear activations let successive layers represent increasingly complex functions; depth without nonlinearity does not create that expressive power.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 333
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Hidden units",
+        "url": "https://www.deeplearningbook.org/contents/mlp.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-dropout-discourages-dependence-on-particular-neurons",
+    "concept": "Dropout discourages dependence on particular neurons",
+    "quote": "Dropout: at every training step, every neuron (including input, but ont outputs) has a probability p of being temporarily \"dropped out\", meaning entirely ignored during this training step.",
+    "refresher": "Randomly omit activations during training so the network cannot rely on one fixed set of collaborators. Use the appropriate training and inference behavior; dropout is a regularizer, not a guaranteed accuracy improvement.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 432
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Dropout",
+        "url": "https://www.deeplearningbook.org/contents/regularization.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-data-augmentation-encodes-valid-invariances",
+    "concept": "Data augmentation encodes valid invariances",
+    "quote": "Data augmentation artificially increases the size of the training set by generating many realistic variants of each training instance.",
+    "refresher": "Transform training examples in ways that preserve their labels. A useful augmentation reflects real variation the model should tolerate; an invalid transformation teaches the wrong relationship.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 506
+    },
+    "links": [
+      {
+        "title": "Goodfellow, Bengio and Courville · Dataset augmentation",
+        "url": "https://www.deeplearningbook.org/contents/regularization.html"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-residual-connections-let-layers-learn-corrections",
+    "concept": "Residual connections let layers learn corrections",
+    "quote": "Residual Networks: use skip connections (also called shortcut connections): the signal feeding into a layer is also added to the output of a layer located a bit higher in the stack (residual learning).",
+    "refresher": "A skip connection carries the input forward while a learned branch adds a residual. This makes identity mappings easy to represent and can make very deep networks easier to optimize.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 507
+    },
+    "links": [
+      {
+        "title": "He and colleagues · Deep residual learning",
+        "url": "https://arxiv.org/abs/1512.03385"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-attention-heads-learn-different-relationships",
+    "concept": "Attention heads learn different relationships",
+    "quote": "It allows the model to apply many different projections of the word representation into different subspaces, each focusing on a subset of the word's characteristics.",
+    "refresher": "Queries compare with keys to weight values. Multiple heads perform this operation in different learned projections, letting a token combine several kinds of context. Positional information is needed to represent order.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 571
+    },
+    "links": [
+      {
+        "title": "Vaswani and colleagues · Attention Is All You Need",
+        "url": "https://arxiv.org/abs/1706.03762"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-gans-learn-through-a-generator-discriminator-contest",
+    "concept": "GANs learn through a generator-discriminator contest",
+    "quote": "GANs are composed by two neural networks: a generator that tries to generate data that looks familiar to the training data, and a discriminator that tries to tell real data from fake data.",
+    "refresher": "The discriminator learns to distinguish data from generated samples; the generator learns to fool it. Better-looking samples do not ensure diverse coverage, and the competing optimization can be unstable.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 582
+    },
+    "links": [
+      {
+        "title": "Goodfellow and colleagues · Generative Adversarial Networks",
+        "url": "https://arxiv.org/abs/1406.2661"
+      }
+    ]
+  },
+  {
+    "bookId": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+    "book": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "nonfiction",
+    "topic": "Machine learning",
+    "id": "hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-delayed-rewards-create-a-credit-assignment-problem",
+    "concept": "Delayed rewards create a credit assignment problem",
+    "quote": "This is called the credit assignment problem: when the agent gets a reward, it is hard for it to know which actions should get credited (or blamed) for it.",
+    "refresher": "Reinforcement learning lacks a correct action label at every step. It must connect actions to later returns, balancing immediate reward against consequences that emerge after many decisions.",
+    "source": {
+      "file": "Hands-on machine learning with scikit-learn, keras & tensorflow notes.html",
+      "paragraph": 625
+    },
+    "links": [
+      {
+        "title": "OpenAI Spinning Up · Rewards, returns, and value functions",
+        "url": "https://spinningup.openai.com/en/latest/spinningup/rl_intro.html"
+      }
+    ]
+  }
+]

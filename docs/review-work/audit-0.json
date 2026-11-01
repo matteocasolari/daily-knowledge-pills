@@ -1,0 +1,37 @@
+[
+  {
+    "file": "Thinking, fast and slow notes.html",
+    "existingCount": 5,
+    "addedCount": 2,
+    "assessment": "Added structured assessment and conditions for expert intuition, two substantial decision methods absent from the five existing pills. Anchoring, regression, outside view, optimism and premortems already covered. Regret advice is fragmented and overlaps hindsight safeguards.",
+    "deferred": []
+  },
+  {
+    "file": "Delivering happiness notes.html",
+    "existingCount": 3,
+    "addedCount": 4,
+    "assessment": "Added manual demand validation, decision-versus-outcome reasoning, long-term customer relationships and the book’s happiness framework. Existing pills already cover culture, purpose and operational customer promises. Hiring and development examples reinforce that culture theme rather than requiring every anecdote.",
+    "deferred": []
+  },
+  {
+    "file": "The upstarts notes.html",
+    "existingCount": 2,
+    "addedCount": 2,
+    "assessment": "Added manual early growth and the marketplace cold-start problem, central mechanisms missing from asset-light coordination and political leverage. Regulation, discrimination, liability and leadership ethics are important themes, but the notes mostly offer case judgments rather than compact generalizable evidence.",
+    "deferred": "Platform liability and specific regulatory prescriptions deferred because these historical notes do not establish current jurisdiction-specific rules."
+  },
+  {
+    "file": "Machine learning engineering notes.html",
+    "existingCount": 12,
+    "addedCount": 6,
+    "assessment": "Added evaluation separation, preprocessing leakage, patterned error analysis, canary rollout, production monitoring and feedback loops. These fill lifecycle gaps beyond the existing twelve pills. Detailed serialization formats and language micro-optimizations are secondary implementation details; privacy and fairness are acknowledged but their sparse source fragments do not support a fuller independent treatment.",
+    "deferred": []
+  },
+  {
+    "file": "The hundred-page machine learning book notes.html",
+    "existingCount": 10,
+    "addedCount": 8,
+    "assessment": "Added overfitting diagnosis, regularization, precision/recall, cross-validation, gradient descent, bagging, boosting and transfer learning. These are foundational omissions despite ten existing pills emphasizing scattered topics. Remaining architectures and algorithms are valuable references but not equally central; avoided incorrect general claims about normality after standardization and guaranteed neural-network superiority.",
+    "deferred": []
+  }
+]
