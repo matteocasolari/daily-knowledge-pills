@@ -4,7 +4,7 @@
     "sourceFiles": 99,
     "sourceParagraphs": 15688,
     "books": 99,
-    "pills": 522,
+    "pills": 620,
     "maxWordsPerPill": 110
   },
   "pills": [
@@ -11245,8 +11245,8 @@
       },
       "links": [
         {
-          "title": "University of Oxford · Environmental impacts across food production",
-          "url": "https://www.ox.ac.uk/news/2018-06-01-new-estimates-environmental-cost-food"
+          "title": "Poore and Nemecek · Food production impacts (research paper)",
+          "url": "https://ora.ox.ac.uk/objects/uuid%3Ab0b53649-5e93-4415-bf07-6b0b1227172f"
         }
       ]
     },
@@ -11331,6 +11331,2064 @@
         {
           "title": "Kristin Neff · Approaching difficulty without self-blame",
           "url": "https://self-compassion.org/what-is-self-compassion/"
+        }
+      ]
+    },
+    {
+      "bookId": "atomic-habits",
+      "book": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "nonfiction",
+      "id": "atomic-habits-use-the-four-laws-to-diagnose-a-habit",
+      "concept": "Use the four laws to diagnose a habit",
+      "topic": "Habits",
+      "refresher": "Clear maps habit design onto cue, craving, response and reward. If a routine stalls, identify which step needs help: noticing the cue, wanting to act, making the action manageable, or finding it satisfying.",
+      "quote": "How to create a good habit: make it obvious (cue), make it attractive (craving), make it easy (response), make it satisfying (reward).",
+      "source": {
+        "file": "Clear J. - Atomic Habits.docx",
+        "paragraph": 19
+      },
+      "links": [
+        {
+          "title": "Wendy Wood · Habits, goals and behavior change",
+          "url": "https://journals.sagepub.com/doi/10.1177/09637214241246480"
+        }
+      ]
+    },
+    {
+      "bookId": "atomic-habits",
+      "book": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "nonfiction",
+      "id": "atomic-habits-observe-existing-habits-before-redesigning-them",
+      "concept": "Observe existing habits before redesigning them",
+      "topic": "Habits",
+      "refresher": "List the routines already happening in a normal day. Evaluate them against the person you want to become; the point is awareness and a useful starting point, not a moral score.",
+      "quote": "Habit Scorecard: make a list of your daily habits, and sign whether is a good habit (+), a neutral habit (=) or a bad habit (-). Ask yourself \"Does this behavior help me become the type of person I wish to be?”",
+      "source": {
+        "file": "Clear J. - Atomic Habits.docx",
+        "paragraph": 22
+      },
+      "links": [
+        {
+          "title": "Harkin and colleagues · Monitoring goal progress",
+          "url": "https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "atomic-habits",
+      "book": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "nonfiction",
+      "id": "atomic-habits-make-the-cue-visible",
+      "concept": "Make the cue visible",
+      "topic": "Habits",
+      "refresher": "Place a clear reminder where the desired action can actually happen. A book on your pillow or a water bottle on your desk can prompt action before you need to remember an intention.",
+      "quote": "Creating obvious visual clues can draw your attention toward a desired habit.",
+      "source": {
+        "file": "Clear J. - Atomic Habits.docx",
+        "paragraph": 26
+      },
+      "links": [
+        {
+          "title": "Wendy Wood · Context cues and habit change",
+          "url": "https://journals.sagepub.com/doi/10.1177/09637214241246480"
+        }
+      ]
+    },
+    {
+      "bookId": "atomic-habits",
+      "book": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "nonfiction",
+      "id": "atomic-habits-remove-recurring-cues-for-unwanted-habits",
+      "concept": "Remove recurring cues for unwanted habits",
+      "topic": "Habits",
+      "refresher": "Change the setting that repeatedly prompts an unwanted response. Clear recommends hiding or removing the cue so that every encounter does not become another test of willpower.",
+      "quote": "Self-control is a short-term strategy, not a long-term one. This is the secret of self-control. make the cues of your good habits obvious and the cues of your bad habits invisible.",
+      "source": {
+        "file": "Clear J. - Atomic Habits.docx",
+        "paragraph": 31
+      },
+      "links": [
+        {
+          "title": "Wood and Neal · Habits and goals",
+          "url": "https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "atomic-habits",
+      "book": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "nonfiction",
+      "id": "atomic-habits-choose-a-group-where-the-habit-is-normal",
+      "concept": "Choose a group where the habit is normal",
+      "topic": "Habits",
+      "refresher": "A group can make a desired routine feel ordinary and socially rewarding. Look for people who already practice it and with whom you share another interest, so participation has a reason beyond self-improvement.",
+      "quote": "Join a culture where your desired behavior is the normal behavior (and possibly where you already have something in common with the group).",
+      "source": {
+        "file": "Clear J. - Atomic Habits.docx",
+        "paragraph": 39
+      },
+      "links": [
+        {
+          "title": "Wood and Neal · Habits and goals",
+          "url": "https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "atomic-habits",
+      "book": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "nonfiction",
+      "id": "atomic-habits-precommit-before-temptation-arrives",
+      "concept": "Precommit before temptation arrives",
+      "topic": "Habits",
+      "refresher": "Make a voluntary choice now that changes the options available later. For example, schedule an app blocker during focused work. Choose a proportionate constraint you understand, rather than relying entirely on future motivation.",
+      "quote": "How to make a habit difficult: use a commitment device. A choice you make in the present that controls your actions in the future.",
+      "source": {
+        "file": "Clear J. - Atomic Habits.docx",
+        "paragraph": 49
+      },
+      "links": [
+        {
+          "title": "Milkman, Minson and Volpp · Restrictive temptation bundles",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4381662/"
+        }
+      ]
+    },
+    {
+      "bookId": "atomic-habits",
+      "book": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "nonfiction",
+      "id": "atomic-habits-track-actions-instead-of-relying-on-memory",
+      "concept": "Track actions instead of relying on memory",
+      "topic": "Habits",
+      "refresher": "Use a simple record of whether the intended behavior happened. Review the pattern to adjust your environment or plan; tracking is useful when it informs action, not merely when it creates a pleasing streak.",
+      "quote": "Habit tracking keeps you honest. Most of us have a distorted view of our own behavior. We think we act better than we do.",
+      "source": {
+        "file": "Clear J. - Atomic Habits.docx",
+        "paragraph": 53
+      },
+      "links": [
+        {
+          "title": "Harkin and colleagues · Monitoring goal progress",
+          "url": "https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "atomic-habits",
+      "book": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "nonfiction",
+      "id": "atomic-habits-review-whether-an-old-habit-still-serves-you",
+      "concept": "Review whether an old habit still serves you",
+      "topic": "Habits",
+      "refresher": "An efficient routine can outlive the purpose that created it. Periodically compare recurring actions with your current priorities and update the routine when they no longer match.",
+      "quote": "You need yo check in to see if your old habits and beliefs are still serving you.",
+      "source": {
+        "file": "Clear J. - Atomic Habits.docx",
+        "paragraph": 65
+      },
+      "links": [
+        {
+          "title": "Wood, Mazar and Neal · Habits and goals as interacting systems",
+          "url": "https://marketing.wharton.upenn.edu/wp-content/uploads/2022/02/Wood.Mazar_.Neal_.2021.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "the-art-of-loving",
+      "book": "The Art of Loving",
+      "author": "Erich Fromm",
+      "genre": "nonfiction",
+      "id": "the-art-of-loving-distinguish-falling-in-love-from-sustaining-love",
+      "concept": "Distinguish falling in love from sustaining love",
+      "topic": "Relationships",
+      "refresher": "Fromm separates the initial experience of closeness from the continuing capacity to care. Ask what practices sustain understanding and connection after novelty fades, instead of using intensity alone as evidence of a lasting relationship.",
+      "quote": "The third error leading to the assumption that there is nothing to be learned about love lies in the confusion between the initial experience of falling' in love, and the permanent state of being in love. or as we might better say, of 'standing' in love.",
+      "source": {
+        "file": "Fromm E. - The Art of Loving_.docx",
+        "paragraph": 8
+      },
+      "links": [
+        {
+          "title": "Gottman Institute · Creating rituals of connection",
+          "url": "https://www.gottman.com/blog/create-shared-meaning-examining-rituals/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-art-of-loving",
+      "book": "The Art of Loving",
+      "author": "Erich Fromm",
+      "genre": "nonfiction",
+      "id": "the-art-of-loving-love-does-not-require-the-absence-of-conflict",
+      "concept": "Love does not require the absence of conflict",
+      "topic": "Relationships",
+      "refresher": "Fromm challenges the idea that disagreement proves love has failed. Pay attention to how you handle differences: honest communication, respect and repair matter more than pretending no differences exist.",
+      "quote": "One other frequent error must be mentioned here. The illusion, namely that love means necessarily the absence of conflict.",
+      "source": {
+        "file": "Fromm E. - The Art of Loving_.docx",
+        "paragraph": 69
+      },
+      "links": [
+        {
+          "title": "Gottman Institute · Relationship conflict resolution",
+          "url": "https://www.gottman.com/conflict-resolution-relationship/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-art-of-loving",
+      "book": "The Art of Loving",
+      "author": "Erich Fromm",
+      "genre": "nonfiction",
+      "id": "the-art-of-loving-practice-being-alone-without-constant-stimulation",
+      "concept": "Practice being alone without constant stimulation",
+      "topic": "Attention",
+      "refresher": "Fromm treats concentration as a capacity to cultivate. Try a short, manageable period without entertainment and notice what arises; attention to yourself can support fuller attention to another person.",
+      "quote": "Concentration is by far more difficult to practise in our culture, in which everything seems to act against the ability to concentrate. The most important step in learning concentration is to learn to be alone with oneself without reading, listening to the radio, smoking or drinking.",
+      "source": {
+        "file": "Fromm E. - The Art of Loving_.docx",
+        "paragraph": 80
+      },
+      "links": [
+        {
+          "title": "Greater Good in Action · Mindful breathing",
+          "url": "https://ggia.berkeley.edu/practice/mindful_breathing"
+        }
+      ]
+    },
+    {
+      "bookId": "zen-mind-beginner-s-mind",
+      "book": "Zen Mind, Beginner’s Mind",
+      "author": "Shunryu Suzuki",
+      "genre": "nonfiction",
+      "id": "zen-mind-beginner-s-mind-practice-without-treating-it-as-a-prize",
+      "concept": "Practice without treating it as a prize",
+      "topic": "Mindfulness",
+      "refresher": "Suzuki presents zazen as an expression of practice itself. Sit with sincere attention rather than repeatedly evaluating whether the session has earned calmness, insight or status.",
+      "quote": "Our way is not to sit to acquire something; it is to express our true nature. That is our practice.",
+      "source": {
+        "file": "Zen mind, beginner_s mind notes.html",
+        "paragraph": 36
+      },
+      "links": [
+        {
+          "title": "Santa Cruz Zen Center · Just sitting",
+          "url": "https://sczc.org/sit"
+        }
+      ]
+    },
+    {
+      "bookId": "zen-mind-beginner-s-mind",
+      "book": "Zen Mind, Beginner’s Mind",
+      "author": "Shunryu Suzuki",
+      "genre": "nonfiction",
+      "id": "zen-mind-beginner-s-mind-bring-full-attention-to-the-activity-at-hand",
+      "concept": "Bring full attention to the activity at hand",
+      "topic": "Attention",
+      "refresher": "Read this as an invitation to wholehearted participation. When eating, walking or working, return to the activity you are actually doing instead of continually splitting attention between it and an imagined result.",
+      "quote": "When you do something, you should do it with your whole body and mind. You should burn yourself completely.",
+      "source": {
+        "file": "Zen mind, beginner_s mind notes.html",
+        "paragraph": 42
+      },
+      "links": [
+        {
+          "title": "Greater Good in Action · Walking meditation",
+          "url": "https://ggia.berkeley.edu/practice/walking_meditation"
+        }
+      ]
+    },
+    {
+      "bookId": "zen-mind-beginner-s-mind",
+      "book": "Zen Mind, Beginner’s Mind",
+      "author": "Shunryu Suzuki",
+      "genre": "nonfiction",
+      "id": "zen-mind-beginner-s-mind-meet-experience-as-something-changing",
+      "concept": "Meet experience as something changing",
+      "topic": "Mindfulness",
+      "refresher": "In Suzuki’s account, beginner’s mind includes recognizing impermanence. Notice a sensation or situation changing rather than insisting that its present form must remain. This is a contemplative perspective, not a claim that practical problems disappear.",
+      "quote": "We must have beginner's mind, free from possessing anything, a mind that knows everything is in flowing change. Nothing exists but momentarily in its present form and color. One thing flows into another and cannot be grasped.",
+      "source": {
+        "file": "Zen mind, beginner_s mind notes.html",
+        "paragraph": 92
+      },
+      "links": [
+        {
+          "title": "Santa Cruz Zen Center · Sitting practice",
+          "url": "https://sczc.org/sit"
+        }
+      ]
+    },
+    {
+      "bookId": "architecture-patterns-with-python",
+      "book": "Architecture Patterns with Python",
+      "author": "Harry Percival and Bob Gregory",
+      "genre": "nonfiction",
+      "id": "architecture-patterns-with-python-put-persistence-behind-a-repository",
+      "concept": "Put persistence behind a repository",
+      "topic": "Architecture",
+      "refresher": "Expose a collection-like interface for storing and retrieving domain objects. Keep query and storage details behind that boundary so business behavior can be exercised without a real database.",
+      "quote": "The Repository pattern is an abstraction over persistent storage. It hides the boring details of data access by pretending that all of our data is in memory.",
+      "source": {
+        "file": "Percival H. - Architecture Patterns with Python.docx",
+        "paragraph": 49
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Repository",
+          "url": "https://martinfowler.com/eaaCatalog/repository.html"
+        }
+      ]
+    },
+    {
+      "bookId": "architecture-patterns-with-python",
+      "book": "Architecture Patterns with Python",
+      "author": "Harry Percival and Bob Gregory",
+      "genre": "nonfiction",
+      "id": "architecture-patterns-with-python-give-application-use-cases-an-orchestration-layer",
+      "concept": "Give application use cases an orchestration layer",
+      "topic": "Architecture",
+      "refresher": "A service layer coordinates a use case: load the relevant objects, check the request, invoke domain behavior and save changes. This keeps the same workflow from being reimplemented independently in each entry point.",
+      "quote": "If we look at what our Flask app is doing, there’s quite a lot of what we might call orchestration. It often makes sense to split out a service layer, sometimes called an orchestration layer or a use-case layer.",
+      "source": {
+        "file": "Percival H. - Architecture Patterns with Python.docx",
+        "paragraph": 84
+      },
+      "links": [
+        {
+          "title": "Randy Stafford · Service Layer",
+          "url": "https://martinfowler.com/eaaCatalog/serviceLayer.html"
+        }
+      ]
+    },
+    {
+      "bookId": "architecture-patterns-with-python",
+      "book": "Architecture Patterns with Python",
+      "author": "Harry Percival and Bob Gregory",
+      "genre": "nonfiction",
+      "id": "architecture-patterns-with-python-make-architectural-layers-earn-their-cost",
+      "concept": "Make architectural layers earn their cost",
+      "topic": "Architecture",
+      "refresher": "Repositories and rich domain models help when they isolate meaningful complexity. For a simple data-entry application, extra mappings and abstractions may cost more to maintain than they save. Choose the structure for the problem you actually have.",
+      "quote": "If your app is just a simple CRUD (create-read-update-delete) wrapper around a database, then you don’t need a domain model or a repository. But the more complex the domain, the more an investment in freeing yourself from infrastructure concerns will pay off in terms of the ease of making changes.",
+      "source": {
+        "file": "Percival H. - Architecture Patterns with Python.docx",
+        "paragraph": 63
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Yagni",
+          "url": "https://martinfowler.com/bliki/Yagni.html"
+        }
+      ]
+    },
+    {
+      "bookId": "architecture-patterns-with-python",
+      "book": "Architecture Patterns with Python",
+      "author": "Harry Percival and Bob Gregory",
+      "genre": "nonfiction",
+      "id": "architecture-patterns-with-python-a-fake-implements-behavior-for-a-test",
+      "concept": "A fake implements behavior for a test",
+      "topic": "Testing",
+      "refresher": "A fake is a simplified working implementation, such as an in-memory repository. A mock instead supports expectations about interactions. Choose the double that tests the relevant contract without unnecessarily coupling the test to internal calls.",
+      "quote": "Fakes are working implementations of the thing they’re replacing, but they’re designed for use only in tests.",
+      "source": {
+        "file": "Percival H. - Architecture Patterns with Python.docx",
+        "paragraph": 83
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Mocks Aren’t Stubs",
+          "url": "https://martinfowler.com/articles/mocksArentStubs.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-give-a-function-one-coherent-job",
+      "concept": "Give a function one coherent job",
+      "topic": "Software design",
+      "refresher": "Use a single clear responsibility as a design guide. If describing a function requires several unrelated actions, consider separating them; judge cohesion and readability rather than enforcing an arbitrary line limit.",
+      "quote": "Functions should do one thing, they should do it well, they should do it only.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 79
+      },
+      "links": [
+        {
+          "title": "Google Engineering Practices · Reviewing complexity",
+          "url": "https://google.github.io/eng-practices/review/reviewer/looking-for.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-keep-a-function-at-one-level-of-abstraction",
+      "concept": "Keep a function at one level of abstraction",
+      "topic": "Software design",
+      "refresher": "A workflow is easier to follow when its steps speak the same language. Move lower-level mechanics into clearly named helpers when that lets the caller explain what happens without mixing policy and implementation detail.",
+      "quote": "Statements within our functions are all at the same level of abstraction.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 80
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Refactoring",
+          "url": "https://refactoring.com/"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-separate-queries-from-commands",
+      "concept": "Separate queries from commands",
+      "topic": "Software design",
+      "refresher": "A query reports information without changing observable state; a command changes it. Keeping that distinction visible makes calls easier to compose and reason about. Treat it as an API design principle with deliberate exceptions.",
+      "quote": "Functions should either do something or answering something, but not both.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 94
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Command Query Separation",
+          "url": "https://martinfowler.com/bliki/CommandQuerySeparation.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-keep-comments-aligned-with-the-code",
+      "concept": "Keep comments aligned with the code",
+      "topic": "Maintainability",
+      "refresher": "A stale explanation can send the next reader in the wrong direction. Update comments when behavior changes, and use them to preserve intent or constraints that the code does not already express.",
+      "quote": "Inaccurate comments are far worse than no comments at all.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 108
+      },
+      "links": [
+        {
+          "title": "Google Engineering Practices · Reviewing comments",
+          "url": "https://google.github.io/eng-practices/review/reviewer/looking-for.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-errors-need-diagnostic-context",
+      "concept": "Errors need diagnostic context",
+      "topic": "Error handling",
+      "refresher": "An error should identify the failed operation and enough context to investigate it. Preserve the underlying cause when translating an exception, while avoiding sensitive data in messages or logs.",
+      "quote": "Each exception that you throw should provide enough context to determine the source and location of an error. Create informative error messages.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 163
+      },
+      "links": [
+        {
+          "title": "Python documentation · Exception chaining",
+          "url": "https://docs.python.org/3/tutorial/errors.html#exception-chaining"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-make-the-three-parts-of-a-test-visible",
+      "concept": "Make the three parts of a test visible",
+      "topic": "Testing",
+      "refresher": "Arrange the starting conditions, perform the behavior under test, then check the result. A reader should quickly see the scenario and expected outcome without decoding incidental setup.",
+      "quote": "The build-operate-check pattern should be made obvious by the structure of the tests, they should be clearly split into three parts. Build up the test data, operate on that data, and check that the operation yielded the expected results. Eliminate annoying details.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 180
+      },
+      "links": [
+        {
+          "title": "pytest · Anatomy of a test",
+          "url": "https://docs.pytest.org/en/stable/explanation/anatomy.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-tests-should-not-depend-on-execution-order",
+      "concept": "Tests should not depend on execution order",
+      "topic": "Testing",
+      "refresher": "Each test should establish the state it needs and clean up what it changes. Otherwise a failure can depend on which test ran first, hiding the actual cause and making isolated reruns misleading.",
+      "quote": "Independent: they should be not depend on each other. One should not set up the condition for the next.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 185
+      },
+      "links": [
+        {
+          "title": "pytest · Flaky tests",
+          "url": "https://docs.pytest.org/en/stable/explanation/flaky.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-group-code-by-its-reason-to-change",
+      "concept": "Group code by its reason to change",
+      "topic": "Software design",
+      "refresher": "A class should represent a coherent responsibility. Separate concerns that change for different reasons, while avoiding a proliferation of tiny classes that makes the whole system harder to understand.",
+      "quote": "The first rule of classes is that they should be small. They should have one responsibilities - one reason to change.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 190
+      },
+      "links": [
+        {
+          "title": "Google Engineering Practices · Reviewing design and complexity",
+          "url": "https://google.github.io/eng-practices/review/reviewer/looking-for.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-separate-object-wiring-from-runtime-behavior",
+      "concept": "Separate object wiring from runtime behavior",
+      "topic": "Architecture",
+      "refresher": "Construct and connect dependencies at an explicit boundary. Let the application logic use those dependencies without also deciding how every concrete implementation is created.",
+      "quote": "Software systems should separate the startup process, when the application objects are constructed and the dependencies are \"wired\" together, from the runtime logic that takes over after startup.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 201
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Dependency injection and configuration",
+          "url": "https://martinfowler.com/articles/injection.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-small-units-can-still-create-an-overcomplicated-system",
+      "concept": "Small units can still create an overcomplicated system",
+      "topic": "Software design",
+      "refresher": "Extraction helps only when the resulting structure is clearer. Check the cost of navigating between many tiny methods or classes, and retain a cohesive unit when splitting it would add indirection without meaning.",
+      "quote": "In an effort to make our classes and methods small, we might create too many tiny classes and methods. So this rule suggests that we also keep our function and class counts low. High class and method counts are sometimes the result of pointless dogmatism.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 228
+      },
+      "links": [
+        {
+          "title": "Martin Fowler · Yagni",
+          "url": "https://martinfowler.com/bliki/Yagni.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-reduce-concurrency-risks-by-separating-data",
+      "concept": "Reduce concurrency risks by separating data",
+      "topic": "Concurrency",
+      "refresher": "When workers can own independent data, fewer operations need coordination. Identify the genuinely shared state and protect the invariants around it, rather than sharing everything and adding locks afterward.",
+      "quote": "Recommendation: attempt to partition data into independent subset that can be operated by independent threads.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 244
+      },
+      "links": [
+        {
+          "title": "Oracle · Immutable objects and concurrency",
+          "url": "https://docs.oracle.com/javase/tutorial/essential/concurrency/immutable.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-thread-safe-calls-do-not-make-a-sequence-atomic",
+      "concept": "Thread-safe calls do not make a sequence atomic",
+      "topic": "Concurrency",
+      "refresher": "A check followed by an update can race even when each individual method is thread-safe. Protect the entire invariant with an appropriate atomic operation or shared synchronization policy.",
+      "quote": "Some collection classes have individual methods that are thread-safe. However, any operation that involves calling more than one method is not.",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 359
+      },
+      "links": [
+        {
+          "title": "Oracle · Atomic access",
+          "url": "https://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html"
+        }
+      ]
+    },
+    {
+      "bookId": "clean-code",
+      "book": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "nonfiction",
+      "id": "clean-code-test-the-edges-of-the-allowed-input",
+      "concept": "Test the edges of the allowed input",
+      "topic": "Testing",
+      "refresher": "Exercise empty values, limits and transitions where behavior changes. Boundary tests reveal assumptions that ordinary examples can miss; specify both accepted inputs and the expected response to invalid ones.",
+      "quote": "Incorrect behaviour at the boundaries (write a test for each boundary condition)",
+      "source": {
+        "file": "Clean code notes.html",
+        "paragraph": 294
+      },
+      "links": [
+        {
+          "title": "Google Engineering Practices · Reviewing functionality and edge cases",
+          "url": "https://google.github.io/eng-practices/review/reviewer/looking-for.html"
+        }
+      ]
+    },
+    {
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "id": "le-crepe-sono-fatte-per-loro-rest-does-not-have-to-prove-its-usefulness",
+      "concept": "Rest does not have to prove its usefulness",
+      "topic": "Self-knowledge",
+      "refresher": "The passage invites you to separate human worth from output. Give yourself a brief period of rest or observation without turning it into another productivity target.",
+      "quote": "Forse è okay esistere senza produrre. Forse è okay essere solo un albero per un giorno. Forse il tuo valore non dipende da quanto lavori.",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 11
+      },
+      "links": [
+        {
+          "title": "Kristin Neff · Self-compassion",
+          "url": "https://self-compassion.org/what-is-self-compassion/"
+        }
+      ]
+    },
+    {
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "id": "le-crepe-sono-fatte-per-loro-acknowledge-a-scar-without-demanding-perfect-repair",
+      "concept": "Acknowledge a scar without demanding perfect repair",
+      "topic": "Acceptance",
+      "refresher": "The book uses repaired pottery as a metaphor for living with a painful history. Acknowledgment need not mean gratitude for harm or a prediction that healing is impossible; it can mean making room for the present experience.",
+      "quote": "“Alcune crepe rimangono, e tu impari vivere con loro. Non nascondi. Non fingi non esistono. Ma accetti questa crepa parte di storia Parte di me Parte di lui. Parte di quello successo.”",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 19
+      },
+      "links": [
+        {
+          "title": "World Health Organization · Making room for difficult feelings",
+          "url": "https://www.who.int/publications/i/item/9789240003927"
+        }
+      ]
+    },
+    {
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "id": "le-crepe-sono-fatte-per-loro-appreciate-a-passing-moment-while-it-is-here",
+      "concept": "Appreciate a passing moment while it is here",
+      "topic": "Mindfulness",
+      "refresher": "The book connects mono no aware with noticing transience. Let the knowledge that a moment will pass deepen your attention to it now, rather than waiting for nostalgia to make it valuable.",
+      "quote": "La maggior parte di noi pensa che apprezzerà i moment quando finiranno. Mono no aware ti insegna ad apprezzarl mentre accadono, proprio perché sai che finiranno.",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 40
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Mono no aware",
+          "url": "https://plato.stanford.edu/entries/japanese-aesthetics/"
+        }
+      ]
+    },
+    {
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "id": "le-crepe-sono-fatte-per-loro-leave-a-pause-before-responding",
+      "concept": "Leave a pause before responding",
+      "topic": "Communication",
+      "refresher": "A deliberate pause gives the other person room to finish and gives you time to understand. Try listening through a short silence instead of immediately filling it with advice or your next story.",
+      "quote": "C'è una magia nelle pause intenzionali. Quando qualcuno finisce di parlare e tu conti tre secondi prima di rispondere, in quei tre secondi succede qualcosa.",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 45
+      },
+      "links": [
+        {
+          "title": "Greater Good in Action · Active listening",
+          "url": "https://ggia.berkeley.edu/practice/active_listening"
+        }
+      ]
+    },
+    {
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "id": "le-crepe-sono-fatte-per-loro-let-suggestion-leave-room-for-mystery",
+      "concept": "Let suggestion leave room for mystery",
+      "topic": "Aesthetics",
+      "refresher": "Yūgen directs attention toward depth that is felt without being completely disclosed. In an artwork or landscape, notice how what remains unseen can contribute to its effect.",
+      "quote": "Yugen è la bellezza del mistero, della profondità suggerita ma non rivelata completamente.",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 48
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Yūgen",
+          "url": "https://plato.stanford.edu/entries/japanese-aesthetics/"
+        }
+      ]
+    },
+    {
+      "bookId": "le-crepe-sono-fatte-per-loro",
+      "book": "Le crepe sono fatte per l’oro",
+      "author": "Elena Giappone",
+      "genre": "nonfiction",
+      "id": "le-crepe-sono-fatte-per-loro-notice-where-your-care-is-actually-going",
+      "concept": "Notice where your care is actually going",
+      "topic": "Relationships",
+      "refresher": "Attention is limited. Compare the care you offer occasional guests with the care you offer people close to you, then choose one overlooked relationship to attend to more deliberately.",
+      "quote": "Dove sto davvero mettendo la mia attenzione profonda? E chi sto trascurando senza accorgermene?",
+      "source": {
+        "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+        "paragraph": 101
+      },
+      "links": [
+        {
+          "title": "Gottman Institute · Creating shared rituals",
+          "url": "https://www.gottman.com/blog/create-shared-meaning-examining-rituals/"
+        }
+      ]
+    },
+    {
+      "bookId": "how-to-win-friends-and-influence-people",
+      "book": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "genre": "nonfiction",
+      "id": "how-to-win-friends-and-influence-people-understand-the-other-person-s-incentives",
+      "concept": "Understand the other person’s incentives",
+      "topic": "Communication",
+      "refresher": "Before making a request, consider what matters to the other person and ask questions to check your assumptions. Look for a proposal that serves both sides instead of simply repeating your own reasons.",
+      "quote": "'If there is any one secret of success it lies in the ability to get the other's point of view and see things from that person's angle as well as from your own'.",
+      "source": {
+        "file": "How to win friends and influence people notes.html",
+        "paragraph": 25
+      },
+      "links": [
+        {
+          "title": "Columbia Business School · The view from the other side of the table",
+          "url": "https://business.columbia.edu/faculty/research/view-other-side-table"
+        }
+      ]
+    },
+    {
+      "bookId": "how-to-win-friends-and-influence-people",
+      "book": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "genre": "nonfiction",
+      "id": "how-to-win-friends-and-influence-people-let-the-other-person-finish-before-replying",
+      "concept": "Let the other person finish before replying",
+      "topic": "Communication",
+      "refresher": "Listen for the complete concern before preparing a rebuttal. Summarize what you understood and invite a correction; attention makes disagreement more informed even when it does not produce agreement.",
+      "quote": "Listen first. Give your opponents a chance to talk. Let them finish.",
+      "source": {
+        "file": "How to win friends and influence people notes.html",
+        "paragraph": 62
+      },
+      "links": [
+        {
+          "title": "Greater Good in Action · Active listening",
+          "url": "https://ggia.berkeley.edu/practice/active_listening"
+        }
+      ]
+    },
+    {
+      "bookId": "how-to-win-friends-and-influence-people",
+      "book": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "genre": "nonfiction",
+      "id": "how-to-win-friends-and-influence-people-leave-room-to-discover-that-you-are-wrong",
+      "concept": "Leave room to discover that you are wrong",
+      "topic": "Judgment",
+      "refresher": "State uncertainty honestly and examine the evidence together. An open invitation to check the facts lowers the personal stakes of revising a view without requiring either person to pretend agreement.",
+      "quote": "'I may be wrong, I frequently am. Let's examine the facts.'",
+      "source": {
+        "file": "How to win friends and influence people notes.html",
+        "paragraph": 74
+      },
+      "links": [
+        {
+          "title": "Harvard Program on Negotiation · Asking useful questions",
+          "url": "https://www.pon.harvard.edu/daily/negotiation-skills-daily/ask-the-negotiation-coach-nb/"
+        }
+      ]
+    },
+    {
+      "bookId": "how-to-win-friends-and-influence-people",
+      "book": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "genre": "nonfiction",
+      "id": "how-to-win-friends-and-influence-people-invite-participation-in-solving-the-problem",
+      "concept": "Invite participation in solving the problem",
+      "topic": "Leadership",
+      "refresher": "Ask people who will do the work how they would approach it. Their involvement can surface practical options and improve commitment; make clear which constraints are fixed and which choices they can genuinely influence.",
+      "quote": "Asking questions not only makes an order more palatable; it often stimulates the creativity of the persons whom you ask. People are more likely to accept an order if they have had a part in the decision that caused the order to be issued.",
+      "source": {
+        "file": "How to win friends and influence people notes.html",
+        "paragraph": 121
+      },
+      "links": [
+        {
+          "title": "Harvard Program on Negotiation · Asking useful questions",
+          "url": "https://www.pon.harvard.edu/daily/negotiation-skills-daily/ask-the-negotiation-coach-nb/"
+        }
+      ]
+    },
+    {
+      "bookId": "how-to-win-friends-and-influence-people",
+      "book": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "genre": "nonfiction",
+      "id": "how-to-win-friends-and-influence-people-correct-mistakes-without-humiliating-the-person",
+      "concept": "Correct mistakes without humiliating the person",
+      "topic": "Feedback",
+      "refresher": "Address the behavior and its consequences while preserving dignity. Choose an appropriate setting and a concrete next step; protecting someone’s self-respect does not require concealing the problem or avoiding accountability.",
+      "quote": "Even if we are right and the other person is definitely wrong, we only destroy ego by causing someone to lose face.",
+      "source": {
+        "file": "How to win friends and influence people notes.html",
+        "paragraph": 124
+      },
+      "links": [
+        {
+          "title": "Center for Creative Leadership · Constructive feedback",
+          "url": "https://www.ccl.org/articles/leading-effectively-articles/confront-problem-employees/"
+        }
+      ]
+    },
+    {
+      "bookId": "how-to-win-friends-and-influence-people",
+      "book": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "genre": "nonfiction",
+      "id": "how-to-win-friends-and-influence-people-make-praise-specific-enough-to-be-useful",
+      "concept": "Make praise specific enough to be useful",
+      "topic": "Feedback",
+      "refresher": "Name the action you appreciated and what it made possible. Specific recognition tells the recipient what to continue and is more credible than a generic compliment used to soften an unrelated request.",
+      "quote": "What Mr Roper did was not just flatter the young printer and say 'You're good'. He specifically pointed out how his work was superior. Because he had singled out a specific accomplishment, rather than just making general flattering remarks, his praise became much more meaningful to the person to whom it was given.",
+      "source": {
+        "file": "How to win friends and influence people notes.html",
+        "paragraph": 127
+      },
+      "links": [
+        {
+          "title": "Center for Creative Leadership · Situation, behavior and impact",
+          "url": "https://www.ccl.org/articles/leading-effectively-articles/building-relationship-skills/"
+        }
+      ]
+    },
+    {
+      "bookId": "tao-te-ching",
+      "book": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "genre": "nonfiction",
+      "id": "tao-te-ching-non-action-questions-unnecessary-forcing",
+      "concept": "Non-action questions unnecessary forcing",
+      "topic": "Philosophy",
+      "refresher": "The surrounding verse pairs non-action with leaving nothing undone. Read wuwei as a challenge to compulsive interference, not a rule to neglect responsibilities: notice when a measured response fits better than imposing your will.",
+      "quote": "Tao abides in non-action,",
+      "source": {
+        "file": "Tao te ching notes.html",
+        "paragraph": 86
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Laozi and wuwei",
+          "url": "https://plato.stanford.edu/entries/laozi/"
+        }
+      ]
+    },
+    {
+      "bookId": "tao-te-ching",
+      "book": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "genre": "nonfiction",
+      "id": "tao-te-ching-flexibility-can-be-a-form-of-strength",
+      "concept": "Flexibility can be a form of strength",
+      "topic": "Philosophy",
+      "refresher": "The text reverses the usual association between hardness and power. Consider where adapting or yielding could preserve your purpose better than rigid resistance. This is a philosophical prompt, not a universal rule about conflict.",
+      "quote": "Soft and weak overcome hard and strong.",
+      "source": {
+        "file": "Tao te ching notes.html",
+        "paragraph": 85
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Laozi’s images of softness",
+          "url": "https://plato.stanford.edu/entries/laozi/"
+        }
+      ]
+    },
+    {
+      "bookId": "tao-te-ching",
+      "book": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "genre": "nonfiction",
+      "id": "tao-te-ching-lead-by-serving-rather-than-seeking-status",
+      "concept": "Lead by serving rather than seeking status",
+      "topic": "Leadership",
+      "refresher": "The verse associates leadership with humility. Ask what would help others act well and take responsibility for providing it, rather than treating authority as a claim to personal importance.",
+      "quote": "If you would guide the people, you must serve with humility.",
+      "source": {
+        "file": "Tao te ching notes.html",
+        "paragraph": 139
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Laozi’s political philosophy",
+          "url": "https://plato.stanford.edu/entries/laozi/"
+        }
+      ]
+    },
+    {
+      "bookId": "tao-te-ching",
+      "book": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "genre": "nonfiction",
+      "id": "tao-te-ching-recognizing-ignorance-is-a-strength",
+      "concept": "Recognizing ignorance is a strength",
+      "topic": "Judgment",
+      "refresher": "Notice the limits of what you know. Acknowledging uncertainty creates room to observe, ask and revise before confidence turns a gap in understanding into a mistake.",
+      "quote": "Knowing ignorance is strength.",
+      "source": {
+        "file": "Tao te ching notes.html",
+        "paragraph": 146
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Laozi on knowledge",
+          "url": "https://plato.stanford.edu/entries/laozi/"
+        }
+      ]
+    },
+    {
+      "bookId": "tao-te-ching",
+      "book": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "genre": "nonfiction",
+      "id": "tao-te-ching-begin-a-large-undertaking-with-the-next-step",
+      "concept": "Begin a large undertaking with the next step",
+      "topic": "Action",
+      "refresher": "A distant objective still requires a concrete beginning. Identify the small action available now without confusing that first step with certainty about the entire journey.",
+      "quote": "A journey of a thousand miles starts under ones feet.",
+      "source": {
+        "file": "Tao te ching notes.html",
+        "paragraph": 137
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Laozi on action",
+          "url": "https://plato.stanford.edu/entries/laozi/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-art-of-war",
+      "book": "The Art of War",
+      "author": "Sun Tzu",
+      "genre": "nonfiction",
+      "id": "the-art-of-war-achieve-the-objective-without-fighting-when-possible",
+      "concept": "Achieve the objective without fighting when possible",
+      "topic": "Strategy",
+      "refresher": "In the surrounding passage, Sun Tzu ranks achieving the objective without battle above winning every battle. Distinguish the desired outcome from the contest itself, and consider whether confrontation would destroy what you hoped to preserve.",
+      "quote": "Without ever fighting.",
+      "source": {
+        "file": "The art of war notes.html",
+        "paragraph": 48
+      },
+      "links": [
+        {
+          "title": "U.S. Army War College · The art of non-war",
+          "url": "https://warroom.armywarcollege.edu/articles/non-war/amp/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-art-of-war",
+      "book": "The Art of War",
+      "author": "Sun Tzu",
+      "genre": "nonfiction",
+      "id": "the-art-of-war-choosing-whether-to-engage-is-part-of-strategy",
+      "concept": "Choosing whether to engage is part of strategy",
+      "topic": "Strategy",
+      "refresher": "This line is paired in the notes with knowing when not to fight. Evaluate the purpose, conditions and costs before committing; declining an unfavorable contest can be a strategic decision rather than a failure of resolve.",
+      "quote": "Know when to fight",
+      "source": {
+        "file": "The art of war notes.html",
+        "paragraph": 76
+      },
+      "links": [
+        {
+          "title": "Oxford Academic · Themes in Sun Tzu and modern strategy",
+          "url": "https://academic.oup.com/book/6276/chapter-abstract/149936956"
+        }
+      ]
+    },
+    {
+      "bookId": "the-art-of-war",
+      "book": "The Art of War",
+      "author": "Sun Tzu",
+      "genre": "nonfiction",
+      "id": "the-art-of-war-assess-yourself-as-carefully-as-the-opposition",
+      "concept": "Assess yourself as carefully as the opposition",
+      "topic": "Strategy",
+      "refresher": "The surrounding verse joins knowledge of the opponent with knowledge of oneself. Check your own capacity, limits and assumptions alongside external conditions. Better information reduces miscalculation; it does not guarantee success.",
+      "quote": "Know yourself,",
+      "source": {
+        "file": "The art of war notes.html",
+        "paragraph": 286
+      },
+      "links": [
+        {
+          "title": "U.S. Army University Press · Humility and accurate self-assessment",
+          "url": "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/January-February-2021/Clark-Master-of-War/"
+        }
+      ]
+    },
+    {
+      "bookId": "homo-deus",
+      "book": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "nonfiction",
+      "id": "homo-deus-distinguish-physical-facts-from-shared-social-realities",
+      "concept": "Distinguish physical facts from shared social realities",
+      "topic": "Social systems",
+      "refresher": "Harari distinguishes what exists independently of belief, personal experience, and institutions sustained through shared recognition. Money and corporations can be socially constructed while still producing real obligations and consequences.",
+      "quote": "There is objective reality (independent or our beliefs and feelings), subjective reality (dependent or our beliefs and feelings) and intersubjective reality (depend on communication among many humans).",
+      "source": {
+        "file": "Homo deus notes.html",
+        "paragraph": 96
+      },
+      "links": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Social institutions",
+          "url": "https://plato.stanford.edu/entries/social-institutions/"
+        }
+      ]
+    },
+    {
+      "bookId": "homo-deus",
+      "book": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "nonfiction",
+      "id": "homo-deus-treat-future-scenarios-as-possibilities",
+      "concept": "Treat future scenarios as possibilities",
+      "topic": "Foresight",
+      "refresher": "Harari explicitly frames these futures as scenarios. Ask which assumptions would make one plausible, what could prevent it, and which choices remain open instead of reading a provocative possibility as an inevitable outcome.",
+      "quote": "All the scenarios outlined in this book should be understood as possibilities rather than prophecies.",
+      "source": {
+        "file": "Homo deus notes.html",
+        "paragraph": 246
+      },
+      "links": [
+        {
+          "title": "OECD · Scenarios: a user guide",
+          "url": "https://www.oecd.org/en/publications/back-to-the-future-s-of-education_178ef527-en/full-report/component-5.html"
+        }
+      ]
+    },
+    {
+      "bookId": "homo-deus",
+      "book": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "nonfiction",
+      "id": "homo-deus-small-delegations-can-shift-decision-making-authority",
+      "concept": "Small delegations can shift decision-making authority",
+      "topic": "Technology and society",
+      "refresher": "Harari argues that authority can move toward algorithms through ordinary choices. When adopting a recommendation system, consider which judgment you are delegating, how you can challenge its output, and who remains accountable.",
+      "quote": "The shifting of authority from humans to algorithms is happening all around us, not as a result of some momentous governmental decision, but due to a flood of mundane personal choices.",
+      "source": {
+        "file": "Homo deus notes.html",
+        "paragraph": 195
+      },
+      "links": [
+        {
+          "title": "NIST · AI Risk Management Framework",
+          "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+        }
+      ]
+    },
+    {
+      "bookId": "homo-deus",
+      "book": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "nonfiction",
+      "id": "homo-deus-data-processing-is-not-a-complete-account-of-value",
+      "concept": "Data processing is not a complete account of value",
+      "topic": "Technology and society",
+      "refresher": "Harari calls the worldview that values everything by its contribution to data processing Dataism. Examine what such a measure leaves out, including experiences and purposes that matter even when they produce no useful data.",
+      "quote": "Dataism (data religion) declares that the universe consists of data flows, an the value of any phenomenon or entity is determined by it contribution to data processing.",
+      "source": {
+        "file": "Homo deus notes.html",
+        "paragraph": 206
+      },
+      "links": [
+        {
+          "title": "NIST · Human values and AI risk management",
+          "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+        }
+      ]
+    },
+    {
+      "bookId": "homo-deus",
+      "book": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "nonfiction",
+      "id": "homo-deus-ask-whose-experience-a-study-represents",
+      "concept": "Ask whose experience a study represents",
+      "topic": "Research literacy",
+      "refresher": "The notes highlight the risks of generalizing from narrow participant samples. Check who was studied and whether their setting resembles the population of interest before treating a result as a universal feature of human psychology.",
+      "quote": "Most researches on the mind are biased cause they have been conducted on people suffering from various psychiatric disorders and mental diseases or on WEIRD people. Western, Educated, Industrialised, Rich and Democratic societies.",
+      "source": {
+        "file": "Homo deus notes.html",
+        "paragraph": 201
+      },
+      "links": [
+        {
+          "title": "Henrich, Heine and Norenzayan · The weirdest people in the world?",
+          "url": "https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "homo-deus",
+      "book": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "nonfiction",
+      "id": "homo-deus-history-can-reveal-alternatives-to-the-present",
+      "concept": "History can reveal alternatives to the present",
+      "topic": "History",
+      "refresher": "Harari proposes studying history to loosen the assumption that today’s arrangements are inevitable. Investigate how an institution developed and which choices shaped it before assuming it must continue unchanged.",
+      "quote": "Historians study the past not in order to repeat it, but in order to be liberated from it. This is the best reason to learn history: not in order to predict the future, but to free yourself of the past and imagine alternative destinies.",
+      "source": {
+        "file": "Homo deus notes.html",
+        "paragraph": 50
+      },
+      "links": [
+        {
+          "title": "Peter Stearns · Why study history?",
+          "url": "https://www.historians.org/resource/why-study-history-1998/"
+        }
+      ]
+    },
+    {
+      "bookId": "homo-deus",
+      "book": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "nonfiction",
+      "id": "homo-deus-humanism-locates-meaning-in-human-experience",
+      "concept": "Humanism locates meaning in human experience",
+      "topic": "Philosophy",
+      "refresher": "In Harari’s account, humanism shifts the source of meaning from a cosmic plan to human experience. Treat this as his interpretive framework; compare it with humanists’ own accounts of reason, compassion and shared responsibility.",
+      "quote": "Humanism reverses the roles and expects the experiences of humans to give meaning to the cosmos. Humanism primary commandment: create meaning for a meaningless world.",
+      "source": {
+        "file": "Homo deus notes.html",
+        "paragraph": 136
+      },
+      "links": [
+        {
+          "title": "Humanists International · Declaration of Modern Humanism",
+          "url": "https://humanists.international/policy/declaration-of-modern-humanism/"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-the-posterior-is-a-distribution-not-just-an-estimate",
+      "concept": "The posterior is a distribution, not just an estimate",
+      "topic": "Bayesian inference",
+      "refresher": "A fitted Bayesian model describes uncertainty across parameter values. A mean or mode is only a summary; retain intervals, shapes and dependencies when they matter to the question.",
+      "quote": "The result of a Bayesian analysis is a posterior distribution.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 41
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Posterior prediction",
+          "url": "https://mc-stan.org/docs/stan-users-guide/posterior-prediction.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-make-prior-assumptions-inspectable",
+      "concept": "Make prior assumptions inspectable",
+      "topic": "Bayesian inference",
+      "refresher": "Express what values are plausible before fitting, then simulate what the prior implies for observable data. This can expose assumptions that looked innocuous on the parameter scale but produce unrealistic outcomes.",
+      "quote": "Having to think about priors can force us to think a little bit deeper about the problem we are trying to solve and the data we have.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 50
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Prior predictive checks",
+          "url": "https://mc-stan.org/docs/stan-users-guide/ppcs.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-credible-intervals-describe-posterior-uncertainty",
+      "concept": "Credible intervals describe posterior uncertainty",
+      "topic": "Bayesian inference",
+      "refresher": "A credible interval contains a stated amount of posterior probability under the chosen model and data. A frequentist confidence level instead describes the long-run coverage of an interval-producing procedure.",
+      "quote": "parameters are random variables, and thus we can talk about the probability of a parameter having specific values or being inside some interval.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 58
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Bayesian inference and prediction",
+          "url": "https://mc-stan.org/docs/stan-users-guide/posterior-prediction.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-choose-decisions-by-their-expected-loss",
+      "concept": "Choose decisions by their expected loss",
+      "topic": "Decision-making",
+      "refresher": "Combine the consequences of an action with uncertainty about the outcome. Average its loss over the posterior, then compare actions; different costs of overestimating and underestimating can justify different choices.",
+      "quote": "By expected loss function, we mean the loss function averaged over the whole posterior distribution.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 78
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Decision analysis",
+          "url": "https://mc-stan.org/docs/stan-users-guide/decision-analysis.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-prediction-includes-more-uncertainty-than-the-mean",
+      "concept": "Prediction includes more uncertainty than the mean",
+      "topic": "Bayesian inference",
+      "refresher": "An interval for the mean response does not describe the spread of individual future observations. Posterior predictive simulation includes parameter uncertainty and the observation variability specified by the model.",
+      "quote": "Notice that the uncertainty for the predictions is much larger than the uncertainty for the mean (pps=False). This is because the posterior predictive distribution accounts for the uncertainty in the model parameters and the uncertainty in the data, whereas the posterior distribution of the mean only accounts for the uncertainty in the intercept and slope parameters.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 195
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Posterior predictive sampling",
+          "url": "https://mc-stan.org/docs/stan-users-guide/posterior-prediction.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-check-whether-the-model-can-reproduce-relevant-data-features",
+      "concept": "Check whether the model can reproduce relevant data features",
+      "topic": "Model checking",
+      "refresher": "Simulate observations from the fitted model and compare them with the observed data. Examine features important to the problem, including ones the model was not explicitly designed to match.",
+      "quote": "As different models often capture diferent aspects of data, we can compare models using posterior predictive checks.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 142
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Posterior predictive checks",
+          "url": "https://mc-stan.org/docs/stan-users-guide/ppcs.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-regularizing-priors-can-improve-generalization",
+      "concept": "Regularizing priors can improve generalization",
+      "topic": "Modeling",
+      "refresher": "A sensible prior discourages implausible parameter values and unstable fits. Check its implications and sensitivity rather than treating stronger shrinkage as automatically better.",
+      "quote": "Using informative and weakly informative priors is a way of introducing bias in a model and, if done properly, this can be really good because bias prevents overfitting and thus contributes to models being able to make predictions that generalize well. This idea of adding a bias element to reduce generalization errors without affecting the ability of the model to adequately model a problem is known as regularization.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 185
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Regression priors",
+          "url": "https://mc-stan.org/docs/stan-users-guide/regression.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-choose-a-count-model-that-matches-the-dispersion",
+      "concept": "Choose a count model that matches the dispersion",
+      "topic": "Modeling",
+      "refresher": "Poisson models tie conditional variance to the conditional mean. If counts remain more variable after accounting for predictors, a negative-binomial model can represent that overdispersion.",
+      "quote": "But it is often a good idea to use a discrete distribution. Two common choices are the Poisson and NegativeBinomial distributions. The main difference is that for Poisson, the mean and the variance are the same, but if this is not true or even approximately true, then NegativeBinomial may be a better choice as it allows the mean and variance to be different.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 126
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Count regression",
+          "url": "https://mc-stan.org/docs/stan-users-guide/regression.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-logistic-regression-models-a-binary-outcome-probability",
+      "concept": "Logistic regression models a binary outcome probability",
+      "topic": "Modeling",
+      "refresher": "The logistic inverse link maps a linear predictor to a probability between zero and one. Turning that probability into a class label is a separate decision that depends on the costs of mistakes.",
+      "quote": "The logistic regression model is a generalization of the linear regression model, which we can use when the response variable is binary. This model uses the logistic function (the result will always be a number in the [0-1] interval) as an inverse link function.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 129
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Logistic regression",
+          "url": "https://mc-stan.org/docs/stan-users-guide/regression.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-approximate-leave-one-out-checks-need-diagnostics",
+      "concept": "Approximate leave-one-out checks need diagnostics",
+      "topic": "Model comparison",
+      "refresher": "PSIS-LOO estimates predictive performance without refitting for every observation. Inspect its Pareto-k diagnostics: influential observations can make the approximation unreliable and require refitting or another validation method.",
+      "quote": "It is possible to approximate cross-validation using the information from a single fit to the data! The method for doing this is called \"Pareto smooth importance sampling leave-one-out cross-validation” (LOO)",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 164
+      },
+      "links": [
+        {
+          "title": "loo documentation · Pareto-k diagnostics",
+          "url": "https://mc-stan.org/loo/reference/pareto-k-diagnostic.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-an-interaction-makes-an-effect-depend-on-context",
+      "concept": "An interaction makes an effect depend on context",
+      "topic": "Modeling",
+      "refresher": "With an interaction, the relationship between one predictor and the response changes with another predictor. Inspect predicted contrasts across relevant combinations instead of interpreting a single coefficient as a universal effect.",
+      "quote": "An interaction effect, or statistical interaction, happens when the effect of an independent variable on the response changes depending on the value of another independent variable.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 205
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Regression models",
+          "url": "https://mc-stan.org/docs/stan-users-guide/regression.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-more-data-cannot-fix-every-identification-problem",
+      "concept": "More data cannot fix every identification problem",
+      "topic": "Modeling",
+      "refresher": "If multiple parameter settings imply the same observable distribution, the likelihood cannot distinguish them. Revisit the model or justify additional constraints before interpreting individual parameter estimates.",
+      "quote": "A statistical model is non-identifiable if one or more of its parameters cannot be uniquely determined. Parameters in a model are not identified if the same likelihood function is obtained for more than one choice of the model parameters.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 232
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Problematic posteriors",
+          "url": "https://mc-stan.org/docs/stan-users-guide/problematic-posteriors.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-a-gaussian-process-places-a-prior-over-functions",
+      "concept": "A Gaussian process places a prior over functions",
+      "topic": "Modeling",
+      "refresher": "A GP describes uncertainty about a function through jointly Gaussian values at any finite set of inputs. Its covariance kernel encodes assumptions about how function values vary together across inputs.",
+      "quote": "Gaussian process are an infinite-dimensional generalization of the Gaussian distribution that can be used to set a prior on unknown functions.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 247
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Gaussian processes",
+          "url": "https://mc-stan.org/docs/stan-users-guide/gaussian-processes.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-bart-combines-many-regularized-trees",
+      "concept": "BART combines many regularized trees",
+      "topic": "Modeling",
+      "refresher": "Bayesian additive regression trees approximate a function by adding tree predictions. Priors keep each tree’s contribution limited, while posterior sampling represents uncertainty about the combined fit.",
+      "quote": "A Bayesian additive regression trees (BART) model is a sum of m trees that we use to approximate a function.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 261
+      },
+      "links": [
+        {
+          "title": "Chipman, George and McCulloch · BART",
+          "url": "https://arxiv.org/abs/0806.3286"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-compare-chains-before-trusting-posterior-summaries",
+      "concept": "Compare chains before trusting posterior summaries",
+      "topic": "Sampling diagnostics",
+      "refresher": "Inspect multiple chains alongside R-hat and effective sample sizes. Chains that disagree or explore different regions warn that a neat-looking posterior summary may reflect incomplete exploration. Agreement is evidence, not proof of convergence.",
+      "quote": "One way to check for convergence is to visually check whether chains look similar (using plot_trace)",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 319
+      },
+      "links": [
+        {
+          "title": "Stan · Diagnosing convergence problems",
+          "url": "https://mc-stan.org/learn-stan/diagnostics-warnings.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-effective-sample-size-reflects-dependence-between-draws",
+      "concept": "Effective sample size reflects dependence between draws",
+      "topic": "Sampling diagnostics",
+      "refresher": "More stored draws do not necessarily mean more information. ESS estimates sampling efficiency for a quantity; inspect both central and tail behavior when reporting posterior summaries.",
+      "quote": "We can compute and plot the autocorrelation with az.plot_autocorrelation.But usually, a more useful metric is to compute the Effective Sample Size (ESS). We can think of this number as the number of useful draws we have in our sample. Due to autocorrelation, this number is usually going to be lower than the actual number of samples. We can compute it using the az.ess function.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 323
+      },
+      "links": [
+        {
+          "title": "Stan · R-hat and effective sample size",
+          "url": "https://mc-stan.org/rstan/reference/Rhat.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-monte-carlo-error-is-separate-from-model-uncertainty",
+      "concept": "Monte Carlo error is separate from model uncertainty",
+      "topic": "Sampling diagnostics",
+      "refresher": "MCSE describes numerical uncertainty from using finite, correlated draws. Posterior uncertainty describes what remains unknown under the model. Report precision consistent with both.",
+      "quote": "The samples from MCMC are still finite, and thus we are introducing an error in the estimation of the posterior parameters. Fortunately, we can estimate the error, and it is called the Monte Carlo Standard Error (MCSE). The estimation of the MCSE takes into account that the samples are not truly independent of each other.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 325
+      },
+      "links": [
+        {
+          "title": "Stan · R-hat and effective sample size",
+          "url": "https://mc-stan.org/rstan/reference/Rhat.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-reparameterize-when-posterior-geometry-obstructs-sampling",
+      "concept": "Reparameterize when posterior geometry obstructs sampling",
+      "topic": "Sampling diagnostics",
+      "refresher": "Persistent divergences can signal that the sampler is missing difficult regions. A mathematically equivalent parameterization can improve exploration; increasing the acceptance target alone is not a guarantee of reliable inference.",
+      "quote": "If you reach values like 0.99 and still have divergences, you are probably out of luck with this simple trick and you need to do something else. And that's reparametrization. What is this? Reparametrization is writing a model in a different way, but that is mathematically equivalent to your original model: you are not changing the model, just writing it in another way.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 137
+      },
+      "links": [
+        {
+          "title": "Stan · Resolving divergences",
+          "url": "https://mc-stan.org/learn-stan/diagnostics-warnings.html"
+        }
+      ]
+    },
+    {
+      "bookId": "bayesian-analysis-with-python",
+      "book": "Bayesian Analysis with Python",
+      "author": "Osvaldo Martin",
+      "genre": "nonfiction",
+      "id": "bayesian-analysis-with-python-a-sampler-can-miss-separated-posterior-modes",
+      "concept": "A sampler can miss separated posterior modes",
+      "topic": "Sampling diagnostics",
+      "refresher": "A chain can explore one peak while rarely reaching another. Use dispersed starts and diagnostics, and consider methods suited to multimodal targets rather than assuming a long run has visited every important region.",
+      "quote": "One of the caveats of Metropolis-Hastings and NUTS (and other Hamiltonian Monte Carlo variants) is that if the posterior has multiple peaks and these peaks are separated by regions of very low probability, these methods can get stuck in a single mode and miss the others.",
+      "source": {
+        "file": "Martin O. - Bayesian Analysis with Python.docx",
+        "paragraph": 306
+      },
+      "links": [
+        {
+          "title": "Stan User’s Guide · Multimodality and problematic posteriors",
+          "url": "https://mc-stan.org/docs/stan-users-guide/problematic-posteriors.html"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-use-regular-one-to-ones-to-build-a-working-partnership",
+      "concept": "Use regular one-to-ones to build a working partnership",
+      "topic": "Career",
+      "refresher": "Bring priorities, progress, concerns and requests for support to a recurring conversation with your manager. Do not assume they already know what is going well or where an obstacle needs their help.",
+      "quote": "Have regular 1:1 time with your manager",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 105
+      },
+      "links": [
+        {
+          "title": "GitLab Handbook · One-to-one meetings",
+          "url": "https://handbook.gitlab.com/handbook/leadership/1-1/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-compare-role-expectations-rather-than-titles-alone",
+      "concept": "Compare role expectations rather than titles alone",
+      "topic": "Career",
+      "refresher": "A senior or staff label does not mean the same scope everywhere. When comparing roles, ask about autonomy, influence, responsibilities and evaluation criteria before treating the title as an exact ranking.",
+      "quote": "Titles across companies have different expectations and compensation.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 378
+      },
+      "links": [
+        {
+          "title": "Will Larson · The technical leadership career path",
+          "url": "https://staffeng.com/guides/overview-overview/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-learn-directly-from-the-people-using-the-product",
+      "concept": "Learn directly from the people using the product",
+      "topic": "Product engineering",
+      "refresher": "Join user research or customer-support conversations to understand the problem behind a request. That context helps you propose engineering trade-offs that improve the outcome rather than merely implement the requested feature.",
+      "quote": "Engage in user research, customer support, and related activities.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 248
+      },
+      "links": [
+        {
+          "title": "DORA · User-centric focus",
+          "url": "https://dora.dev/capabilities/user-centric-focus/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-internal-developers-are-platform-customers",
+      "concept": "Internal developers are platform customers",
+      "topic": "Platform engineering",
+      "refresher": "Talk with engineers who depend on your platform and observe their workflow. Evaluate the platform by the problems it helps them solve, including adoption and usability, rather than only by technical sophistication.",
+      "quote": "Talk to engineers using your platforms.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 258
+      },
+      "links": [
+        {
+          "title": "DORA · User-centric focus",
+          "url": "https://dora.dev/capabilities/user-centric-focus/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-a-completed-task-is-not-the-same-as-a-solved-problem",
+      "concept": "A completed task is not the same as a solved problem",
+      "topic": "Delivery",
+      "refresher": "Tickets organize the work; they are not its purpose. Revisit or discard a task when new evidence shows it no longer contributes to the customer outcome, and make the change visible to collaborators.",
+      "quote": "Remember, the goal is to build software that solves customers’ problems, not to close tasks.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 507
+      },
+      "links": [
+        {
+          "title": "DORA · User-centric focus",
+          "url": "https://dora.dev/capabilities/user-centric-focus/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-make-a-request-for-help-easy-to-act-on",
+      "concept": "Make a request for help easy to act on",
+      "topic": "Collaboration",
+      "refresher": "Give enough context for a colleague to identify the next useful step. A focused question and a summary of your attempts make help more effective without requiring them to reconstruct the investigation.",
+      "quote": "Go prepared when asking a colleague for help. Explain the problem clearly, summarize what you’ve tried so far, and what your next step would be if they cannot help. If they’re busy, respect their time as they probably have other priorities. In this case, ask them for a quick pointer.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 535
+      },
+      "links": [
+        {
+          "title": "GitLab Handbook · Mentoring and preparation",
+          "url": "https://handbook.gitlab.com/handbook/people-group/learning-and-development/mentor/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-define-accepted-states-instead-of-assuming-unknown-means-success",
+      "concept": "Define accepted states instead of assuming unknown means success",
+      "topic": "Reliability",
+      "refresher": "Explicitly recognize valid inputs or successful responses and handle everything else deliberately. An unrecognized value should not silently enter the success path merely because it is absent from a list of known failures.",
+      "quote": "Allowlists: create a list of successful responses (the allowlist) and assume everything else is a failure.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 607
+      },
+      "links": [
+        {
+          "title": "OWASP · Allowlist validation",
+          "url": "https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-shorten-the-feedback-loop-for-routine-changes",
+      "concept": "Shorten the feedback loop for routine changes",
+      "topic": "Developer productivity",
+      "refresher": "Identify recurring waits between editing, running and checking a change. Improve the slowest useful feedback step so you can detect mistakes while the relevant context is still fresh.",
+      "quote": "Don’t accept a slow cycle from an edit to the change being live in your environment.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 661
+      },
+      "links": [
+        {
+          "title": "DORA · Continuous integration and fast feedback",
+          "url": "https://dora.dev/capabilities/continuous-integration/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-include-operability-in-the-estimate",
+      "concept": "Include operability in the estimate",
+      "topic": "Delivery",
+      "refresher": "Testing, monitoring and alerting are part of delivering a service people can rely on. Account for them while planning instead of discovering after implementation that the work is not yet ready to operate.",
+      "quote": "Include testing, monitoring, and alerting as part of estimations.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 769
+      },
+      "links": [
+        {
+          "title": "Google SRE · Monitoring distributed systems",
+          "url": "https://sre.google/sre-book/monitoring-distributed-systems/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-distinguish-blocking-review-issues-from-suggestions",
+      "concept": "Distinguish blocking review issues from suggestions",
+      "topic": "Code review",
+      "refresher": "Explain which comments must be resolved before approval and which are optional improvements. Clear severity lets the author address the actual risk without guessing whether every preference is a release requirement.",
+      "quote": "Good code reviews don’t approve changes while unresolved questions remain. However, they make clear which questions or comments are nonblocking or unimportant.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 794
+      },
+      "links": [
+        {
+          "title": "Google Engineering Practices · Code review comments",
+          "url": "https://google.github.io/eng-practices/review/reviewer/comments.html"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-pair-to-transfer-understanding-not-just-finish-the-task",
+      "concept": "Pair to transfer understanding, not just finish the task",
+      "topic": "Collaboration",
+      "refresher": "When helping a less experienced colleague, explain your reasoning and leave room for them to type, ask and decide. A useful pairing session develops their ability to tackle the next problem as well as resolving this one.",
+      "quote": "Aim to teach your pair partner something, not just give answers",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 822
+      },
+      "links": [
+        {
+          "title": "Birgitta Böckeler and Nina Siessegger · On pair programming",
+          "url": "https://martinfowler.com/articles/on-pair-programming.html"
+        }
+      ]
+    },
+    {
+      "bookId": "the-software-engineer-s-guidebook",
+      "book": "The Software Engineer’s Guidebook",
+      "author": "Gergely Orosz",
+      "genre": "nonfiction",
+      "id": "the-software-engineer-s-guidebook-make-mentorship-a-cycle-of-preparation-and-follow-through",
+      "concept": "Make mentorship a cycle of preparation and follow-through",
+      "topic": "Career",
+      "refresher": "Agree on goals and cadence, bring concrete situations, and report what happened after trying an idea. Mentorship becomes more useful when advice leads to experiments that both people can reflect on.",
+      "quote": "Set clear expectations at the start. Come prepared to catch up with your mentor and make good use of their time. Bring challenges, wins, and topics about which you’d like their input. Have a list of topics to discuss. As you get advice and ideas, commit to actions and follow them through. Let your mentor know how it goes.",
+      "source": {
+        "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+        "paragraph": 857
+      },
+      "links": [
+        {
+          "title": "GitLab Handbook · Mentoring expectations",
+          "url": "https://handbook.gitlab.com/handbook/people-group/learning-and-development/mentor/"
+        }
+      ]
+    },
+    {
+      "bookId": "blindness",
+      "book": "Blindness",
+      "author": "José Saramago",
+      "genre": "fiction",
+      "id": "blindness-seeing-can-fail-to-become-moral-attention",
+      "concept": "Seeing can fail to become moral attention",
+      "topic": "Literature",
+      "refresher": "The novel’s closing reflection turns blindness into a metaphor for refusing to recognize others’ suffering. Read it as a challenge to ethical indifference, not as a description of people with a visual disability.",
+      "quote": "I don’t think we did go blind, I think we are blind, Blind but seeing, Blind people who can see, but do not see.",
+      "source": {
+        "file": "Blindness notes.html",
+        "paragraph": 39
+      },
+      "links": [
+        {
+          "title": "University of Münster · Seeing through blindness",
+          "url": "https://www.uni-muenster.de/Religion-und-Politik/en/aktuelles/schwerpunkte/epidemien/04_Thema_Vorkehrungen_Regeln.shtml"
+        }
+      ]
+    },
+    {
+      "bookId": "man-s-search-for-meaning",
+      "book": "Man’s Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "genre": "nonfiction",
+      "id": "man-s-search-for-meaning-meaning-can-take-the-form-of-a-concrete-responsibility",
+      "concept": "Meaning can take the form of a concrete responsibility",
+      "topic": "Meaning",
+      "refresher": "Frankl redirects an abstract search for meaning toward the response a situation asks of you. Identify a worthwhile action available now, without treating a person’s suffering or constrained choices as their fault.",
+      "quote": "not in talk and meditation, but in right actions and in right conduct. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual.",
+      "source": {
+        "file": "Man_s search for meaning notes.html",
+        "paragraph": 9
+      },
+      "links": [
+        {
+          "title": "World Health Organization · Acting on values",
+          "url": "https://www.who.int/publications/i/item/9789240003927"
+        }
+      ]
+    },
+    {
+      "bookId": "outliers",
+      "book": "Outliers",
+      "author": "Malcolm Gladwell",
+      "genre": "nonfiction",
+      "id": "outliers-look-at-opportunity-as-well-as-individual-talent",
+      "concept": "Look at opportunity as well as individual talent",
+      "topic": "Social systems",
+      "refresher": "Gladwell asks how context helps produce exceptional outcomes. Examine access to practice, mentors, institutions and timely opportunities before explaining success entirely through personal qualities. Context matters without making any individual outcome inevitable.",
+      "quote": "It's not enough to ask what successful people are like, it is only by asking where they are from that we can unravel the logic behind who succeeds and who doesn't.",
+      "source": {
+        "file": "Outliers notes.html",
+        "paragraph": 2
+      },
+      "links": [
+        {
+          "title": "Opportunity Insights · Childhood exposure effects",
+          "url": "https://opportunityinsights.org/paper/neighborhoodsi/"
+        }
+      ]
+    },
+    {
+      "bookId": "die-with-zero",
+      "book": "Die with Zero",
+      "author": "Bill Perkins",
+      "genre": "nonfiction",
+      "id": "die-with-zero-plan-consumption-across-uneven-income-periods",
+      "concept": "Plan consumption across uneven income periods",
+      "topic": "Life planning",
+      "refresher": "Consumption smoothing considers resources and needs across time rather than treating each year in isolation. Future income is uncertain, so the concept does not by itself justify borrowing or spending down a safety buffer.",
+      "quote": "It's called consumption smoothing. To do that, we need to basically transfer money from years of abundance into the leaner years.",
+      "source": {
+        "file": "Perkins B. - Die with Zero.docx",
+        "paragraph": 7
+      },
+      "links": [
+        {
+          "title": "Browning and Crossley · The life-cycle model of consumption and saving",
+          "url": "https://www.aeaweb.org/articles?id=10.1257/jep.15.3.3"
+        }
+      ]
+    },
+    {
+      "bookId": "capital-in-the-twenty-first-century",
+      "book": "Capital in the Twenty-First Century",
+      "author": "Thomas Piketty",
+      "genre": "nonfiction",
+      "id": "capital-in-the-twenty-first-century-capital-includes-housing-as-well-as-productive-assets",
+      "concept": "Capital includes housing as well as productive assets",
+      "topic": "Economics",
+      "refresher": "Piketty’s broad capital concept includes assets that supply housing services, not just factories and equipment. Check the asset definition before comparing wealth-to-income ratios or inferring what a rise in capital represents.",
+      "quote": "Capital fulfills two economic functions: it provides housing and it serves as a factor of production in producing other goods and services.",
+      "source": {
+        "file": "Piketty T. - Capital in the Twenty-First Century_.docx",
+        "paragraph": 16
+      },
+      "links": [
+        {
+          "title": "OECD · Guidelines for statistics on household wealth",
+          "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2013/06/oecd-guidelines-for-micro-statistics-on-household-wealth_g1g2c4b7/9789264194878-en.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "siddhartha",
+      "book": "Siddhartha",
+      "author": "Hermann Hesse",
+      "genre": "fiction",
+      "id": "siddhartha-a-fixed-search-can-hide-what-is-already-present",
+      "concept": "A fixed search can hide what is already present",
+      "topic": "Literature",
+      "refresher": "Siddhartha suggests that fixation on a desired answer can narrow perception. Pause the search long enough to notice experiences that do not fit your expected result; this is a literary invitation to receptivity, not a rejection of all goals.",
+      "quote": "\"Perhaps you seek too much, that as a result of your seeking you cannot find.",
+      "source": {
+        "file": "Siddhartha notes.html",
+        "paragraph": 16
+      },
+      "links": [
+        {
+          "title": "Greater Good · Mindfulness and open awareness",
+          "url": "https://greatergood.berkeley.edu/mindfulness/definition"
+        }
+      ]
+    },
+    {
+      "bookId": "surely-you-re-joking-mr-feynman",
+      "book": "Surely You’re Joking, Mr. Feynman!",
+      "author": "Richard P. Feynman",
+      "genre": "nonfiction",
+      "id": "surely-you-re-joking-mr-feynman-disclose-what-could-undermine-your-conclusion",
+      "concept": "Disclose what could undermine your conclusion",
+      "topic": "Research integrity",
+      "refresher": "Give readers enough information to evaluate the result independently, including limitations and unfavorable evidence. Honest reporting is more demanding than simply avoiding a false statement.",
+      "quote": "If you're doing an experiment, you should report everything that you think might make it invalid - not only what you think is right about it. Try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgement in one particular direction or another. We've learned from experience that the truth will out.",
+      "source": {
+        "file": "Surely you_re joking, Mr. Feynman notes.html",
+        "paragraph": 25
+      },
+      "links": [
+        {
+          "title": "Center for Open Science · Transparency and openness guidelines",
+          "url": "https://www.cos.io/initiatives/top-guidelines"
+        }
+      ]
+    },
+    {
+      "bookId": "the-old-man-and-the-sea",
+      "book": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "genre": "fiction",
+      "id": "the-old-man-and-the-sea-respect-complicates-the-story-of-conquest",
+      "concept": "Respect complicates the story of conquest",
+      "topic": "Literature",
+      "refresher": "Santiago’s admission exposes tension between his skill as a fisherman and his recognition of the marlin’s dignity. The novel invites reflection on admiration, dependence and harm without resolving them into a simple victory story.",
+      "quote": "I am only better than him through trickery and he meant me no harm.",
+      "source": {
+        "file": "The old man and the sea notes.html",
+        "paragraph": 17
+      },
+      "links": [
+        {
+          "title": "Swedish Academy · Hemingway award presentation",
+          "url": "https://www.nobelprize.org/prizes/literature/1954/ceremony-speech/"
+        }
+      ]
+    },
+    {
+      "bookId": "to-kill-a-mockingbird",
+      "book": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "fiction",
+      "id": "to-kill-a-mockingbird-formal-procedure-cannot-by-itself-remove-prejudice",
+      "concept": "Formal procedure cannot by itself remove prejudice",
+      "topic": "Literature",
+      "refresher": "The passage contrasts Atticus’s legal effort with a verdict shaped by racism. Lee’s story asks readers to notice how prejudice can defeat the promise of equal treatment even when the procedures of a trial are followed.",
+      "quote": "Atticus had used every tool available to free men to save Tom Robinson, but in the secret courts of men’s hearts Atticus had no case. Tom was a dead man the minute Mayella Ewell opened her mouth and screamed.",
+      "source": {
+        "file": "To kill a mockingbird notes.html",
+        "paragraph": 23
+      },
+      "links": [
+        {
+          "title": "National Endowment for the Arts · To Kill a Mockingbird reader resources",
+          "url": "https://www.arts.gov/initiatives/nea-big-read/kill-mockingbird"
         }
       ]
     }

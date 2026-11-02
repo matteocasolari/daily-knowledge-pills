@@ -118,5 +118,221 @@
     "deferred": [
       "Claims that all circumstances reveal unconscious wishes or that imagination controls external events are unsupported; private personal notes are not curated."
     ]
+  },
+  {
+    "file": "Clear J. - Atomic Habits.docx",
+    "existingCount": 7,
+    "addedCount": 8,
+    "assessment": "Added four-law diagnostic framework, habit inventory, visible and removed cues, social environment, precommitment, tracking and periodic review. Existing pills cover identity, systems, stacking, friction, small starts, recovery and repetition.",
+    "deferred": [
+      "Personal identity list is private reflection rather than general source material. Temptation-bundling notes are fragmented; avoid stitching separate paragraphs into a quote. Flow brain-system claims are speculative."
+    ]
+  },
+  {
+    "file": "Fromm E. - The Art of Loving_.docx",
+    "existingCount": 6,
+    "addedCount": 3,
+    "assessment": "Added initial attraction versus sustained love, constructive conflict and solitude as concentration practice. Existing six pills cover love as learned activity, care/responsibility/respect/knowledge, individuality, self-care, patience and grounded faith.",
+    "deferred": [
+      "Historical gender roles, universal psychological diagnoses and claims about sexuality are not treated as current evidence. Broader social critique overlaps already represented active love."
+    ]
+  },
+  {
+    "file": "Zen mind, beginner_s mind notes.html",
+    "existingCount": 5,
+    "addedCount": 3,
+    "assessment": "Added non-gaining practice, wholehearted activity and impermanence alongside existing beginner’s mind, nonsuppression, listening, imperfect continuation and supportive rules.",
+    "deferred": [
+      "Do not generalize metaphysical claims into scientific facts or advise enduring physical pain. Personal practice note excluded."
+    ]
+  },
+  {
+    "file": "Percival H. - Architecture Patterns with Python.docx",
+    "existingCount": 6,
+    "addedCount": 4,
+    "assessment": "Added repository, service-layer orchestration, abstraction trade-offs and fake-versus-mock distinction. Existing coverage includes dependency inversion, domain language, values/entities and design feedback from fakes.",
+    "deferred": [
+      "Source notes stop during the early architecture chapters. Unit of Work and aggregates are named but not developed; event-driven section has only a heading. Do not invent coverage of unread chapters."
+    ]
+  },
+  {
+    "file": "Clean code notes.html",
+    "existingCount": 12,
+    "addedCount": 13,
+    "assessment": "Added coherent functions, abstraction levels, command-query separation, accurate comments, error context, test structure/isolation/boundaries, single responsibility, dependency wiring, restraint in extraction, independent concurrent data and compound atomicity. Existing twelve cover naming, duplication, explicit effects, adapters, test maintenance, locking policy, iterative cleanup and learning tests.",
+    "deferred": [
+      "Rigid line/argument counts, blanket bans on comments or null, and coverage-as-proof claims are not universal rules. Retained applicable principles with qualifications; avoided duplicating already represented refactoring."
+    ]
+  },
+  {
+    "file": "Giappone E. - Le Crepe Sono Fatte Per L_Oro.docx",
+    "existingCount": 5,
+    "addedCount": 6,
+    "assessment": "Added worth beyond productivity, acknowledgment without forced repair, mono no aware, conversational pauses, yūgen and allocation of care. Existing five cover forest attention, completion, continuous improvement, respect and control.",
+    "deferred": [
+      "Treat Japanese concepts as the book’s reflective framing, not exhaustive cultural definitions. Exclude absolute claims about incurable emotional wounds, guaranteed progress and specific health effects."
+    ]
+  },
+  {
+    "file": "How to win friends and influence people notes.html",
+    "existingCount": 5,
+    "addedCount": 6,
+    "assessment": "Added perspective and incentives, attentive listening, intellectual humility, participatory problem solving, dignity in correction and specific praise. Existing five cover interest, names, sincerity, relationship costs of argument and owning errors.",
+    "deferred": [
+      "Do not turn persuasion into coercion or use scripted agreement to bypass consent. Exclude magic/always claims and unsupported success percentages. General appreciation remains distinct from specific behavioral feedback."
+    ]
+  },
+  {
+    "file": "Tao te ching notes.html",
+    "existingCount": 2,
+    "addedCount": 5,
+    "assessment": "Added wuwei, flexible strength, humble leadership, awareness of ignorance and concrete beginnings. Existing two cover reciprocal trust and consuming craving.",
+    "deferred": [
+      "Many verses are split into separate source paragraphs. Quote one preserved line and explain its nearby context without inventing a combined quotation. Metaphysical immunity and absolute political outcomes are not empirical guarantees."
+    ]
+  },
+  {
+    "file": "The art of war notes.html",
+    "existingCount": 1,
+    "addedCount": 3,
+    "assessment": "Added central themes of objectives without battle, selective engagement and knowledge of self and opponent alongside existing humane treatment. Read all 376 source paragraphs.",
+    "deferred": [
+      "Source consists mostly of individual verse lines. Many otherwise valuable concepts lack a coherent single-paragraph excerpt, so do not stitch lines or present fragments as full quotations. Detailed tactical violence, deception and obsolete signs are unsuitable general daily guidance."
+    ]
+  },
+  {
+    "file": "Homo deus notes.html",
+    "existingCount": 2,
+    "addedCount": 7,
+    "assessment": "Added social-reality distinctions, scenario uncertainty, incremental delegation of authority, Dataism’s value assumptions and sample representativeness. Existing pills cover consciousness versus performance and collective belief coordinating infrastructure. Read all 252 paragraphs. Added history as a source of alternatives and humanism’s account of meaning.",
+    "deferred": [
+      "Historical forecasts about pandemics, war, jobs and liberalism must not be presented as current facts. Determinism, reductionism, biochemical happiness and sweeping historical causality are contested theses."
+    ]
+  },
+  {
+    "file": "Martin O. - Bayesian Analysis with Python.docx",
+    "existingCount": 12,
+    "addedCount": 19,
+    "assessment": "Added posterior interpretation, priors, credible intervals, decision loss, predictive uncertainty/checks, regularization, count/logistic models, PSIS-LOO, interactions, identifiability, GPs, BART and six practical sampling diagnostics. Read all 348 paragraphs; existing twelve cover basic probability, updating, conjugacy, robust distributions, pooling, mixtures and ICE.",
+    "deferred": [
+      "Avoid obsolete API names in notes, universal claims that priors wash out, treating HDIs as uniquely defined for every shape, or claiming diagnostics prove convergence. Divergences are not exclusive to NUTS. Advanced DP/SMC derivations and fragmented formula notes are not forced into short excerpts."
+    ]
+  },
+  {
+    "file": "Orosz G. - The Software Engineer_s Guidebook.docx",
+    "existingCount": 16,
+    "addedCount": 12,
+    "assessment": "Read all 894 paragraphs. Added manager partnership, role-title calibration, product research, platform customers, outcomes over tasks, prepared help requests, accepted-state validation, fast feedback, operability, review severity, learning through pairing and mentorship follow-through. Existing sixteen already cover career choice, evidence, feedback, impact, onboarding, estimates, autonomy, blockers, readability, refactoring and small humane reviews.",
+    "deferred": [
+      "Compensation tiers, promotion distributions and company-mode generalizations are context-dependent, not current universal facts. Later staff-level chapters are not present in these notes. Avoid repeating fragmented lists that add no distinct concept."
+    ]
+  },
+  {
+    "file": "Blindness notes.html",
+    "existingCount": 2,
+    "addedCount": 1,
+    "assessment": "Added the central distinction between sight and moral attention. Existing pills cover dignity and recognition through voice. Read all 40 paragraphs.",
+    "deferred": [
+      "Violent events and dehumanizing dialogue are narrative material, not general guidance."
+    ]
+  },
+  {
+    "file": "Elon Musk.html",
+    "existingCount": 2,
+    "addedCount": 0,
+    "assessment": "Read all ten paragraphs. Two existing pills cover collective ambition and interconnected ventures. Remaining excerpts are isolated anecdotes, a puzzle, parenting rules and quips; none adds a sufficiently important standalone lesson.",
+    "deferred": [
+      "Do not convert anecdotes about firing or impossible deadlines into universal management rules. Historical business relationships should not be read as current company facts."
+    ]
+  },
+  {
+    "file": "Godin S. - The Dip_ A Little Book That Teaches You When To Quit.docx",
+    "existingCount": 1,
+    "addedCount": 0,
+    "assessment": "The only source paragraph is fully represented by the existing exit-conditions pill. No additional notes are available.",
+    "deferred": [
+      "Other ideas from the book cannot be sourced to this attachment."
+    ]
+  },
+  {
+    "file": "Man_s search for meaning notes.html",
+    "existingCount": 4,
+    "addedCount": 1,
+    "assessment": "Added responsibility expressed in action. Existing four cover routes to meaning, perspective, avoiding unnecessary suffering and enduring value of a lived past.",
+    "deferred": [
+      "Do not present total self-determination, immunity claims or automatic happiness as clinical facts."
+    ]
+  },
+  {
+    "file": "Outliers notes.html",
+    "existingCount": 2,
+    "addedCount": 1,
+    "assessment": "Added the overarching opportunity-and-context lens; existing pills cover compounding selection rules and speaking up across hierarchy.",
+    "deferred": [
+      "Do not present 10,000 hours, IQ cutoffs or national stereotypes as universal scientific rules."
+    ]
+  },
+  {
+    "file": "Perkins B. - Die with Zero.docx",
+    "existingCount": 3,
+    "addedCount": 1,
+    "assessment": "Added consumption smoothing to existing memory dividends, life-energy cost and balancing security with enjoyment. Read all 36 paragraphs.",
+    "deferred": [
+      "Notes cover only the opening ideas; do not invent later time-bucket or inheritance concepts absent from the source. Personal financial reflections excluded."
+    ]
+  },
+  {
+    "file": "Piketty T. - Capital in the Twenty-First Century_.docx",
+    "existingCount": 2,
+    "addedCount": 1,
+    "assessment": "Added the broad asset definition alongside inflation redistribution and capital-income ratio. Read all 17 paragraphs.",
+    "deferred": [
+      "Historical national figures, a personal rental-yield calculation and dated ownership percentages excluded. The famous r > g thesis is not actually developed in these notes."
+    ]
+  },
+  {
+    "file": "Siddhartha notes.html",
+    "existingCount": 4,
+    "addedCount": 1,
+    "assessment": "Added receptive attention beyond goal fixation. Existing four cover ordinary meaning, participation, experiential learning and self-avoidance. Read all 21 paragraphs.",
+    "deferred": [
+      "Metaphysical unity and suffering-as-necessary language remain literary perspectives; avoid presenting them as universal requirements."
+    ]
+  },
+  {
+    "file": "Surely you_re joking, Mr. Feynman notes.html",
+    "existingCount": 4,
+    "addedCount": 1,
+    "assessment": "Added transparent reporting, distinct from the existing injunction against self-deception. Existing pills also cover understanding, curiosity and missing evidence.",
+    "deferred": [
+      "Personal anecdotes and sweeping gender claims are not general scientific lessons."
+    ]
+  },
+  {
+    "file": "The old man and the sea notes.html",
+    "existingCount": 1,
+    "addedCount": 1,
+    "assessment": "Added respect for the marlin and the moral ambiguity of conquest; existing pill covers acting with available resources. Read all 21 paragraphs.",
+    "deferred": [
+      "Do not turn narrative endurance into advice to ignore pain or treat killing as justified by affection."
+    ]
+  },
+  {
+    "file": "To kill a mockingbird notes.html",
+    "existingCount": 2,
+    "addedCount": 1,
+    "assessment": "Added prejudice within formal justice alongside courage and rejecting inherited stereotypes. Read all 32 paragraphs.",
+    "deferred": [
+      "Avoid isolated slurs and garbled quotations; retain the historical literary context."
+    ]
+  },
+  {
+    "file": "Tools of titans notes.html",
+    "existingCount": 3,
+    "addedCount": 0,
+    "assessment": "All nine paragraphs are headings or brief page references. Existing three capture the only self-contained named ideas available.",
+    "deferred": [
+      "Further referenced exercises require actual source passages rather than reconstruction from memory."
+    ]
   }
 ]
