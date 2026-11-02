@@ -1,6 +1,6 @@
 # Current full-library review status
 
-48/99 books reviewed. 620 pills saved to content/pills.json and site/data/library.json, 207 added since the 413-pill baseline. Review remains in progress.
+55/99 books reviewed. 663 pills saved to content/pills.json and site/data/library.json, 250 added since the 413-pill baseline. Review remains in progress.
 
 | Source | Review | Added |
 | --- | --- | ---: |
@@ -28,7 +28,7 @@
 | Elon Musk.html | Reviewed | 0 |
 | Fear and loathing in las vegas notes.html | Pending |  |
 | Fern J. - Polysecure.docx | Reviewed | 9 |
-| Fight club notes.html | Pending |  |
+| Fight club notes.html | Reviewed | 1 |
 | Fitzpatrick R. - The Mom Test.docx | Pending |  |
 | Freakonomics notes.html | Pending |  |
 | Fromm E. - The Art of Loving_.docx | Reviewed | 3 |
@@ -42,7 +42,7 @@
 | Homo deus notes.html | Reviewed | 7 |
 | How not to be wrong notes.html | Pending |  |
 | How to win friends and influence people notes.html | Reviewed | 6 |
-| I, robot notes.html | Pending |  |
+| I, robot notes.html | Reviewed | 4 |
 | Influence notes.html | Pending |  |
 | Journey to the centre of the earth notes.html | Reviewed | 0 |
 | Kafka on the shore notes.html | Pending |  |
@@ -55,7 +55,7 @@
 | Man_s search for meaning notes.html | Reviewed | 1 |
 | Martin O. - Bayesian Analysis with Python.docx | Reviewed | 19 |
 | Michalowicz M. - Profit First_.docx | Reviewed | 9 |
-| Never split the difference notes.html | Pending |  |
+| Never split the difference notes.html | Reviewed | 3 |
 | No rules rules notes.html | Pending |  |
 | Nussbaumer Knaflic C. - Storytelling with data_.docx | Pending |  |
 | One hundred years of solitude notes.html | Reviewed | 1 |
@@ -64,16 +64,16 @@
 | Pattern recognition and machine learning notes.html | Pending |  |
 | Peace is every step notes.html | Pending |  |
 | Percival H. - Architecture Patterns with Python.docx | Reviewed | 4 |
-| Perfume notes.html | Pending |  |
+| Perfume notes.html | Reviewed | 2 |
 | Perkins B. - Die with Zero.docx | Reviewed | 1 |
 | Piketty T. - Capital in the Twenty-First Century_.docx | Reviewed | 1 |
 | Principles notes.html | Reviewed | 6 |
 | Sapiens notes.html | Pending |  |
-| Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx | Pending |  |
+| Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx | Reviewed | 21 |
 | Schwartz R. - No Bad Parts.docx | Reviewed | 4 |
 | Siddhartha notes.html | Reviewed | 1 |
 | Simply said notes.html | Pending |  |
-| Steve Jobs notes.html | Pending |  |
+| Steve Jobs notes.html | Reviewed | 3 |
 | Structures notes.html | Pending |  |
 | Stuff matters notes.html | Pending |  |
 | Surely you_re joking, Mr. Feynman notes.html | Reviewed | 1 |
@@ -82,7 +82,7 @@
 | The alchemist notes.html | Reviewed | 2 |
 | The art of war notes.html | Reviewed | 3 |
 | The charisma myth notes.html | Pending |  |
-| The design of everyday things notes.html | Pending |  |
+| The design of everyday things notes.html | Reviewed | 9 |
 | The great Gatsby notes.html | Reviewed | 1 |
 | The hundred-page machine learning book notes.html | Reviewed | 8 |
 | The intelligent investor notes.html | Pending |  |

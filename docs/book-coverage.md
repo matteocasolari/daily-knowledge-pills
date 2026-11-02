@@ -1,6 +1,6 @@
 # Book coverage audit
 
-The collection contains **620 pills from all 99 identified books**. The first expansion added 65 pills from previously unrepresented books; the next added 25 more, including three from Tools of Titans. A subsequent [review of those 90 additions](pill-review.md) revised 11 records, including replacing one overlapping lesson. The earlier [source-by-source expansion evaluation](book-expansion-evaluation.md) added 175 pills from 77 books. The 225 records that preceded that evaluation remain unchanged.
+The collection contains **663 pills from all 99 identified books**. The first expansion added 65 pills from previously unrepresented books; the next added 25 more, including three from Tools of Titans. A subsequent [review of those 90 additions](pill-review.md) revised 11 records, including replacing one overlapping lesson. The earlier [source-by-source expansion evaluation](book-expansion-evaluation.md) added 175 pills from 77 books. The 225 records that preceded that evaluation remain unchanged.
 
 There are now **99 book-note source files**, containing **15,688 imported paragraphs**. Every retained source file supplies at least one pill. The integrity manifest records the current supplied files, including three updated documents and the new Die with Zero notes. The separate daily-quote DOCX is excluded from these book totals.
 
@@ -57,7 +57,7 @@ The original collection had 102 files. These four were removed by the owner and 
 | Existential Kink | Carolyn Elliott | 2 |
 | Exploring the World of Lucid Dreaming | Stephen LaBerge and Howard Rheingold | 2 |
 | Fear and Loathing in Las Vegas | Hunter S. Thompson | 1 |
-| Fight Club | Chuck Palahniuk | 1 |
+| Fight Club | Chuck Palahniuk | 2 |
 | Focus | Daniel Goleman | 2 |
 | Freakonomics | Steven D. Levitt and Stephen J. Dubner | 2 |
 | Game Theory: An Introduction | Steven Tadelis | 4 |
@@ -65,7 +65,7 @@ The original collection had 102 files. These four were removed by the owner and 
 | Homo Deus | Yuval Noah Harari | 9 |
 | How Not to Be Wrong | Jordan Ellenberg | 5 |
 | How to Win Friends and Influence People | Dale Carnegie | 11 |
-| I, Robot | Isaac Asimov | 2 |
+| I, Robot | Isaac Asimov | 6 |
 | Influence | Robert B. Cialdini | 5 |
 | Journey to the Centre of the Earth | Jules Verne | 2 |
 | Kafka on the Shore | Haruki Murakami | 1 |
@@ -73,15 +73,15 @@ The original collection had 102 files. These four were removed by the owner and 
 | Lost and Founder | Rand Fishkin | 2 |
 | Machine Learning Engineering | Andriy Burkov | 18 |
 | Man’s Search for Meaning | Viktor E. Frankl | 5 |
-| Never Split the Difference | Chris Voss with Tahl Raz | 5 |
+| Never Split the Difference | Chris Voss with Tahl Raz | 8 |
 | No Bad Parts | Richard C. Schwartz | 6 |
 | No Rules Rules | Reed Hastings and Erin Meyer | 7 |
-| NSCA’s Essentials of Personal Training | Brad J. Schoenfeld and Ronald L. Snarr | 6 |
+| NSCA’s Essentials of Personal Training | Brad J. Schoenfeld and Ronald L. Snarr | 27 |
 | One Hundred Years of Solitude | Gabriel García Márquez | 2 |
 | Outliers | Malcolm Gladwell | 3 |
 | Pattern Recognition and Machine Learning | Christopher M. Bishop | 12 |
 | Peace Is Every Step | Thich Nhat Hanh | 5 |
-| Perfume | Patrick Süskind | 1 |
+| Perfume | Patrick Süskind | 3 |
 | Polysecure | Jessica Fern | 11 |
 | Poor Charlie’s Almanack | Charles T. Munger; edited by Peter D. Kaufman | 6 |
 | Principles | Ray Dalio | 9 |
@@ -89,7 +89,7 @@ The original collection had 102 files. These four were removed by the owner and 
 | Sapiens | Yuval Noah Harari | 6 |
 | Siddhartha | Hermann Hesse | 5 |
 | Simply Said | Jay Sullivan | 6 |
-| Steve Jobs | Walter Isaacson | 2 |
+| Steve Jobs | Walter Isaacson | 5 |
 | Storytelling with Data | Cole Nussbaumer Knaflic | 8 |
 | Structures: Or Why Things Don’t Fall Down | J. E. Gordon | 3 |
 | Stuff Matters | Mark Miodownik | 4 |
@@ -101,7 +101,7 @@ The original collection had 102 files. These four were removed by the owner and 
 | The Art of Loving | Erich Fromm | 9 |
 | The Art of War | Sun Tzu | 4 |
 | The Charisma Myth | Olivia Fox Cabane | 2 |
-| The Design of Everyday Things | Don Norman | 6 |
+| The Design of Everyday Things | Don Norman | 15 |
 | The Dip | Seth Godin | 1 |
 | The E-Myth Revisited | Michael E. Gerber | 8 |
 | The Existential Importance of the Penis | Daniel N. Watter | 4 |

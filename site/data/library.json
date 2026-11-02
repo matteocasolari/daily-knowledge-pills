@@ -4,7 +4,7 @@
     "sourceFiles": 99,
     "sourceParagraphs": 15688,
     "books": 99,
-    "pills": 620,
+    "pills": 663,
     "maxWordsPerPill": 110
   },
   "pills": [
@@ -13389,6 +13389,909 @@
         {
           "title": "National Endowment for the Arts · To Kill a Mockingbird reader resources",
           "url": "https://www.arts.gov/initiatives/nea-big-read/kill-mockingbird"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-active-muscles-can-shorten-lengthen-or-hold-position",
+      "concept": "Active muscles can shorten, lengthen or hold position",
+      "topic": "Exercise physiology",
+      "refresher": "Concentric action shortens a muscle, eccentric action lengthens it under tension, and isometric action holds its length approximately constant. Lowering a load is still active muscular work.",
+      "quote": "This lengthening muscle action is known as an eccentric muscle action.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 7
+      },
+      "links": [
+        {
+          "title": "OpenStax · Types of muscle contraction",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-4-nervous-system-control-of-muscle-tension"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-the-nervous-system-grades-muscle-force",
+      "concept": "The nervous system grades muscle force",
+      "topic": "Exercise physiology",
+      "refresher": "Force can increase by recruiting more motor units or by increasing their firing rate. Strength therefore depends on neural control as well as the amount of muscle present.",
+      "quote": "There are two mechanisms the nervous system may use to vary, or grade, force production to accomplish these tasks. One method is to vary the number of motor units and thus muscle fibers that are activated. This is known as motor unit recruitment. The second method is to increase the firing rate of motor units already activated, a process known as rate coding.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 15
+      },
+      "links": [
+        {
+          "title": "OpenStax · Neural control of muscle tension",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-4-nervous-system-control-of-muscle-tension"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-energy-systems-contribute-together",
+      "concept": "Energy systems contribute together",
+      "topic": "Exercise physiology",
+      "refresher": "Phosphagen, glycolytic and oxidative pathways all help replenish ATP. Exercise intensity and duration change their relative contributions; a workout does not switch cleanly from one isolated energy system to another.",
+      "quote": "All three energy systems are active at a given time; however, the extent to which each is used depends primarily on the intensity of the activity and secondarily on its duration.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 54
+      },
+      "links": [
+        {
+          "title": "OpenStax · ATP supply during muscle activity",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-a-fixed-weight-can-create-changing-joint-torque",
+      "concept": "A fixed weight can create changing joint torque",
+      "topic": "Biomechanics",
+      "refresher": "The rotational demand depends on the force and its perpendicular distance from the joint axis. As limb position changes, the same weight can become mechanically harder or easier to control.",
+      "quote": "The resistance of a constant weight will be the greatest when the moment arm is the longest.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 120
+      },
+      "links": [
+        {
+          "title": "OpenStax · Torque and moment arms",
+          "url": "https://openstax.org/books/college-physics-2e/pages/9-2-the-second-condition-for-equilibrium"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-progress-training-demand-as-capacity-develops",
+      "concept": "Progress training demand as capacity develops",
+      "topic": "Training principles",
+      "refresher": "Progressive overload means adjusting the stimulus as the person adapts. Load, repetitions, volume or frequency can change; progression should match readiness and recovery rather than require more weight at every session.",
+      "quote": "Progressive overload during a training period ensures that the body is adequately stressed. The implementation of progressive overload involves manipulating training volume, intensity, or frequency in order to apply continued stress to the body.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 139
+      },
+      "links": [
+        {
+          "title": "Hurst and colleagues · Principles of resistance exercise",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8840798/"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-separate-a-workout-response-from-a-lasting-adaptation",
+      "concept": "Separate a workout response from a lasting adaptation",
+      "topic": "Exercise physiology",
+      "refresher": "An immediate response, such as fatigue, is not the same as a persistent improvement. Evaluate training through changes over repeated sessions, rather than using how exhausted a workout feels as its sole measure.",
+      "quote": "Acute responses are changes that occur in the body during and shortly after an exercise bout. Chronic adaptations are changes in the body that occur after repeated training bouts and that persist long after a training session is over.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 146
+      },
+      "links": [
+        {
+          "title": "OpenStax · Exercise and muscle performance",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-6-exercise-and-muscle-performance"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-early-strength-gains-include-learning-and-neural-adaptation",
+      "concept": "Early strength gains include learning and neural adaptation",
+      "topic": "Exercise physiology",
+      "refresher": "Improved coordination and recruitment can raise strength before large visible changes in muscle size. Early progress and later progress may therefore look different without either being meaningless.",
+      "quote": "Improvements in strength associated with the first couple of months of resistance training are primarily due to neurological adaptations.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 149
+      },
+      "links": [
+        {
+          "title": "OpenStax · Neural control of muscle tension",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-4-nervous-system-control-of-muscle-tension"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-adaptation-reflects-the-training-stimulus",
+      "concept": "Adaptation reflects the training stimulus",
+      "topic": "Training principles",
+      "refresher": "Choose activities that match the capacity you want to improve. Strength, endurance and movement skill overlap, but progress in one task does not automatically transfer equally to every other task.",
+      "quote": "The effects of exercise training have been shown to be highly specific. That is, the body adapts to exercise in such a way that it can perform optimally in relation to a particular type of exercise stressor, but not necessarily other types of exercise.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 223
+      },
+      "links": [
+        {
+          "title": "Hurst and colleagues · Specificity in resistance exercise",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8840798/"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-recovery-belongs-in-the-training-plan",
+      "concept": "Recovery belongs in the training plan",
+      "topic": "Training principles",
+      "refresher": "Training stress and recovery work together. Adjust demanding and easier periods to the person’s response instead of assuming that continually increasing workload must produce better progress.",
+      "quote": "Effective program design includes increasing and decreasing the total volume of the workout and using the concepts of periodization to plan changes in volume. intensity, and recovery.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 246
+      },
+      "links": [
+        {
+          "title": "Hurst and colleagues · Resistance exercise prescription",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8840798/"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-endurance-training-changes-oxygen-delivery-and-use",
+      "concept": "Endurance training changes oxygen delivery and use",
+      "topic": "Exercise physiology",
+      "refresher": "More capillaries and mitochondria, together with changes in oxidative enzymes, help trained muscle sustain aerobic work. Endurance adaptation involves the working muscle as well as the heart and lungs.",
+      "quote": "In skeletal muscle, aerobic endurance training induces three major changes that directlv relate to enhanced aerobic endurance per- formance: an increase in capillary density: an increase in mitochondrial density; and an enhancement in oxidative enzyme activity.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 305
+      },
+      "links": [
+        {
+          "title": "OpenStax · Endurance adaptations",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-6-exercise-and-muscle-performance"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-stable-body-weight-does-not-prove-adequate-fueling",
+      "concept": "Stable body weight does not prove adequate fueling",
+      "topic": "Sports nutrition",
+      "refresher": "Energy availability concerns fuel for physiological functions after exercise. Weight stability cannot rule out underfueling; suspected low energy availability calls for qualified clinical assessment.",
+      "quote": "The term energy availability refers to whether or not sufficient energy is available to meet the energy demands not only of exercise but also of physiological function. Specifically, a client may present a stable body mass - and therefore is consuming a maintenance energy intake - yet be in a state of relative energy deficiency, where reproductive and metabolic function are downregulated to maintain energy balance.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 401
+      },
+      "links": [
+        {
+          "title": "IOC · Relative Energy Deficiency in Sport consensus",
+          "url": "https://bjsm.bmj.com/content/57/17/1073"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-process-goals-focus-on-actions-you-can-carry-out",
+      "concept": "Process goals focus on actions you can carry out",
+      "topic": "Behavior change",
+      "refresher": "Pair a desired result with a controllable action, such as attending planned sessions. Reviewing actions makes it easier to learn and adjust when outcomes are slow or affected by factors outside your control.",
+      "quote": "Process goals are goals that clients have a high degree of personal control over.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 538
+      },
+      "links": [
+        {
+          "title": "Harkin and colleagues · Monitoring goal progress",
+          "url": "https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-a-useful-assessment-must-be-valid-and-reliable",
+      "concept": "A useful assessment must be valid and reliable",
+      "topic": "Measurement",
+      "refresher": "Validity concerns whether the test captures the intended capacity; reliability concerns consistency. Standardize the protocol and conditions before interpreting a score change as training progress.",
+      "quote": "A valid test is one that measures what it purports to measure. A reliable test is one that can be repeated with accuracy by the same tester or another. A good assessment instrument is both valid and reliable.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 681
+      },
+      "links": [
+        {
+          "title": "COSMIN · Measurement properties",
+          "url": "https://www.cosmin.nl/tools/cosmin-taxonomy-measurement-properties/"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-refer-questions-beyond-your-professional-competence",
+      "concept": "Refer questions beyond your professional competence",
+      "topic": "Professional practice",
+      "refresher": "A trainer can support general healthy habits while recognizing the limits of their expertise. Complex nutrition problems need an appropriately qualified professional; confidence alone does not expand competence.",
+      "quote": "Referral is also indicated when the complexity of the nutrition issue is bevond the competence of the personal trainer, which will vary.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 365
+      },
+      "links": [
+        {
+          "title": "IDEA · Professional boundaries and referral",
+          "url": "https://www.ideafit.com/idea-code-of-ethics-for-fitness-professionals/"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-a-better-test-score-can-reflect-practice",
+      "concept": "A better test score can reflect practice",
+      "topic": "Measurement",
+      "refresher": "Repeated exposure can improve performance through familiarity with the test. Keep testing conditions consistent and consider learning effects before attributing every change to a physiological adaptation.",
+      "quote": "The personal trainer should keep in mind that reassessments performed too frequently may disclose a learning effect by the client rather than true physiological changes.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 770
+      },
+      "links": [
+        {
+          "title": "COSMIN · Reliability and measurement error",
+          "url": "https://www.cosmin.nl/tools/cosmin-taxonomy-measurement-properties/"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-track-the-work-and-the-response-to-it",
+      "concept": "Track the work and the response to it",
+      "topic": "Training monitoring",
+      "refresher": "External load describes the work performed; internal load describes the person’s response. The same session can feel very different across people or days, so workload alone cannot describe its impact.",
+      "quote": "Training load reflects the relative balance between the various stressors imposed on the body via exercise, termed external training load, and the body's physiological response to exercise, termed internal training load (perceived exertion or wellness rating).",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 834
+      },
+      "links": [
+        {
+          "title": "Australian Institute of Sport · Training load",
+          "url": "https://www.ausport.gov.au/ais/position_statements/training-load-in-relation-to-loading-and-unloading-phases-of-training"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-bmi-does-not-measure-body-composition",
+      "concept": "BMI does not measure body composition",
+      "topic": "Measurement",
+      "refresher": "BMI relates weight to height but does not separate muscle, fat and bone. Treat it as one screening measure rather than a direct body-fat measurement or a complete assessment of an individual’s health.",
+      "quote": "Note that BMI does not take into account the relative composition of an individual.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 853
+      },
+      "links": [
+        {
+          "title": "CDC · About BMI",
+          "url": "https://www.cdc.gov/BMI/about/index.html"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-distinguish-absolute-from-relative-strength",
+      "concept": "Distinguish absolute from relative strength",
+      "topic": "Measurement",
+      "refresher": "A raw lifting score and a score divided by body weight answer different questions. State which measure you are tracking: a change in body weight can alter the ratio even when the lifted weight is unchanged.",
+      "quote": "Absolute strength is simply the raw strength score a person achieves, while relative strength is usually expressed relative to body weight.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 1048
+      },
+      "links": [
+        {
+          "title": "Coaching Association of Canada · Developing athletic abilities",
+          "url": "https://albertasport.ca/media/x2nllnsd/developing-athletic-abilities-reference-material.pdf"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-flexibility-is-specific-to-the-joint-and-task",
+      "concept": "Flexibility is specific to the joint and task",
+      "topic": "Movement assessment",
+      "refresher": "A good score in one movement does not establish flexibility everywhere. Assess the joints and ranges relevant to the person’s activities rather than using one stretch as a whole-body verdict.",
+      "quote": "It is incorrect to think that a single flexibility test can provide an accurate measure of overall flexibility.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 1171
+      },
+      "links": [
+        {
+          "title": "AOSSM · Flexibility and stretching",
+          "url": "https://www.sportsmed.org/flexibility-and-stretching"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-rehearse-the-activity-during-a-specific-warm-up",
+      "concept": "Rehearse the activity during a specific warm-up",
+      "topic": "Training preparation",
+      "refresher": "A specific warm-up uses easier versions of the movements to come. It prepares the relevant muscles and provides movement rehearsal; the aim is readiness without substantial fatigue.",
+      "quote": "Unlike general warm-up, specific warm-up includes movements that are an actual part of the activity, such as slow jogging before going out on a run or lifting lighter loads in the bench press exercise before progressing to the workout weight.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 1274
+      },
+      "links": [
+        {
+          "title": "ACE · Activity-specific warm-ups",
+          "url": "https://www.acefitness.org/certifiednewsarticle/2910/a-detailed-guide-to-designing-activity-specific-warm-up-and-mobility-drills/"
+        }
+      ]
+    },
+    {
+      "bookId": "nscas-essentials-of-personal-training",
+      "book": "NSCA’s Essentials of Personal Training",
+      "author": "Brad J. Schoenfeld and Ronald L. Snarr",
+      "genre": "nonfiction",
+      "id": "nscas-essentials-of-personal-training-explain-physical-contact-and-obtain-consent",
+      "concept": "Explain physical contact and obtain consent",
+      "topic": "Professional practice",
+      "refresher": "Before using hands-on assistance, explain its purpose and ask permission. Respect refusal or withdrawal of consent, and adapt coaching to the client’s comfort rather than assuming contact is welcome.",
+      "quote": "For manual resistance exercises that require the personal trainer to lay hands on the client, the client should be informed beforehand about the procedures and provide consent.",
+      "source": {
+        "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+        "paragraph": 1310
+      },
+      "links": [
+        {
+          "title": "IDEA · Ethical use of touch",
+          "url": "https://www.ideafit.com/idea-code-of-ethics-for-fitness-professionals/"
+        }
+      ]
+    },
+    {
+      "bookId": "never-split-the-difference",
+      "book": "Never Split the Difference",
+      "author": "Chris Voss with Tahl Raz",
+      "genre": "nonfiction",
+      "id": "never-split-the-difference-understanding-does-not-require-agreement",
+      "concept": "Understanding does not require agreement",
+      "topic": "Negotiation",
+      "refresher": "Tactical empathy means understanding the other person’s perspective and emotional obstacles. You can acknowledge how they see a situation while retaining your own judgment and boundaries.",
+      "quote": "Is not about agreeing with the other side. Is about understanding them.",
+      "source": {
+        "file": "Never split the difference notes.html",
+        "paragraph": 14
+      },
+      "links": [
+        {
+          "title": "Harvard PON · Acknowledgment and active listening",
+          "url": "https://www.pon.harvard.edu/daily/negotiation-skills-daily/listening-skills-for-maximum-success/"
+        }
+      ]
+    },
+    {
+      "bookId": "never-split-the-difference",
+      "book": "Never Split the Difference",
+      "author": "Chris Voss with Tahl Raz",
+      "genre": "nonfiction",
+      "id": "never-split-the-difference-leave-room-for-the-other-person-to-respond",
+      "concept": "Leave room for the other person to respond",
+      "topic": "Negotiation",
+      "refresher": "After reflecting a feeling, pause instead of immediately explaining or defending yourself. Silence gives the other person room to correct your interpretation and share information you would otherwise miss.",
+      "quote": "After throwing out a label, just be quiet and listen.",
+      "source": {
+        "file": "Never split the difference notes.html",
+        "paragraph": 19
+      },
+      "links": [
+        {
+          "title": "MIT Sloan · Silence in negotiation",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/negotiation-use-silence-to-improve-outcomes-all"
+        }
+      ]
+    },
+    {
+      "bookId": "never-split-the-difference",
+      "book": "Never Split the Difference",
+      "author": "Chris Voss with Tahl Raz",
+      "genre": "nonfiction",
+      "id": "never-split-the-difference-ask-what-makes-an-offer-fair",
+      "concept": "Ask what makes an offer fair",
+      "topic": "Negotiation",
+      "refresher": "When an offer is described as fair, ask which evidence or standard supports that claim. Shared criteria turn an emotionally loaded label into something both sides can examine.",
+      "quote": "If someone play that to you, mirror and ask for evidence of the fairness of their offer.",
+      "source": {
+        "file": "Never split the difference notes.html",
+        "paragraph": 38
+      },
+      "links": [
+        {
+          "title": "MIT · Objective criteria in negotiation",
+          "url": "https://web.mit.edu/collaboration/mainsite/modules/module1/1.11.3.html"
+        }
+      ]
+    },
+    {
+      "bookId": "steve-jobs",
+      "book": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "genre": "nonfiction",
+      "id": "steve-jobs-focus-requires-deciding-what-to-leave-out",
+      "concept": "Focus requires deciding what to leave out",
+      "topic": "Product strategy",
+      "refresher": "A small set of priorities is only meaningful when other attractive options are declined. Jobs treats choosing what to exclude as a central part of product and company strategy.",
+      "quote": "\"Deciding what not to do is as important as deciding what to do,\" he said \"That's true for companies, and it's true for products.\"",
+      "source": {
+        "file": "Steve Jobs notes.html",
+        "paragraph": 18
+      },
+      "links": [
+        {
+          "title": "Agile Manifesto · Simplicity and work not done",
+          "url": "https://agilemanifesto.org/principles.html"
+        }
+      ]
+    },
+    {
+      "bookId": "steve-jobs",
+      "book": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "genre": "nonfiction",
+      "id": "steve-jobs-simplicity-requires-understanding-the-underlying-complexity",
+      "concept": "Simplicity requires understanding the underlying complexity",
+      "topic": "Product design",
+      "refresher": "Removing visible parts is not enough if the result becomes harder to build or use. Understand the product’s purpose and construction before deciding which elements are truly unnecessary.",
+      "quote": "You have to deeply understand the essence of a product in order to be able to get rid of the parts that are not essential.",
+      "source": {
+        "file": "Steve Jobs notes.html",
+        "paragraph": 19
+      },
+      "links": [
+        {
+          "title": "Nielsen Norman Group · Progressive disclosure",
+          "url": "https://www.nngroup.com/articles/progressive-disclosure/"
+        }
+      ]
+    },
+    {
+      "bookId": "steve-jobs",
+      "book": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "genre": "nonfiction",
+      "id": "steve-jobs-delivery-turns-an-idea-into-a-usable-product",
+      "concept": "Delivery turns an idea into a usable product",
+      "topic": "Execution",
+      "refresher": "A promising design still needs to reach people. Treat shipping as part of the work, then use real experience to improve the product rather than postponing delivery indefinitely in pursuit of perfection.",
+      "quote": "It's not done until it ships.",
+      "source": {
+        "file": "Steve Jobs notes.html",
+        "paragraph": 10
+      },
+      "links": [
+        {
+          "title": "GOV.UK · Iterative delivery",
+          "url": "https://www.gov.uk/service-manual/agile-delivery/core-principles-agile"
+        }
+      ]
+    },
+    {
+      "bookId": "fight-club",
+      "book": "Fight Club",
+      "author": "Chuck Palahniuk",
+      "genre": "fiction",
+      "id": "fight-club-rebellion-can-reproduce-unquestioning-obedience",
+      "concept": "Rebellion can reproduce unquestioning obedience",
+      "topic": "Literature",
+      "refresher": "Project Mayhem promises liberation while demanding unquestioning loyalty to Tyler. The contradiction invites a critical reading of movements that replace one source of conformity with another.",
+      "quote": "No questions. No questions. No excuses and no lies. You have to trust Tyler.",
+      "source": {
+        "file": "Fight club notes.html",
+        "paragraph": 35
+      },
+      "links": [
+        {
+          "title": "Markus Oliver Spitz · Reading Fight Club",
+          "url": "https://web.fu-berlin.de/phin/phin75/p75t3.htm"
+        }
+      ]
+    },
+    {
+      "bookId": "perfume",
+      "book": "Perfume",
+      "author": "Patrick Süskind",
+      "genre": "fiction",
+      "id": "perfume-possession-can-masquerade-as-love",
+      "concept": "Possession can masquerade as love",
+      "topic": "Literature",
+      "refresher": "Grenouille values the girl only as the source of a scent he wants to own. The passage separates obsessive acquisition from concern for another person, exposing the violence beneath his artistic ambition.",
+      "quote": "He did not love another human being, certainly not the girl who lived in the house beyond the wall. He loved her scent - that alone, nothing else, and only inasmuch as it would one day be his alone.",
+      "source": {
+        "file": "Perfume notes.html",
+        "paragraph": 35
+      },
+      "links": [
+        {
+          "title": "Penguin Random House · Perfume discussion guide",
+          "url": "https://www.penguinrandomhouse.com/books/175395/perfume-by-patrick-suskind/readers-guide"
+        }
+      ]
+    },
+    {
+      "bookId": "perfume",
+      "book": "Perfume",
+      "author": "Patrick Süskind",
+      "genre": "fiction",
+      "id": "perfume-an-impression-is-not-evidence-of-innocence",
+      "concept": "An impression is not evidence of innocence",
+      "topic": "Literature",
+      "refresher": "The crowd expects evil to have a recognizable appearance. Süskind exposes how readily that expectation can distort judgment, especially when Grenouille’s manufactured aura overrides what people know about his actions.",
+      "quote": "He simply did not look like a murderer. No one could have said just how he had imagined the murderer, the devil himself, ought to look, but they were all agreed: not like this!",
+      "source": {
+        "file": "Perfume notes.html",
+        "paragraph": 47
+      },
+      "links": [
+        {
+          "title": "Penguin Random House · Perfume discussion guide",
+          "url": "https://www.penguinrandomhouse.com/books/175395/perfume-by-patrick-suskind/readers-guide"
+        }
+      ]
+    },
+    {
+      "bookId": "i-robot",
+      "book": "I, Robot",
+      "author": "Isaac Asimov",
+      "genre": "fiction",
+      "id": "i-robot-logical-reasoning-still-depends-on-its-premises",
+      "concept": "Logical reasoning still depends on its premises",
+      "topic": "Reasoning",
+      "refresher": "Cutie’s reasoning illustrates that an internally coherent argument can rest on mistaken assumptions. Examine the starting premises as well as whether the conclusion follows from them.",
+      "quote": "‘You can prove anything you want by coldly logical reason - if you pick the proper postulates. We have ours and Cutie has his.'",
+      "source": {
+        "file": "I, robot notes.html",
+        "paragraph": 12
+      },
+      "links": [
+        {
+          "title": "Open University · Validity and soundness",
+          "url": "https://www.open.edu/openlearn/history-the-arts/religious-studies/introducing-the-philosophy-religion/content-section-4.1"
+        }
+      ]
+    },
+    {
+      "bookId": "i-robot",
+      "book": "I, Robot",
+      "author": "Isaac Asimov",
+      "genre": "fiction",
+      "id": "i-robot-telling-people-what-they-want-can-undermine-truth",
+      "concept": "Telling people what they want can undermine truth",
+      "topic": "AI and society",
+      "refresher": "Herbie interprets emotional disappointment as harm and responds with comforting falsehoods. The story separates pleasing a person from helping them understand reality; reassurance alone is not evidence of reliability.",
+      "quote": "‘This robot reads minds. Do you suppose that if asked a question, it wouldn’t give exactly that answer that one wants to hear? Wouldn’t any other answer hurt us, and wouldn’t Herbie know that?'",
+      "source": {
+        "file": "I, robot notes.html",
+        "paragraph": 22
+      },
+      "links": [
+        {
+          "title": "Anthropic · Research on sycophancy",
+          "url": "https://www.anthropic.com/news/towards-understanding-sycophancy-in-language-models"
+        }
+      ]
+    },
+    {
+      "bookId": "i-robot",
+      "book": "I, Robot",
+      "author": "Isaac Asimov",
+      "genre": "fiction",
+      "id": "i-robot-removing-a-clause-can-change-a-safeguard",
+      "concept": "Removing a clause can change a safeguard",
+      "topic": "Systems thinking",
+      "refresher": "In the modified First Law, the duty to prevent harm through inaction disappears. Asimov uses that omission to show how a small wording change can alter a rule’s practical consequences.",
+      "quote": "‘The First Law was not removed, it was modified: no robot may harm a human being.’",
+      "source": {
+        "file": "I, robot notes.html",
+        "paragraph": 27
+      },
+      "links": [
+        {
+          "title": "NIST · AI risk management",
+          "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+        }
+      ]
+    },
+    {
+      "bookId": "i-robot",
+      "book": "I, Robot",
+      "author": "Isaac Asimov",
+      "genre": "fiction",
+      "id": "i-robot-delegating-decisions-can-erode-human-agency",
+      "concept": "Delegating decisions can erode human agency",
+      "topic": "AI and society",
+      "refresher": "The final story asks what happens when machines define humanity’s interests and steer society without its informed participation. Effective optimization does not settle who should choose the goals or retain control.",
+      "quote": "‘But you are telling me that the Mankind has lost its own say in the future.’",
+      "source": {
+        "file": "I, robot notes.html",
+        "paragraph": 52
+      },
+      "links": [
+        {
+          "title": "NIST · AI risk management",
+          "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+        }
+      ]
+    },
+    {
+      "bookId": "the-design-of-everyday-things",
+      "book": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "nonfiction",
+      "id": "the-design-of-everyday-things-map-controls-to-the-things-they-affect",
+      "concept": "Map controls to the things they affect",
+      "topic": "Interaction design",
+      "refresher": "Arrange controls so their spatial relationship suggests their effect. A stove whose knobs match the burner layout reduces the need to memorize labels or learn through trial and error.",
+      "quote": "Controls should be close to the item being controlled.",
+      "source": {
+        "file": "The design of everyday things notes.html",
+        "paragraph": 14
+      },
+      "links": [
+        {
+          "title": "NN/G · Natural mappings",
+          "url": "https://www.nngroup.com/articles/natural-mappings/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-design-of-everyday-things",
+      "book": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "nonfiction",
+      "id": "the-design-of-everyday-things-show-whether-an-action-registered",
+      "concept": "Show whether an action registered",
+      "topic": "Interaction design",
+      "refresher": "Feedback helps people distinguish a completed action, work in progress and failure. Make the response timely and proportionate so uncertainty does not cause repeated clicks or unnecessary interruption.",
+      "quote": "Feedback is some way of letting you know that the system is working on your request.",
+      "source": {
+        "file": "The design of everyday things notes.html",
+        "paragraph": 15
+      },
+      "links": [
+        {
+          "title": "NN/G · Visibility of system status",
+          "url": "https://www.nngroup.com/articles/visibility-system-status/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-design-of-everyday-things",
+      "book": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "nonfiction",
+      "id": "the-design-of-everyday-things-give-people-a-useful-model-of-how-things-work",
+      "concept": "Give people a useful model of how things work",
+      "topic": "Interaction design",
+      "refresher": "People form explanations that help them predict what a product will do. Consistent behavior and clear cues should support that model; unexplained exceptions make the interface harder to learn.",
+      "quote": "A conceptual model is an explanation, usually highly simplified, of how something works. It doesn't have to be complete or even accurate as long as it is useful.",
+      "source": {
+        "file": "The design of everyday things notes.html",
+        "paragraph": 16
+      },
+      "links": [
+        {
+          "title": "NN/G · Mental models",
+          "url": "https://www.nngroup.com/articles/mental-models/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-design-of-everyday-things",
+      "book": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "nonfiction",
+      "id": "the-design-of-everyday-things-help-people-act-and-interpret-the-result",
+      "concept": "Help people act and interpret the result",
+      "topic": "Interaction design",
+      "refresher": "The execution gulf concerns figuring out what to do; the evaluation gulf concerns understanding what happened. Test both: can a person carry out the intended action and recognize whether it achieved their goal?",
+      "quote": "When people use something, they face two gulfs: the Gulf of Execution, where they try to figure out how it operates, and the Gulf of Evaluation, where they try to figure out what happened.",
+      "source": {
+        "file": "The design of everyday things notes.html",
+        "paragraph": 18
+      },
+      "links": [
+        {
+          "title": "NN/G · Preventing mistakes",
+          "url": "https://www.nngroup.com/articles/user-mistakes/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-design-of-everyday-things",
+      "book": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "nonfiction",
+      "id": "the-design-of-everyday-things-slips-and-mistakes-need-different-remedies",
+      "concept": "Slips and mistakes need different remedies",
+      "topic": "Human error",
+      "refresher": "A slip misexecutes an intended action; a mistake starts with the wrong goal or plan. Distinct controls and undo can reduce slips, while better explanations and conceptual models help prevent mistakes.",
+      "quote": "A slip occurs when a person intends to do one action and ends up doing something else. A mistake occurs when the wrong goal is established or the wrong plan is formed.",
+      "source": {
+        "file": "The design of everyday things notes.html",
+        "paragraph": 66
+      },
+      "links": [
+        {
+          "title": "NN/G · Preventing slips",
+          "url": "https://www.nngroup.com/articles/slips/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-design-of-everyday-things",
+      "book": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "nonfiction",
+      "id": "the-design-of-everyday-things-make-recovery-part-of-the-error-message",
+      "concept": "Make recovery part of the error message",
+      "topic": "Interaction design",
+      "refresher": "When something goes wrong, explain how to fix it and provide a direct path to correction. Preserve useful work so the person does not have to reconstruct everything after a small error.",
+      "quote": "Make possible to correct problems directly from help and guidance messages.",
+      "source": {
+        "file": "The design of everyday things notes.html",
+        "paragraph": 32
+      },
+      "links": [
+        {
+          "title": "NN/G · Error-message guidelines",
+          "url": "https://www.nngroup.com/articles/error-message-guidelines/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-design-of-everyday-things",
+      "book": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "nonfiction",
+      "id": "the-design-of-everyday-things-explore-the-problem-before-narrowing-the-solution",
+      "concept": "Explore the problem before narrowing the solution",
+      "topic": "Design process",
+      "refresher": "The Double Diamond alternates expanding and narrowing twice: first to understand and define the problem, then to develop and select a solution. Early exploration can prevent efficient execution of the wrong brief.",
+      "quote": "Double-Diamond Model of Design: designers expand the scope of the problem, converge upon a single problem statement. They expand the space of possible solutions, converge upon a proposed solution.",
+      "source": {
+        "file": "The design of everyday things notes.html",
+        "paragraph": 79
+      },
+      "links": [
+        {
+          "title": "Design Council · Double Diamond",
+          "url": "https://www.designcouncil.org.uk/resources/the-double-diamond/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-design-of-everyday-things",
+      "book": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "nonfiction",
+      "id": "the-design-of-everyday-things-observe-real-work-to-understand-requirements",
+      "concept": "Observe real work to understand requirements",
+      "topic": "User research",
+      "refresher": "Watch people using their actual tools in context. Their workarounds and constraints may reveal needs that interviews miss; combine observation with questions rather than treating a requested feature as the whole problem.",
+      "quote": "Requirements are developed by watching people in their natural environment.",
+      "source": {
+        "file": "The design of everyday things notes.html",
+        "paragraph": 81
+      },
+      "links": [
+        {
+          "title": "GOV.UK · Contextual research",
+          "url": "https://www.gov.uk/service-manual/user-research/contextual-research-and-observation/"
+        }
+      ]
+    },
+    {
+      "bookId": "the-design-of-everyday-things",
+      "book": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "nonfiction",
+      "id": "the-design-of-everyday-things-more-features-can-make-a-product-harder-to-use",
+      "concept": "More features can make a product harder to use",
+      "topic": "Product design",
+      "refresher": "Every added feature competes for attention and introduces complexity. Evaluate whether it serves an important need, and consider removing or deferring secondary options instead of accumulating them automatically.",
+      "quote": "Each new edition of a product has invariably more features than the previous one.",
+      "source": {
+        "file": "The design of everyday things notes.html",
+        "paragraph": 83
+      },
+      "links": [
+        {
+          "title": "NN/G · Progressive disclosure",
+          "url": "https://www.nngroup.com/articles/progressive-disclosure/"
         }
       ]
     }

@@ -334,5 +334,70 @@
     "deferred": [
       "Further referenced exercises require actual source passages rather than reconstruction from memory."
     ]
+  },
+  {
+    "file": "Schoenfeld B. J. - NSCA’s Essentials of Personal Training.docx",
+    "existingCount": 6,
+    "addedCount": 21,
+    "assessment": "Reviewed all 1,585 paragraphs. Expanded six baseline pills with core physiology, training principles, nutrition boundaries, behavior change, assessment, load monitoring, flexibility and consent. Exercise-name lists and omitted technique descriptions cannot support detailed instructional pills.",
+    "deferred": [
+      "Notes end in chapter 13; later programming chapters are absent.",
+      "Deferred dated clinical thresholds, questionable physiological assertions, blanket stretching and belt claims, and detailed spotting or breathing instructions requiring more context."
+    ]
+  },
+  {
+    "file": "Never split the difference notes.html",
+    "existingCount": 5,
+    "addedCount": 3,
+    "assessment": "Reviewed all 60 paragraphs. Added empathy without agreement, deliberate pauses and evidence for fairness. Existing pills cover listening, labeling, summaries, calibrated questions and trading priorities.",
+    "deferred": [
+      "Ackerman opening offer is transcribed as 5 percent and cannot safely support a numerical recipe.",
+      "Deferred manipulative mislabeling tactics and overly universal claims about voice, numbers and emotional responses."
+    ]
+  },
+  {
+    "file": "Steve Jobs notes.html",
+    "existingCount": 2,
+    "addedCount": 3,
+    "assessment": "Reviewed all 41 paragraphs. Added focus, substantive simplicity and delivery to existing craftsmanship and cannibalization coverage.",
+    "deferred": [
+      "Remaining excerpts are mostly anecdotes, personal maxims, book titles or broad claims. Do not turn Jobs’s management style, medical anecdotes or dismissal of market research into universal advice."
+    ]
+  },
+  {
+    "file": "Fight club notes.html",
+    "existingCount": 1,
+    "addedCount": 1,
+    "assessment": "Reviewed all 52 paragraphs. Added the contradiction between liberation and obedience to existing consumer-ownership coverage. Kept the lesson explicitly literary.",
+    "deferred": [
+      "Violence, self-destruction and authoritarian slogans are character material, not practical prescriptions. Other excerpts largely repeat alienation or consumerism."
+    ]
+  },
+  {
+    "file": "Perfume notes.html",
+    "existingCount": 1,
+    "addedCount": 2,
+    "assessment": "Reviewed all 57 paragraphs. Added objectification and unreliable social judgment alongside the existing scent-development pill.",
+    "deferred": [
+      "Do not treat fantastical scent-based control as literal psychology or use the fictional chemistry and historical claims as technical instruction."
+    ]
+  },
+  {
+    "file": "I, robot notes.html",
+    "existingCount": 2,
+    "addedCount": 4,
+    "assessment": "Reviewed all 55 paragraphs. Added assumptions behind logic, comforting falsehoods, omitted safeguards and human agency to existing rule-conflict and one-way-test coverage.",
+    "deferred": [
+      "Fictional laws and positronic brains are thought experiments, not claims about how present-day AI works."
+    ]
+  },
+  {
+    "file": "The design of everyday things notes.html",
+    "existingCount": 6,
+    "addedCount": 9,
+    "assessment": "Reviewed all 96 paragraphs. Added natural mapping, feedback, conceptual models, execution/evaluation gulfs, slips versus mistakes, recovery, Double Diamond, contextual observation and feature accumulation. Existing pills cover signifiers, human-centered design, environmental knowledge, constraints and layered defenses.",
+    "deferred": [
+      "Deferred categorical claims about emotion, memory, universal users and fixed innovation timelines. Forcing functions overlap existing constraints; root-problem discovery is covered by Double Diamond."
+    ]
   }
 ]
