@@ -47,3 +47,40 @@ test('storage survives corrupt data, invalid shape and disabled storage', () => 
 test('read time includes concept, excerpt and refresher', () => {
  assert.equal(readingMinutes([{concept:'hello',quote:'word '.repeat(180),refresher:'word '.repeat(80)}]),2);
 });
+
+function selectionDays(collection, count, start='2026-01-01') {
+ return Array.from({length:count},(_,i)=>dailyKnowledgePills(collection,new Date(Date.parse(start)+i*86400000).toISOString().slice(0,10)));
+}
+test('each book serves all its pills before repeating, including four-pill fiction', () => {
+ const collection = Array.from({length:48},(_,i)=>({id:`rotation-${i}`,bookId:`book-${Math.floor(i/4)}`,genre:i>=40?'fiction':'nonfiction'}));
+ const seen=new Map();
+ for(const daily of selectionDays(collection,240)) for(const p of daily) {
+  if(!seen.has(p.bookId)) seen.set(p.bookId,new Set());
+  const cycle=seen.get(p.bookId);
+  assert.ok(!cycle.has(p.id),`${p.bookId} repeated ${p.id} before completing its rotation`);
+  cycle.add(p.id);
+  if(cycle.size===4) cycle.clear();
+ }
+});
+test('the real library spaces book appearances and eventually serves every pill', async () => {
+ const {readFile}=await import('node:fs/promises');
+ const {pills:collection}=JSON.parse(await readFile(new URL('../site/data/library.json',import.meta.url)));
+ const lastBook=new Map(),seen=new Set();
+ for(const [day,daily] of selectionDays(collection,1200).entries()) {
+  assert.equal(daily.length,5);
+  assert.equal(new Set(daily.map(p=>p.bookId)).size,5);
+  for(const p of daily) {
+   if(lastBook.has(p.bookId)) assert.ok(day-lastBook.get(p.bookId)>=17,`${p.bookId} returned too soon`);
+   lastBook.set(p.bookId,day);seen.add(p.id);
+  }
+ }
+ assert.equal(seen.size,collection.length);
+});
+test('small and single-genre libraries fill available slots without duplicate books', () => {
+ for(const collection of [pills.filter(p=>p.genre==='fiction'),pills.filter(p=>p.genre!=='fiction'),pills.slice(24)]) {
+  for(const daily of selectionDays(collection,20,'1969-12-25')) {
+   assert.equal(daily.length,Math.min(5,new Set(collection.map(p=>p.bookId)).size));
+   assert.equal(new Set(daily.map(p=>p.bookId)).size,daily.length);
+  }
+ }
+});

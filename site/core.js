@@ -14,19 +14,31 @@ export function dailyKnowledgePills(pills, key) {
     if (!groups.has(pill.bookId)) groups.set(pill.bookId, []);
     groups.get(pill.bookId).push(pill);
   }
-  const ranked = [...groups.entries()].sort((a,b)=>hash(`${key}:${a[0]}`)-hash(`${key}:${b[0]}`) || a[0].localeCompare(b[0]));
+  // A fixed shuffled ring spaces books evenly. Count actual scheduled slots,
+  // not elapsed days, so the four-day fiction cadence cannot strand pills.
+  const ranked = [...groups.entries()].sort((a,b)=>hash(`books:${a[0]}`)-hash(`books:${b[0]}`) || a[0].localeCompare(b[0]));
   const nonfiction = ranked.filter(([,ps])=>ps[0].genre !== 'fiction');
   const fiction = ranked.filter(([,ps])=>ps[0].genre === 'fiction');
-  const selected = nonfiction.slice(0,5);
-  if (day % 4 === 0 && fiction.length) selected.splice(4,1,fiction[0]);
-  for (const group of ranked) {
-    if (selected.length >= 5) break;
-    if (!selected.includes(group)) selected.push(group);
-  }
-  return selected.map(([id,ps])=> {
-    const ordered = [...ps].sort((a,b)=>a.id.localeCompare(b.id));
-    return ordered[((day + hash(id)) % ordered.length + ordered.length) % ordered.length];
+  const counts = [0,1,2,3].map(offset => {
+    const fictionSlot = offset === 0 && fiction.length ? 1 : 0;
+    const non = Math.min(nonfiction.length, 5-fictionSlot);
+    return [non, Math.min(fiction.length, 5-non)];
   });
+  const modulo = (value, size) => ((value % size) + size) % size;
+  const offset = modulo(day, 4);
+  const selected = [];
+  for (const [category, books] of [nonfiction, fiction].entries()) {
+    if (!books.length) continue;
+    const slotsPerCycle = counts.reduce((sum, counts) => sum+counts[category], 0);
+    const start = Math.floor(day/4)*slotsPerCycle + counts.slice(0,offset).reduce((sum, counts) => sum+counts[category], 0);
+    for (let slot=start; slot<start+counts[offset][category]; slot++) {
+      const [id, ps] = books[modulo(slot, books.length)];
+      const appearance = Math.floor(slot/books.length);
+      const ordered = [...ps].sort((a,b)=>hash(`pills:${id}:${a.id}`)-hash(`pills:${id}:${b.id}`) || a.id.localeCompare(b.id));
+      selected.push(ordered[modulo(appearance, ordered.length)]);
+    }
+  }
+  return selected;
 }
 export function filterPills(pills, {query='', topic='', saved=null}={}) {
   const needle = query.trim().toLocaleLowerCase();

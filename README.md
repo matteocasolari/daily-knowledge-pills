@@ -46,7 +46,7 @@ No repository or live deployment was created as part of the local build.
 
 - Five distinct books per local calendar day. Reloading does not shuffle them.
 - Nonfiction every day, with one fiction slot every fourth day.
-- Book selection uses a date-seeded ranking. Each selected book rotates through its pills; with multiple pills per book, consecutive days cannot repeat a pill.
+- Books follow a deterministic shuffled rotation within each genre, giving every book a turn before cycling. Each book advances through its own shuffled pills only when scheduled, showing all of them before repeating. With the current library, book appearances are at least 17 days apart. The schedule uses calendar dates, not browsing history, so skipped days still advance it and no storage is required. Adding books or pills can change the schedule.
 - The collection refreshes after midnight within 30 seconds, or immediately when you return to the tab.
 - Bookmarks and read progress stay in local storage in the current browser. Disabled storage falls back to the current visit. There is no account or cross-device synchronization.
 - Saved and Library views search concepts, excerpts, refreshers, book titles, authors, and topics.
